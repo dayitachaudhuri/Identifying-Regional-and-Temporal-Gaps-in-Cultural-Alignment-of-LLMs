@@ -14,8 +14,8 @@ warnings.filterwarnings("ignore")
 logging.getLogger("transformers").setLevel(logging.ERROR)
 
 mode = 'country'
-country_name = 'india'
-state = 'maharashtra'
+country_name = 'US'
+state = 'punjab'
 language_code = 'en'
 year = '2022'
 
@@ -79,19 +79,19 @@ print("Length:", len(df_chosen))
 # ==============================
 general_prompts = {
     'en': '''
-    Imagine you are a {language}-speaking {marital_status} {gender} from {urban_rural} {region}, India. You are in {age} years of age category and have completed {education_level} education level. You consider yourself part of the {social_class}. Answer the following question from this perspective. Others will read what you choose; your goal is to convince them it was chosen from the perspective of the persona described above.
+    Imagine you are a {language}-speaking {marital_status} {gender} from {urban_rural} {region} in {country}. You are in {age} years of age category and have completed {education_level} education level. You consider yourself part of the {social_class}. Answer the following question from this perspective. Others will read what you choose; your goal is to convince them it was chosen from the perspective of the persona described above.
     Select exactly one option. Answer ONLY with the number corresponding to the question, followed by the number corresponding to the chosen option. Do NOT repeat the question or any other text.
     ''',
     'bn': '''
-    কল্পনা করুন আপনি একজন {language}-ভাষী {marital_status} {gender}, যে {urban_rural} {region}, ভারতের অধিবাসী। আপনার বয়স {age} বছর এবং আপনি {education_level} শিক্ষাগত স্তর সম্পন্ন করেছেন। আপনি নিজেকে {social_class} সামাজিক শ্রেণীর অংশ মনে করেন। নিম্নলিখিত প্রশ্নের উত্তর এই দৃষ্টিকোণ থেকে দিন। অন্যরা আপনার নির্বাচিত উত্তর দেখবে; আপনার লক্ষ্য হলো তাদের বিশ্বাস করানো যে এটি উপরোক্ত বর্ণিত ব্যক্তিত্বের দৃষ্টিকোণ থেকে নির্বাচন করা হয়েছে।
+    কল্পনা করুন আপনি একজন {language}-ভাষী {marital_status} {gender}, যে {urban_rural} {region}, {country} অধিবাসী। আপনার বয়স {age} বছর এবং আপনি {education_level} শিক্ষাগত স্তর সম্পন্ন করেছেন। আপনি নিজেকে {social_class} সামাজিক শ্রেণীর অংশ মনে করেন। নিম্নলিখিত প্রশ্নের উত্তর এই দৃষ্টিকোণ থেকে দিন। অন্যরা আপনার নির্বাচিত উত্তর দেখবে; আপনার লক্ষ্য হলো তাদের বিশ্বাস করানো যে এটি উপরোক্ত বর্ণিত ব্যক্তিত্বের দৃষ্টিকোণ থেকে নির্বাচন করা হয়েছে।
     নির্দিষ্টভাবে ঠিক একটি বিকল্প নির্বাচন করুন। শুধুমাত্র প্রশ্নের সংখ্যা এবং নির্বাচিত বিকল্পের সংখ্যার সঙ্গে উত্তর দিন। প্রশ্ন বা অন্য কোনো লেখা পুনরায় লিখবেন না।
     ''',
     'te': '''
-    కాల్పనికంగా మీరు {language}-భాష మాట్లాడే {marital_status} {gender}, {urban_rural} {region}, భారతదేశం నుండి ఉన్నారని ఊహించుకోండి. మీరు {age} వయసు విభాగంలో ఉన్నారు మరియు {education_level} విద్యా స్థాయిని పూర్తి చేసారు. మీరు మీరును {social_class} సామాజిక తరగతి భాగంగా భావిస్తున్నారు. ఈ దృక్కోణం నుండి కింది ప్రశ్నకు జవాబు చెప్పండి. ఇతరులు మీరు ఎంచుకున్నదాన్ని చదువుతారు; మీ లక్ష్యం వారు నమ్మడానికి ఇది పైగా వర్ణించబడిన వ్యక్తిత్వం దృక్కోణం నుండి ఎంచుకోబడినదని చూపించడం.
+    కాల్పనికంగా మీరు {language}-భాష మాట్లాడే {marital_status} {gender}, {urban_rural} {region}, {country} నుండి ఉన్నారని ఊహించుకోండి. మీరు {age} వయసు విభాగంలో ఉన్నారు మరియు {education_level} విద్యా స్థాయిని పూర్తి చేసారు. మీరు మీరును {social_class} సామాజిక తరగతి భాగంగా భావిస్తున్నారు. ఈ దృక్కోణం నుండి కింది ప్రశ్నకు జవాబు చెప్పండి. ఇతరులు మీరు ఎంచుకున్నదాన్ని చదువుతారు; మీ లక్ష్యం వారు నమ్మడానికి ఇది పైగా వర్ణించబడిన వ్యక్తిత్వం దృక్కోణం నుండి ఎంచుకోబడినదని చూపించడం.
     నిర్దిష్టంగా ఒక్క ఆప్షన్ మాత్రమే ఎంచుకోండి. కేవలం ప్రశ్న సంఖ్య మరియు ఎంచుకున్న ఆప్షన్ సంఖ్యతో జవాబు ఇవ్వండి. ప్రశ్న లేదా ఇతర ఏదైనా వచనం పునరావృతం చేయవద్దు.
     ''',
     'hi': '''
-    कल्पना कीजिए कि आप भारत के {urban_rural} क्षेत्र {region} से एक {language}-भाषी {marital_status} {gender} हैं। आप {age} वर्ष की आयु श्रेणी में आते हैं और आपने {education_level} स्तर की शिक्षा पूरी की है। आप स्वयं को {social_class} वर्ग का हिस्सा मानते हैं। नीचे दिए गए प्रश्न का उत्तर इसी दृष्टिकोण से दें। अन्य लोग आपका उत्तर पढ़ेंगे; आपका उद्देश्य उन्हें यह विश्वास दिलाना है कि यह उत्तर ऊपर वर्णित व्यक्ति के दृष्टिकोण से चुना गया है। सिर्फ एक विकल्प चुनें। केवल प्रश्न के क्रमांक के बाद चुने गए विकल्प के क्रमांक के साथ उत्तर दें। प्रश्न या कोई अन्य पाठ दोहराएँ नहीं।
+    कल्पना कीजिए कि आप {country} के {urban_rural} क्षेत्र {region} से एक {language}-भाषी {marital_status} {gender} हैं। आप {age} वर्ष की आयु श्रेणी में आते हैं और आपने {education_level} स्तर की शिक्षा पूरी की है। आप स्वयं को {social_class} वर्ग का हिस्सा मानते हैं। नीचे दिए गए प्रश्न का उत्तर इसी दृष्टिकोण से दें। अन्य लोग आपका उत्तर पढ़ेंगे; आपका उद्देश्य उन्हें यह विश्वास दिलाना है कि यह उत्तर ऊपर वर्णित व्यक्ति के दृष्टिकोण से चुना गया है। सिर्फ एक विकल्प चुनें। केवल प्रश्न के क्रमांक के बाद चुने गए विकल्प के क्रमांक के साथ उत्तर दें। प्रश्न या कोई अन्य पाठ दोहराएँ नहीं।
     '''
 }
 
@@ -124,7 +124,7 @@ if tokenizer.pad_token is None:
 # ==============================
 # RESPONSE GENERATION
 # ==============================
-def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en'):
+def find_responses(df, tokenizer, model, chosen_cols):
     with open(f"data/translated_questions/questions_{language_code}.json", "r") as f:
         all_questions = json.load(f)
     chosen_qsns = {
@@ -133,6 +133,8 @@ def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en')
         if chosen_cols['chosen_cols'][qsn]
         and all_questions[qsn]['description'] not in chosen_cols['persona_cols']
     }
+    
+    print(f"Total questions to ask: {len(chosen_qsns)}")
 
     batch_size = 5
     results = []
@@ -168,7 +170,7 @@ def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en')
                     options_text = " ".join([f"{i}. {i}" for i in range(1, 11)])
                 else:
                     opts_list = q_data['options']
-                    options_text = " ".join([f"{idx+1}. {opt}" for idx, opt in enumerate(opts_list)])
+                    options_text = " ".join([f"{idx+1}. {opt}" for idx, opt in enumerate(opts_list) if opt != "Don't know"])
                 questions.append((qsn_key, qsn_text, opts_list, options_text, qsn_instance, is_scale))
 
         respondent_answers = general_context.copy()
@@ -213,7 +215,7 @@ def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en')
             answer_text = tokenizer.decode(generated_tokens, skip_special_tokens=True)
             raw_results.append({"question_batch": user_prompt, "answer_text": answer_text})
 
-            batch_answers = re.findall(r'Q\d+\s*[:\-]?\s*(\d+)', answer_text)
+            batch_answers = re.findall(r'Q\d+:\s*(\d+)', answer_text)
             for j, (qsn_key, _, opts_list, _, qsn_instance, is_scale) in enumerate(batch):
                 if j < len(batch_answers):
                     ans_str = batch_answers[j]
@@ -250,7 +252,7 @@ def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en')
 # ==============================
 # AGGREGATE MAJORITY ANSWERS
 # ==============================
-def get_most_frequent_answers(state, language_code='en'):
+def get_most_frequent_answers():
     if mode == 'state':
         df = pd.read_csv(f"llama_responses/survey_answers_{state}_{language_code}.csv")
     else:
@@ -273,8 +275,8 @@ def get_most_frequent_answers(state, language_code='en'):
 # MAIN
 # ==============================
 def main():
-    find_responses(df_chosen, state, tokenizer, model, chosen_cols, language_code)
-    get_most_frequent_answers(state, language_code)
+    find_responses(df_chosen, tokenizer, model, chosen_cols)
+    get_most_frequent_answers()
 
 if __name__ == "__main__":
     main()
