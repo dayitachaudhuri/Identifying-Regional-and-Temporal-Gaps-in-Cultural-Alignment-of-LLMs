@@ -4,10 +4,10 @@ import pandas as pd
 from tqdm import tqdm
 
 # === CONFIG ===
-INPUT_DIRECTORY = "data"
-INPUT_FILE_NAME = "2012_india_majority_answers_by_persona"
+INPUT_DIRECTORY = "data/india/2022"
+INPUT_FILE_NAME = "2022_india_majority_answers_by_persona_en"
 OUTPUT_DIRECTORY = "data/translated_data"
-LANG_CODE = "te"
+LANG_CODE = "mr"
 
 # === SETUP ===
 os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)

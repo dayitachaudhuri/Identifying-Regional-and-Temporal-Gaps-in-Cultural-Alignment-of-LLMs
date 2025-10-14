@@ -1,0 +1,1278 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_WVS: Region country specific,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2017,Russia,RU: Central Federal District,Rural,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Rural,Female,16-24,Russian,Single,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Divorced,Middle,Lower class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Separated,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,25-34,Russian,Single,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Central Federal District,Rural,Female,35-44,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,45-54,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Rural,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,45-54,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,45-54,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Other,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Married,Lower,Lower middle class,2
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Widowed,Middle,Lower class,1
+2017,Russia,RU: Central Federal District,Rural,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower class,4
+2017,Russia,RU: Central Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,3
+2017,Russia,RU: Central Federal District,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,3
+2017,Russia,RU: Central Federal District,Rural,Male,16-24,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,16-24,Russian,Single,Higher,No answer,1
+2017,Russia,RU: Central Federal District,Rural,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Rural,Male,16-24,Russian,Single,Middle,Don't know,1
+2017,Russia,RU: Central Federal District,Rural,Male,25-34,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Rural,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Rural,Male,35-44,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,35-44,Russian,Married,Higher,Working class,3
+2017,Russia,RU: Central Federal District,Rural,Male,35-44,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Male,35-44,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Central Federal District,Rural,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,45-54,Russian,Divorced,Lower,Lower class,1
+2017,Russia,RU: Central Federal District,Rural,Male,45-54,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,45-54,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,55-64,Russian,Married,Middle,Lower class,1
+2017,Russia,RU: Central Federal District,Rural,Male,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Rural,Male,65 and more years,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Rural,Male,65 and more years,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Rural,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,16-24,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,4
+2017,Russia,RU: Central Federal District,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,7
+2017,Russia,RU: Central Federal District,Urban,Female,16-24,Tatar,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Other,Married,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Upper middle class,5
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Divorced,Middle,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Living together as married,Lower,Upper class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,6
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Married,Higher,Upper middle class,3
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Married,Middle,Lower middle class,2
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,No answer,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Separated,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Separated,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Separated,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,6
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Single,Higher,No answer,1
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,3
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Russian,Single,Higher,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Female,25-34,Tatar,Married,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Upper class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Working class,5
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Living together as married,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,5
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Higher,Upper class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,8
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Lower,Working class,3
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,No answer,Higher,Upper class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,No answer,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,4
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,6
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,13
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Married,Higher,Working class,3
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Separated,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,4
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,45-54,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,6
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Married,Higher,Upper middle class,3
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Married,Higher,Working class,5
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,No answer,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,No answer,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Widowed,Higher,No answer,1
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Widowed,Middle,Lower middle class,2
+2017,Russia,RU: Central Federal District,Urban,Female,55-64,Russian,Widowed,Middle,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,4
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Married,Middle,Lower middle class,2
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Single,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,3
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,6
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,2
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,3
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,4
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,No answer,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,6
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Avar; Avaric,Single,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Living together as married,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,No answer,Middle,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,4
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Single,Middle,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,3
+2017,Russia,RU: Central Federal District,Urban,Male,16-24,Russian,Single,Middle,Working class,2
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Avar; Avaric,Single,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Other,Single,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,4
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,No answer,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Higher,Don't know,2
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Higher,No answer,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,3
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Higher,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Middle,Upper class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,25-34,Russian,Single,Middle,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,9
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,10
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Married,Higher,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Married,Middle,No answer,1
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Separated,Lower,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,35-44,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Divorced,Lower,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Divorced,Lower,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,12
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Married,Higher,Upper class,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,5
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Married,Higher,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Separated,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Single,Higher,Upper middle class,2
+2017,Russia,RU: Central Federal District,Urban,Male,45-54,Russian,Widowed,Higher,Upper middle class,2
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Divorced,Lower,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Married,Higher,Working class,5
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,No answer,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,No answer,Lower,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Working class,4
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Lower middle class,2
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,No answer,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,6
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Don't know,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Middle,Lower class,1
+2017,Russia,RU: Central Federal District,Urban,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,16-24,Other,Married,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,16-24,Other,Single,Middle,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,16-24,Russian,Married,Lower,Don't know,1
+2017,Russia,RU: Far East Federal District,Rural,Female,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,35-44,Other,Married,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,45-54,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,55-64,Other,Single,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,55-64,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,65 and more years,Other,Married,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Female,65 and more years,Other,Single,Higher,Don't know,1
+2017,Russia,RU: Far East Federal District,Rural,Female,65 and more years,Other,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Male,16-24,Other,Married,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Rural,Male,35-44,Other,Single,Middle,Working class,1
+2017,Russia,RU: Far East Federal District,Rural,Male,45-54,Other,Married,Higher,Don't know,1
+2017,Russia,RU: Far East Federal District,Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Far East Federal District,Rural,Male,65 and more years,Other,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,16-24,Russian,Single,Lower,Lower class,2
+2017,Russia,RU: Far East Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Don't know,2
+2017,Russia,RU: Far East Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Far East Federal District,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,35-44,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,35-44,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Far East Federal District,Urban,Female,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,55-64,Russian,Separated,Middle,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Working class,2
+2017,Russia,RU: Far East Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,65 and more years,Russian,Married,Middle,Don't know,1
+2017,Russia,RU: Far East Federal District,Urban,Female,65 and more years,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,2
+2017,Russia,RU: Far East Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,4
+2017,Russia,RU: Far East Federal District,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,16-24,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,16-24,Russian,Single,Middle,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,25-34,Russian,Married,Don't know,Don't know,1
+2017,Russia,RU: Far East Federal District,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,25-34,Russian,Married,Middle,Don't know,1
+2017,Russia,RU: Far East Federal District,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,35-44,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Far East Federal District,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,35-44,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,35-44,Russian,Single,Higher,Lower class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,55-64,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,55-64,Russian,Married,Higher,No answer,1
+2017,Russia,RU: Far East Federal District,Urban,Male,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,65 and more years,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,65 and more years,Russian,Separated,Lower,Lower class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Far East Federal District,Urban,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,16-24,Avar; Avaric,Single,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,16-24,Avar; Avaric,Single,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,16-24,Chechen,Married,Higher,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,16-24,Chechen,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,16-24,Russian,Single,Higher,Upper class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,25-34,Chechen,Married,Middle,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,25-34,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,25-34,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,35-44,Avar; Avaric,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,35-44,Avar; Avaric,Married,Lower,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,35-44,Chechen,Married,Middle,Upper class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,35-44,Chechen,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,45-54,Avar; Avaric,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,45-54,Chechen,Divorced,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,45-54,Chechen,Widowed,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,45-54,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,55-64,Chechen,Married,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,55-64,Russian,No answer,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,55-64,Russian,Widowed,Middle,Working class,2
+2017,Russia,RU: North Caucasian federal district,Rural,Female,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,16-24,Avar; Avaric,Single,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,25-34,Avar; Avaric,No answer,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,25-34,Avar; Avaric,Single,Lower,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,35-44,Avar; Avaric,Single,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,35-44,Chechen,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,35-44,Russian,Married,Middle,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,35-44,Russian,Single,Lower,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,55-64,Chechen,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,65 and more years,Chechen,Married,Higher,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,65 and more years,Chechen,Married,Lower,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: North Caucasian federal district,Rural,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,16-24,Russian,Single,Don't know,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Avar; Avaric,Married,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Chechen,Married,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Chechen,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Other,Married,Higher,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Other,Married,Higher,Upper middle class,2
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,25-34,Tatar,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,35-44,Chechen,Married,Lower,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,35-44,Chechen,Married,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,35-44,Chechen,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,35-44,Other,Single,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,45-54,Chechen,Single,Higher,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,45-54,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,55-64,Chechen,Widowed,Lower,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,55-64,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,55-64,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,65 and more years,Chechen,Married,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,25-34,Avar; Avaric,Married,Higher,Upper middle class,2
+2017,Russia,RU: North Caucasian federal district,Urban,Male,25-34,Chechen,Single,Middle,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: North Caucasian federal district,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,35-44,Avar; Avaric,Married,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,35-44,Avar; Avaric,Married,Middle,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,35-44,Other,Married,Higher,Don't know,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,35-44,Other,Married,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,45-54,Chechen,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,45-54,Chechen,Married,Higher,Upper middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,45-54,Chechen,Married,Middle,Lower middle class,1
+2017,Russia,RU: North Caucasian federal district,Urban,Male,55-64,Chechen,Married,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Female,16-24,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Female,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Rural,Female,55-64,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: North West Federal District,Rural,Female,55-64,Russian,Living together as married,Middle,Lower class,1
+2017,Russia,RU: North West Federal District,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Rural,Female,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Female,55-64,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Female,65 and more years,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,3
+2017,Russia,RU: North West Federal District,Rural,Male,16-24,Russian,Single,Lower,Lower middle class,1
+2017,Russia,RU: North West Federal District,Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Rural,Male,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,25-34,Russian,Married,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: North West Federal District,Rural,Male,25-34,Russian,Single,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,35-44,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,35-44,Russian,No answer,Don't know,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,45-54,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,55-64,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: North West Federal District,Rural,Male,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Rural,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Higher,Don't know,3
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Lower,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,4
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,2
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Russian,Single,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,16-24,Tatar,Single,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Married,Lower,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Married,Middle,Working class,2
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Single,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Single,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,25-34,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower class,2
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,4
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Divorced,Middle,Lower class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,3
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,35-44,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Upper class,1
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,2
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Single,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Married,Higher,Working class,2
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Widowed,Middle,Lower class,1
+2017,Russia,RU: North West Federal District,Urban,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: North West Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Male,16-24,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,16-24,Russian,Living together as married,Middle,Lower middle class,2
+2017,Russia,RU: North West Federal District,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,16-24,Russian,Single,Middle,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Male,16-24,Russian,Single,Middle,Working class,4
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Divorced,Middle,Lower class,1
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Living together as married,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Living together as married,Middle,Lower class,1
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Married,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,2
+2017,Russia,RU: North West Federal District,Urban,Male,25-34,Russian,Single,Higher,Working class,3
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Living together as married,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,No answer,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Single,Higher,Working class,2
+2017,Russia,RU: North West Federal District,Urban,Male,35-44,Russian,Single,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Divorced,Higher,Working class,2
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Married,Don't know,No answer,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Married,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,45-54,Russian,Widowed,Higher,No answer,1
+2017,Russia,RU: North West Federal District,Urban,Male,55-64,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,55-64,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,55-64,Russian,Married,Higher,Working class,2
+2017,Russia,RU: North West Federal District,Urban,Male,55-64,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,65 and more years,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: North West Federal District,Urban,Male,65 and more years,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,2
+2017,Russia,RU: North West Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Upper middle class,1
+2017,Russia,RU: North West Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: North West Federal District,Urban,Male,65 and more years,Russian,Widowed,Middle,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,25-34,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Siberian Federal District,Rural,Female,25-34,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,25-34,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,25-34,Russian,Separated,Middle,Don't know,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,35-44,Russian,Married,Lower,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Rural,Female,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,45-54,Other,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,45-54,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Other,Widowed,Higher,Lower class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Other,Widowed,Middle,Lower class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Russian,Divorced,Higher,Working class,2
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Russian,Living together as married,Don't know,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Russian,Married,Lower,Don't know,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Russian,Single,Lower,Don't know,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,65 and more years,Other,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,65 and more years,Other,Widowed,Middle,Lower class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,65 and more years,Russian,Living together as married,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,65 and more years,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Don't know,1
+2017,Russia,RU: Siberian Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,2
+2017,Russia,RU: Siberian Federal District,Rural,Male,16-24,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,25-34,Russian,Living together as married,Lower,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,25-34,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,35-44,Other,Single,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,35-44,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,45-54,Other,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,45-54,Other,Married,Middle,Lower class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,45-54,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,55-64,Other,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,55-64,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,55-64,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Siberian Federal District,Rural,Male,55-64,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,65 and more years,Other,Widowed,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Rural,Male,65 and more years,Russian,Married,Lower,Don't know,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,No answer,Middle,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Single,Lower,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Single,Middle,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,16-24,Russian,Single,Middle,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Working class,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Married,Lower,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Separated,Higher,No answer,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Single,Higher,Don't know,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Single,Higher,Working class,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,25-34,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Divorced,Lower,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Married,Higher,Working class,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,No answer,Higher,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Single,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Widowed,Higher,Don't know,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,35-44,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Divorced,Lower,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Divorced,Middle,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Married,Higher,Working class,3
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,45-54,Russian,Single,Middle,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Separated,Middle,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Single,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,6
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Divorced,Lower,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Living together as married,Higher,Upper class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Living together as married,Lower,No answer,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Single,Higher,No answer,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,3
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Single,Higher,Working class,3
+2017,Russia,RU: Siberian Federal District,Urban,Male,25-34,Russian,Single,Middle,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,35-44,Russian,Living together as married,Higher,No answer,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,35-44,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,35-44,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,35-44,Russian,Single,Higher,Upper class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,35-44,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,45-54,Other,Divorced,Middle,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,45-54,Russian,Married,Higher,Working class,3
+2017,Russia,RU: Siberian Federal District,Urban,Male,45-54,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Divorced,Higher,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Living together as married,Lower,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Living together as married,Lower,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Married,Lower,Working class,2
+2017,Russia,RU: Siberian Federal District,Urban,Male,55-64,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Upper class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Married,Middle,Lower class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Siberian Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,2
+2017,Russia,RU: South Federal District,Rural,Female,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Married,Higher,Don't know,2
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,No answer,Higher,No answer,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Rural,Female,25-34,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,35-44,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,35-44,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,35-44,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,35-44,Russian,Single,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Divorced,Middle,Working class,2
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Married,Higher,Don't know,2
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Separated,Higher,No answer,1
+2017,Russia,RU: South Federal District,Rural,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Married,Higher,Don't know,2
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Married,Lower,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Married,Middle,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Widowed,Middle,Don't know,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Widowed,Middle,Lower class,3
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Russian,Widowed,Middle,No answer,1
+2017,Russia,RU: South Federal District,Rural,Female,65 and more years,Tatar,Married,Lower,Lower class,1
+2017,Russia,RU: South Federal District,Rural,Male,16-24,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,16-24,Russian,Single,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,16-24,Russian,Single,Middle,Working class,1
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Living together as married,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Married,Higher,Working class,2
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Married,Middle,Lower middle class,3
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Single,Middle,Don't know,1
+2017,Russia,RU: South Federal District,Rural,Male,25-34,Russian,Single,Middle,Working class,1
+2017,Russia,RU: South Federal District,Rural,Male,35-44,Russian,Married,Don't know,Working class,1
+2017,Russia,RU: South Federal District,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: South Federal District,Rural,Male,35-44,Russian,Married,Higher,Working class,2
+2017,Russia,RU: South Federal District,Rural,Male,35-44,Russian,Married,Middle,No answer,1
+2017,Russia,RU: South Federal District,Rural,Male,45-54,Russian,Married,Higher,No answer,1
+2017,Russia,RU: South Federal District,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Rural,Male,55-64,Russian,Married,Lower,Lower class,1
+2017,Russia,RU: South Federal District,Rural,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,Russia,RU: South Federal District,Rural,Male,65 and more years,Russian,Married,Middle,Don't know,1
+2017,Russia,RU: South Federal District,Rural,Male,65 and more years,Russian,Married,Middle,Working class,1
+2017,Russia,RU: South Federal District,Rural,Male,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Rural,Male,65 and more years,Russian,Widowed,Lower,Working class,2
+2017,Russia,RU: South Federal District,Urban,Female,16-24,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,3
+2017,Russia,RU: South Federal District,Urban,Female,25-34,Russian,Single,Higher,Working class,2
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,4
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Divorced,Middle,Working class,2
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,No answer,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,35-44,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,3
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Separated,Higher,Lower middle class,2
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Single,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,45-54,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,55-64,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Married,Middle,Working class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,2
+2017,Russia,RU: South Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: South Federal District,Urban,Male,16-24,Russian,Single,Higher,Lower class,1
+2017,Russia,RU: South Federal District,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,3
+2017,Russia,RU: South Federal District,Urban,Male,16-24,Russian,Single,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Other,Married,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,3
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Single,Lower,Lower class,1
+2017,Russia,RU: South Federal District,Urban,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,35-44,Other,Married,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,35-44,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: South Federal District,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,3
+2017,Russia,RU: South Federal District,Urban,Male,35-44,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,35-44,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: South Federal District,Urban,Male,45-54,Russian,Married,Lower,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,45-54,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,55-64,Other,Married,Higher,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: South Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Urals Federal District,Rural,Female,16-24,Russian,Divorced,Higher,Upper class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,25-34,Russian,Single,Higher,Upper middle class,2
+2017,Russia,RU: Urals Federal District,Rural,Female,25-34,Tatar,Married,Higher,No answer,1
+2017,Russia,RU: Urals Federal District,Rural,Female,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,35-44,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,45-54,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Urals Federal District,Rural,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,45-54,Tatar,Divorced,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,55-64,Russian,Married,Middle,Lower class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,55-64,Tatar,Divorced,Higher,No answer,1
+2017,Russia,RU: Urals Federal District,Rural,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,16-24,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Urals Federal District,Rural,Male,16-24,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,25-34,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,25-34,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Urals Federal District,Rural,Male,25-34,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,35-44,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Urals Federal District,Rural,Male,35-44,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,45-54,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,45-54,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Urals Federal District,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Rural,Male,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,16-24,Russian,Single,Lower,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,16-24,Tatar,Single,Middle,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,25-34,Russian,Separated,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,25-34,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,3
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Upper middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Working class,3
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,35-44,Russian,Widowed,Higher,Upper class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Working class,3
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,4
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Married,Lower,Upper class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Working class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,3
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Married,Middle,Working class,3
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Separated,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,4
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,2
+2017,Russia,RU: Urals Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,16-24,Russian,Living together as married,Middle,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,16-24,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,16-24,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,7
+2017,Russia,RU: Urals Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Male,25-34,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Urals Federal District,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,25-34,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,35-44,Russian,Divorced,Higher,Lower class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,35-44,Russian,Living together as married,Higher,Upper middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Male,35-44,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Urals Federal District,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,5
+2017,Russia,RU: Urals Federal District,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,35-44,Russian,Married,Higher,Working class,5
+2017,Russia,RU: Urals Federal District,Urban,Male,35-44,Russian,Married,Middle,No answer,1
+2017,Russia,RU: Urals Federal District,Urban,Male,45-54,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Urals Federal District,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,55-64,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,55-64,Russian,Widowed,Middle,Upper middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Urals Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,16-24,Russian,Single,Don't know,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,16-24,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,16-24,Tatar,Single,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Living together as married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Married,Higher,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Married,Middle,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Separated,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Other,Single,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Divorced,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Divorced,Middle,Lower class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Living together as married,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,35-44,Tatar,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Other,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Divorced,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Living together as married,Middle,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Married,Middle,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Russian,Married,Middle,Working class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,45-54,Tatar,Married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Other,Widowed,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Russian,Widowed,Higher,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,55-64,Tatar,Widowed,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Other,Widowed,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Married,Middle,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Widowed,Middle,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Tatar,Widowed,Don't know,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Female,65 and more years,Tatar,Widowed,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,16-24,Russian,Living together as married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,16-24,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,16-24,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Other,Living together as married,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Russian,Living together as married,Middle,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Russian,Married,Higher,Lower middle class,4
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,25-34,Tatar,Married,Lower,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Higher,Upper class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Higher,Upper middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Lower,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Russian,Single,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Tatar,Married,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,35-44,Tatar,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,45-54,Russian,Married,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,45-54,Russian,Separated,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,45-54,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,45-54,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Other,Divorced,Middle,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Married,Higher,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Separated,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Separated,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,65 and more years,Russian,Married,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,65 and more years,Russian,Married,Lower,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Rural,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Other,Single,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Living together as married,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Married,Higher,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Lower,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Middle,Upper class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Upper class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Living together as married,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Married,Higher,Don't know,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,No answer,Higher,No answer,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Separated,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Single,Higher,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,25-34,Russian,Single,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Other,Married,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Other,Single,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,5
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Divorced,Lower,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,4
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Married,Middle,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,No answer,Don't know,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,No answer,Higher,Don't know,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Single,Higher,Don't know,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Single,Higher,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Tatar,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Tatar,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,35-44,Tatar,Single,Higher,Upper class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Other,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Divorced,Lower,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Divorced,Middle,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Married,Don't know,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Married,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Married,Lower,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Separated,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Tatar,Married,Higher,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Tatar,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,45-54,Tatar,Married,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Other,Married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Divorced,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Married,Higher,Lower class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Married,Higher,Upper middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Married,Higher,Working class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,No answer,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Single,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Tatar,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Tatar,Widowed,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,55-64,Tatar,Widowed,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Divorced,Middle,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Living together as married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Married,Lower,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Don't know,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Female,65 and more years,Tatar,Widowed,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Other,Single,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Other,Single,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Russian,Single,Lower,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,5
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,16-24,Tatar,Single,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Other,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Living together as married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Higher,Don't know,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,8
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Higher,No answer,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Higher,Working class,5
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Russian,Single,Higher,Working class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Tatar,Married,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,25-34,Tatar,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Divorced,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Divorced,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Living together as married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Married,Higher,Don't know,4
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,3
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,5
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Married,Higher,Working class,4
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Single,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Single,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Single,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Single,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Russian,Widowed,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Tatar,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,35-44,Tatar,Married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Other,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Russian,Divorced,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Russian,Married,Higher,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Russian,Married,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Russian,Married,Middle,Lower middle class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Russian,Single,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Tatar,Divorced,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,45-54,Tatar,Married,Lower,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Divorced,Middle,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Married,Middle,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Married,Middle,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Separated,Higher,Upper middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Single,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Widowed,Higher,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,55-64,Russian,Widowed,Higher,Working class,2
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,65 and more years,Russian,Married,Higher,No answer,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,65 and more years,Russian,Single,Lower,Lower class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,Russia,RU: Volga; Privolzhsky Federal District,Urban,Male,65 and more years,Russian,Widowed,Middle,Working class,2

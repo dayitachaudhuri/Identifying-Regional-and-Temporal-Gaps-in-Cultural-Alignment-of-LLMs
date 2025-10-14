@@ -1,0 +1,631 @@
+V260: Year survey,B_COUNTRY_ALPHA: Country code ISO 3166 alpha,N_REGION_ISO: Region ISO,G_TOWNSIZE2: Settlement size_5 groups,V235: Sex,V237R: Age recoded (6 intervals),V222: Language at home,V55: Marital status,V238R: Highest educational level: Respondent (recoded into 3 groups),V252: Social class (subjective),Counts
+2006,-4,Missing,100000-500000,Female,15-24,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,15-24,English,Single/Never married,Lower,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,15-24,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,100000-500000,Female,15-24,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,15-24,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,15-24,English,Single/Never married,Middle,Working class,5
+2006,-4,Missing,100000-500000,Female,15-24,Standard Chinese; Mandarin; Putonghua; Guoyu,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Divorced,Middle,Working class,2
+2006,-4,Missing,100000-500000,Female,25-34,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Married,Higher,Working class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Married,Middle,Lower middle class,2
+2006,-4,Missing,100000-500000,Female,25-34,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Separated,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Single/Never married,Higher,Lower middle class,2
+2006,-4,Missing,100000-500000,Female,25-34,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,100000-500000,Female,25-34,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,25-34,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,35-44,English,Divorced,Higher,Working class,1
+2006,-4,Missing,100000-500000,Female,35-44,English,Divorced,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,35-44,English,Married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,35-44,English,Married,Middle,Upper middle class,3
+2006,-4,Missing,100000-500000,Female,35-44,English,Married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,35-44,English,Separated,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,35-44,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,100000-500000,Female,35-44,English,Single/Never married,Middle,Working class,3
+2006,-4,Missing,100000-500000,Female,35-44,English,Widowed,Higher,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,35-44,Spanish; Castilian,Single/Never married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,45-54,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,45-54,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,45-54,English,Married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,45-54,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,45-54,English,Married,Middle,Working class,2
+2006,-4,Missing,100000-500000,Female,45-54,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,100000-500000,Female,45-54,Other,Married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,45-54,Other,Married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,45-54,Spanish; Castilian,Married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,55-64,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,55-64,English,Married,Lower,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,55-64,English,Married,Middle,Lower middle class,3
+2006,-4,Missing,100000-500000,Female,55-64,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,100000-500000,Female,55-64,English,Married,Middle,Working class,2
+2006,-4,Missing,100000-500000,Female,55-64,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,55-64,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,100000-500000,Female,55-64,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Female,55-64,English,Widowed,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Divorced,Middle,Working class,2
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Married,Higher,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Married,Middle,Lower middle class,4
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Single/Never married,Higher,Working class,1
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Widowed,Middle,Lower class,1
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Widowed,Middle,Lower middle class,2
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Widowed,Middle,Upper middle class,2
+2006,-4,Missing,100000-500000,Female,"65 and more years""",English,Widowed,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,15-24,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,15-24,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,15-24,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,15-24,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,15-24,Other,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,25-34,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,25-34,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,100000-500000,Male,25-34,English,Married,Middle,Upper middle class,2
+2006,-4,Missing,100000-500000,Male,25-34,English,Married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,25-34,English,Single/Never married,Higher,Upper class,1
+2006,-4,Missing,100000-500000,Male,25-34,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,25-34,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,25-34,Other,Married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Divorced,Higher,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Married,Higher,Upper class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Married,Middle,Lower class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,100000-500000,Male,35-44,English,Married,Middle,Upper middle class,3
+2006,-4,Missing,100000-500000,Male,35-44,English,Separated,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,35-44,English,Single/Never married,Middle,Upper middle class,2
+2006,-4,Missing,100000-500000,Male,35-44,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,100000-500000,Male,35-44,Spanish; Castilian,Married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,35-44,Spanish; Castilian,Separated,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,45-54,English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,100000-500000,Male,45-54,English,Divorced,Middle,Working class,5
+2006,-4,Missing,100000-500000,Male,45-54,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,45-54,English,Married,Lower,Lower class,1
+2006,-4,Missing,100000-500000,Male,45-54,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,100000-500000,Male,45-54,English,Married,Middle,Upper middle class,2
+2006,-4,Missing,100000-500000,Male,45-54,English,Married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,45-54,English,Separated,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,45-54,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,45-54,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,55-64,English,Divorced,Middle,No answer,1
+2006,-4,Missing,100000-500000,Male,55-64,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,55-64,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,55-64,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,100000-500000,Male,55-64,English,Married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,55-64,English,Married,Middle,Upper middle class,3
+2006,-4,Missing,100000-500000,Male,55-64,English,Married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,55-64,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Higher,Upper class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Higher,Upper middle class,2
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Higher,Working class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Lower,Upper middle class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Lower,Working class,2
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Middle,Lower middle class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Middle,Upper middle class,2
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Married,Middle,Working class,4
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Separated,Middle,Lower class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,100000-500000,Male,"65 and more years""",English,Widowed,Middle,Working class,1
+2006,-4,Missing,20000-100000,Female,15-24,English,Single/Never married,Middle,Lower middle class,6
+2006,-4,Missing,20000-100000,Female,15-24,English,Single/Never married,Middle,Upper middle class,6
+2006,-4,Missing,20000-100000,Female,15-24,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,20000-100000,Female,15-24,Spanish; Castilian,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,25-34,English,Married,Higher,Lower middle class,2
+2006,-4,Missing,20000-100000,Female,25-34,English,Married,Higher,Upper middle class,3
+2006,-4,Missing,20000-100000,Female,25-34,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,20000-100000,Female,25-34,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,20000-100000,Female,25-34,English,Married,Middle,Working class,3
+2006,-4,Missing,20000-100000,Female,25-34,English,Separated,Middle,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,25-34,English,Single/Never married,Higher,Working class,2
+2006,-4,Missing,20000-100000,Female,25-34,English,Single/Never married,Lower,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,25-34,English,Single/Never married,Middle,Lower middle class,4
+2006,-4,Missing,20000-100000,Female,25-34,English,Single/Never married,Middle,Working class,3
+2006,-4,Missing,20000-100000,Female,25-34,Other,Married,Middle,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,25-34,Spanish; Castilian,Married,Middle,Upper middle class,3
+2006,-4,Missing,20000-100000,Female,35-44,English,Divorced,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,20000-100000,Female,35-44,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Married,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Married,Middle,Lower middle class,2
+2006,-4,Missing,20000-100000,Female,35-44,English,Married,Middle,No answer,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,20000-100000,Female,35-44,English,Married,Middle,Working class,6
+2006,-4,Missing,20000-100000,Female,35-44,English,Separated,Middle,Working class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Single/Never married,Middle,Working class,3
+2006,-4,Missing,20000-100000,Female,35-44,English,Widowed,Middle,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,35-44,English,Widowed,Middle,Working class,1
+2006,-4,Missing,20000-100000,Female,35-44,Other,Married,Middle,Working class,1
+2006,-4,Missing,20000-100000,Female,45-54,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Female,45-54,English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,20000-100000,Female,45-54,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,45-54,English,Married,Middle,Lower middle class,3
+2006,-4,Missing,20000-100000,Female,45-54,English,Married,Middle,Upper middle class,9
+2006,-4,Missing,20000-100000,Female,45-54,English,Married,Middle,Working class,6
+2006,-4,Missing,20000-100000,Female,45-54,English,Separated,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,45-54,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Female,45-54,English,Single/Never married,Middle,Lower middle class,3
+2006,-4,Missing,20000-100000,Female,45-54,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,20000-100000,Female,45-54,English,Widowed,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Divorced,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Divorced,Higher,Upper middle class,2
+2006,-4,Missing,20000-100000,Female,55-64,English,Divorced,Middle,Lower middle class,3
+2006,-4,Missing,20000-100000,Female,55-64,English,Divorced,Middle,Upper middle class,2
+2006,-4,Missing,20000-100000,Female,55-64,English,Divorced,Middle,Working class,2
+2006,-4,Missing,20000-100000,Female,55-64,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Married,Lower,Lower class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,20000-100000,Female,55-64,English,Married,Middle,Upper class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Married,Middle,Upper middle class,8
+2006,-4,Missing,20000-100000,Female,55-64,English,Married,Middle,Working class,5
+2006,-4,Missing,20000-100000,Female,55-64,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,20000-100000,Female,55-64,English,Widowed,Middle,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,55-64,English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,55-64,French,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Married,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Married,Middle,Lower middle class,8
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Married,Middle,Upper middle class,3
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Married,Middle,Working class,4
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Separated,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Widowed,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Widowed,Middle,Lower middle class,6
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Widowed,Middle,No answer,1
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Female,"65 and more years""",English,Widowed,Middle,Working class,4
+2006,-4,Missing,20000-100000,Male,15-24,English,Married,Middle,Upper class,1
+2006,-4,Missing,20000-100000,Male,15-24,English,Married,Middle,Working class,1
+2006,-4,Missing,20000-100000,Male,15-24,English,Single/Never married,Middle,Upper class,1
+2006,-4,Missing,20000-100000,Male,15-24,English,Single/Never married,Middle,Upper middle class,3
+2006,-4,Missing,20000-100000,Male,15-24,English,Single/Never married,Middle,Working class,8
+2006,-4,Missing,20000-100000,Male,25-34,English,Married,Higher,Working class,1
+2006,-4,Missing,20000-100000,Male,25-34,English,Married,Middle,Lower middle class,6
+2006,-4,Missing,20000-100000,Male,25-34,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,20000-100000,Male,25-34,English,Married,Middle,Working class,7
+2006,-4,Missing,20000-100000,Male,25-34,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Male,25-34,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,25-34,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,20000-100000,Male,25-34,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,25-34,Other,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,35-44,English,Divorced,Middle,Working class,2
+2006,-4,Missing,20000-100000,Male,35-44,English,Married,Higher,Upper middle class,3
+2006,-4,Missing,20000-100000,Male,35-44,English,Married,Lower,Lower middle class,1
+2006,-4,Missing,20000-100000,Male,35-44,English,Married,Middle,Lower class,3
+2006,-4,Missing,20000-100000,Male,35-44,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,20000-100000,Male,35-44,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,20000-100000,Male,35-44,English,Married,Middle,Working class,9
+2006,-4,Missing,20000-100000,Male,35-44,English,Separated,Middle,Working class,2
+2006,-4,Missing,20000-100000,Male,35-44,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Male,35-44,English,Single/Never married,Middle,Lower middle class,3
+2006,-4,Missing,20000-100000,Male,35-44,English,Single/Never married,Middle,Upper middle class,2
+2006,-4,Missing,20000-100000,Male,35-44,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,20000-100000,Male,45-54,English,Divorced,Lower,Lower middle class,1
+2006,-4,Missing,20000-100000,Male,45-54,English,Divorced,Middle,Lower middle class,3
+2006,-4,Missing,20000-100000,Male,45-54,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,45-54,English,Divorced,Middle,Working class,6
+2006,-4,Missing,20000-100000,Male,45-54,English,Married,Higher,Lower middle class,2
+2006,-4,Missing,20000-100000,Male,45-54,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,45-54,English,Married,Lower,Working class,2
+2006,-4,Missing,20000-100000,Male,45-54,English,Married,Middle,Lower class,2
+2006,-4,Missing,20000-100000,Male,45-54,English,Married,Middle,Lower middle class,8
+2006,-4,Missing,20000-100000,Male,45-54,English,Married,Middle,Upper middle class,3
+2006,-4,Missing,20000-100000,Male,45-54,English,Married,Middle,Working class,7
+2006,-4,Missing,20000-100000,Male,45-54,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Male,45-54,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,45-54,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,20000-100000,Male,55-64,English,Divorced,Lower,Working class,1
+2006,-4,Missing,20000-100000,Male,55-64,English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,20000-100000,Male,55-64,English,Divorced,Middle,Working class,4
+2006,-4,Missing,20000-100000,Male,55-64,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,55-64,English,Married,Middle,Lower class,1
+2006,-4,Missing,20000-100000,Male,55-64,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,20000-100000,Male,55-64,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,20000-100000,Male,55-64,English,Married,Middle,Working class,2
+2006,-4,Missing,20000-100000,Male,55-64,English,Single/Never married,Higher,Upper middle class,2
+2006,-4,Missing,20000-100000,Male,55-64,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,20000-100000,Male,55-64,English,Widowed,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Divorced,Middle,Upper middle class,3
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Married,Higher,Lower middle class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Married,Higher,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Married,Lower,Working class,2
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Married,Middle,Lower middle class,12
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Married,Middle,Upper class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Married,Middle,Upper middle class,8
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Married,Middle,Working class,3
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Separated,Lower,Working class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Widowed,Middle,Lower middle class,2
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",English,Widowed,Middle,Working class,1
+2006,-4,Missing,20000-100000,Male,"65 and more years""",Other,Married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Female,15-24,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,5000-20000,Female,15-24,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Female,15-24,English,Married,Middle,Working class,3
+2006,-4,Missing,5000-20000,Female,15-24,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Female,15-24,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,5000-20000,Female,15-24,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Female,15-24,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,5000-20000,Female,15-24,Other,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Female,25-34,English,Divorced,Middle,Working class,2
+2006,-4,Missing,5000-20000,Female,25-34,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,25-34,English,Married,Higher,Working class,2
+2006,-4,Missing,5000-20000,Female,25-34,English,Married,Middle,Lower class,2
+2006,-4,Missing,5000-20000,Female,25-34,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,5000-20000,Female,25-34,English,Married,Middle,Upper middle class,3
+2006,-4,Missing,5000-20000,Female,25-34,English,Married,Middle,Working class,3
+2006,-4,Missing,5000-20000,Female,25-34,English,Separated,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,25-34,English,Single/Never married,Middle,Lower class,3
+2006,-4,Missing,5000-20000,Female,25-34,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,5000-20000,Female,25-34,English,Single/Never married,Middle,Working class,3
+2006,-4,Missing,5000-20000,Female,25-34,Other,Married,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,35-44,English,Divorced,Middle,Working class,1
+2006,-4,Missing,5000-20000,Female,35-44,English,Married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Female,35-44,English,Married,Middle,Lower middle class,3
+2006,-4,Missing,5000-20000,Female,35-44,English,Married,Middle,Upper middle class,9
+2006,-4,Missing,5000-20000,Female,35-44,English,Married,Middle,Working class,5
+2006,-4,Missing,5000-20000,Female,35-44,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,5000-20000,Female,35-44,English,Widowed,Middle,Working class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Divorced,Higher,Upper middle class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Divorced,Middle,Working class,3
+2006,-4,Missing,5000-20000,Female,45-54,English,Married,Lower,Lower class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Married,Middle,Lower middle class,7
+2006,-4,Missing,5000-20000,Female,45-54,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,5000-20000,Female,45-54,English,Married,Middle,Working class,4
+2006,-4,Missing,5000-20000,Female,45-54,English,Separated,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Single/Never married,Higher,Working class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Female,45-54,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,5000-20000,Female,45-54,English,Widowed,Middle,Working class,1
+2006,-4,Missing,5000-20000,Female,55-64,English,Divorced,Higher,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,55-64,English,Divorced,Lower,Lower class,1
+2006,-4,Missing,5000-20000,Female,55-64,English,Divorced,Middle,Upper middle class,3
+2006,-4,Missing,5000-20000,Female,55-64,English,Divorced,Middle,Working class,3
+2006,-4,Missing,5000-20000,Female,55-64,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,5000-20000,Female,55-64,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,5000-20000,Female,55-64,English,Married,Middle,Upper middle class,6
+2006,-4,Missing,5000-20000,Female,55-64,English,Married,Middle,Working class,5
+2006,-4,Missing,5000-20000,Female,55-64,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,55-64,English,Widowed,Lower,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,"65 and more years""",English,Married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Female,"65 and more years""",English,Married,Middle,Lower middle class,5
+2006,-4,Missing,5000-20000,Female,"65 and more years""",English,Married,Middle,Upper middle class,2
+2006,-4,Missing,5000-20000,Female,"65 and more years""",English,Widowed,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Female,"65 and more years""",English,Widowed,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Female,"65 and more years""",English,Widowed,Middle,Working class,4
+2006,-4,Missing,5000-20000,Male,15-24,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Male,15-24,English,Single/Never married,Middle,Lower middle class,7
+2006,-4,Missing,5000-20000,Male,15-24,English,Single/Never married,Middle,Upper middle class,2
+2006,-4,Missing,5000-20000,Male,15-24,English,Single/Never married,Middle,Working class,5
+2006,-4,Missing,5000-20000,Male,15-24,Spanish; Castilian,Single/Never married,Middle,Working class,1
+2006,-4,Missing,5000-20000,Male,25-34,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,25-34,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,5000-20000,Male,25-34,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,5000-20000,Male,25-34,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,5000-20000,Male,25-34,English,Married,Middle,Working class,6
+2006,-4,Missing,5000-20000,Male,25-34,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,5000-20000,Male,25-34,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Male,25-34,Other,Married,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,35-44,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Male,35-44,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,35-44,English,Divorced,Middle,Working class,1
+2006,-4,Missing,5000-20000,Male,35-44,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,5000-20000,Male,35-44,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,5000-20000,Male,35-44,English,Married,Middle,Upper middle class,4
+2006,-4,Missing,5000-20000,Male,35-44,English,Married,Middle,Working class,3
+2006,-4,Missing,5000-20000,Male,35-44,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,5000-20000,Male,35-44,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Male,35-44,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,5000-20000,Male,35-44,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,5000-20000,Male,35-44,Spanish; Castilian,Married,Lower,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Divorced,Higher,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Divorced,Lower,Upper middle class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Divorced,Middle,Working class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,5000-20000,Male,45-54,English,Married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Married,Middle,Lower middle class,3
+2006,-4,Missing,5000-20000,Male,45-54,English,Married,Middle,Upper middle class,4
+2006,-4,Missing,5000-20000,Male,45-54,English,Married,Middle,Working class,4
+2006,-4,Missing,5000-20000,Male,45-54,English,Separated,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,5000-20000,Male,45-54,English,Widowed,Middle,Working class,1
+2006,-4,Missing,5000-20000,Male,45-54,Spanish; Castilian,Married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Male,55-64,English,Divorced,Middle,Working class,2
+2006,-4,Missing,5000-20000,Male,55-64,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,5000-20000,Male,55-64,English,Married,Middle,Lower class,1
+2006,-4,Missing,5000-20000,Male,55-64,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,5000-20000,Male,55-64,English,Married,Middle,Upper middle class,4
+2006,-4,Missing,5000-20000,Male,55-64,English,Married,Middle,Working class,4
+2006,-4,Missing,5000-20000,Male,55-64,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,55-64,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,55-64,English,Widowed,Middle,Working class,2
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Divorced,Middle,Working class,1
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Married,Lower,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Married,Middle,Lower middle class,6
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Married,Middle,Upper middle class,5
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Married,Middle,Working class,2
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Widowed,Lower,Upper middle class,1
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Widowed,Middle,Lower middle class,1
+2006,-4,Missing,5000-20000,Male,"65 and more years""",English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,5000-20000,Male,"65 and more years""",Spanish; Castilian,Married,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,15-24,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,15-24,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Female,15-24,English,Single/Never married,Middle,Lower middle class,5
+2006,-4,Missing,500000 and more,Female,15-24,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,500000 and more,Female,25-34,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,25-34,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,25-34,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,500000 and more,Female,25-34,English,Married,Middle,Working class,3
+2006,-4,Missing,500000 and more,Female,25-34,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,500000 and more,Female,25-34,Spanish; Castilian,Married,Lower,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Divorced,Middle,Working class,3
+2006,-4,Missing,500000 and more,Female,35-44,English,Married,Middle,Lower middle class,2
+2006,-4,Missing,500000 and more,Female,35-44,English,Married,Middle,Upper middle class,3
+2006,-4,Missing,500000 and more,Female,35-44,English,Married,Middle,Working class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Separated,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Single/Never married,Higher,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,35-44,English,Single/Never married,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Female,35-44,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Divorced,Higher,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Divorced,Middle,Lower class,3
+2006,-4,Missing,500000 and more,Female,45-54,English,Married,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Married,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Married,Middle,Working class,3
+2006,-4,Missing,500000 and more,Female,45-54,English,Separated,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,45-54,English,Widowed,Middle,Lower middle class,2
+2006,-4,Missing,500000 and more,Female,55-64,English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,500000 and more,Female,55-64,English,Divorced,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Female,55-64,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,55-64,English,Married,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Female,55-64,English,Married,Middle,Working class,2
+2006,-4,Missing,500000 and more,Female,55-64,English,Single/Never married,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Female,55-64,English,Widowed,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Female,55-64,English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Divorced,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Divorced,Middle,Working class,1
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Married,Lower,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Married,Middle,Lower middle class,5
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Widowed,Lower,Lower class,1
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Female,"65 and more years""",English,Widowed,Middle,Working class,1
+2006,-4,Missing,500000 and more,Female,"65 and more years""",No answer,Married,Middle,No answer,1
+2006,-4,Missing,500000 and more,Male,15-24,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,500000 and more,Male,15-24,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,15-24,Spanish; Castilian,Married,Middle,Working class,1
+2006,-4,Missing,500000 and more,Male,25-34,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,25-34,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,500000 and more,Male,25-34,English,Married,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Male,25-34,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,500000 and more,Male,25-34,English,Married,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Male,25-34,English,Married,Middle,Working class,2
+2006,-4,Missing,500000 and more,Male,25-34,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Male,25-34,English,Single/Never married,Middle,Lower middle class,3
+2006,-4,Missing,500000 and more,Male,25-34,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,500000 and more,Male,25-34,Spanish; Castilian,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,35-44,English,Divorced,Lower,Working class,1
+2006,-4,Missing,500000 and more,Male,35-44,English,Divorced,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Male,35-44,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,35-44,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,35-44,English,Married,Middle,Lower middle class,3
+2006,-4,Missing,500000 and more,Male,35-44,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,35-44,English,Married,Middle,Working class,8
+2006,-4,Missing,500000 and more,Male,35-44,English,Separated,Middle,Working class,1
+2006,-4,Missing,500000 and more,Male,35-44,English,Single/Never married,Middle,Lower middle class,3
+2006,-4,Missing,500000 and more,Male,35-44,English,Single/Never married,Middle,Upper middle class,2
+2006,-4,Missing,500000 and more,Male,35-44,Other,Married,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Male,45-54,English,Divorced,Middle,Working class,2
+2006,-4,Missing,500000 and more,Male,45-54,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,45-54,English,Married,Higher,Upper middle class,4
+2006,-4,Missing,500000 and more,Male,45-54,English,Married,Middle,Lower middle class,2
+2006,-4,Missing,500000 and more,Male,45-54,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,45-54,English,Married,Middle,Working class,2
+2006,-4,Missing,500000 and more,Male,45-54,English,Separated,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,45-54,English,Single/Never married,Higher,Working class,1
+2006,-4,Missing,500000 and more,Male,45-54,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Male,45-54,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,45-54,English,Single/Never married,Middle,Working class,5
+2006,-4,Missing,500000 and more,Male,45-54,English,Widowed,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,45-54,Other,Married,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,45-54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,55-64,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,55-64,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,55-64,English,Divorced,Middle,Working class,1
+2006,-4,Missing,500000 and more,Male,55-64,English,Married,Higher,Upper middle class,2
+2006,-4,Missing,500000 and more,Male,55-64,English,Married,Middle,Lower class,1
+2006,-4,Missing,500000 and more,Male,55-64,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,500000 and more,Male,55-64,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,55-64,English,Married,Middle,Working class,1
+2006,-4,Missing,500000 and more,Male,55-64,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Divorced,Middle,Upper middle class,3
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Married,Higher,Upper middle class,1
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Married,Lower,Lower class,1
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Married,Middle,Lower middle class,3
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Married,Middle,Upper middle class,4
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Single/Never married,Higher,Lower middle class,1
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Widowed,Lower,Working class,1
+2006,-4,Missing,500000 and more,Male,"65 and more years""",English,Widowed,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Female,15-24,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,No answer; Missing,Female,15-24,English,Single/Never married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Female,15-24,Missing; Not available,Married,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,15-24,Missing; Not available,Single/Never married,Middle,Missing; Unknown,2
+2006,-4,Missing,No answer; Missing,Female,15-24,No answer,Single/Never married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Female,25-34,English,Single/Never married,Middle,Lower class,1
+2006,-4,Missing,No answer; Missing,Female,25-34,Missing; Not available,Married,Middle,Missing; Unknown,3
+2006,-4,Missing,No answer; Missing,Female,25-34,Missing; Not available,Single/Never married,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,25-34,Missing; Not available,Single/Never married,Middle,Missing; Unknown,4
+2006,-4,Missing,No answer; Missing,Female,35-44,Missing; Not available,Married,Lower,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,35-44,Missing; Not available,Married,Middle,Missing; Unknown,2
+2006,-4,Missing,No answer; Missing,Female,35-44,Missing; Not available,Single/Never married,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,35-44,Missing; Not available,Single/Never married,Middle,Missing; Unknown,2
+2006,-4,Missing,No answer; Missing,Female,35-44,No answer,Married,Lower,No answer,1
+2006,-4,Missing,No answer; Missing,Female,45-54,English,Divorced,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,45-54,English,Single/Never married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Female,45-54,Missing; Not available,Married,Middle,Missing; Unknown,2
+2006,-4,Missing,No answer; Missing,Female,45-54,Missing; Not available,Single/Never married,Lower,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,45-54,Missing; Not available,Single/Never married,Middle,Missing; Unknown,2
+2006,-4,Missing,No answer; Missing,Female,55-64,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,No answer; Missing,Female,55-64,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,No answer; Missing,Female,55-64,Missing; Not available,Married,Middle,Missing; Unknown,4
+2006,-4,Missing,No answer; Missing,Female,55-64,Missing; Not available,Widowed,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,"65 and more years""",English,Divorced,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,"65 and more years""",English,Divorced,Lower,Lower class,1
+2006,-4,Missing,No answer; Missing,Female,"65 and more years""",English,Married,Middle,Lower middle class,2
+2006,-4,Missing,No answer; Missing,Female,"65 and more years""",English,Married,Middle,Working class,1
+2006,-4,Missing,No answer; Missing,Female,"65 and more years""",Missing; Not available,Divorced,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Female,"65 and more years""",Missing; Not available,Widowed,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,15-24,Missing; Not available,Single/Never married,Lower,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,15-24,Missing; Not available,Single/Never married,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,15-24,No answer,Single/Never married,Middle,No answer,2
+2006,-4,Missing,No answer; Missing,Male,25-34,English,Married,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,25-34,English,Married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Male,25-34,Missing; Not available,Married,Middle,Missing; Unknown,2
+2006,-4,Missing,No answer; Missing,Male,25-34,No answer,Single/Never married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Male,35-44,English,Married,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,35-44,English,Married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Male,35-44,English,Separated,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,35-44,Missing; Not available,Married,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,35-44,No answer,Married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Male,45-54,Missing; Not available,Married,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,45-54,Missing; Not available,Single/Never married,Middle,Missing; Unknown,3
+2006,-4,Missing,No answer; Missing,Male,45-54,No answer,Married,Middle,No answer,1
+2006,-4,Missing,No answer; Missing,Male,55-64,English,Married,Lower,No answer,1
+2006,-4,Missing,No answer; Missing,Male,55-64,Missing; Not available,Married,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,55-64,Missing; Not available,Married,Middle,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,55-64,Missing; Not available,Single/Never married,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,"65 and more years""",English,Married,Middle,Upper middle class,1
+2006,-4,Missing,No answer; Missing,Male,"65 and more years""",Missing; Not available,Married,Higher,Missing; Unknown,1
+2006,-4,Missing,No answer; Missing,Male,"65 and more years""",Missing; Not available,Married,Lower,Missing; Unknown,1
+2006,-4,Missing,"Under 5,000",Female,15-24,English,Married,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Female,15-24,English,Separated,Middle,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,15-24,English,Single/Never married,Middle,Lower middle class,4
+2006,-4,Missing,"Under 5,000",Female,15-24,English,Single/Never married,Middle,Upper class,1
+2006,-4,Missing,"Under 5,000",Female,15-24,English,Single/Never married,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Female,15-24,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Married,Middle,Lower class,2
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Married,Middle,Lower middle class,3
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Married,Middle,No answer,1
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Married,Middle,Upper middle class,2
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Married,Middle,Working class,2
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Single/Never married,Middle,Lower class,2
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Single/Never married,Middle,Lower middle class,4
+2006,-4,Missing,"Under 5,000",Female,25-34,English,Single/Never married,Middle,Working class,3
+2006,-4,Missing,"Under 5,000",Female,35-44,English,Divorced,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Female,35-44,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,35-44,English,Married,Middle,Lower middle class,7
+2006,-4,Missing,"Under 5,000",Female,35-44,English,Married,Middle,Upper middle class,6
+2006,-4,Missing,"Under 5,000",Female,35-44,English,Married,Middle,Working class,2
+2006,-4,Missing,"Under 5,000",Female,35-44,English,Single/Never married,Middle,Lower class,2
+2006,-4,Missing,"Under 5,000",Female,35-44,English,Single/Never married,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Married,Lower,Working class,2
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Married,Middle,Upper middle class,5
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Married,Middle,Working class,4
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Separated,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Female,45-54,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Divorced,Middle,Upper class,1
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Divorced,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Married,Lower,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Married,Middle,Lower middle class,7
+2006,-4,Missing,"Under 5,000",Female,55-64,English,Separated,Lower,Working class,1
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Divorced,Middle,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Married,Lower,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Married,Middle,Lower middle class,4
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Married,Middle,Upper middle class,2
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Married,Middle,Working class,3
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Separated,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Widowed,Middle,Lower class,1
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Widowed,Middle,Lower middle class,2
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",English,Widowed,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Female,"65 and more years""",Spanish; Castilian,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Male,15-24,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Male,25-34,English,Married,Middle,Lower middle class,2
+2006,-4,Missing,"Under 5,000",Male,25-34,English,Married,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Male,25-34,English,Married,Middle,Working class,5
+2006,-4,Missing,"Under 5,000",Male,25-34,English,Single/Never married,Higher,Working class,1
+2006,-4,Missing,"Under 5,000",Male,25-34,English,Single/Never married,Middle,Working class,3
+2006,-4,Missing,"Under 5,000",Male,25-34,Other,Single/Never married,Middle,Upper class,1
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Divorced,Middle,Upper class,1
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Married,Lower,Lower class,1
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Married,Middle,Lower middle class,2
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Married,Middle,Upper middle class,4
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Married,Middle,Working class,3
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Separated,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Separated,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Single/Never married,Middle,Lower class,2
+2006,-4,Missing,"Under 5,000",Male,35-44,English,Single/Never married,Middle,Lower middle class,2
+2006,-4,Missing,"Under 5,000",Male,35-44,Other,Married,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Divorced,Middle,Lower class,1
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Divorced,Middle,Lower middle class,2
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Divorced,Middle,Working class,2
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Married,Higher,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Married,Higher,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Married,Lower,Lower class,1
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Married,Middle,Lower class,1
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Married,Middle,Lower middle class,4
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Married,Middle,Upper middle class,3
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Married,Middle,Working class,5
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Single/Never married,Middle,Working class,2
+2006,-4,Missing,"Under 5,000",Male,45-54,English,Widowed,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Married,Lower,Working class,1
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Married,Middle,Lower middle class,5
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Married,Middle,Upper middle class,4
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Married,Middle,Working class,3
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Separated,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Single/Never married,Middle,Lower middle class,1
+2006,-4,Missing,"Under 5,000",Male,55-64,English,Widowed,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Divorced,Middle,Upper middle class,1
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Divorced,Middle,Working class,1
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Married,Lower,Working class,2
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Married,Middle,Lower middle class,5
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Married,Middle,Upper middle class,7
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Married,Middle,Working class,8
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Separated,Higher,Working class,1
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Widowed,Middle,No answer,1
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",English,Widowed,Middle,Working class,2
+2006,-4,Missing,"Under 5,000",Male,"65 and more years""",French,Married,Lower,Lower middle class,1

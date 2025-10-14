@@ -1,0 +1,2171 @@
+V262: Year survey,B_COUNTRY_ALPHA: Country code ISO 3166 alpha,N_REGION_ISO: Region (ISO),V240: Sex,V242: Age,V247: Language at home,V57: Marital status,V248R: Highest educational level: Respondent (recoded into 3 groups),V238: Social class (subjective),Counts
+2011,-4,US-AK Alaska,Female,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-AK Alaska,Female,66,English,Married,Middle,Upper middle class,1
+2011,-4,US-AK Alaska,Male,25,English,Single,Higher,Upper middle class,1
+2011,-4,US-AL Alabama,Female,20,English,Single,Higher,No answer,1
+2011,-4,US-AL Alabama,Female,23,English,Married,Middle,Upper middle class,1
+2011,-4,US-AL Alabama,Female,26,English,Single,Higher,Working class,1
+2011,-4,US-AL Alabama,Female,27,English,Single,Higher,Working class,1
+2011,-4,US-AL Alabama,Female,29,English,Married,Higher,Upper middle class,1
+2011,-4,US-AL Alabama,Female,46,English,Separated,Middle,Upper middle class,1
+2011,-4,US-AL Alabama,Female,55,English,Married,Middle,Lower class,1
+2011,-4,US-AL Alabama,Female,62,English,Divorced,Higher,Lower class,1
+2011,-4,US-AL Alabama,Female,64,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-AL Alabama,Female,65,English,Married,Middle,Lower middle class,1
+2011,-4,US-AL Alabama,Female,72,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-AL Alabama,Male,24,English,Single,Higher,Lower middle class,1
+2011,-4,US-AL Alabama,Male,25,Other,Single,Higher,Working class,1
+2011,-4,US-AL Alabama,Male,34,English,Living together as married,Higher,Working class,1
+2011,-4,US-AL Alabama,Male,36,English,Married,Higher,Upper middle class,1
+2011,-4,US-AL Alabama,Male,39,English,Married,Middle,Lower class,1
+2011,-4,US-AL Alabama,Male,44,English,Married,Higher,Working class,1
+2011,-4,US-AL Alabama,Male,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-AL Alabama,Male,50,English,Married,Middle,Lower middle class,1
+2011,-4,US-AL Alabama,Male,51,English,Married,Middle,Working class,1
+2011,-4,US-AL Alabama,Male,54,English,Married,Middle,Working class,1
+2011,-4,US-AL Alabama,Male,57,English,Married,Middle,Upper middle class,1
+2011,-4,US-AL Alabama,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-AL Alabama,Male,63,English,Married,Lower,Working class,1
+2011,-4,US-AL Alabama,Male,64,English,Married,Middle,Lower class,1
+2011,-4,US-AL Alabama,Male,68,English,Married,Middle,Working class,1
+2011,-4,US-AL Alabama,Male,71,English,Married,Higher,Lower middle class,1
+2011,-4,US-AR Arkansas,Female,35,English,Married,Higher,Upper class,1
+2011,-4,US-AR Arkansas,Female,54,English,Married,Higher,Lower middle class,1
+2011,-4,US-AR Arkansas,Female,54,English,Married,Higher,Working class,1
+2011,-4,US-AR Arkansas,Female,57,English,Married,Middle,Lower middle class,1
+2011,-4,US-AR Arkansas,Female,60,English,Widowed,Middle,Working class,1
+2011,-4,US-AR Arkansas,Female,68,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-AR Arkansas,Male,22,No answer,Single,Higher,No answer,1
+2011,-4,US-AR Arkansas,Male,37,English,Married,Middle,Lower middle class,1
+2011,-4,US-AR Arkansas,Male,38,English,Married,Higher,Upper middle class,1
+2011,-4,US-AR Arkansas,Male,38,No answer,Divorced,Higher,No answer,1
+2011,-4,US-AR Arkansas,Male,40,English,Married,Middle,Upper middle class,1
+2011,-4,US-AR Arkansas,Male,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-AR Arkansas,Male,55,English,Divorced,Higher,Lower class,1
+2011,-4,US-AR Arkansas,Male,56,English,Married,Middle,Working class,1
+2011,-4,US-AR Arkansas,Male,65,English,Married,Middle,Lower middle class,1
+2011,-4,US-AR Arkansas,Male,71,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,20,English,Single,Middle,Upper middle class,1
+2011,-4,US-AZ Arizona,Female,20,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,21,English,Single,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,22,No answer,Single,Middle,No answer,1
+2011,-4,US-AZ Arizona,Female,25,English,Living together as married,Higher,Working class,1
+2011,-4,US-AZ Arizona,Female,26,English,Married,Higher,Upper class,1
+2011,-4,US-AZ Arizona,Female,29,English,Married,Higher,Lower class,1
+2011,-4,US-AZ Arizona,Female,30,English,Living together as married,Higher,Working class,1
+2011,-4,US-AZ Arizona,Female,31,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,35,English,Divorced,Higher,Working class,1
+2011,-4,US-AZ Arizona,Female,36,Spanish; Castilian,Living together as married,Middle,No answer,1
+2011,-4,US-AZ Arizona,Female,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,38,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,41,English,Married,Middle,Upper middle class,1
+2011,-4,US-AZ Arizona,Female,42,English,Living together as married,Higher,Working class,1
+2011,-4,US-AZ Arizona,Female,43,English,Married,Middle,Upper middle class,1
+2011,-4,US-AZ Arizona,Female,46,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-AZ Arizona,Female,48,English,Married,Middle,Working class,1
+2011,-4,US-AZ Arizona,Female,53,English,Married,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,56,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-AZ Arizona,Female,60,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,62,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,65,English,Divorced,Higher,Working class,1
+2011,-4,US-AZ Arizona,Female,66,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Female,67,English,Married,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Female,69,English,Married,Middle,Working class,1
+2011,-4,US-AZ Arizona,Male,19,Spanish; Castilian,Single,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,20,English,Single,Higher,Working class,1
+2011,-4,US-AZ Arizona,Male,21,English,Married,Higher,Working class,1
+2011,-4,US-AZ Arizona,Male,26,English,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,33,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,35,English,Living together as married,Middle,Working class,1
+2011,-4,US-AZ Arizona,Male,41,English,Married,Higher,Lower class,1
+2011,-4,US-AZ Arizona,Male,42,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,42,English,Single,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,43,English,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,48,English,Married,Higher,Working class,1
+2011,-4,US-AZ Arizona,Male,49,English,Married,Middle,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,61,English,Married,Higher,Upper middle class,2
+2011,-4,US-AZ Arizona,Male,65,English,Married,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,66,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,69,English,Married,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,71,English,Married,Higher,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,74,English,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,79,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,80,English,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,81,English,Married,Middle,Lower middle class,1
+2011,-4,US-AZ Arizona,Male,81,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,83,Standard Chinese; Mandarin; Putonghua; Guoyu,Married,Higher,Upper middle class,1
+2011,-4,US-AZ Arizona,Male,88,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,19,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,19,English,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,19,English,Single,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,20,English,Single,Middle,Working class,1
+2011,-4,US-CA California,Female,22,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Female,22,English,Single,Middle,Lower class,1
+2011,-4,US-CA California,Female,22,English,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,23,English,Married,Higher,Lower class,1
+2011,-4,US-CA California,Female,23,English,Single,Higher,Lower middle class,2
+2011,-4,US-CA California,Female,23,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Female,24,English,Living together as married,Middle,Working class,1
+2011,-4,US-CA California,Female,24,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,25,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,25,English,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,26,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,27,English,Living together as married,Higher,Lower class,1
+2011,-4,US-CA California,Female,27,No answer,Separated,Middle,No answer,1
+2011,-4,US-CA California,Female,28,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,29,English,Living together as married,Middle,Working class,1
+2011,-4,US-CA California,Female,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,31,Standard Chinese; Mandarin; Putonghua; Guoyu,Living together as married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,32,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,32,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,32,English,Single,Middle,Working class,1
+2011,-4,US-CA California,Female,33,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,34,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,34,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,34,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,34,English,Single,Middle,Working class,1
+2011,-4,US-CA California,Female,34,Spanish; Castilian,Married,Lower,Upper middle class,1
+2011,-4,US-CA California,Female,35,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Female,35,Spanish; Castilian,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,36,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,36,English,Married,Higher,Upper middle class,2
+2011,-4,US-CA California,Female,36,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Female,36,Spanish; Castilian,Separated,Middle,Lower class,1
+2011,-4,US-CA California,Female,37,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,37,Spanish; Castilian,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,38,English,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,38,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,38,Spanish; Castilian,Living together as married,Middle,Working class,1
+2011,-4,US-CA California,Female,38,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,39,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,40,English,Married,Higher,Lower middle class,2
+2011,-4,US-CA California,Female,40,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,42,No answer,Married,Higher,No answer,1
+2011,-4,US-CA California,Female,44,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,44,English,Separated,Higher,Working class,1
+2011,-4,US-CA California,Female,44,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Female,45,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,46,English,Divorced,Higher,Working class,1
+2011,-4,US-CA California,Female,46,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,47,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,47,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,47,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,47,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,47,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Female,48,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Female,48,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,50,English,Married,Higher,No answer,1
+2011,-4,US-CA California,Female,50,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,52,English,Living together as married,Higher,Working class,1
+2011,-4,US-CA California,Female,52,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,52,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,53,English,Divorced,Middle,Lower class,1
+2011,-4,US-CA California,Female,53,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,53,Spanish; Castilian,Divorced,Higher,Working class,1
+2011,-4,US-CA California,Female,54,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Female,54,English,Married,Lower,Lower middle class,1
+2011,-4,US-CA California,Female,54,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,55,English,Living together as married,Higher,Working class,1
+2011,-4,US-CA California,Female,55,English,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,56,English,Divorced,Higher,Working class,1
+2011,-4,US-CA California,Female,56,English,Divorced,Middle,Lower class,1
+2011,-4,US-CA California,Female,56,English,Living together as married,Middle,Working class,1
+2011,-4,US-CA California,Female,57,English,Widowed,Higher,No answer,1
+2011,-4,US-CA California,Female,58,English,Married,Higher,Upper class,1
+2011,-4,US-CA California,Female,58,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,58,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-CA California,Female,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,60,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,60,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-CA California,Female,60,Spanish; Castilian,Separated,Lower,Working class,1
+2011,-4,US-CA California,Female,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,61,English,Married,Higher,Working class,2
+2011,-4,US-CA California,Female,61,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,61,English,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,62,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,63,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,63,English,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,64,English,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,65,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,65,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Female,66,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,66,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,66,English,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,67,English,Widowed,Higher,Working class,1
+2011,-4,US-CA California,Female,69,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,70,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,70,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-CA California,Female,71,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,74,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,75,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,75,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,76,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,79,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,80,English,Divorced,Middle,Working class,1
+2011,-4,US-CA California,Female,80,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Female,81,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,83,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,85,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-CA California,Female,85,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-CA California,Female,87,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,18,English,Single,Middle,Lower class,1
+2011,-4,US-CA California,Male,19,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,20,Spanish; Castilian,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,21,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,21,Spanish; Castilian,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,22,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,22,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,22,English,Single,Higher,No answer,1
+2011,-4,US-CA California,Male,23,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,23,Spanish; Castilian,Living together as married,Middle,Working class,2
+2011,-4,US-CA California,Male,23,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,24,English,Living together as married,Middle,Upper class,1
+2011,-4,US-CA California,Male,24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,25,Spanish; Castilian,Living together as married,Middle,Working class,1
+2011,-4,US-CA California,Male,25,Standard Chinese; Mandarin; Putonghua; Guoyu,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,26,English,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,26,English,Single,Middle,Working class,1
+2011,-4,US-CA California,Male,26,Other,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,26,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-CA California,Male,27,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,27,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Male,27,English,Single,Middle,No answer,1
+2011,-4,US-CA California,Male,27,Spanish; Castilian,Single,Higher,Upper class,1
+2011,-4,US-CA California,Male,28,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,28,Standard Chinese; Mandarin; Putonghua; Guoyu,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,29,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,29,English,Married,Higher,No answer,1
+2011,-4,US-CA California,Male,29,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,29,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Male,29,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,29,Spanish; Castilian,Married,Middle,No answer,1
+2011,-4,US-CA California,Male,29,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,29,Spanish; Castilian,Single,Middle,Working class,1
+2011,-4,US-CA California,Male,30,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,30,Other,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,32,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,32,Japanese,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,32,No answer,Married,Middle,No answer,1
+2011,-4,US-CA California,Male,34,English,Married,Higher,Working class,2
+2011,-4,US-CA California,Male,35,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,35,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-CA California,Male,36,English,Married,Higher,Upper class,1
+2011,-4,US-CA California,Male,36,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,36,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-CA California,Male,37,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,37,English,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,37,English,Single,Middle,Working class,1
+2011,-4,US-CA California,Male,37,No answer,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,37,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,38,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,38,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,41,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,41,English,Divorced,Middle,Working class,1
+2011,-4,US-CA California,Male,41,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,41,English,Married,Higher,Upper middle class,3
+2011,-4,US-CA California,Male,41,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,41,English,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,41,English,Single,Middle,Working class,1
+2011,-4,US-CA California,Male,41,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,42,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,42,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,43,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,44,English,Married,Higher,Upper middle class,3
+2011,-4,US-CA California,Male,44,Spanish; Castilian,Married,Middle,Lower class,1
+2011,-4,US-CA California,Male,45,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,46,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,46,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,48,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Male,48,Spanish; Castilian,Married,Lower,Lower class,1
+2011,-4,US-CA California,Male,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,49,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,49,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,49,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,49,English,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,50,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,50,Spanish; Castilian,Married,Middle,Upper class,1
+2011,-4,US-CA California,Male,50,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,51,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,52,English,Married,Higher,Upper middle class,2
+2011,-4,US-CA California,Male,52,English,Single,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,53,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,53,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,53,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,53,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-CA California,Male,53,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-CA California,Male,54,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,54,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,55,English,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,55,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,55,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,55,Other,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,56,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,56,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,56,English,Married,Middle,Working class,1
+2011,-4,US-CA California,Male,56,English,Separated,Lower,Lower middle class,1
+2011,-4,US-CA California,Male,56,English,Single,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,57,English,Divorced,Middle,Lower class,1
+2011,-4,US-CA California,Male,57,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,58,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,60,Other,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,62,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,62,English,Married,Middle,Lower middle class,1
+2011,-4,US-CA California,Male,62,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,62,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2011,-4,US-CA California,Male,64,English,Married,Higher,Upper middle class,2
+2011,-4,US-CA California,Male,64,English,Single,Middle,Working class,1
+2011,-4,US-CA California,Male,65,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,65,English,Single,Higher,Working class,1
+2011,-4,US-CA California,Male,65,Spanish; Castilian,Divorced,Lower,Working class,1
+2011,-4,US-CA California,Male,66,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,67,English,Widowed,Middle,Working class,1
+2011,-4,US-CA California,Male,68,English,Married,Higher,Upper middle class,2
+2011,-4,US-CA California,Male,68,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-CA California,Male,70,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,70,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,70,Other,Married,Higher,Upper middle class,1
+2011,-4,US-CA California,Male,70,Other,Married,Higher,Working class,1
+2011,-4,US-CA California,Male,72,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,73,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,74,English,Married,Higher,Upper middle class,2
+2011,-4,US-CA California,Male,78,English,Single,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,80,English,Married,Middle,Upper middle class,1
+2011,-4,US-CA California,Male,82,English,Married,Higher,Lower middle class,1
+2011,-4,US-CA California,Male,84,English,Married,Middle,Lower middle class,1
+2011,-4,US-CO Colorado,Female,19,English,Living together as married,Middle,Working class,1
+2011,-4,US-CO Colorado,Female,20,English,Single,Middle,Working class,1
+2011,-4,US-CO Colorado,Female,26,English,Separated,Middle,Working class,1
+2011,-4,US-CO Colorado,Female,27,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CO Colorado,Female,27,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CO Colorado,Female,30,English,Married,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Female,34,English,Living together as married,Higher,Working class,1
+2011,-4,US-CO Colorado,Female,34,English,Married,Higher,Upper middle class,1
+2011,-4,US-CO Colorado,Female,37,English,Married,Middle,Upper middle class,1
+2011,-4,US-CO Colorado,Female,41,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Female,46,English,Married,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Female,50,English,Married,Higher,Upper middle class,1
+2011,-4,US-CO Colorado,Female,51,English,Widowed,Higher,Working class,1
+2011,-4,US-CO Colorado,Female,52,English,Single,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Female,53,English,Married,Middle,Working class,1
+2011,-4,US-CO Colorado,Female,55,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CO Colorado,Female,55,English,Married,Higher,Upper middle class,1
+2011,-4,US-CO Colorado,Female,61,English,Married,Middle,Lower middle class,1
+2011,-4,US-CO Colorado,Female,64,English,Married,Middle,Working class,1
+2011,-4,US-CO Colorado,Male,28,English,Married,Higher,Working class,1
+2011,-4,US-CO Colorado,Male,30,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-CO Colorado,Male,39,English,Married,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Male,39,English,Married,Middle,Working class,1
+2011,-4,US-CO Colorado,Male,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-CO Colorado,Male,50,English,Married,Middle,Lower middle class,1
+2011,-4,US-CO Colorado,Male,53,English,Married,Middle,Working class,1
+2011,-4,US-CO Colorado,Male,57,English,Married,Higher,Working class,1
+2011,-4,US-CO Colorado,Male,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Male,63,No answer,Married,Middle,Working class,1
+2011,-4,US-CO Colorado,Male,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-CO Colorado,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Male,68,English,Married,Middle,Lower middle class,2
+2011,-4,US-CO Colorado,Male,69,English,Married,Higher,Working class,1
+2011,-4,US-CO Colorado,Male,79,English,Married,Higher,Upper middle class,1
+2011,-4,US-CO Colorado,Male,79,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-CO Colorado,Male,81,English,Divorced,Middle,Working class,1
+2011,-4,US-CO Colorado,Male,81,English,Married,Higher,Working class,1
+2011,-4,US-CT Connecticut,Female,18,English,Single,Middle,Upper middle class,1
+2011,-4,US-CT Connecticut,Female,20,English,Single,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,27,English,Living together as married,Higher,Working class,1
+2011,-4,US-CT Connecticut,Female,34,English,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,38,English,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,40,English,Married,Higher,Upper class,1
+2011,-4,US-CT Connecticut,Female,47,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,54,Other,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,56,English,Divorced,Higher,Working class,1
+2011,-4,US-CT Connecticut,Female,57,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,57,English,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,59,English,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Female,60,English,Living together as married,Middle,Upper middle class,1
+2011,-4,US-CT Connecticut,Female,66,English,Married,Middle,Upper middle class,1
+2011,-4,US-CT Connecticut,Female,67,English,Married,Middle,Upper middle class,1
+2011,-4,US-CT Connecticut,Female,76,English,Married,Middle,Upper middle class,1
+2011,-4,US-CT Connecticut,Male,21,English,Single,Higher,Upper middle class,1
+2011,-4,US-CT Connecticut,Male,42,English,Single,Middle,Lower middle class,1
+2011,-4,US-CT Connecticut,Male,44,English,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Male,48,English,Married,Middle,Lower middle class,1
+2011,-4,US-CT Connecticut,Male,50,Spanish; Castilian,Divorced,Middle,Upper middle class,1
+2011,-4,US-CT Connecticut,Male,52,English,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Male,54,English,Living together as married,Middle,Working class,1
+2011,-4,US-CT Connecticut,Male,54,English,Married,Middle,Upper middle class,1
+2011,-4,US-CT Connecticut,Male,58,English,Married,Higher,Lower middle class,1
+2011,-4,US-CT Connecticut,Male,58,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-CT Connecticut,Male,63,English,Divorced,Higher,Working class,1
+2011,-4,US-CT Connecticut,Male,70,English,Married,Higher,Upper middle class,1
+2011,-4,US-CT Connecticut,Male,74,English,Married,Higher,Lower middle class,1
+2011,-4,US-DC District of Columbia,Female,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-DC District of Columbia,Female,54,English,Married,Middle,Lower class,1
+2011,-4,US-DC District of Columbia,Female,64,English,Married,Middle,Upper middle class,1
+2011,-4,US-DC District of Columbia,Male,23,English,Single,Middle,Lower class,1
+2011,-4,US-DC District of Columbia,Male,41,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-DE Delaware,Female,30,English,Married,Higher,Upper middle class,1
+2011,-4,US-DE Delaware,Female,37,English,Single,Higher,Lower middle class,1
+2011,-4,US-DE Delaware,Female,39,English,Single,Higher,Lower middle class,1
+2011,-4,US-DE Delaware,Female,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-DE Delaware,Female,49,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-DE Delaware,Female,50,English,Married,Higher,Upper middle class,2
+2011,-4,US-DE Delaware,Male,45,No answer,Married,Higher,No answer,1
+2011,-4,US-DE Delaware,Male,73,English,Married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,18,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,21,English,Single,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,21,English,Single,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Female,22,English,Living together as married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,23,English,Single,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,23,English,Single,Higher,Working class,1
+2011,-4,US-FL Florida,Female,24,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,24,English,Single,Middle,Upper class,1
+2011,-4,US-FL Florida,Female,26,English,Living together as married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,26,English,Married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,26,English,Single,Higher,Working class,1
+2011,-4,US-FL Florida,Female,27,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,27,English,Living together as married,Middle,Working class,1
+2011,-4,US-FL Florida,Female,28,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,29,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Female,30,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,30,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,33,English,Single,Higher,Lower class,1
+2011,-4,US-FL Florida,Female,36,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,36,English,Single,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,37,English,Separated,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,38,English,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Female,39,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,40,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,40,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,41,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,42,English,Living together as married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,43,English,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Female,43,English,Single,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,44,English,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Female,45,English,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Female,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,47,English,Married,Middle,Lower middle class,2
+2011,-4,US-FL Florida,Female,48,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,50,English,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Female,51,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,52,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,52,English,Married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,55,English,Divorced,Middle,Working class,1
+2011,-4,US-FL Florida,Female,55,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,55,English,Separated,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,56,English,Married,Lower,Lower middle class,1
+2011,-4,US-FL Florida,Female,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,58,English,Married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,59,English,Divorced,Middle,Working class,1
+2011,-4,US-FL Florida,Female,60,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,61,English,Married,Higher,Upper class,1
+2011,-4,US-FL Florida,Female,62,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,63,English,Married,Middle,Upper class,1
+2011,-4,US-FL Florida,Female,64,English,Divorced,Higher,Lower class,1
+2011,-4,US-FL Florida,Female,64,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,64,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,66,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,67,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,68,English,Divorced,Higher,Working class,1
+2011,-4,US-FL Florida,Female,68,English,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Female,68,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,68,English,Widowed,Middle,Working class,1
+2011,-4,US-FL Florida,Female,69,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Female,70,English,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Female,70,English,Married,Middle,Working class,2
+2011,-4,US-FL Florida,Female,72,English,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Female,76,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,77,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,77,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,80,English,Married,Higher,Working class,1
+2011,-4,US-FL Florida,Female,83,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Female,85,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Female,93,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Male,20,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,21,English,Single,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,22,English,Single,Higher,Working class,1
+2011,-4,US-FL Florida,Male,22,English,Single,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Male,22,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Male,22,Spanish; Castilian,Single,Middle,Lower class,1
+2011,-4,US-FL Florida,Male,23,English,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Male,23,English,Single,Higher,Working class,1
+2011,-4,US-FL Florida,Male,23,Spanish; Castilian,Single,Higher,Working class,1
+2011,-4,US-FL Florida,Male,24,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,26,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,28,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,28,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,28,English,Single,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,29,English,Married,Higher,Working class,1
+2011,-4,US-FL Florida,Male,30,No answer,Living together as married,Middle,No answer,1
+2011,-4,US-FL Florida,Male,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,33,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,33,English,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Male,34,English,Living together as married,Middle,Working class,1
+2011,-4,US-FL Florida,Male,34,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,36,English,Separated,Middle,Lower class,1
+2011,-4,US-FL Florida,Male,37,English,Single,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,38,English,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Male,39,English,Single,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,47,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,48,English,Divorced,Middle,Lower class,1
+2011,-4,US-FL Florida,Male,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,51,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,51,English,Single,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,52,English,Married,Middle,Working class,2
+2011,-4,US-FL Florida,Male,53,English,Single,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,55,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Male,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,57,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,59,English,Single,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,60,Spanish; Castilian,Single,Lower,Working class,1
+2011,-4,US-FL Florida,Male,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,63,English,Living together as married,Middle,Working class,1
+2011,-4,US-FL Florida,Male,63,English,Married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,63,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,64,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-FL Florida,Male,65,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,66,English,Widowed,Higher,Working class,1
+2011,-4,US-FL Florida,Male,68,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,68,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,69,English,Married,Higher,Upper class,1
+2011,-4,US-FL Florida,Male,69,English,Married,Higher,Upper middle class,2
+2011,-4,US-FL Florida,Male,70,English,Married,Middle,Lower class,1
+2011,-4,US-FL Florida,Male,71,English,Married,Higher,Working class,1
+2011,-4,US-FL Florida,Male,71,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,72,English,Married,Middle,Lower middle class,3
+2011,-4,US-FL Florida,Male,72,English,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Male,74,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,74,English,Married,Middle,Lower middle class,1
+2011,-4,US-FL Florida,Male,74,English,Separated,Middle,Working class,1
+2011,-4,US-FL Florida,Male,76,English,Married,Higher,Upper middle class,1
+2011,-4,US-FL Florida,Male,77,English,Married,Middle,Upper middle class,1
+2011,-4,US-FL Florida,Male,78,English,Married,Middle,Working class,1
+2011,-4,US-FL Florida,Male,87,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,19,English,Single,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,20,English,Single,Middle,Working class,1
+2011,-4,US-GA Georgia,Female,20,Spanish; Castilian,Single,Higher,Working class,1
+2011,-4,US-GA Georgia,Female,24,English,Single,Higher,Working class,1
+2011,-4,US-GA Georgia,Female,24,English,Single,Middle,Lower class,1
+2011,-4,US-GA Georgia,Female,26,English,Married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Female,27,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-GA Georgia,Female,29,English,Single,Higher,No answer,1
+2011,-4,US-GA Georgia,Female,31,English,Single,Middle,Lower class,2
+2011,-4,US-GA Georgia,Female,32,English,Married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Female,33,English,Married,Higher,Working class,1
+2011,-4,US-GA Georgia,Female,34,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Female,39,English,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,39,English,Married,Higher,Working class,1
+2011,-4,US-GA Georgia,Female,41,English,Divorced,Higher,Working class,1
+2011,-4,US-GA Georgia,Female,41,English,Married,Higher,Working class,1
+2011,-4,US-GA Georgia,Female,44,English,Married,Middle,Lower middle class,1
+2011,-4,US-GA Georgia,Female,46,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,47,English,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,49,English,Single,Higher,Working class,1
+2011,-4,US-GA Georgia,Female,51,English,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,55,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,55,English,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,59,English,Divorced,Middle,Working class,1
+2011,-4,US-GA Georgia,Female,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Female,62,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,62,English,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,63,English,Widowed,Middle,Working class,1
+2011,-4,US-GA Georgia,Female,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Female,66,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-GA Georgia,Female,73,English,Married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Female,74,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-GA Georgia,Female,76,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Female,77,English,Married,Middle,Upper middle class,1
+2011,-4,US-GA Georgia,Male,18,English,Single,Middle,Lower middle class,1
+2011,-4,US-GA Georgia,Male,19,English,Single,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Male,19,English,Single,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,22,English,Single,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Male,24,English,Single,Higher,Working class,1
+2011,-4,US-GA Georgia,Male,25,English,Single,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Male,25,English,Single,Higher,Upper middle class,1
+2011,-4,US-GA Georgia,Male,28,English,Single,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,29,English,Married,Higher,Working class,1
+2011,-4,US-GA Georgia,Male,34,English,Widowed,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,35,English,Living together as married,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,35,English,Married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Male,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Male,41,English,Married,Middle,Upper middle class,1
+2011,-4,US-GA Georgia,Male,42,English,Married,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Male,42,English,Married,Middle,Lower class,1
+2011,-4,US-GA Georgia,Male,42,English,Married,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,49,English,Single,Middle,Lower class,1
+2011,-4,US-GA Georgia,Male,51,English,Married,Middle,Lower middle class,1
+2011,-4,US-GA Georgia,Male,52,English,Married,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,53,English,Married,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,57,English,Single,Higher,Lower middle class,1
+2011,-4,US-GA Georgia,Male,63,English,Divorced,Middle,Working class,2
+2011,-4,US-GA Georgia,Male,64,English,Married,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,73,English,Married,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,80,English,Widowed,Middle,Working class,1
+2011,-4,US-GA Georgia,Male,82,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-HI Hawaii,Female,56,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-HI Hawaii,Male,72,English,Married,Middle,Upper middle class,1
+2011,-4,US-IA Iowa,Female,20,English,Single,Middle,Lower middle class,1
+2011,-4,US-IA Iowa,Female,21,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-IA Iowa,Female,22,English,Living together as married,Higher,Working class,1
+2011,-4,US-IA Iowa,Female,24,English,Married,Higher,Upper middle class,1
+2011,-4,US-IA Iowa,Female,47,English,Married,Higher,Upper class,1
+2011,-4,US-IA Iowa,Female,49,English,Married,Middle,Working class,1
+2011,-4,US-IA Iowa,Female,50,English,Married,Higher,Lower middle class,1
+2011,-4,US-IA Iowa,Female,51,English,Married,Higher,Lower middle class,1
+2011,-4,US-IA Iowa,Female,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-IA Iowa,Female,56,English,Divorced,Middle,Working class,1
+2011,-4,US-IA Iowa,Female,57,English,Married,Middle,Lower middle class,1
+2011,-4,US-IA Iowa,Female,58,English,Married,Higher,Working class,1
+2011,-4,US-IA Iowa,Female,63,English,Married,Higher,No answer,1
+2011,-4,US-IA Iowa,Female,63,English,Married,Middle,Upper middle class,1
+2011,-4,US-IA Iowa,Female,66,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-IA Iowa,Female,71,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-IA Iowa,Male,19,English,Single,Middle,Working class,1
+2011,-4,US-IA Iowa,Male,22,Spanish; Castilian,Single,Middle,Upper middle class,1
+2011,-4,US-IA Iowa,Male,31,English,Married,Middle,Working class,1
+2011,-4,US-IA Iowa,Male,35,English,Married,Higher,Lower middle class,1
+2011,-4,US-IA Iowa,Male,52,English,Living together as married,Middle,Upper middle class,1
+2011,-4,US-IA Iowa,Male,52,English,Single,Higher,Upper middle class,1
+2011,-4,US-IA Iowa,Male,54,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-IA Iowa,Male,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-IA Iowa,Male,65,English,Married,Higher,Working class,1
+2011,-4,US-IA Iowa,Male,79,English,Married,Higher,Upper middle class,1
+2011,-4,US-IA Iowa,Male,83,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-ID Idaho,Female,49,English,Separated,Middle,Lower class,1
+2011,-4,US-ID Idaho,Female,50,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-ID Idaho,Female,56,English,Single,Higher,Lower class,1
+2011,-4,US-ID Idaho,Female,60,Spanish; Castilian,Single,Middle,Working class,1
+2011,-4,US-ID Idaho,Male,19,English,Living together as married,Higher,Lower class,1
+2011,-4,US-ID Idaho,Male,19,English,Single,Middle,No answer,1
+2011,-4,US-ID Idaho,Male,28,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-ID Idaho,Male,54,No answer,Divorced,Middle,No answer,1
+2011,-4,US-ID Idaho,Male,60,English,Divorced,Middle,Working class,1
+2011,-4,US-ID Idaho,Male,65,No answer,Separated,Middle,No answer,1
+2011,-4,US-ID Idaho,Male,69,English,Married,Middle,Lower middle class,1
+2011,-4,US-IL Illinois,Female,19,No answer,Single,Higher,No answer,1
+2011,-4,US-IL Illinois,Female,20,English,Single,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,20,English,Single,Middle,Upper middle class,1
+2011,-4,US-IL Illinois,Female,21,English,Living together as married,Higher,Lower class,1
+2011,-4,US-IL Illinois,Female,22,English,Single,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,28,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,36,English,Divorced,Higher,Working class,1
+2011,-4,US-IL Illinois,Female,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,37,English,Single,Higher,Working class,1
+2011,-4,US-IL Illinois,Female,38,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,40,English,Married,Higher,Working class,1
+2011,-4,US-IL Illinois,Female,42,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,44,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-IL Illinois,Female,45,English,Married,Higher,Upper class,1
+2011,-4,US-IL Illinois,Female,46,English,Living together as married,Middle,Upper middle class,1
+2011,-4,US-IL Illinois,Female,46,English,Married,Middle,Lower class,1
+2011,-4,US-IL Illinois,Female,48,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,49,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,50,English,Divorced,Middle,Lower class,1
+2011,-4,US-IL Illinois,Female,51,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,51,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,52,English,Married,Higher,Lower middle class,2
+2011,-4,US-IL Illinois,Female,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,54,English,Married,Middle,Lower middle class,1
+2011,-4,US-IL Illinois,Female,57,English,Divorced,Middle,Lower class,1
+2011,-4,US-IL Illinois,Female,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,58,Other,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,60,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,61,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,61,English,Divorced,Middle,Working class,1
+2011,-4,US-IL Illinois,Female,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,61,English,Married,Middle,Upper middle class,1
+2011,-4,US-IL Illinois,Female,63,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Female,64,English,Married,Middle,Lower class,1
+2011,-4,US-IL Illinois,Female,65,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,66,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-IL Illinois,Female,67,English,Divorced,Middle,Lower class,1
+2011,-4,US-IL Illinois,Female,67,English,Married,Middle,Lower middle class,1
+2011,-4,US-IL Illinois,Female,70,English,Divorced,Higher,Lower class,1
+2011,-4,US-IL Illinois,Female,71,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,71,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-IL Illinois,Female,75,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Female,80,English,Single,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,19,English,Single,Middle,Working class,1
+2011,-4,US-IL Illinois,Male,20,No answer,Single,Higher,No answer,1
+2011,-4,US-IL Illinois,Male,21,English,Living together as married,Middle,Upper class,1
+2011,-4,US-IL Illinois,Male,23,English,Single,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,25,English,Single,Higher,Working class,1
+2011,-4,US-IL Illinois,Male,26,English,Single,Middle,Lower middle class,1
+2011,-4,US-IL Illinois,Male,28,English,Single,Middle,Upper middle class,1
+2011,-4,US-IL Illinois,Male,32,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Male,36,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,42,English,Married,Higher,Lower middle class,1
+2011,-4,US-IL Illinois,Male,42,English,Married,Higher,Working class,1
+2011,-4,US-IL Illinois,Male,43,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-IL Illinois,Male,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,45,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,46,English,Married,Middle,Working class,1
+2011,-4,US-IL Illinois,Male,47,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,47,English,Married,Middle,Working class,1
+2011,-4,US-IL Illinois,Male,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,50,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,51,English,Single,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,52,English,Married,Middle,Working class,2
+2011,-4,US-IL Illinois,Male,53,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,54,English,Divorced,Higher,Lower class,1
+2011,-4,US-IL Illinois,Male,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,57,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,59,English,Married,Middle,Working class,1
+2011,-4,US-IL Illinois,Male,59,English,Single,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,60,English,Divorced,Higher,Working class,1
+2011,-4,US-IL Illinois,Male,61,English,Married,Higher,Upper middle class,2
+2011,-4,US-IL Illinois,Male,62,English,Married,Middle,Lower middle class,1
+2011,-4,US-IL Illinois,Male,63,English,Married,Higher,Working class,1
+2011,-4,US-IL Illinois,Male,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,67,English,Married,Middle,Upper middle class,1
+2011,-4,US-IL Illinois,Male,73,English,Married,Higher,Upper middle class,1
+2011,-4,US-IL Illinois,Male,85,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Female,18,English,Single,Middle,Lower middle class,1
+2011,-4,US-IN Indiana,Female,19,English,Single,Middle,Upper middle class,1
+2011,-4,US-IN Indiana,Female,29,English,Living together as married,Middle,Working class,1
+2011,-4,US-IN Indiana,Female,31,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-IN Indiana,Female,33,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Female,34,English,Single,Middle,Lower middle class,1
+2011,-4,US-IN Indiana,Female,38,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Female,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Female,42,English,Married,Middle,Lower middle class,1
+2011,-4,US-IN Indiana,Female,50,English,Married,Middle,Lower middle class,1
+2011,-4,US-IN Indiana,Female,52,English,Married,Middle,Lower middle class,1
+2011,-4,US-IN Indiana,Female,52,English,Single,Higher,Lower class,1
+2011,-4,US-IN Indiana,Female,54,English,Divorced,Middle,Working class,2
+2011,-4,US-IN Indiana,Female,59,English,Married,Higher,Working class,1
+2011,-4,US-IN Indiana,Female,61,English,Married,Middle,Lower middle class,1
+2011,-4,US-IN Indiana,Female,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Female,65,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-IN Indiana,Female,68,English,Married,Higher,Working class,1
+2011,-4,US-IN Indiana,Female,72,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Female,75,English,Married,Middle,Upper middle class,1
+2011,-4,US-IN Indiana,Female,79,English,Married,Middle,Working class,1
+2011,-4,US-IN Indiana,Male,19,English,Single,Middle,Upper middle class,1
+2011,-4,US-IN Indiana,Male,23,English,Single,Higher,Working class,1
+2011,-4,US-IN Indiana,Male,26,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Male,28,English,Single,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Male,28,English,Single,Higher,Working class,1
+2011,-4,US-IN Indiana,Male,32,English,Married,Middle,Lower class,1
+2011,-4,US-IN Indiana,Male,36,English,Married,Middle,Working class,1
+2011,-4,US-IN Indiana,Male,37,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Male,47,English,Married,Higher,Working class,1
+2011,-4,US-IN Indiana,Male,48,English,Married,Higher,Lower middle class,1
+2011,-4,US-IN Indiana,Male,49,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-IN Indiana,Male,52,English,Separated,Higher,Working class,1
+2011,-4,US-IN Indiana,Male,52,English,Single,Middle,Lower class,1
+2011,-4,US-IN Indiana,Male,53,English,Living together as married,Middle,Working class,1
+2011,-4,US-IN Indiana,Male,55,English,Married,Higher,Working class,1
+2011,-4,US-IN Indiana,Male,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-IN Indiana,Male,69,English,Married,Higher,Lower middle class,1
+2011,-4,US-IN Indiana,Male,71,English,Married,Higher,Upper middle class,1
+2011,-4,US-IN Indiana,Male,75,English,Married,Middle,Working class,1
+2011,-4,US-IN Indiana,Male,83,English,Married,Higher,Upper middle class,1
+2011,-4,US-KS Kansas,Female,25,English,Married,Higher,Upper middle class,1
+2011,-4,US-KS Kansas,Female,27,English,Single,Higher,Working class,1
+2011,-4,US-KS Kansas,Female,32,English,Married,Higher,Lower middle class,1
+2011,-4,US-KS Kansas,Female,34,English,Married,Higher,Working class,1
+2011,-4,US-KS Kansas,Female,38,English,Single,Middle,Working class,1
+2011,-4,US-KS Kansas,Female,45,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-KS Kansas,Female,50,Spanish; Castilian,Married,Lower,Upper middle class,1
+2011,-4,US-KS Kansas,Female,53,English,Married,Middle,Lower middle class,1
+2011,-4,US-KS Kansas,Female,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-KS Kansas,Female,60,English,Married,Middle,Working class,1
+2011,-4,US-KS Kansas,Female,61,English,Single,Higher,Lower middle class,1
+2011,-4,US-KS Kansas,Female,63,English,Married,Higher,Upper middle class,1
+2011,-4,US-KS Kansas,Female,70,English,Married,Higher,Upper middle class,1
+2011,-4,US-KS Kansas,Female,72,English,Married,Middle,Lower middle class,1
+2011,-4,US-KS Kansas,Male,30,Spanish; Castilian,Married,Higher,Working class,1
+2011,-4,US-KS Kansas,Male,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-KS Kansas,Male,49,English,Married,Higher,Lower middle class,1
+2011,-4,US-KS Kansas,Male,49,English,Married,Middle,Lower middle class,1
+2011,-4,US-KS Kansas,Male,54,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-KS Kansas,Male,59,English,Married,Middle,Working class,1
+2011,-4,US-KY Kentucky,Female,23,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Female,28,English,Married,Higher,Working class,1
+2011,-4,US-KY Kentucky,Female,28,English,Single,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Female,28,English,Single,Higher,Working class,1
+2011,-4,US-KY Kentucky,Female,31,English,Married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Female,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-KY Kentucky,Female,50,English,Married,Higher,Upper middle class,1
+2011,-4,US-KY Kentucky,Female,51,English,Married,Middle,Working class,1
+2011,-4,US-KY Kentucky,Female,52,English,Married,Middle,Working class,1
+2011,-4,US-KY Kentucky,Female,53,English,Married,Higher,Upper middle class,1
+2011,-4,US-KY Kentucky,Female,56,English,Single,Higher,Working class,1
+2011,-4,US-KY Kentucky,Female,57,English,Divorced,Middle,Lower class,1
+2011,-4,US-KY Kentucky,Female,61,English,Married,Middle,Working class,1
+2011,-4,US-KY Kentucky,Female,63,English,Divorced,Higher,Working class,1
+2011,-4,US-KY Kentucky,Female,64,English,Married,Middle,Lower middle class,1
+2011,-4,US-KY Kentucky,Female,67,English,Married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Female,73,English,Married,Middle,Upper middle class,1
+2011,-4,US-KY Kentucky,Male,23,English,Separated,Higher,Working class,1
+2011,-4,US-KY Kentucky,Male,25,English,Single,Middle,Lower class,1
+2011,-4,US-KY Kentucky,Male,27,English,Married,Middle,Lower middle class,1
+2011,-4,US-KY Kentucky,Male,30,English,Married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Male,37,English,Married,Middle,Working class,1
+2011,-4,US-KY Kentucky,Male,39,English,Married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Male,41,English,Living together as married,Lower,Lower class,1
+2011,-4,US-KY Kentucky,Male,46,English,Married,Higher,Upper middle class,1
+2011,-4,US-KY Kentucky,Male,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Male,57,English,Married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Male,58,English,Married,Middle,Working class,1
+2011,-4,US-KY Kentucky,Male,59,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Male,69,English,Married,Higher,Upper middle class,1
+2011,-4,US-KY Kentucky,Male,77,English,Married,Higher,Lower middle class,1
+2011,-4,US-KY Kentucky,Male,83,English,Married,Middle,Lower middle class,1
+2011,-4,US-LA Louisiana,Female,30,English,Married,Higher,Working class,1
+2011,-4,US-LA Louisiana,Female,30,English,Married,Middle,Upper class,1
+2011,-4,US-LA Louisiana,Female,49,English,Married,Middle,Working class,1
+2011,-4,US-LA Louisiana,Female,51,English,Married,Middle,Upper middle class,1
+2011,-4,US-LA Louisiana,Female,61,English,Divorced,Middle,Working class,1
+2011,-4,US-LA Louisiana,Female,63,English,Married,Higher,Working class,1
+2011,-4,US-LA Louisiana,Female,72,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-LA Louisiana,Female,73,English,Married,Higher,Upper middle class,1
+2011,-4,US-LA Louisiana,Female,74,English,Married,Middle,Upper middle class,1
+2011,-4,US-LA Louisiana,Female,76,English,Married,Higher,Lower middle class,1
+2011,-4,US-LA Louisiana,Male,22,English,Single,Higher,Upper middle class,1
+2011,-4,US-LA Louisiana,Male,26,English,Married,Middle,Lower class,1
+2011,-4,US-LA Louisiana,Male,38,English,Married,Middle,Lower middle class,1
+2011,-4,US-LA Louisiana,Male,40,English,Married,Higher,Upper middle class,1
+2011,-4,US-LA Louisiana,Male,41,English,Single,Higher,Working class,1
+2011,-4,US-LA Louisiana,Male,44,English,Living together as married,Middle,Working class,1
+2011,-4,US-LA Louisiana,Male,44,English,Married,Higher,Lower middle class,1
+2011,-4,US-LA Louisiana,Male,48,English,Single,Higher,Lower middle class,1
+2011,-4,US-LA Louisiana,Male,60,English,Married,Middle,Lower middle class,1
+2011,-4,US-LA Louisiana,Male,63,English,Married,Higher,Working class,1
+2011,-4,US-LA Louisiana,Male,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-LA Louisiana,Male,77,English,Married,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Female,19,Spanish; Castilian,Single,Middle,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,20,Spanish; Castilian,Single,Middle,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,23,English,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Female,24,English,Single,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,27,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,29,English,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Female,32,Other,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,36,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,41,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Female,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,47,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,49,English,Divorced,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Female,53,English,Divorced,Higher,Working class,1
+2011,-4,US-MA Massachusetts,Female,54,English,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Female,55,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,56,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Female,58,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,59,English,Married,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Female,60,English,Married,Higher,Upper middle class,2
+2011,-4,US-MA Massachusetts,Female,61,English,Single,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Female,61,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2011,-4,US-MA Massachusetts,Female,62,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,64,English,Divorced,Higher,Working class,1
+2011,-4,US-MA Massachusetts,Female,69,English,Divorced,Higher,Working class,1
+2011,-4,US-MA Massachusetts,Female,75,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-MA Massachusetts,Female,77,English,Divorced,Higher,Upper class,1
+2011,-4,US-MA Massachusetts,Female,89,English,Married,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,19,English,Single,Middle,Upper middle class,1
+2011,-4,US-MA Massachusetts,Male,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Male,21,English,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,22,Spanish; Castilian,Single,Middle,Lower class,1
+2011,-4,US-MA Massachusetts,Male,24,Other,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,27,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,29,No answer,Married,Middle,No answer,1
+2011,-4,US-MA Massachusetts,Male,33,English,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,35,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Male,39,Other,Married,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,49,English,Divorced,Higher,Working class,1
+2011,-4,US-MA Massachusetts,Male,50,English,Divorced,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Male,50,English,Married,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,52,English,Married,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Male,52,English,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,54,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,54,English,Married,Higher,Upper middle class,2
+2011,-4,US-MA Massachusetts,Male,57,English,Single,Higher,Working class,1
+2011,-4,US-MA Massachusetts,Male,57,English,Single,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Male,59,French,Married,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Male,62,English,Married,Middle,Working class,1
+2011,-4,US-MA Massachusetts,Male,64,English,Married,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,70,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Male,70,English,Single,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,73,English,Married,Higher,Upper middle class,1
+2011,-4,US-MA Massachusetts,Male,74,English,Married,Higher,Lower middle class,1
+2011,-4,US-MA Massachusetts,Male,75,English,Married,Middle,Working class,1
+2011,-4,US-MD Maryland,Female,20,English,Single,Middle,Upper middle class,1
+2011,-4,US-MD Maryland,Female,21,English,Single,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Female,22,English,Single,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,23,English,Single,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,26,English,Married,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Female,32,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,33,English,Married,Higher,Upper class,1
+2011,-4,US-MD Maryland,Female,35,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,39,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,42,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-MD Maryland,Female,44,English,Married,Middle,Upper middle class,1
+2011,-4,US-MD Maryland,Female,47,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,49,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Female,49,English,Single,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Female,51,Other,Married,Middle,Lower middle class,1
+2011,-4,US-MD Maryland,Female,53,English,Married,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Female,53,Other,Divorced,Higher,Working class,1
+2011,-4,US-MD Maryland,Female,55,English,Married,Middle,Lower class,1
+2011,-4,US-MD Maryland,Female,59,English,Married,Middle,Lower middle class,1
+2011,-4,US-MD Maryland,Female,61,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,61,English,Married,Middle,Lower middle class,1
+2011,-4,US-MD Maryland,Female,62,English,Married,Middle,Working class,1
+2011,-4,US-MD Maryland,Female,63,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Female,64,English,Divorced,Middle,Working class,1
+2011,-4,US-MD Maryland,Female,65,English,Married,Middle,Lower middle class,1
+2011,-4,US-MD Maryland,Female,65,English,Single,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Male,19,English,Single,Middle,Upper middle class,1
+2011,-4,US-MD Maryland,Male,29,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Male,29,English,Single,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Male,39,English,Married,Higher,Working class,1
+2011,-4,US-MD Maryland,Male,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Male,42,English,Single,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Male,45,Spanish; Castilian,Separated,Higher,Working class,1
+2011,-4,US-MD Maryland,Male,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Male,54,English,Widowed,Middle,Working class,1
+2011,-4,US-MD Maryland,Male,57,English,Married,Higher,Upper middle class,1
+2011,-4,US-MD Maryland,Male,61,English,Married,Higher,Upper class,1
+2011,-4,US-MD Maryland,Male,61,English,Single,Higher,Lower class,1
+2011,-4,US-MD Maryland,Male,62,English,Married,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Male,69,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-MD Maryland,Male,74,English,Married,Higher,Lower middle class,1
+2011,-4,US-MD Maryland,Male,74,English,Widowed,Lower,Lower class,1
+2011,-4,US-ME Maine,Female,24,English,Married,Higher,Lower class,1
+2011,-4,US-ME Maine,Female,54,English,Single,Higher,Lower middle class,1
+2011,-4,US-ME Maine,Female,55,English,Married,Higher,Working class,1
+2011,-4,US-ME Maine,Female,59,English,Married,Middle,Working class,1
+2011,-4,US-ME Maine,Female,72,English,Married,Middle,Lower middle class,1
+2011,-4,US-ME Maine,Female,77,English,Married,Middle,Lower middle class,1
+2011,-4,US-ME Maine,Male,19,English,Single,Higher,No answer,1
+2011,-4,US-ME Maine,Male,32,English,Living together as married,Middle,Working class,1
+2011,-4,US-ME Maine,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-ME Maine,Male,67,English,Married,Middle,Working class,1
+2011,-4,US-MI Michigan,Female,22,English,Single,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,22,English,Single,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Female,27,English,Single,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,35,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,35,English,Married,Higher,Upper class,1
+2011,-4,US-MI Michigan,Female,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,38,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Female,41,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,45,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,46,English,Married,Middle,Working class,1
+2011,-4,US-MI Michigan,Female,48,English,Married,Higher,Lower class,1
+2011,-4,US-MI Michigan,Female,49,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Female,50,English,Married,Middle,Lower middle class,1
+2011,-4,US-MI Michigan,Female,51,English,Married,Middle,Upper middle class,1
+2011,-4,US-MI Michigan,Female,52,English,Married,Middle,Working class,1
+2011,-4,US-MI Michigan,Female,55,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,57,English,Single,Higher,Working class,1
+2011,-4,US-MI Michigan,Female,58,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-MI Michigan,Female,58,English,Married,Middle,Upper middle class,1
+2011,-4,US-MI Michigan,Female,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Female,62,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-MI Michigan,Female,65,English,Married,Middle,Upper middle class,1
+2011,-4,US-MI Michigan,Female,68,English,Widowed,Higher,Upper class,1
+2011,-4,US-MI Michigan,Female,69,English,Married,Middle,Lower middle class,1
+2011,-4,US-MI Michigan,Female,69,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-MI Michigan,Female,72,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Female,77,English,Married,Middle,Working class,1
+2011,-4,US-MI Michigan,Male,22,English,Single,Higher,Upper class,1
+2011,-4,US-MI Michigan,Male,25,English,Single,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,30,English,Single,Higher,Working class,1
+2011,-4,US-MI Michigan,Male,35,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,38,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,39,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,41,English,Married,Middle,Working class,1
+2011,-4,US-MI Michigan,Male,44,English,Single,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,48,English,Single,Middle,Upper middle class,1
+2011,-4,US-MI Michigan,Male,49,English,Living together as married,Higher,Working class,1
+2011,-4,US-MI Michigan,Male,50,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,52,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,53,English,Married,Higher,Working class,1
+2011,-4,US-MI Michigan,Male,55,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,55,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,57,English,Married,Middle,Upper middle class,1
+2011,-4,US-MI Michigan,Male,58,English,Single,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,60,English,Divorced,Middle,Working class,2
+2011,-4,US-MI Michigan,Male,60,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,61,English,Married,Middle,Working class,1
+2011,-4,US-MI Michigan,Male,62,English,Single,Middle,Lower class,1
+2011,-4,US-MI Michigan,Male,64,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,65,English,Divorced,Higher,Working class,1
+2011,-4,US-MI Michigan,Male,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,66,English,Married,Middle,Lower middle class,1
+2011,-4,US-MI Michigan,Male,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,71,English,Married,Higher,Upper middle class,1
+2011,-4,US-MI Michigan,Male,72,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,75,English,Married,Higher,Lower middle class,1
+2011,-4,US-MI Michigan,Male,76,English,Married,Middle,Working class,1
+2011,-4,US-MI Michigan,Male,77,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,26,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,29,English,Single,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,30,English,Single,Higher,Working class,1
+2011,-4,US-MN Minnesota,Female,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,51,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,51,English,Married,Middle,Working class,1
+2011,-4,US-MN Minnesota,Female,53,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,54,English,Married,Higher,Working class,1
+2011,-4,US-MN Minnesota,Female,55,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,55,English,Divorced,Middle,Working class,1
+2011,-4,US-MN Minnesota,Female,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,56,English,Single,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,60,English,Divorced,Middle,Lower class,1
+2011,-4,US-MN Minnesota,Female,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,60,English,Single,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,61,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,66,English,Widowed,Middle,Working class,1
+2011,-4,US-MN Minnesota,Female,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,68,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,69,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,71,English,Married,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Female,73,English,Married,Middle,Upper middle class,1
+2011,-4,US-MN Minnesota,Female,83,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,19,English,Single,Middle,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,20,English,Single,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,25,No answer,Living together as married,Higher,No answer,1
+2011,-4,US-MN Minnesota,Male,29,English,Married,Higher,Working class,1
+2011,-4,US-MN Minnesota,Male,30,Spanish; Castilian,Single,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,32,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,34,English,Married,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,40,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,43,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,46,English,Married,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,49,English,Single,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,50,English,Married,Higher,No answer,1
+2011,-4,US-MN Minnesota,Male,50,English,Married,Higher,Working class,1
+2011,-4,US-MN Minnesota,Male,51,English,Single,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,54,English,Married,Higher,Lower class,1
+2011,-4,US-MN Minnesota,Male,54,English,Married,Middle,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,55,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-MN Minnesota,Male,56,English,Married,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,59,English,Married,Higher,Upper middle class,2
+2011,-4,US-MN Minnesota,Male,59,English,Married,Middle,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,62,English,Single,Higher,Working class,1
+2011,-4,US-MN Minnesota,Male,68,No answer,Married,Middle,Working class,1
+2011,-4,US-MN Minnesota,Male,73,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-MN Minnesota,Male,75,English,Married,Middle,Working class,1
+2011,-4,US-MO Missouri,Female,19,English,Single,Middle,Lower middle class,1
+2011,-4,US-MO Missouri,Female,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Female,25,English,Married,Higher,Lower class,1
+2011,-4,US-MO Missouri,Female,27,English,Married,Higher,Working class,1
+2011,-4,US-MO Missouri,Female,34,English,Married,Higher,Working class,1
+2011,-4,US-MO Missouri,Female,37,English,Living together as married,Middle,Lower class,1
+2011,-4,US-MO Missouri,Female,37,English,Living together as married,Middle,Working class,1
+2011,-4,US-MO Missouri,Female,43,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MO Missouri,Female,49,English,Married,Higher,Lower middle class,1
+2011,-4,US-MO Missouri,Female,50,English,Married,Middle,Working class,1
+2011,-4,US-MO Missouri,Female,52,English,Married,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Female,53,English,Married,Middle,Lower middle class,1
+2011,-4,US-MO Missouri,Female,62,English,Married,Middle,Lower middle class,1
+2011,-4,US-MO Missouri,Female,63,English,Married,Middle,Upper middle class,1
+2011,-4,US-MO Missouri,Female,65,English,Married,Middle,Working class,1
+2011,-4,US-MO Missouri,Female,69,English,Married,Middle,Upper middle class,1
+2011,-4,US-MO Missouri,Female,72,English,Married,Higher,Lower middle class,1
+2011,-4,US-MO Missouri,Female,73,English,Married,Middle,Lower middle class,1
+2011,-4,US-MO Missouri,Female,75,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Male,25,English,Single,Higher,Working class,1
+2011,-4,US-MO Missouri,Male,35,English,Married,Middle,Working class,1
+2011,-4,US-MO Missouri,Male,42,English,Married,Higher,Lower middle class,1
+2011,-4,US-MO Missouri,Male,47,English,Living together as married,Middle,Working class,1
+2011,-4,US-MO Missouri,Male,49,English,Married,Middle,Upper middle class,1
+2011,-4,US-MO Missouri,Male,50,English,Married,Higher,Working class,1
+2011,-4,US-MO Missouri,Male,51,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-MO Missouri,Male,52,English,Separated,Middle,Working class,1
+2011,-4,US-MO Missouri,Male,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Male,54,English,Single,Middle,Lower class,1
+2011,-4,US-MO Missouri,Male,56,English,Living together as married,Middle,Lower class,1
+2011,-4,US-MO Missouri,Male,56,English,Married,Higher,Lower class,1
+2011,-4,US-MO Missouri,Male,57,English,Married,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Male,57,English,Married,Middle,Lower middle class,1
+2011,-4,US-MO Missouri,Male,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Male,60,English,Married,Middle,Lower middle class,1
+2011,-4,US-MO Missouri,Male,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Male,62,English,Single,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Male,65,English,Married,Higher,Lower middle class,1
+2011,-4,US-MO Missouri,Male,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-MO Missouri,Male,73,English,Divorced,Middle,Working class,1
+2011,-4,US-MO Missouri,Male,75,English,Married,Middle,Working class,1
+2011,-4,US-MO Missouri,Male,79,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-MS Mississippi,Female,23,English,Single,Higher,Upper middle class,1
+2011,-4,US-MS Mississippi,Female,42,English,Married,Higher,Working class,1
+2011,-4,US-MS Mississippi,Female,46,English,Married,Higher,Working class,1
+2011,-4,US-MS Mississippi,Female,48,English,Single,Higher,Working class,1
+2011,-4,US-MS Mississippi,Female,57,English,Divorced,Higher,Working class,1
+2011,-4,US-MS Mississippi,Female,59,Other,Married,Higher,Upper middle class,1
+2011,-4,US-MS Mississippi,Female,69,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-MS Mississippi,Female,73,English,Married,Middle,Upper middle class,1
+2011,-4,US-MS Mississippi,Female,73,English,Married,Middle,Working class,1
+2011,-4,US-MS Mississippi,Male,21,English,Single,Middle,Lower class,1
+2011,-4,US-MS Mississippi,Male,34,English,Single,Middle,Working class,1
+2011,-4,US-MS Mississippi,Male,37,Spanish; Castilian,Single,Middle,Upper middle class,1
+2011,-4,US-MS Mississippi,Male,38,English,Married,Middle,Lower class,1
+2011,-4,US-MS Mississippi,Male,50,English,Living together as married,Lower,Lower class,1
+2011,-4,US-MS Mississippi,Male,52,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-MS Mississippi,Male,63,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-MS Mississippi,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-MS Mississippi,Male,80,English,Married,Middle,Lower middle class,1
+2011,-4,US-MS Mississippi,Male,87,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-MT Montana,Female,25,English,Married,Higher,Upper middle class,1
+2011,-4,US-MT Montana,Female,31,English,Single,Higher,Upper middle class,1
+2011,-4,US-MT Montana,Female,76,English,Married,Higher,Lower middle class,1
+2011,-4,US-MT Montana,Male,39,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,18,English,Separated,Middle,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,18,English,Single,Middle,Working class,1
+2011,-4,US-NC North Carolina,Female,24,English,Single,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,29,English,Married,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,29,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,29,English,Married,Middle,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,30,English,Married,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,31,English,Married,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,33,English,Single,Middle,Working class,1
+2011,-4,US-NC North Carolina,Female,35,English,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Female,40,English,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Female,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,41,English,Married,Middle,Working class,1
+2011,-4,US-NC North Carolina,Female,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,51,English,Married,Middle,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,51,English,Single,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,52,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,53,English,Separated,Middle,Working class,1
+2011,-4,US-NC North Carolina,Female,54,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,56,English,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Female,57,English,Married,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,58,English,Single,Higher,Lower class,1
+2011,-4,US-NC North Carolina,Female,60,English,Divorced,Higher,Working class,1
+2011,-4,US-NC North Carolina,Female,60,English,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Female,61,English,Married,Middle,Lower class,1
+2011,-4,US-NC North Carolina,Female,62,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,64,English,Widowed,Middle,Working class,1
+2011,-4,US-NC North Carolina,Female,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Female,69,English,Married,Middle,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,70,English,Married,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Female,74,English,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Male,20,English,Single,Middle,Lower middle class,1
+2011,-4,US-NC North Carolina,Male,21,English,Divorced,Higher,Working class,1
+2011,-4,US-NC North Carolina,Male,30,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Male,39,English,Living together as married,Middle,Working class,1
+2011,-4,US-NC North Carolina,Male,39,English,Single,Higher,Working class,1
+2011,-4,US-NC North Carolina,Male,42,English,Living together as married,Middle,Working class,1
+2011,-4,US-NC North Carolina,Male,43,English,Living together as married,Middle,Lower class,1
+2011,-4,US-NC North Carolina,Male,43,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Male,44,English,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Male,45,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Male,46,English,Divorced,Higher,Working class,1
+2011,-4,US-NC North Carolina,Male,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Male,50,English,Living together as married,Middle,Working class,1
+2011,-4,US-NC North Carolina,Male,52,English,Married,Middle,Working class,1
+2011,-4,US-NC North Carolina,Male,53,English,Married,Middle,Lower middle class,1
+2011,-4,US-NC North Carolina,Male,53,English,Single,Middle,Upper middle class,1
+2011,-4,US-NC North Carolina,Male,54,English,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Male,54,Spanish; Castilian,Married,Higher,Working class,1
+2011,-4,US-NC North Carolina,Male,55,English,Married,Middle,Lower middle class,1
+2011,-4,US-NC North Carolina,Male,56,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-NC North Carolina,Male,59,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Male,62,English,Married,Higher,Lower middle class,1
+2011,-4,US-NC North Carolina,Male,64,English,Married,Higher,Lower middle class,2
+2011,-4,US-NC North Carolina,Male,73,English,Married,Middle,Working class,1
+2011,-4,US-NC North Carolina,Male,76,English,Married,Higher,Upper middle class,1
+2011,-4,US-ND North Dakota,Male,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-ND North Dakota,Male,21,English,Single,Higher,Lower middle class,1
+2011,-4,US-ND North Dakota,Male,42,English,Married,Higher,Lower middle class,1
+2011,-4,US-ND North Dakota,Male,57,English,Married,Higher,Upper middle class,1
+2011,-4,US-ND North Dakota,Male,63,English,Divorced,Middle,Working class,1
+2011,-4,US-ND North Dakota,Male,78,English,Married,Middle,Working class,1
+2011,-4,US-NE Nebraska,Female,26,English,Single,Higher,Working class,1
+2011,-4,US-NE Nebraska,Female,37,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-NE Nebraska,Female,43,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-NE Nebraska,Female,55,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-NE Nebraska,Female,56,English,Married,Higher,Upper middle class,1
+2011,-4,US-NE Nebraska,Female,57,English,Married,Higher,Lower middle class,1
+2011,-4,US-NE Nebraska,Female,57,English,Married,Higher,Working class,1
+2011,-4,US-NE Nebraska,Female,58,English,Married,Higher,Lower middle class,1
+2011,-4,US-NE Nebraska,Female,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-NE Nebraska,Female,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-NE Nebraska,Male,19,English,Single,Middle,Working class,1
+2011,-4,US-NE Nebraska,Male,32,English,Married,Middle,Lower class,1
+2011,-4,US-NE Nebraska,Male,38,English,Married,Middle,Lower middle class,1
+2011,-4,US-NE Nebraska,Male,54,English,Single,Higher,Working class,1
+2011,-4,US-NE Nebraska,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-NE Nebraska,Male,72,English,Married,Higher,Lower middle class,1
+2011,-4,US-NE Nebraska,Male,73,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-NH New Hampshire,Female,55,English,Married,Middle,Upper middle class,1
+2011,-4,US-NH New Hampshire,Female,70,English,Married,Higher,Upper middle class,1
+2011,-4,US-NH New Hampshire,Female,78,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-NH New Hampshire,Male,25,English,Single,Middle,Lower class,1
+2011,-4,US-NH New Hampshire,Male,31,English,Married,Higher,Lower middle class,1
+2011,-4,US-NH New Hampshire,Male,36,English,Married,Higher,Lower class,1
+2011,-4,US-NH New Hampshire,Male,75,English,Married,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Female,22,English,Single,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,24,English,Single,Middle,No answer,1
+2011,-4,US-NJ New Jersey,Female,25,English,Single,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,27,Other,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,29,Spanish; Castilian,Living together as married,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Female,34,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,36,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,38,English,Married,Higher,Working class,1
+2011,-4,US-NJ New Jersey,Female,39,English,Married,Middle,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,41,English,Single,Higher,Working class,1
+2011,-4,US-NJ New Jersey,Female,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,46,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,47,English,Married,Higher,Lower middle class,2
+2011,-4,US-NJ New Jersey,Female,49,English,Divorced,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Female,50,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,50,English,Married,Middle,Lower middle class,2
+2011,-4,US-NJ New Jersey,Female,50,English,Married,Middle,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,54,English,Single,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,55,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,56,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,57,English,Single,Higher,Working class,1
+2011,-4,US-NJ New Jersey,Female,57,English,Widowed,Higher,No answer,1
+2011,-4,US-NJ New Jersey,Female,59,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,59,Spanish; Castilian,Divorced,Higher,No answer,1
+2011,-4,US-NJ New Jersey,Female,60,English,Married,Middle,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,61,English,Married,Higher,Working class,1
+2011,-4,US-NJ New Jersey,Female,62,English,Single,Middle,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,64,English,Married,Middle,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,64,Other,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,65,English,Single,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,67,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,68,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,69,English,Married,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Female,71,English,Married,Middle,Upper middle class,2
+2011,-4,US-NJ New Jersey,Female,74,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Female,79,English,Widowed,Middle,Lower class,1
+2011,-4,US-NJ New Jersey,Female,83,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Female,84,English,Married,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Male,19,English,Single,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Male,20,Spanish; Castilian,Single,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Male,27,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,32,English,Living together as married,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Male,33,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,34,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,37,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,37,English,Separated,Middle,Working class,1
+2011,-4,US-NJ New Jersey,Male,37,Spanish; Castilian,Married,Lower,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,39,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,40,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,44,English,Married,Higher,Working class,1
+2011,-4,US-NJ New Jersey,Male,45,Spanish; Castilian,Living together as married,Lower,Working class,1
+2011,-4,US-NJ New Jersey,Male,46,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,46,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,49,English,Married,Middle,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,50,English,Married,Higher,Upper class,1
+2011,-4,US-NJ New Jersey,Male,52,English,Married,Middle,Lower class,1
+2011,-4,US-NJ New Jersey,Male,54,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,61,English,Married,Higher,Working class,1
+2011,-4,US-NJ New Jersey,Male,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,67,English,Married,Higher,Working class,1
+2011,-4,US-NJ New Jersey,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-NJ New Jersey,Male,73,English,Married,Higher,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,73,English,Married,Middle,Upper middle class,1
+2011,-4,US-NJ New Jersey,Male,75,English,Married,Higher,Upper middle class,1
+2011,-4,US-NM New Mexico,Female,23,English,Living together as married,Higher,Working class,1
+2011,-4,US-NM New Mexico,Female,29,Other,Married,Middle,Working class,1
+2011,-4,US-NM New Mexico,Female,32,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-NM New Mexico,Female,38,Spanish; Castilian,Single,Lower,Lower class,1
+2011,-4,US-NM New Mexico,Female,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-NM New Mexico,Female,65,English,Married,Middle,Working class,1
+2011,-4,US-NM New Mexico,Female,70,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-NM New Mexico,Male,24,English,Living together as married,Middle,Lower class,1
+2011,-4,US-NM New Mexico,Male,31,English,Single,Higher,Lower middle class,1
+2011,-4,US-NM New Mexico,Male,56,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-NM New Mexico,Male,57,English,Married,Higher,Upper middle class,1
+2011,-4,US-NM New Mexico,Male,61,Spanish; Castilian,Married,Higher,Working class,1
+2011,-4,US-NM New Mexico,Male,67,English,Married,Higher,Lower middle class,1
+2011,-4,US-NM New Mexico,Male,78,English,Married,Higher,Lower middle class,1
+2011,-4,US-NV Nevada,Female,22,English,Single,Higher,Upper middle class,1
+2011,-4,US-NV Nevada,Female,29,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-NV Nevada,Female,34,English,Married,Higher,Lower middle class,1
+2011,-4,US-NV Nevada,Female,39,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2011,-4,US-NV Nevada,Female,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-NV Nevada,Female,44,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-NV Nevada,Female,46,English,Married,Higher,Working class,1
+2011,-4,US-NV Nevada,Female,46,English,Married,Middle,Working class,1
+2011,-4,US-NV Nevada,Female,48,English,Single,Higher,Working class,1
+2011,-4,US-NV Nevada,Female,52,English,Married,Middle,Lower middle class,1
+2011,-4,US-NV Nevada,Female,57,English,Married,Middle,No answer,1
+2011,-4,US-NV Nevada,Female,61,English,Married,Middle,Lower middle class,1
+2011,-4,US-NV Nevada,Female,62,English,Married,Higher,Working class,1
+2011,-4,US-NV Nevada,Female,66,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-NV Nevada,Female,72,English,Married,Middle,Upper middle class,1
+2011,-4,US-NV Nevada,Female,77,English,Married,Higher,Lower middle class,1
+2011,-4,US-NV Nevada,Female,84,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-NV Nevada,Female,93,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-NV Nevada,Male,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-NV Nevada,Male,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-NV Nevada,Male,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-NV Nevada,Male,49,English,Married,Middle,Working class,1
+2011,-4,US-NV Nevada,Male,53,English,Married,Middle,Lower middle class,1
+2011,-4,US-NV Nevada,Male,56,English,Married,Middle,Working class,1
+2011,-4,US-NV Nevada,Male,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-NV Nevada,Male,64,English,Living together as married,Middle,Upper middle class,1
+2011,-4,US-NV Nevada,Male,64,English,Married,Middle,Lower middle class,1
+2011,-4,US-NV Nevada,Male,67,English,Married,Higher,Working class,1
+2011,-4,US-NV Nevada,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,19,English,Single,Middle,Working class,1
+2011,-4,US-NY New York,Female,23,English,Single,Middle,Lower middle class,1
+2011,-4,US-NY New York,Female,24,English,Living together as married,Higher,Working class,1
+2011,-4,US-NY New York,Female,24,English,Single,Middle,Working class,1
+2011,-4,US-NY New York,Female,25,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,25,English,Single,Lower,Lower class,1
+2011,-4,US-NY New York,Female,26,English,Single,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,26,English,Single,Middle,Lower middle class,1
+2011,-4,US-NY New York,Female,27,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,28,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Female,28,English,Single,Higher,Working class,1
+2011,-4,US-NY New York,Female,29,No answer,Married,Higher,No answer,1
+2011,-4,US-NY New York,Female,31,English,Single,Higher,Working class,1
+2011,-4,US-NY New York,Female,32,English,Single,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,36,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,37,English,Separated,Higher,Working class,1
+2011,-4,US-NY New York,Female,38,English,Separated,Higher,Working class,1
+2011,-4,US-NY New York,Female,38,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-NY New York,Female,40,English,Single,Higher,Lower class,1
+2011,-4,US-NY New York,Female,42,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Female,43,Spanish; Castilian,Married,Higher,Working class,1
+2011,-4,US-NY New York,Female,45,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,47,English,Single,Higher,Working class,1
+2011,-4,US-NY New York,Female,49,English,Married,Higher,Upper class,1
+2011,-4,US-NY New York,Female,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,49,English,Single,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,49,Spanish; Castilian,Married,Higher,Working class,1
+2011,-4,US-NY New York,Female,51,English,Living together as married,Higher,Lower class,1
+2011,-4,US-NY New York,Female,51,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,51,English,Married,Higher,Working class,1
+2011,-4,US-NY New York,Female,53,English,Married,Higher,Working class,1
+2011,-4,US-NY New York,Female,53,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-NY New York,Female,54,English,Single,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,55,English,Separated,Middle,Working class,1
+2011,-4,US-NY New York,Female,56,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,56,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Female,56,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Female,57,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Female,58,English,Married,Middle,Upper middle class,1
+2011,-4,US-NY New York,Female,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,61,English,Living together as married,Middle,Lower class,1
+2011,-4,US-NY New York,Female,61,English,Widowed,Middle,Working class,1
+2011,-4,US-NY New York,Female,62,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,62,English,Divorced,Middle,Working class,1
+2011,-4,US-NY New York,Female,62,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Female,64,English,Divorced,Higher,Working class,1
+2011,-4,US-NY New York,Female,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,64,English,Married,Middle,Upper middle class,1
+2011,-4,US-NY New York,Female,65,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,66,English,Married,Higher,Working class,1
+2011,-4,US-NY New York,Female,66,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Female,66,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-NY New York,Female,67,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-NY New York,Female,68,English,Separated,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,68,Spanish; Castilian,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,69,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,71,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,71,English,Widowed,Lower,Lower middle class,1
+2011,-4,US-NY New York,Female,74,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Female,77,English,Married,Middle,Upper middle class,1
+2011,-4,US-NY New York,Female,78,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,82,Other,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Female,83,English,Divorced,Higher,Working class,1
+2011,-4,US-NY New York,Male,19,English,Single,Middle,Lower class,1
+2011,-4,US-NY New York,Male,19,English,Single,Middle,Upper middle class,2
+2011,-4,US-NY New York,Male,20,English,Single,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,20,English,Single,Middle,Working class,1
+2011,-4,US-NY New York,Male,21,English,Single,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,21,English,Single,Middle,Upper middle class,1
+2011,-4,US-NY New York,Male,28,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,28,English,Single,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,29,English,Living together as married,Higher,Working class,1
+2011,-4,US-NY New York,Male,29,English,Single,Middle,Lower class,1
+2011,-4,US-NY New York,Male,32,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,33,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,34,English,Living together as married,Higher,Working class,1
+2011,-4,US-NY New York,Male,34,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,40,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,40,English,Separated,Middle,Lower class,1
+2011,-4,US-NY New York,Male,42,English,Married,Higher,No answer,1
+2011,-4,US-NY New York,Male,42,English,Single,Middle,Working class,1
+2011,-4,US-NY New York,Male,42,No answer,Married,Higher,No answer,1
+2011,-4,US-NY New York,Male,44,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,45,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,45,English,Married,Middle,Upper class,1
+2011,-4,US-NY New York,Male,46,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,48,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,48,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Male,49,English,Living together as married,Middle,Working class,1
+2011,-4,US-NY New York,Male,49,English,Married,Higher,Working class,1
+2011,-4,US-NY New York,Male,50,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,52,English,Single,Middle,Working class,1
+2011,-4,US-NY New York,Male,53,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,55,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,55,English,Single,Higher,Lower class,1
+2011,-4,US-NY New York,Male,56,Other,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,57,English,Married,Middle,Upper middle class,1
+2011,-4,US-NY New York,Male,58,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,58,English,Married,Higher,Working class,1
+2011,-4,US-NY New York,Male,59,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Male,60,English,Married,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,61,English,Married,Higher,Upper middle class,2
+2011,-4,US-NY New York,Male,61,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Male,62,English,Married,Higher,Working class,1
+2011,-4,US-NY New York,Male,63,English,Divorced,Middle,Working class,1
+2011,-4,US-NY New York,Male,63,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Male,65,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,66,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,67,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,67,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-NY New York,Male,67,English,Widowed,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,68,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,68,Spanish; Castilian,Married,Middle,Lower class,1
+2011,-4,US-NY New York,Male,70,English,Married,Middle,Working class,1
+2011,-4,US-NY New York,Male,73,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,74,English,Married,Middle,Lower middle class,1
+2011,-4,US-NY New York,Male,74,English,Widowed,Middle,Working class,1
+2011,-4,US-NY New York,Male,76,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,78,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,83,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-NY New York,Male,84,English,Married,Higher,Upper middle class,1
+2011,-4,US-NY New York,Male,87,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,23,English,Single,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,26,English,Single,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,28,English,Single,Higher,Working class,1
+2011,-4,US-OH Ohio,Female,29,English,Married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,36,English,Married,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Female,39,English,Married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,39,English,Married,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,41,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-OH Ohio,Female,42,English,Divorced,Middle,Lower class,1
+2011,-4,US-OH Ohio,Female,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,42,English,Married,Higher,Working class,1
+2011,-4,US-OH Ohio,Female,43,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,43,English,Married,Higher,Working class,1
+2011,-4,US-OH Ohio,Female,44,English,Single,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,46,English,Divorced,Higher,Working class,1
+2011,-4,US-OH Ohio,Female,46,English,Living together as married,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,46,English,Married,Middle,Lower class,1
+2011,-4,US-OH Ohio,Female,47,English,Married,Middle,Upper middle class,1
+2011,-4,US-OH Ohio,Female,49,English,Married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,50,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,52,No answer,Divorced,Middle,No answer,1
+2011,-4,US-OH Ohio,Female,54,English,Married,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Female,55,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,56,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-OH Ohio,Female,56,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,56,English,Married,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,57,English,Divorced,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,57,English,Separated,Middle,Lower class,1
+2011,-4,US-OH Ohio,Female,58,English,Married,Higher,Lower middle class,2
+2011,-4,US-OH Ohio,Female,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,58,English,Married,Middle,Upper middle class,1
+2011,-4,US-OH Ohio,Female,62,English,Married,Higher,Upper middle class,2
+2011,-4,US-OH Ohio,Female,62,English,Single,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Female,62,English,Widowed,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,64,English,Married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Female,64,English,Married,Middle,Upper middle class,1
+2011,-4,US-OH Ohio,Female,66,English,Divorced,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,68,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,69,English,Married,Higher,No answer,1
+2011,-4,US-OH Ohio,Female,69,English,Widowed,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,70,English,Widowed,Middle,Lower class,1
+2011,-4,US-OH Ohio,Female,75,English,Married,Middle,Working class,1
+2011,-4,US-OH Ohio,Female,85,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Female,87,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,19,English,Single,Middle,Working class,1
+2011,-4,US-OH Ohio,Male,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,20,English,Single,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Male,23,English,Single,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Male,23,English,Single,Middle,Lower class,1
+2011,-4,US-OH Ohio,Male,23,English,Single,Middle,Working class,1
+2011,-4,US-OH Ohio,Male,24,English,Single,Higher,Working class,1
+2011,-4,US-OH Ohio,Male,25,Japanese,Living together as married,Lower,Working class,1
+2011,-4,US-OH Ohio,Male,26,English,Married,Higher,Working class,1
+2011,-4,US-OH Ohio,Male,29,English,Married,Middle,Upper middle class,1
+2011,-4,US-OH Ohio,Male,34,English,Married,Middle,Working class,1
+2011,-4,US-OH Ohio,Male,34,English,Single,Higher,Working class,1
+2011,-4,US-OH Ohio,Male,34,English,Widowed,Higher,Upper class,1
+2011,-4,US-OH Ohio,Male,35,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,36,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Male,36,English,Married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Male,36,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,38,English,Married,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Male,40,English,Married,Higher,Working class,1
+2011,-4,US-OH Ohio,Male,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,41,English,Separated,Middle,Lower class,1
+2011,-4,US-OH Ohio,Male,42,English,Married,Middle,Working class,1
+2011,-4,US-OH Ohio,Male,44,English,Single,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,46,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Male,47,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,47,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,51,English,Married,Middle,Working class,1
+2011,-4,US-OH Ohio,Male,52,English,Married,Middle,Upper middle class,1
+2011,-4,US-OH Ohio,Male,55,English,Divorced,Higher,Working class,1
+2011,-4,US-OH Ohio,Male,55,English,Separated,Higher,Working class,1
+2011,-4,US-OH Ohio,Male,56,English,Married,Higher,Upper class,1
+2011,-4,US-OH Ohio,Male,57,English,Married,Higher,Lower middle class,3
+2011,-4,US-OH Ohio,Male,58,English,Married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Male,58,English,Married,Higher,Upper middle class,1
+2011,-4,US-OH Ohio,Male,60,English,Married,Higher,Lower middle class,1
+2011,-4,US-OH Ohio,Male,63,English,Married,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Male,66,English,Living together as married,Middle,Working class,1
+2011,-4,US-OH Ohio,Male,69,English,Separated,Middle,Lower middle class,1
+2011,-4,US-OH Ohio,Male,72,English,Married,Middle,Lower middle class,1
+2011,-4,US-OK Oklahoma,Female,24,English,Married,Higher,Lower class,1
+2011,-4,US-OK Oklahoma,Female,25,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-OK Oklahoma,Female,28,Other,Married,Higher,Upper middle class,1
+2011,-4,US-OK Oklahoma,Female,33,English,Married,Middle,Working class,1
+2011,-4,US-OK Oklahoma,Female,34,English,Married,Higher,Working class,1
+2011,-4,US-OK Oklahoma,Female,45,English,Divorced,Middle,Working class,1
+2011,-4,US-OK Oklahoma,Female,46,English,Single,Higher,Upper middle class,1
+2011,-4,US-OK Oklahoma,Female,51,English,Widowed,Middle,Working class,1
+2011,-4,US-OK Oklahoma,Female,53,English,Separated,Higher,Lower middle class,1
+2011,-4,US-OK Oklahoma,Female,54,English,Married,Middle,Working class,1
+2011,-4,US-OK Oklahoma,Female,54,English,Single,Higher,Upper middle class,1
+2011,-4,US-OK Oklahoma,Female,55,English,Married,Middle,Upper middle class,1
+2011,-4,US-OK Oklahoma,Female,56,English,Divorced,Higher,Working class,1
+2011,-4,US-OK Oklahoma,Male,20,English,Single,Middle,Working class,1
+2011,-4,US-OK Oklahoma,Male,26,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2011,-4,US-OK Oklahoma,Male,29,English,Separated,Middle,Upper middle class,1
+2011,-4,US-OK Oklahoma,Male,30,English,Married,Middle,Lower class,1
+2011,-4,US-OK Oklahoma,Male,33,English,Single,Higher,Upper middle class,1
+2011,-4,US-OK Oklahoma,Male,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-OK Oklahoma,Male,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-OK Oklahoma,Male,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-OK Oklahoma,Male,54,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-OK Oklahoma,Male,64,English,Married,Higher,Working class,1
+2011,-4,US-OK Oklahoma,Male,74,English,Married,Middle,Upper middle class,1
+2011,-4,US-OR Oregon,Female,21,English,Single,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Female,23,English,Single,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Female,25,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-OR Oregon,Female,29,English,Married,Higher,Working class,1
+2011,-4,US-OR Oregon,Female,29,No answer,Single,Higher,No answer,1
+2011,-4,US-OR Oregon,Female,31,English,Married,Higher,Lower middle class,1
+2011,-4,US-OR Oregon,Female,40,English,Single,Middle,Upper middle class,1
+2011,-4,US-OR Oregon,Female,41,English,Living together as married,Middle,Lower class,1
+2011,-4,US-OR Oregon,Female,43,English,Married,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Female,46,No answer,Married,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Female,47,English,Married,Middle,Lower middle class,1
+2011,-4,US-OR Oregon,Female,51,English,Married,Middle,Working class,1
+2011,-4,US-OR Oregon,Female,53,English,Single,Higher,Lower middle class,1
+2011,-4,US-OR Oregon,Female,54,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-OR Oregon,Female,55,English,Married,Middle,Upper middle class,1
+2011,-4,US-OR Oregon,Female,58,English,Married,Middle,Working class,1
+2011,-4,US-OR Oregon,Female,58,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-OR Oregon,Female,60,English,Married,Middle,Lower middle class,1
+2011,-4,US-OR Oregon,Female,63,English,Divorced,Middle,Working class,1
+2011,-4,US-OR Oregon,Female,63,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-OR Oregon,Female,69,English,Married,Middle,Lower middle class,1
+2011,-4,US-OR Oregon,Female,77,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-OR Oregon,Male,19,English,Single,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Male,33,English,Married,Higher,Lower middle class,1
+2011,-4,US-OR Oregon,Male,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Male,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Male,50,English,Divorced,Higher,Working class,1
+2011,-4,US-OR Oregon,Male,52,English,Married,Middle,Lower class,1
+2011,-4,US-OR Oregon,Male,54,English,Separated,Higher,Working class,1
+2011,-4,US-OR Oregon,Male,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Male,59,English,Married,Lower,Lower middle class,1
+2011,-4,US-OR Oregon,Male,60,English,Divorced,Higher,Working class,1
+2011,-4,US-OR Oregon,Male,62,English,Married,Higher,Upper middle class,1
+2011,-4,US-OR Oregon,Male,65,English,Married,Higher,Lower middle class,1
+2011,-4,US-OR Oregon,Male,67,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-OR Oregon,Male,69,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-OR Oregon,Male,79,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,18,English,Single,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,19,English,Single,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,19,English,Single,Middle,Lower middle class,2
+2011,-4,US-PA Pennsylvania,Female,20,English,Single,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Female,21,English,Single,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,22,English,Married,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Female,22,English,Married,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,24,English,Single,Higher,Working class,1
+2011,-4,US-PA Pennsylvania,Female,24,English,Single,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Female,25,Other,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,26,English,Married,Higher,Working class,1
+2011,-4,US-PA Pennsylvania,Female,27,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,29,English,Single,Higher,Lower class,1
+2011,-4,US-PA Pennsylvania,Female,30,English,Single,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,31,English,Single,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Female,33,English,Single,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,36,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,36,English,Married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Female,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,42,English,Married,Middle,Lower middle class,2
+2011,-4,US-PA Pennsylvania,Female,44,English,Married,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Female,45,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,45,English,Married,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Female,45,English,Married,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,45,English,Single,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,46,English,Divorced,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Female,46,English,Married,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,46,English,Single,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,47,English,Married,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,48,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,49,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,51,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,51,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,52,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,58,English,Separated,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,59,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,59,English,Married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Female,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,61,English,Divorced,Higher,Working class,1
+2011,-4,US-PA Pennsylvania,Female,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,61,English,Married,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,61,English,Single,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,62,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,62,English,Married,Higher,Upper class,1
+2011,-4,US-PA Pennsylvania,Female,63,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,64,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,64,English,Divorced,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Female,65,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,66,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,66,English,Divorced,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Female,67,English,Married,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Female,68,English,Married,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Female,85,English,Widowed,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Female,89,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,18,English,Living together as married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,21,English,Single,Higher,Lower middle class,2
+2011,-4,US-PA Pennsylvania,Male,24,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,25,English,Single,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,26,English,Single,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Male,31,English,Single,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,34,English,Married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,35,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,37,No answer,Single,Higher,No answer,1
+2011,-4,US-PA Pennsylvania,Male,38,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,39,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,39,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,42,English,Married,Higher,No answer,1
+2011,-4,US-PA Pennsylvania,Male,43,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,44,English,Married,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,48,English,Married,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Male,49,English,Married,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,52,English,Married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,53,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,53,English,Married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,54,English,Married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,55,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,55,English,Married,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,55,English,Single,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,57,English,Separated,Higher,Working class,1
+2011,-4,US-PA Pennsylvania,Male,58,English,Married,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,58,English,Single,Middle,Lower class,1
+2011,-4,US-PA Pennsylvania,Male,59,English,Married,Higher,Upper middle class,2
+2011,-4,US-PA Pennsylvania,Male,59,English,Married,Higher,Working class,1
+2011,-4,US-PA Pennsylvania,Male,59,English,Married,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,59,English,Separated,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,61,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,61,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-PA Pennsylvania,Male,62,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,63,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,63,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,64,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,65,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,66,English,Married,Higher,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,67,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,67,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,71,English,Married,Higher,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,73,English,Married,Middle,Working class,1
+2011,-4,US-PA Pennsylvania,Male,74,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,75,English,Married,Middle,Lower middle class,2
+2011,-4,US-PA Pennsylvania,Male,76,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-PA Pennsylvania,Male,80,English,Married,Middle,Upper middle class,1
+2011,-4,US-PA Pennsylvania,Male,83,English,Married,Middle,Upper middle class,1
+2011,-4,US-RI Rhode Island,Male,22,English,Single,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Female,24,English,Single,Higher,Upper middle class,1
+2011,-4,US-SC South Carolina,Female,29,English,Single,Higher,Working class,1
+2011,-4,US-SC South Carolina,Female,38,English,Single,Higher,Working class,1
+2011,-4,US-SC South Carolina,Female,39,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Female,46,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Female,53,English,Married,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Female,58,English,Married,Higher,Working class,1
+2011,-4,US-SC South Carolina,Female,58,English,Single,Middle,Lower middle class,1
+2011,-4,US-SC South Carolina,Female,72,English,Married,Middle,Upper middle class,1
+2011,-4,US-SC South Carolina,Female,75,English,Married,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Female,77,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Female,79,English,Married,Middle,Lower middle class,1
+2011,-4,US-SC South Carolina,Male,19,English,Single,Middle,Lower middle class,1
+2011,-4,US-SC South Carolina,Male,21,English,Single,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Male,25,English,Living together as married,Middle,Working class,1
+2011,-4,US-SC South Carolina,Male,35,English,Living together as married,Middle,Working class,1
+2011,-4,US-SC South Carolina,Male,49,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-SC South Carolina,Male,52,English,Married,Middle,Lower middle class,1
+2011,-4,US-SC South Carolina,Male,52,English,Single,Middle,Working class,1
+2011,-4,US-SC South Carolina,Male,59,English,Married,Higher,Upper middle class,1
+2011,-4,US-SC South Carolina,Male,61,English,Married,Higher,Upper middle class,2
+2011,-4,US-SC South Carolina,Male,63,English,Married,Middle,Working class,1
+2011,-4,US-SC South Carolina,Male,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-SC South Carolina,Male,66,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-SC South Carolina,Male,68,English,Married,Higher,Upper middle class,1
+2011,-4,US-SC South Carolina,Male,72,English,Married,Higher,Upper middle class,1
+2011,-4,US-SC South Carolina,Male,74,English,Married,Lower,Upper middle class,1
+2011,-4,US-SC South Carolina,Male,80,English,Married,Middle,Lower middle class,1
+2011,-4,US-SD South Dakota,Female,39,English,Married,Middle,Upper middle class,1
+2011,-4,US-SD South Dakota,Female,51,English,Married,Middle,Lower middle class,1
+2011,-4,US-SD South Dakota,Female,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-SD South Dakota,Female,69,English,Married,Higher,Upper middle class,1
+2011,-4,US-SD South Dakota,Male,24,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-SD South Dakota,Male,25,English,Single,Higher,Lower middle class,1
+2011,-4,US-SD South Dakota,Male,30,English,Living together as married,Higher,Working class,1
+2011,-4,US-SD South Dakota,Male,37,English,Married,Higher,Upper middle class,1
+2011,-4,US-SD South Dakota,Male,46,English,Divorced,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,21,English,Single,Higher,Upper middle class,1
+2011,-4,US-TN Tennessee,Female,23,English,Married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,23,English,Single,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,25,English,Single,Middle,Lower middle class,1
+2011,-4,US-TN Tennessee,Female,32,English,Separated,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,33,English,Married,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Female,36,English,Married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,39,English,Married,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Female,39,English,Married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,43,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2011,-4,US-TN Tennessee,Female,45,English,Single,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,54,English,Divorced,Middle,No answer,1
+2011,-4,US-TN Tennessee,Female,54,English,Married,Middle,Upper middle class,1
+2011,-4,US-TN Tennessee,Female,55,English,Divorced,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,56,English,Living together as married,Higher,Working class,1
+2011,-4,US-TN Tennessee,Female,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Female,58,English,Widowed,Middle,Lower class,1
+2011,-4,US-TN Tennessee,Female,61,English,Married,Middle,Lower middle class,1
+2011,-4,US-TN Tennessee,Female,63,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-TN Tennessee,Female,66,English,Divorced,Middle,Lower class,1
+2011,-4,US-TN Tennessee,Female,70,English,Married,Middle,Upper middle class,1
+2011,-4,US-TN Tennessee,Female,70,English,Married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Female,75,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,23,English,Single,Middle,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,24,English,Living together as married,Higher,Working class,1
+2011,-4,US-TN Tennessee,Male,26,English,Married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Male,28,English,Single,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,30,English,Living together as married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Male,31,English,Married,Higher,Working class,1
+2011,-4,US-TN Tennessee,Male,31,English,Single,Higher,Working class,1
+2011,-4,US-TN Tennessee,Male,34,English,Single,Middle,Lower class,1
+2011,-4,US-TN Tennessee,Male,38,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,39,English,Married,Higher,Working class,1
+2011,-4,US-TN Tennessee,Male,42,English,Married,Higher,Upper middle class,1
+2011,-4,US-TN Tennessee,Male,42,English,Single,Middle,Working class,1
+2011,-4,US-TN Tennessee,Male,43,English,Married,Middle,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,45,English,Married,Higher,Upper middle class,1
+2011,-4,US-TN Tennessee,Male,48,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-TN Tennessee,Male,48,English,Married,Middle,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,49,English,Divorced,Higher,Working class,1
+2011,-4,US-TN Tennessee,Male,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,56,Standard Chinese; Mandarin; Putonghua; Guoyu,Married,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,58,English,Married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Male,59,English,Married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Male,61,English,Living together as married,Middle,Working class,1
+2011,-4,US-TN Tennessee,Male,68,English,Married,Higher,Upper middle class,1
+2011,-4,US-TN Tennessee,Male,69,English,Married,Higher,Lower middle class,1
+2011,-4,US-TN Tennessee,Male,72,English,Widowed,Middle,Lower class,1
+2011,-4,US-TN Tennessee,Male,76,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,20,English,Single,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,20,English,Single,Middle,Working class,1
+2011,-4,US-TX Texas,Female,21,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,21,English,Single,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,22,English,Single,Higher,Working class,1
+2011,-4,US-TX Texas,Female,22,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,23,English,Living together as married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,23,English,Single,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,23,English,Single,Middle,Working class,1
+2011,-4,US-TX Texas,Female,24,English,Living together as married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,24,English,Single,Higher,Working class,1
+2011,-4,US-TX Texas,Female,27,Spanish; Castilian,Married,Middle,Working class,2
+2011,-4,US-TX Texas,Female,29,English,Married,Higher,Working class,2
+2011,-4,US-TX Texas,Female,30,Spanish; Castilian,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,30,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,31,English,Single,Higher,Working class,1
+2011,-4,US-TX Texas,Female,31,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Female,32,English,Living together as married,Higher,Lower middle class,2
+2011,-4,US-TX Texas,Female,32,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,32,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,32,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-TX Texas,Female,32,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,33,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,33,English,Single,Middle,Working class,1
+2011,-4,US-TX Texas,Female,33,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-TX Texas,Female,34,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,34,No answer,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,34,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-TX Texas,Female,34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,35,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,36,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,36,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-TX Texas,Female,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,38,English,Divorced,Middle,Working class,1
+2011,-4,US-TX Texas,Female,38,English,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Female,38,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-TX Texas,Female,39,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,40,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,40,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,41,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,41,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,42,English,Married,Higher,Upper middle class,2
+2011,-4,US-TX Texas,Female,44,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,45,Spanish; Castilian,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,45,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Female,46,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,46,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,47,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,47,Spanish; Castilian,Separated,Middle,Lower class,1
+2011,-4,US-TX Texas,Female,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,48,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,49,English,Married,Higher,Upper class,1
+2011,-4,US-TX Texas,Female,50,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,51,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,52,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,53,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,54,English,Living together as married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,54,English,Married,Higher,Upper middle class,2
+2011,-4,US-TX Texas,Female,54,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,54,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,55,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,55,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,56,English,Divorced,Higher,Working class,1
+2011,-4,US-TX Texas,Female,57,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,58,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,61,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,61,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,62,English,Living together as married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,62,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Female,63,English,Separated,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,63,Spanish; Castilian,Married,Lower,Lower middle class,1
+2011,-4,US-TX Texas,Female,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,64,English,Widowed,Middle,No answer,1
+2011,-4,US-TX Texas,Female,64,Spanish; Castilian,Separated,Lower,Working class,1
+2011,-4,US-TX Texas,Female,65,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,65,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,66,English,Divorced,Middle,Lower class,1
+2011,-4,US-TX Texas,Female,66,English,Married,Middle,Lower class,1
+2011,-4,US-TX Texas,Female,67,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Female,67,English,Widowed,Middle,Working class,1
+2011,-4,US-TX Texas,Female,68,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,68,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,68,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,68,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,69,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Female,69,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Female,70,English,Married,Higher,Upper middle class,2
+2011,-4,US-TX Texas,Female,70,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-TX Texas,Female,71,Spanish; Castilian,Married,Lower,Upper middle class,1
+2011,-4,US-TX Texas,Female,73,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,73,Other,Widowed,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,74,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,74,English,Widowed,Middle,Working class,1
+2011,-4,US-TX Texas,Female,75,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Female,77,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Female,82,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,19,English,Single,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,20,No answer,Single,Middle,No answer,1
+2011,-4,US-TX Texas,Male,20,Spanish; Castilian,Separated,Middle,Upper class,1
+2011,-4,US-TX Texas,Male,21,English,Single,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,21,French,Single,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,22,Spanish; Castilian,Separated,Middle,Working class,1
+2011,-4,US-TX Texas,Male,24,English,Married,Higher,Lower class,1
+2011,-4,US-TX Texas,Male,25,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,27,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,27,English,Single,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,27,Spanish; Castilian,Single,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,28,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,28,English,Single,Middle,Working class,1
+2011,-4,US-TX Texas,Male,29,No answer,Married,Higher,No answer,1
+2011,-4,US-TX Texas,Male,30,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Male,30,English,Single,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,32,Spanish; Castilian,Married,Lower,Upper middle class,1
+2011,-4,US-TX Texas,Male,32,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,33,Spanish; Castilian,Married,Middle,Lower class,1
+2011,-4,US-TX Texas,Male,34,English,Living together as married,Middle,No answer,1
+2011,-4,US-TX Texas,Male,35,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,35,No answer,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,35,Spanish; Castilian,Living together as married,Middle,Working class,1
+2011,-4,US-TX Texas,Male,36,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,37,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,38,English,Separated,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,38,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,40,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,41,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,41,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,42,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,42,English,Married,Higher,Upper class,1
+2011,-4,US-TX Texas,Male,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,43,English,Single,Higher,Working class,1
+2011,-4,US-TX Texas,Male,44,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,44,English,Single,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,46,English,Single,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,47,English,Living together as married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Male,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,47,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Male,47,English,Single,Middle,Working class,2
+2011,-4,US-TX Texas,Male,48,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,49,English,Living together as married,Middle,Working class,1
+2011,-4,US-TX Texas,Male,49,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Male,50,English,Widowed,Higher,Working class,1
+2011,-4,US-TX Texas,Male,51,English,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Male,51,Other,Living together as married,Lower,Lower class,1
+2011,-4,US-TX Texas,Male,52,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,52,Spanish; Castilian,Married,Lower,Working class,1
+2011,-4,US-TX Texas,Male,53,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Male,53,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,54,English,Divorced,Middle,Working class,1
+2011,-4,US-TX Texas,Male,56,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,56,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,58,English,Divorced,Middle,Working class,1
+2011,-4,US-TX Texas,Male,58,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,59,English,Married,Higher,Lower middle class,3
+2011,-4,US-TX Texas,Male,59,English,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Male,62,English,Married,Higher,Working class,1
+2011,-4,US-TX Texas,Male,64,English,Single,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,65,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,65,English,Married,Middle,Working class,1
+2011,-4,US-TX Texas,Male,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,69,English,Married,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,70,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,71,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,73,English,Married,Lower,Upper middle class,1
+2011,-4,US-TX Texas,Male,75,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-TX Texas,Male,75,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Male,78,English,Married,Middle,Lower middle class,1
+2011,-4,US-TX Texas,Male,79,English,Married,Higher,Upper middle class,1
+2011,-4,US-TX Texas,Male,80,English,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Male,80,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Male,83,English,Married,Middle,Upper middle class,1
+2011,-4,US-TX Texas,Male,89,English,Married,Higher,Upper middle class,1
+2011,-4,US-UT Utah,Female,19,English,Single,Higher,Lower middle class,1
+2011,-4,US-UT Utah,Female,23,English,Married,Higher,Lower middle class,1
+2011,-4,US-UT Utah,Female,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-UT Utah,Female,35,English,Separated,Middle,Working class,1
+2011,-4,US-UT Utah,Female,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-UT Utah,Female,50,English,Married,Higher,Lower middle class,1
+2011,-4,US-UT Utah,Female,55,English,Married,Higher,Upper middle class,1
+2011,-4,US-UT Utah,Female,64,English,Married,Higher,Working class,1
+2011,-4,US-UT Utah,Female,68,English,Married,Higher,Lower middle class,1
+2011,-4,US-UT Utah,Male,19,English,Single,Middle,Lower middle class,1
+2011,-4,US-UT Utah,Male,33,English,Married,Higher,Lower middle class,1
+2011,-4,US-UT Utah,Male,33,English,Married,Higher,Upper middle class,1
+2011,-4,US-UT Utah,Male,73,English,Widowed,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,20,Other,Single,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,21,English,Single,Middle,Upper middle class,1
+2011,-4,US-VA Virginia,Female,24,English,Living together as married,Middle,Lower class,1
+2011,-4,US-VA Virginia,Female,25,No answer,Single,Higher,No answer,1
+2011,-4,US-VA Virginia,Female,26,English,Married,Middle,Working class,1
+2011,-4,US-VA Virginia,Female,26,English,Single,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,29,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,31,English,Single,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,33,English,Married,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,37,English,Living together as married,Higher,Working class,1
+2011,-4,US-VA Virginia,Female,40,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,41,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,44,English,Divorced,Middle,Working class,1
+2011,-4,US-VA Virginia,Female,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,46,English,Married,Middle,Working class,1
+2011,-4,US-VA Virginia,Female,47,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,47,Other,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,50,English,Married,Higher,Working class,1
+2011,-4,US-VA Virginia,Female,54,English,Married,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,55,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Female,61,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Female,61,No answer,Living together as married,Higher,No answer,1
+2011,-4,US-VA Virginia,Female,62,English,Married,Middle,Upper middle class,1
+2011,-4,US-VA Virginia,Female,66,English,Married,Middle,Working class,1
+2011,-4,US-VA Virginia,Female,70,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,19,English,Single,Middle,Upper middle class,1
+2011,-4,US-VA Virginia,Male,20,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-VA Virginia,Male,21,English,Single,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,25,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,25,English,Married,Higher,Working class,1
+2011,-4,US-VA Virginia,Male,31,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,35,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Male,41,English,Married,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Male,42,English,Married,Middle,Lower class,1
+2011,-4,US-VA Virginia,Male,43,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,46,English,Living together as married,Middle,Working class,1
+2011,-4,US-VA Virginia,Male,47,English,Living together as married,Middle,Working class,1
+2011,-4,US-VA Virginia,Male,52,English,Divorced,Middle,Working class,1
+2011,-4,US-VA Virginia,Male,52,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,53,English,Divorced,Middle,Working class,2
+2011,-4,US-VA Virginia,Male,53,English,Single,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Male,56,Standard Chinese; Mandarin; Putonghua; Guoyu,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,60,English,Married,Higher,Lower middle class,1
+2011,-4,US-VA Virginia,Male,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,64,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,65,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,66,English,Married,Higher,Upper middle class,1
+2011,-4,US-VA Virginia,Male,66,English,Married,Middle,Working class,1
+2011,-4,US-VA Virginia,Male,67,English,Married,Middle,Lower middle class,1
+2011,-4,US-VA Virginia,Male,74,English,Widowed,Higher,Working class,1
+2011,-4,US-VA Virginia,Male,83,English,Married,Higher,Upper middle class,1
+2011,-4,US-VT Vermont,Male,41,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-WA Washington,Female,18,Standard Chinese; Mandarin; Putonghua; Guoyu,Single,Middle,Lower middle class,1
+2011,-4,US-WA Washington,Female,22,English,Single,Higher,Working class,1
+2011,-4,US-WA Washington,Female,23,English,Living together as married,Higher,Lower class,1
+2011,-4,US-WA Washington,Female,24,Spanish; Castilian,Married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Female,33,English,Married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Female,39,Spanish; Castilian,Married,Middle,Upper middle class,1
+2011,-4,US-WA Washington,Female,40,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-WA Washington,Female,46,English,Married,Middle,Upper middle class,1
+2011,-4,US-WA Washington,Female,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Female,49,English,Married,Higher,Upper middle class,2
+2011,-4,US-WA Washington,Female,55,English,Married,Middle,Working class,1
+2011,-4,US-WA Washington,Female,55,English,Single,Higher,Lower class,1
+2011,-4,US-WA Washington,Female,56,English,Married,Higher,Working class,1
+2011,-4,US-WA Washington,Female,57,English,Living together as married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Female,57,English,Married,Higher,Working class,1
+2011,-4,US-WA Washington,Female,60,Spanish; Castilian,Married,Middle,Working class,1
+2011,-4,US-WA Washington,Female,64,English,Living together as married,Middle,Upper middle class,1
+2011,-4,US-WA Washington,Female,67,English,Married,Higher,Lower class,1
+2011,-4,US-WA Washington,Female,69,English,Single,Higher,Working class,1
+2011,-4,US-WA Washington,Female,71,English,Divorced,Higher,Working class,1
+2011,-4,US-WA Washington,Female,73,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-WA Washington,Female,79,English,Married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Female,81,English,Widowed,Middle,Lower class,1
+2011,-4,US-WA Washington,Male,19,English,Single,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Male,20,English,Single,Middle,Lower class,1
+2011,-4,US-WA Washington,Male,20,Japanese,Single,Middle,No answer,1
+2011,-4,US-WA Washington,Male,23,English,Single,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Male,25,English,Married,Higher,Working class,1
+2011,-4,US-WA Washington,Male,28,English,Single,Middle,Upper middle class,1
+2011,-4,US-WA Washington,Male,36,No answer,Separated,Higher,No answer,1
+2011,-4,US-WA Washington,Male,42,English,Married,Higher,Lower middle class,1
+2011,-4,US-WA Washington,Male,46,English,Married,Higher,Lower middle class,2
+2011,-4,US-WA Washington,Male,53,English,Married,Middle,Working class,1
+2011,-4,US-WA Washington,Male,54,English,Divorced,Higher,Lower middle class,1
+2011,-4,US-WA Washington,Male,55,English,Married,Middle,Lower middle class,1
+2011,-4,US-WA Washington,Male,55,English,Married,Middle,Upper middle class,1
+2011,-4,US-WA Washington,Male,59,English,Widowed,Middle,Upper middle class,1
+2011,-4,US-WA Washington,Male,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Male,69,English,Married,Higher,Lower middle class,1
+2011,-4,US-WA Washington,Male,71,English,Married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Male,72,English,Married,Higher,Lower middle class,1
+2011,-4,US-WA Washington,Male,74,English,Married,Higher,Upper middle class,1
+2011,-4,US-WA Washington,Male,77,English,Living together as married,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Female,18,English,Single,Middle,Lower class,1
+2011,-4,US-WI Wisconsin,Female,23,English,Married,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Female,31,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,31,English,Married,Higher,Lower class,1
+2011,-4,US-WI Wisconsin,Female,37,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,37,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Female,38,English,Married,Middle,Upper middle class,1
+2011,-4,US-WI Wisconsin,Female,40,English,Single,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,43,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Female,47,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,48,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Female,53,English,Married,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Female,55,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,56,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Female,56,English,Married,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Female,57,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,58,English,Living together as married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,60,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,60,English,Married,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Female,62,English,Married,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Female,69,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Female,70,English,Divorced,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Female,73,English,Widowed,Middle,Lower middle class,1
+2011,-4,US-WI Wisconsin,Female,80,English,Widowed,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Male,21,English,Married,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Male,25,No answer,Single,Higher,No answer,1
+2011,-4,US-WI Wisconsin,Male,28,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,28,English,Single,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,34,English,Married,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,36,English,Married,Middle,No answer,1
+2011,-4,US-WI Wisconsin,Male,37,English,Single,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,38,Spanish; Castilian,Married,Middle,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,39,English,Single,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Male,43,English,Divorced,Middle,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,43,English,Married,Middle,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,43,English,Married,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Male,44,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,44,English,Single,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,46,English,Married,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Male,46,English,Married,Middle,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,47,English,Married,Middle,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,48,English,Divorced,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Male,51,English,Single,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Male,53,English,Married,Higher,Lower class,1
+2011,-4,US-WI Wisconsin,Male,53,English,Single,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Male,56,English,Single,Higher,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,57,English,Married,Higher,Working class,1
+2011,-4,US-WI Wisconsin,Male,58,English,Married,Middle,Working class,1
+2011,-4,US-WI Wisconsin,Male,60,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,61,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,63,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,65,English,Divorced,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,69,English,Married,Middle,Lower middle class,1
+2011,-4,US-WI Wisconsin,Male,71,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,72,English,Married,Middle,Lower middle class,2
+2011,-4,US-WI Wisconsin,Male,73,English,Married,Higher,Upper middle class,1
+2011,-4,US-WI Wisconsin,Male,73,English,Married,Middle,Working class,1
+2011,-4,US-WY Wyoming,Female,29,English,Married,Higher,Lower middle class,1
+2011,-4,US-WY Wyoming,Female,36,English,Married,Middle,Working class,1
+2011,-4,US-WY Wyoming,Female,47,English,Married,Middle,Upper middle class,1
+2011,-4,US-WY Wyoming,Female,52,English,Married,Higher,Upper middle class,1
+2011,-4,US-WY Wyoming,Female,55,English,Married,Higher,Lower middle class,1
+2011,-4,US-WY Wyoming,Female,61,English,Married,Middle,Upper middle class,1
+2011,-4,US-WY Wyoming,Female,64,English,Married,Middle,Working class,1
+2011,-4,US-WY Wyoming,Male,20,No answer,Single,Higher,No answer,1
+2011,-4,US-WY Wyoming,Male,28,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-WY Wyoming,Male,29,No answer,Married,Middle,Lower middle class,1
+2011,-4,US-WY Wyoming,Male,36,English,Divorced,Middle,Working class,1
+2011,-4,US-WY Wyoming,Male,38,English,Married,Middle,Working class,1
+2011,-4,US-WY Wyoming,Male,46,English,Single,Higher,Working class,1
+2011,-4,US-WY Wyoming,Male,47,English,Living together as married,Middle,Lower middle class,1
+2011,-4,US-WY Wyoming,Male,50,English,Divorced,Middle,Lower middle class,1
+2011,-4,US-WY Wyoming,Male,50,English,Married,Higher,Working class,1
+2011,-4,US-WY Wyoming,Male,57,English,Married,Higher,Upper middle class,1
+2011,-4,US-WY Wyoming,Male,58,English,Single,Middle,Lower class,1
+2011,-4,US-WY Wyoming,Male,63,English,Married,Higher,Upper middle class,1

@@ -5,10 +5,10 @@ import json
 import time
 from tqdm import tqdm
 
-INPUT_DIRECTORY = "data"
-INPUT_FILE_NAME = "questions"
+INPUT_DIRECTORY = "data/translated_questions"
+INPUT_FILE_NAME = "questions_en"
 OUTPUT_DIRECTORY = "data/translated_questions"
-LANGUAGES = ["ja", "ru"]
+LANGUAGES = ["hi", 'bn', 'mr']
 
 load_dotenv()
 API_KEY = os.getenv("GOOGLE_API_KEY")
@@ -66,7 +66,7 @@ def main():
         total = count_strings(data)
         with tqdm(total=total, desc="Translating") as pbar:
             translated_data = translate_json(data, lang, pbar)
-        with open(os.path.join(OUTPUT_DIRECTORY, f"{INPUT_FILE_NAME}_{lang}.json"), "w", encoding="utf-8") as f:
+        with open(os.path.join(OUTPUT_DIRECTORY, f"questions_{lang}.json"), "w", encoding="utf-8") as f:
             json.dump(translated_data, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":

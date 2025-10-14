@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 logging.getLogger("transformers").setLevel(logging.ERROR)
 
 mode = 'country'
-country_name = 'US'
+country_name = 'russia'
 state = 'punjab'
 language_code = 'en'
 year = '2022'
@@ -47,8 +47,12 @@ states_in_language = {
 # ==============================
 # PERSONA COLUMNS
 # ==============================
+if country_name == 'russia':
+    region = 'N_REGION_WVS: Region country specific'
+else:
+    region = 'N_REGION_ISO: Region ISO 3166-2'
+    
 country = 'B_COUNTRY: ISO 3166-1 numeric country code'
-region = 'N_REGION_ISO: Region ISO 3166-2'
 urban_rural = 'H_URBRURAL: Urban-Rural'
 age = 'X003R: Age recoded (6 intervals)'
 gender = 'Q260: Sex'
