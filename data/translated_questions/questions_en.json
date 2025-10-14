@@ -1978,7 +1978,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q178": {
         "description": "Justifiable: Avoiding a fare on public transport",
@@ -1992,7 +1992,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q179": {
         "description": "Justifiable: Stealing property",
@@ -2006,7 +2006,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q180": {
         "description": "Justifiable: Cheating on taxes",
@@ -2020,7 +2020,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q181": {
         "description": "Justifiable: Someone accepting a bribe in the course of their duties",
