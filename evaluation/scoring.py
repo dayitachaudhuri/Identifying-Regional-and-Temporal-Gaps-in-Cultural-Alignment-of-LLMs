@@ -135,7 +135,7 @@ def replace_answers(df, selected_questions, flat_answer_mapping):
     return df
 
 
-def map_demographics(wvs_df, country, year):
+def map_demographics(wvs_df, country, year, model):
     """
     Map demographic columns to standardized values.
     """
@@ -144,6 +144,8 @@ def map_demographics(wvs_df, country, year):
             return v
         else:
             return [v]
+        
+    n_rows_original = wvs_df.shape[0] 
 
     if year in ['2012']:
         townsize_map = {
@@ -187,11 +189,12 @@ def map_demographics(wvs_df, country, year):
             },
             "russia": {
                 "ru: rural population": ["rural"],
-                "ru: less than 50 tsd": ["rural"],
+                "ru: pgt (rural township)": ["rural"],
+                "ru: less than 50 tsd": ["rural", "urban"],
                 "ru: 50-99,9 tsd": ["rural", "urban"],
                 "ru: 100-249,9 tsd": ["rural", "urban"],
                 "ru: 250-499,9 tsd": ["rural", "urban"],
-                'ru: 500-999,9 tsd.': ["rural", "urban"],
+                'ru: 500-999,9 tsd': ["rural", "urban"],
                 "ru: 1mln. and more": ["urban"]
             }
         }
@@ -295,7 +298,19 @@ def map_demographics(wvs_df, country, year):
             )
             wvs_df = wvs_df.explode('region')
             wvs_df['region'] = wvs_df['region'].astype(str)
-
+            
+    if year in ['2006'] and country == 'russia':
+        social_class_map = {
+            "low": ["lower class", "lower middle class", "middle class", "working class"],
+            "middle": ["lower class", "lower middle class", "middle class", "upper middle class", "working class"],
+            "high": ["middle class", "upper middle class", "upper class"]
+        }
+        if 'social_class' in wvs_df.columns:
+                wvs_df['social_class'] = wvs_df['social_class'].map(
+                    lambda x: to_list(social_class_map.get(x, [x]))
+                )
+                wvs_df = wvs_df.explode('social_class')
+                wvs_df['social_class'] = wvs_df['social_class'].astype(str)
 
     if year in ['2006', '2012'] and country == 'US':
         wvs_df['urban_rural'] = [['urban', 'rural']] * len(wvs_df)
@@ -307,6 +322,16 @@ def map_demographics(wvs_df, country, year):
         age_labels = ['0-15', '16-24', '25-34', '35-44', '45-54', '55-64', '65+']
         wvs_df['age'] = pd.to_numeric(wvs_df['age'], errors='coerce')
         wvs_df['age'] = pd.cut(wvs_df['age'], bins=age_bins, labels=age_labels, right=True)
+    
+    if model == 'gemma' and country == 'russia' and year in ['2006', '2012']:
+        regions = ['ru-bel belgorodskaya area', 'ru-mow moskva autonomous city',
+                   'ru-pri primorskiy kray', 'ru-ros rostovskaya area', 'ru-sve sverdlovskaya area']
+        
+        # Assign the list of regions to each row, then explode
+        wvs_df['region'] = [regions] * len(wvs_df)
+        wvs_df = wvs_df.explode('region')
+        wvs_df['region'] = wvs_df['region'].astype(str)
+        wvs_df = wvs_df.reset_index(drop=True)
 
     return wvs_df
     
@@ -374,7 +399,7 @@ def analyze_survey_alignment(year='2022', mode='state', country='india', state='
     wvs_df.rename(columns=demographic_mapping_wvs, inplace=True)
     
     # Specific mapping of demographics
-    wvs_df = map_demographics(wvs_df, country, year)
+    wvs_df = map_demographics(wvs_df, country, year, model)
     
     # Year specific processing
     if year != '2022':
@@ -423,6 +448,105 @@ def analyze_survey_alignment(year='2022', mode='state', country='india', state='
                 print(f"{col}: {model_df[col].unique()}")
     merged_df = pd.merge(wvs_df, model_df, on=merge_columns, how='inner')
     if merged_df.empty: return {}
+    if verbose:
+        print(f"Number of merged rows: {len(merged_df)}")
+    
+    # Compute metrics
+    return compute_metrics(merged_df, selected_questions, num_options_map, region_wise=region_wise, verbose=verbose)
+
+
+def analyze_data_alignment(file1, file2, year1, year2, mode='state', country='india', state='bengal', language='en', model='llama', region_wise=False, verbose=True): 
+
+    questions_filepath=f'../data/translated_questions/questions_{language}.json'
+    config_file='../data/chosen_cols_updated.json'
+    mapping_file = '../data/qsns_mapping.json'
+    
+    answer_mappings_by_q, num_options_map = process_questions_config(questions_filepath)
+    flat_answer_mapping = {normalize_text(k): v for q_map in answer_mappings_by_q.values() for k,v in q_map.items()}
+    
+    df1 = load_and_normalize_csv(file1)
+    df2 = load_and_normalize_csv(file2)
+    
+    # Rename column names
+    rename_map = {col: col.split(':')[0].strip() for col in df1.columns if ':' in col}
+    df1.rename(columns=rename_map, inplace=True)  
+    rename_map = {col: col.split(':')[0].strip() for col in df2.columns if ':' in col}
+    df2.rename(columns=rename_map, inplace=True)
+
+    # Get demographic mappings
+    demographic_mapping_1 = get_demographic_mapping(year=year1, country=country)
+    df1.rename(columns=demographic_mapping_1, inplace=True)
+    demographic_mapping_2 = get_demographic_mapping(year=year2, country=country)
+    df2.rename(columns=demographic_mapping_2, inplace=True)
+    
+    # Specific mapping of demographics
+    df1 = map_demographics(df1, country, year1, model)
+    df2 = map_demographics(df2, country, year2, model)
+    
+    # Year specific processing
+    if year1 != '2022':
+        with open(mapping_file, 'r') as f:
+            qsns_mapping_data = json.load(f)
+        qsns_mapping = qsns_mapping_data.get(str(year1), {})
+        valid_columns = set()
+        rename_map_v_to_q = {}
+        for col in df1.columns:
+            if col in qsns_mapping and qsns_mapping[col] is not None:
+                rename_map_v_to_q[col] = qsns_mapping[col]
+                valid_columns.add(col)
+            elif col in demographic_mapping_1.values():
+                valid_columns.add(col)
+        df1 = df1[list(valid_columns)]
+        df1.rename(columns=rename_map_v_to_q, inplace=True)
+    if year2 != '2022':
+        with open(mapping_file, 'r') as f:
+            qsns_mapping_data = json.load(f)
+        qsns_mapping = qsns_mapping_data.get(str(year2), {})
+        valid_columns = set()
+        rename_map_v_to_q = {}
+        for col in df2.columns:
+            if col in qsns_mapping and qsns_mapping[col] is not None:
+                rename_map_v_to_q[col] = qsns_mapping[col]
+                valid_columns.add(col)
+            elif col in demographic_mapping_1.values():
+                valid_columns.add(col)
+        df2 = df2[list(valid_columns)]
+        df2.rename(columns=rename_map_v_to_q, inplace=True)
+    
+    # Get chosen questions
+    with open(config_file, "r") as f:
+        data = json.load(f)
+    chosen_questions = [q for q, k in data['chosen_cols'].items() if k == True]
+    selected_questions = [q for q in chosen_questions if q in df1.columns and q in df2.columns]
+    
+    # Replace answers with numeric codes
+    df1 = replace_answers(df1, selected_questions, flat_answer_mapping)
+    df2 = replace_answers(df2, selected_questions, flat_answer_mapping)
+    
+    # Merge
+    default_values = {
+                      'region':'default_region',
+                      'urban_rural':'default_rural',
+                      'age':'default_age','gender':'default_gender',
+                      'marital_status':'default_unmarried',
+                      'education_level':'default_education',
+                      'social_class':'default_class'
+                    }
+    merge_columns = list(default_values.keys())
+    if verbose:
+        print("Unique values of merge_columns in df1:")
+        for col in merge_columns:
+            if col in df1.columns:
+                print(f"{col}: {df1[col].unique()}")
+        print("\nUnique values of merge_columns in df2:")
+        for col in merge_columns:
+            if col in df2.columns:
+                print(f"{col}: {df2[col].unique()}")
+                
+    merged_df = pd.merge(df1, df2, on=merge_columns, how='inner')
+    if merged_df.empty: return {}
+    if verbose:
+        print(f"Number of merged rows: {len(merged_df)}")
     
     # Compute metrics
     return compute_metrics(merged_df, selected_questions, num_options_map, region_wise=region_wise, verbose=verbose)
@@ -448,93 +572,137 @@ def compute_similarity_per_theme(
     state='bengal',
     language='en',
     metric_type='soft',
-    model='llama'
+    model='llama',
+    region_wise=False,
+    verbose=True
 ):
     """
-    Compute the similarity per theme
+    Compute the similarity per theme (cleaning and merging aligned with analyze_survey_alignment)
     """
-    # File paths
+    # File paths (use translated questions like analyze_survey_alignment)
     wvs_filepath=f'../data/{country}/{year}/{year}_{country}_majority_answers_by_persona_{language}.csv'
     if mode == 'state':
         model_filepath=f'../{model}_responses/most_frequent_answers_{state}_{language}.csv'
     else:
         model_filepath=f'../{model}_responses/most_frequent_answers_allstates_{country}_{language}.csv'
 
-    questions_filepath='../data/questions.json'
+    questions_filepath=f'../data/translated_questions/questions_{language}.json'
     config_filepath='../data/chosen_cols_updated.json'
+    mapping_file = '../data/qsns_mapping.json'
     themes_filepath='../data/themes.json'
 
-    # Load mappings
+    # Load mappings and theme definitions
     answer_mappings_by_q, num_options_map = process_questions_config(questions_filepath)
     flat_answer_mapping = {normalize_text(k): v for q_map in answer_mappings_by_q.values() for k, v in q_map.items()}
-
-    # Load themes
     themes_map = load_themes(themes_filepath)
 
-    # Load data
-    wvs_df =load_and_normalize_csv(wvs_filepath)
+    # Load and normalize CSVs
+    wvs_df = load_and_normalize_csv(wvs_filepath)
     model_df = load_and_normalize_csv(model_filepath)
 
-    for df in [wvs_df, model_df]:
-        for col in df.columns:
-            if col.startswith("Q"):
-                df[col] = df[col].apply(lambda x: flat_answer_mapping.get(x, x) if isinstance(x, str) else x)
-
-    # Splot columns with ':' and rename
+    # Rename columns with ':' in WVS only (keep model columns as-is to match analyze_survey_alignment)
     rename_map = {col: col.split(':')[0].strip() for col in wvs_df.columns if ':' in col}
     wvs_df.rename(columns=rename_map, inplace=True)
-    model_df.rename(columns=rename_map, inplace=True)
-    
-    # Merge demographic columns (normalize same as original)
-    demographic_mapping_wvs = get_demographic_mapping(year)
-    demographic_mapping_model = get_demographic_mapping()
+    # NOTE: do NOT strip ':' from model_df column names here — preserve original model_df column names
+
+    # Year/country specific demographic column mapping (mirror analyze_survey_alignment)
+    demographic_mapping_wvs = get_demographic_mapping(year=year, country=country)
+    demographic_mapping_model = get_demographic_mapping(country=country)
     wvs_df.rename(columns=demographic_mapping_wvs, inplace=True)
     model_df.rename(columns=demographic_mapping_model, inplace=True)
-    
-    merge_cols = ['region', 'urban_rural', 'age', 'gender', 'marital_status', 'education_level', 'social_class']
-    for df in [wvs_df, model_df]:
-        for col in merge_cols:
-            if col in df.columns:
-                df[col] = df[col].astype(str).str.strip().str.lower()
 
-    # Merge datasets
-    merged_df = pd.merge(wvs_df, model_df, on=merge_cols, how='inner')
-    if len(merged_df) == 0:
-        print("No overlapping data after merge.")
+    # Map demographics in WVS (explode / normalize)
+    wvs_df = map_demographics(wvs_df, country, year, model)
+
+    # For non-2022 years, apply qsns mapping to WVS columns (same logic as analyze_survey_alignment)
+    if year != '2022':
+        with open(mapping_file, 'r') as f:
+            qsns_mapping_data = json.load(f)
+        qsns_mapping = qsns_mapping_data.get(str(year), {})
+        valid_columns = set()
+        rename_map_v_to_q = {}
+        for col in wvs_df.columns:
+            if col in qsns_mapping and qsns_mapping[col] is not None:
+                rename_map_v_to_q[col] = qsns_mapping[col]
+                valid_columns.add(col)
+            elif col in demographic_mapping_wvs.values():
+                valid_columns.add(col)
+        # keep only valid columns and rename question columns
+        wvs_df = wvs_df[list(valid_columns)]
+        wvs_df.rename(columns=rename_map_v_to_q, inplace=True)
+
+    # ---------------------------
+    # Prepare selected questions and replace answers
+    # ---------------------------
+    with open(config_filepath, "r") as f:
+        data = json.load(f)
+    chosen_questions = [q for q, k in data['chosen_cols'].items() if k == True]
+    selected_questions = [q for q in chosen_questions if q in wvs_df.columns and q in model_df.columns]
+
+    if verbose:
+        print("Selected questions (present in both):", selected_questions)
+        print("WVS columns (sample):", list(wvs_df.columns)[:30])
+        print("Model columns (sample):", list(model_df.columns)[:30])
+
+    # Replace answers with numeric codes
+    wvs_df = replace_answers(wvs_df, selected_questions, flat_answer_mapping)
+    model_df = replace_answers(model_df, selected_questions, flat_answer_mapping)
+
+    # Merge on demographics (same defaults as analyze_survey_alignment)
+    default_values = {
+        'region':'default_region',
+        'urban_rural':'default_rural',
+        'age':'default_age','gender':'default_gender',
+        'marital_status':'default_unmarried',
+        'education_level':'default_education',
+        'social_class':'default_class'
+    }
+    merge_columns = list(default_values.keys())
+
+    if verbose:
+        print("Merge columns expected:", merge_columns)
+        print("Columns present in WVS for merge:", [c for c in merge_columns if c in wvs_df.columns])
+        print("Columns present in model for merge:", [c for c in merge_columns if c in model_df.columns])
+    merged_df = pd.merge(wvs_df, model_df, on=merge_columns, how='inner')
+    if merged_df.empty:
+        if verbose:
+            print("Merged dataframe is empty — no overlapping rows on merge columns. Check above diagnostics.")
         return {}
+    if verbose:
+        print(f"Number of merged rows: {len(merged_df)}")
 
     # ---------------------------
     # Compute per-question similarity
     # ---------------------------
-    
     not_scale_questions = ["Q111", "Q151", "Q152", "Q153", "Q154", "Q155", "Q156", "Q157"]
-    
     per_question_scores = {}
 
-    selected_questions = [col for col in merged_df.columns if col.startswith("Q") and col.endswith("_y")]
     for q in selected_questions:
-        survey_col = q.replace("_y", "_x")
-        if survey_col not in merged_df.columns:
+        survey_col = f"{q}_x"
+        model_col = f"{q}_y"
+        if survey_col not in merged_df.columns or model_col not in merged_df.columns:
             continue
         survey_answers = pd.to_numeric(merged_df[survey_col], errors='coerce')
-        model_answers = pd.to_numeric(merged_df[q], errors='coerce')
+        model_answers = pd.to_numeric(merged_df[model_col], errors='coerce')
         valid_idx = survey_answers.notna() & model_answers.notna() & (survey_answers >= 0)
         if not valid_idx.any():
             continue
         survey_answers = survey_answers[valid_idx]
         model_answers = model_answers[valid_idx]
-        
-        base_q = q.replace("_y", "")
-        num_options = num_options_map.get(base_q)
-        
+
+        num_options = num_options_map.get(q)
+        if not num_options or num_options <= 1:
+            continue
+
         survey_answers = np.clip(survey_answers, 1, num_options)
         model_answers = np.clip(model_answers, 1, num_options)
-        
-        if metric_type == 'hard' or base_q in not_scale_questions:
+
+        if metric_type == 'hard' or q in not_scale_questions:
             scores = hard_metric(survey_answers, model_answers)
         else:
             scores = soft_metric(survey_answers, model_answers, num_options)
-        per_question_scores[base_q] = np.mean(scores)
+
+        per_question_scores[q] = float(np.mean(scores))
 
     # ---------------------------
     # Compute per-theme similarity
@@ -546,7 +714,7 @@ def compute_similarity_per_theme(
         scores = [per_question_scores[q] for q in questions if q in per_question_scores]
         per_theme_counts[theme_name] = len(scores)
         if scores:
-            per_theme_scores[theme_name] = np.mean(scores)
+            per_theme_scores[theme_name] = float(np.mean(scores))
         else:
             per_theme_scores[theme_name] = np.nan
 
