@@ -1,0 +1,50 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2018,Iraq,IQ-AN Al Anbar,Rural,Female,55-64,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-AN Al Anbar,Rural,Male,55-64,Arabic,Married,Lower,Lower middle class,4
+2018,Iraq,IQ-AR Arbil,Urban,Female,16-24,Kurdish; Yezidi,Single,Middle,Working class,4
+2018,Iraq,IQ-BA Al Basrah,Urban,Female,25-34,Arabic,Married,Lower,Lower class,4
+2018,Iraq,IQ-BA Al Basrah,Urban,Female,25-34,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-BA Al Basrah,Urban,Female,35-44,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-BA Al Basrah,Urban,Female,45-54,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,16-24,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,16-24,Arabic,Single,Lower,Lower middle class,5
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,25-34,Arabic,Married,Higher,Lower middle class,4
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,25-34,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,25-34,Arabic,Single,Middle,Lower middle class,5
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,35-44,Arabic,Married,Higher,Working class,5
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,35-44,Arabic,Married,Lower,Lower middle class,4
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,35-44,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-BA Al Basrah,Urban,Male,45-54,Arabic,Married,Higher,Working class,4
+2018,Iraq,IQ-BB Babil,Urban,Male,16-24,Arabic,Single,Middle,Working class,4
+2018,Iraq,IQ-BB Babil,Urban,Male,25-34,Arabic,Married,Higher,Working class,4
+2018,Iraq,IQ-BB Babil,Urban,Male,35-44,Arabic,Married,Higher,Working class,6
+2018,Iraq,IQ-BG Baghdad,Urban,Female,16-24,Arabic,Married,Lower,Lower middle class,8
+2018,Iraq,IQ-BG Baghdad,Urban,Female,16-24,Arabic,Married,Lower,Working class,13
+2018,Iraq,IQ-BG Baghdad,Urban,Female,16-24,Arabic,Married,Middle,Lower middle class,7
+2018,Iraq,IQ-BG Baghdad,Urban,Female,25-34,Arabic,Married,Higher,Lower middle class,4
+2018,Iraq,IQ-BG Baghdad,Urban,Female,25-34,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-BG Baghdad,Urban,Female,35-44,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-BG Baghdad,Urban,Female,45-54,Arabic,Married,Lower,Lower middle class,4
+2018,Iraq,IQ-BG Baghdad,Urban,Female,45-54,Arabic,Married,Lower,Working class,6
+2018,Iraq,IQ-BG Baghdad,Urban,Female,55-64,Arabic,Married,Lower,Lower middle class,5
+2018,Iraq,IQ-BG Baghdad,Urban,Female,55-64,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-BG Baghdad,Urban,Male,16-24,Arabic,Married,Lower,Lower middle class,4
+2018,Iraq,IQ-BG Baghdad,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,4
+2018,Iraq,IQ-BG Baghdad,Urban,Male,25-34,Arabic,Married,Lower,Working class,6
+2018,Iraq,IQ-BG Baghdad,Urban,Male,45-54,Arabic,Married,Lower,Lower middle class,5
+2018,Iraq,IQ-BG Baghdad,Urban,Male,55-64,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-DQ Dhi Qar,Rural,Male,35-44,Arabic,Married,Middle,Working class,4
+2018,Iraq,IQ-DQ Dhi Qar,Urban,Female,45-54,Arabic,Married,Lower,Working class,6
+2018,Iraq,IQ-DQ Dhi Qar,Urban,Male,25-34,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-DQ Dhi Qar,Urban,Male,55-64,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-KI Kirkuk,Urban,Male,25-34,Arabic,Married,Lower,Lower middle class,4
+2018,Iraq,IQ-NI Ninawá,Rural,Female,25-34,Arabic,Married,Lower,Lower middle class,8
+2018,Iraq,IQ-NI Ninawá,Rural,Female,25-34,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-NI Ninawá,Rural,Female,35-44,Arabic,Married,Lower,Working class,6
+2018,Iraq,IQ-NI Ninawá,Urban,Female,16-24,Arabic,Married,Lower,Working class,4
+2018,Iraq,IQ-NI Ninawá,Urban,Female,25-34,Arabic,Married,Lower,Lower middle class,4
+2018,Iraq,IQ-NI Ninawá,Urban,Female,25-34,Arabic,Married,Lower,Working class,6
+2018,Iraq,IQ-NI Ninawá,Urban,Male,25-34,Arabic,Married,Lower,Working class,7
+2018,Iraq,IQ-NI Ninawá,Urban,Male,55-64,Arabic,Married,Lower,Working class,5
+2018,Iraq,IQ-SU As Sulaymaniyah,Urban,Female,25-34,Kurdish; Yezidi,Married,Higher,Lower middle class,4
+2018,Iraq,IQ-SU As Sulaymaniyah,Urban,Male,25-34,Kurdish; Yezidi,Married,Lower,Working class,4

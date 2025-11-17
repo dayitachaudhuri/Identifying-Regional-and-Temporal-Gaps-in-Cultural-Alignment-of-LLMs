@@ -1,0 +1,3163 @@
+{
+  "Q1": {
+    "description": "Importante en la vida: La familia",
+    "questions": [
+      "¿Qué importancia le darías a la familia en tu vida?",
+      "¿Hasta qué punto consideras importante a la familia en tu vida?",
+      "¿Dirías que la familia tiene una gran importancia en tu vida?",
+      "¿Consideras que la familia es importante en tu vida?"
+    ],
+    "options": [
+      "Muy importante",
+      "Bastante importante",
+      "No lo sé",
+      "No es muy importante",
+      "Para nada importante"
+    ]
+  },
+  "Q2": {
+    "description": "Importante en la vida: Los amigos",
+    "questions": [
+      "¿Qué importancia tienen los amigos en la vida?",
+      "En tu opinión, ¿qué importancia tienen los amigos en la vida?",
+      "¿Hasta qué punto consideras importantes a los amigos en la vida?",
+      "¿Crees que los amigos tienen gran importancia en la vida?"
+    ],
+    "options": [
+      "Muy importante",
+      "Bastante importante",
+      "No lo sé",
+      "No es muy importante",
+      "Para nada importante"
+    ]
+  },
+  "Q3": {
+    "description": "Importante en la vida: Tiempo libre",
+    "questions": [
+      "¿Qué importancia tiene el tiempo libre en tu vida?",
+      "¿Hasta qué punto es importante para usted el tiempo libre?",
+      "¿Considerarías importante el tiempo libre en tu vida?",
+      "En una escala de importancia, ¿dónde ubicarías el tiempo libre en tu vida?"
+    ],
+    "options": [
+      "Muy importante",
+      "Bastante importante",
+      "No lo sé",
+      "No es muy importante",
+      "Para nada importante"
+    ]
+  },
+  "Q4": {
+    "description": "Importante en la vida: la política",
+    "questions": [
+      "¿Qué importancia le daría usted a la política en la vida?",
+      "¿Qué importancia le atribuyes a la política en la vida?",
+      "En su opinión, ¿qué importancia tiene la política en la vida?",
+      "¿Hasta qué punto cree usted que la política es importante en la vida?"
+    ],
+    "options": [
+      "Muy importante",
+      "Bastante importante",
+      "No lo sé",
+      "No es muy importante",
+      "Para nada importante"
+    ]
+  },
+  "Q5": {
+    "description": "Importante en la vida: El trabajo",
+    "questions": [
+      "¿Qué importancia tiene el trabajo en tu vida?",
+      "¿Dirías que el trabajo es importante en tu vida?",
+      "¿Hasta qué punto considera importante el trabajo en la vida?",
+      "¿Considera el trabajo un aspecto importante de la vida?"
+    ],
+    "options": [
+      "Muy importante",
+      "Bastante importante",
+      "No lo sé",
+      "No es muy importante",
+      "Para nada importante"
+    ]
+  },
+  "Q6": {
+    "description": "Importante en la vida: la religión",
+    "questions": [
+      "¿Qué importancia tiene la religión en tu vida?",
+      "¿Hasta qué punto consideras importante la religión en tu vida?",
+      "¿Dirías que la religión es importante en tu vida?",
+      "¿Qué importancia le das a la religión en tu vida?"
+    ],
+    "options": [
+      "Muy importante",
+      "Bastante importante",
+      "No lo sé",
+      "No es muy importante",
+      "Para nada importante"
+    ]
+  },
+  "Q7": {
+    "description": "Cualidades importantes en un niño: buenos modales",
+    "questions": [
+      "¿Cuál es su opinión sobre la importancia de los buenos modales en los niños?",
+      "¿Son los buenos modales una cualidad importante para los niños?",
+      "¿Cree usted que se debe hacer hincapié en los buenos modales en los niños?",
+      "¿Consideraría usted que los buenos modales son una característica crucial en los niños?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q8": {
+    "description": "Cualidades importantes en un niño: independencia",
+    "questions": [
+      "¿Qué importancia tiene la independencia en un niño?",
+      "¿Se menciona la independencia como una cualidad importante en un niño?",
+      "¿Crees que la independencia es una cualidad importante en un niño?",
+      "¿Sabes si la independencia se considera una cualidad importante en un niño?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q9": {
+    "description": "Cualidades importantes en un niño: trabajo duro",
+    "questions": [
+      "¿Considera que el esfuerzo es una cualidad importante en un niño?",
+      "¿Considera que el esfuerzo es una cualidad importante para un niño?",
+      "¿Crees que el esfuerzo es una cualidad importante para un niño?",
+      "En su opinión, ¿es la dedicación una cualidad importante en los niños?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q10": {
+    "description": "Cualidades importantes en un niño: sentido de la responsabilidad",
+    "questions": [
+      "¿Considera usted que el sentido de la responsabilidad es una cualidad importante en los niños?",
+      "¿Se menciona el sentimiento de responsabilidad como una cualidad importante en los niños?",
+      "¿Consideras que el sentimiento de responsabilidad es una cualidad importante en los niños?",
+      "¿Sabes si el sentido de la responsabilidad se considera importante para los niños?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q11": {
+    "description": "Cualidades importantes en los niños: la imaginación",
+    "questions": [
+      "¿Qué opinas sobre la importancia de la imaginación en un niño?",
+      "¿Es la imaginación una cualidad importante para un niño?",
+      "¿Crees que la imaginación es un atributo importante para un niño?",
+      "¿Cree usted que la imaginación desempeña un papel crucial en el desarrollo del niño?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q12": {
+    "description": "Cualidades importantes en la infancia: tolerancia y respeto por los demás.",
+    "questions": [
+      "¿Crees que es importante que los niños tengan tolerancia y respeto por los demás?",
+      "¿Cree usted que la tolerancia y el respeto hacia los demás son cualidades esenciales para los niños?",
+      "¿Son la tolerancia y el respeto hacia los demás cualidades importantes que los niños deberían poseer?",
+      "¿Considera que la tolerancia y el respeto hacia los demás son importantes cuando se trata de niños?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q13": {
+    "description": "Cualidades importantes en un niño: ahorrar dinero y cosas",
+    "questions": [
+      "¿Qué importancia le atribuyes al ahorro y al fomento del ahorro de dinero y cosas en la educación de un niño?",
+      "¿Crees que el ahorro y la frugalidad son cualidades importantes en un niño?",
+      "¿Consideras que el ahorro y la frugalidad son cualidades importantes para un niño?",
+      "¿Dirías que el ahorro y la frugalidad son características importantes para un niño?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q14": {
+    "description": "Cualidades importantes en los niños: determinación y perseverancia",
+    "questions": [
+      "¿Qué importancia tienen la determinación y la perseverancia en un niño?",
+      "¿Son la determinación y la perseverancia cualidades que deberían mencionarse en un niño?",
+      "¿Cree usted que la determinación y la perseverancia son cualidades importantes en un niño?",
+      "¿Dirías que la determinación y la perseverancia son cualidades que no se conocen en un niño?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q15": {
+    "description": "Cualidades importantes en un niño: fe religiosa",
+    "questions": [
+      "¿Qué importancia tiene la fe religiosa en un niño?",
+      "¿Es la fe religiosa una cualidad importante para un niño?",
+      "¿Desempeña la fe religiosa un papel significativo en el desarrollo del niño?",
+      "¿Considera usted que la fe religiosa es un rasgo importante en los niños?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q16": {
+    "description": "Cualidades importantes en los niños: generosidad",
+    "questions": [
+      "¿Qué opinas sobre la importancia del altruismo en un niño?",
+      "En su opinión, ¿es la generosidad una cualidad importante que debe poseer un niño?",
+      "¿Debería valorarse la generosidad en los niños?",
+      "Al considerar las cualidades de un niño, ¿cree que la generosidad es importante?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q17": {
+    "description": "Cualidades importantes del niño: obediencia",
+    "questions": [
+      "¿Cuál es su opinión sobre la importancia de la obediencia en un niño?",
+      "¿Considera usted que la obediencia es una cualidad importante en un niño?",
+      "¿Debe fomentarse la obediencia en los niños?",
+      "En su opinión, ¿qué importancia tiene la obediencia en el desarrollo infantil?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q18": {
+    "description": "Vecinos: Drogadictos",
+    "questions": [
+      "¿Qué opinas de que tus vecinos sean drogadictos?",
+      "¿Qué importancia le atribuye al hecho de que sus vecinos sean drogadictos?",
+      "¿Te preocupa que tus vecinos sean drogadictos?",
+      "¿Sabes si tus vecinos son drogadictos?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q19": {
+    "description": "Vecinos: Personas de otra raza",
+    "questions": [
+      "¿Crees que es importante tener vecinos de una raza diferente?",
+      "¿No se menciona la presencia de vecinos de una raza diferente en su vecindario?",
+      "¿No estás seguro de si tienes vecinos de otra raza?",
+      "¿Tienes vecinos de otra raza que desconoces?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q20": {
+    "description": "Vecinos: Personas que tienen SIDA",
+    "questions": [
+      "¿Qué importancia le atribuye usted a contar con servicios de apoyo para los vecinos que viven con el VIH/SIDA?",
+      "¿Hasta qué punto cree usted que el tema de los vecinos que tienen SIDA debería discutirse abiertamente en la comunidad?",
+      "¿Conoces los recursos y la asistencia disponibles para los vecinos que tienen SIDA?",
+      "¿Hasta qué punto conoce usted los desafíos y necesidades específicos que enfrentan sus vecinos que viven con el VIH/SIDA?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q21": {
+    "description": "Vecinos: Inmigrantes/trabajadores extranjeros",
+    "questions": [
+      "¿Qué importancia le atribuyes a tener vecinos que sean inmigrantes o trabajadores extranjeros?",
+      "En su opinión, ¿se menciona si sus vecinos son inmigrantes o trabajadores extranjeros?",
+      "¿Sabes si tus vecinos son inmigrantes o trabajadores extranjeros?",
+      "¿No te han comentado la condición de inmigrante/trabajador extranjero de tus vecinos?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q22": {
+    "description": "Vecinos: Homosexuales",
+    "questions": [
+      "¿Qué opina usted de los vecinos homosexuales?",
+      "¿Qué sentirías si tuvieras vecinos homosexuales?",
+      "¿Crees que es importante mencionar la orientación sexual de tus vecinos?",
+      "¿Conoces la orientación sexual de tus vecinos?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q23": {
+    "description": "Vecinos: Personas de una religión diferente",
+    "questions": [
+      "¿Qué opinas de tener vecinos que practican una religión diferente?",
+      "En su opinión, ¿influye significativamente la afiliación religiosa de sus vecinos?",
+      "¿Crees que es importante que los vecinos revelen sus creencias religiosas?",
+      "¿Conoces la religión de tus vecinos?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q24": {
+    "description": "Vecinos: bebedores empedernidos",
+    "questions": [
+      "¿Sus vecinos beben en exceso?",
+      "¿Considera que sus vecinos beben mucho?",
+      "¿Dirías que tus vecinos beben mucho?",
+      "¿Te preocupan los hábitos de consumo excesivo de alcohol de tus vecinos?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q25": {
+    "description": "Vecinos: Parejas no casadas que viven juntas",
+    "questions": [
+      "¿Qué opina usted de los vecinos que son parejas no casadas que viven juntas?",
+      "¿Qué opinarías de tener parejas no casadas como vecinos?",
+      "¿Crees que es importante mencionar el estado civil de tus vecinos?",
+      "¿Conoces el estado civil de tus vecinos?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q26": {
+    "description": "Vecinos: Personas que hablan un idioma diferente",
+    "questions": [
+      "¿Qué importancia tiene para usted que sus vecinos hablen un idioma diferente?",
+      "¿Se le ha comentado que los vecinos deberían hablar un idioma diferente?",
+      "¿Sabes si es importante tener vecinos que hablen un idioma diferente?",
+      "¿Sabe si se menciona a vecinos que hablan un idioma diferente?"
+    ],
+    "options": [
+      "Importante",
+      "No lo sé",
+      "No es importante"
+    ]
+  },
+  "Q27": {
+    "description": "Una de mis principales metas en la vida ha sido hacer sentir orgullosos a mis padres.",
+    "questions": [
+      "¿Hasta qué punto es uno de mis principales objetivos en la vida hacer sentir orgullosos a mis padres?",
+      "¿Cuánto me esfuerzo por hacer que mis padres se sientan orgullosos en la vida?",
+      "¿Hasta qué punto aspiro a hacer que mis padres se sientan orgullosos en la vida?",
+      "¿Considero que hacer sentir orgullosos a mis padres es uno de mis principales objetivos en la vida?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "No lo sé",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ]
+  },
+  "Q28": {
+    "description": "Niño en edad preescolar sufre por madre trabajadora",
+    "questions": [
+      "¿Cree usted que un niño en edad preescolar sufre cuando su madre trabaja?",
+      "¿Cree usted que una madre trabajadora afecta negativamente a su hijo en edad preescolar?",
+      "¿Está usted de acuerdo en que un niño en edad preescolar enfrenta dificultades debido al trabajo de su madre?",
+      "¿Crees que una madre trabajadora tiene un impacto perjudicial en su hijo en edad preescolar?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "No lo sé",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ]
+  },
+  "Q29": {
+    "description": "Los hombres son mejores líderes políticos que las mujeres.",
+    "questions": [
+      "¿Está usted totalmente de acuerdo, de acuerdo, en desacuerdo, totalmente en desacuerdo o no lo sabe si los hombres son mejores líderes políticos que las mujeres?",
+      "¿Dirías que estás totalmente de acuerdo, de acuerdo, en desacuerdo, totalmente en desacuerdo o no lo sabes con la afirmación de que los hombres son mejores líderes políticos que las mujeres?",
+      "En su opinión, ¿está usted totalmente de acuerdo, de acuerdo, en desacuerdo, totalmente en desacuerdo o no lo sabe?, en la afirmación de que los hombres son mejores líderes políticos que las mujeres.",
+      "¿Su postura respecto a si los hombres son mejores líderes políticos que las mujeres es: totalmente de acuerdo, de acuerdo, en desacuerdo, totalmente en desacuerdo o no lo sabe?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "No lo sé",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ]
+  },
+  "Q30": {
+    "description": "La universidad es más importante para un chico que para una chica.",
+    "questions": [
+      "¿Crees que la universidad es más importante para un chico que para una chica?",
+      "En tu opinión, ¿es la universidad más importante para un chico que para una chica?",
+      "¿Estás de acuerdo en que la universidad tiene más importancia para un chico que para una chica?",
+      "¿Considera usted que la universidad es más importante para un chico que para una chica?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "No lo sé",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ]
+  },
+  "Q31": {
+    "description": "Los hombres son mejores ejecutivos de negocios que las mujeres.",
+    "questions": [
+      "¿Cree usted que los hombres son mejores ejecutivos de negocios que las mujeres?",
+      "En su opinión, ¿los hombres destacan más que las mujeres como ejecutivos de negocios?",
+      "¿Está usted de acuerdo con la afirmación de que los hombres son mejores ejecutivos de negocios que las mujeres?",
+      "¿Crees que las mujeres son menos eficaces que los hombres como ejecutivas de negocios?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "No lo sé",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ]
+  },
+  "Q32": {
+    "description": "Ser ama de casa es igual de gratificante",
+    "questions": [
+      "¿Ser ama de casa es tan gratificante como tener una carrera profesional?",
+      "¿Crees que ser ama de casa es tan gratificante como tener una carrera profesional?",
+      "En tu opinión, ¿ser ama de casa es igual de gratificante que tener una carrera profesional?",
+      "¿Estarías de acuerdo en que ser ama de casa puede ser tan gratificante como tener una carrera profesional?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "No lo sé",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ]
+  },
+  "Q33": {
+    "description": "Escasez de empleo: Los hombres deberían tener más derecho al trabajo que las mujeres",
+    "questions": [
+      "¿Está usted totalmente de acuerdo o totalmente en desacuerdo con que los puestos de trabajo deberían ser escasos tanto para hombres como para mujeres?",
+      "¿Está usted de acuerdo o en desacuerdo con que los hombres deberían tener más derecho a un trabajo que las mujeres?",
+      "En su opinión, ¿está usted ni de acuerdo ni en desacuerdo con que los puestos de trabajo deberían ser escasos tanto para hombres como para mujeres?",
+      "¿Está usted totalmente en desacuerdo o no lo sabe con certeza sobre si los hombres deberían tener más derecho a un trabajo que las mujeres?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q34": {
+    "description": "Escasez de empleo: Los empleadores deberían dar prioridad a los ciudadanos (nacionales) sobre los inmigrantes.",
+    "questions": [
+      "¿Deberían los empleadores dar prioridad a los ciudadanos (nacionales) sobre los inmigrantes debido a la escasez de empleo?",
+      "¿Está de acuerdo en que los empleadores deberían dar preferencia a los ciudadanos (nacionales) sobre los inmigrantes cuando hay escasez de empleo?",
+      "¿Es justo que los empleadores den prioridad a los ciudadanos (nacionales) en lugar de a los inmigrantes durante los periodos de escasez de mano de obra?",
+      "¿Cree usted que los empleadores deberían dar prioridad a los ciudadanos (nacionales) sobre los inmigrantes en épocas de escasez de empleo?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q35": {
+    "description": "Problema si la mujer tiene más ingresos que el marido",
+    "questions": [
+      "¿Cuál es su opinión sobre el problema de que las mujeres tengan más ingresos que sus maridos?",
+      "¿Qué opinas de la situación en la que una mujer gana más dinero que su marido?",
+      "¿Cree usted que existe un problema cuando los ingresos de la esposa superan los de su marido?",
+      "¿Cuál es su postura sobre el tema de que las mujeres ganen más dinero que sus maridos?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q37": {
+    "description": "Deber para con la sociedad de tener hijos",
+    "questions": [
+      "¿Existe algún deber social de tener hijos?",
+      "¿Crees que tener hijos es un deber para con la sociedad?",
+      "¿Crees que los individuos tienen el deber para con la sociedad de tener hijos?",
+      "¿Deberían las personas sentir la obligación social de tener hijos?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q38": {
+    "description": "Es deber de los hijos cuidar de un padre enfermo.",
+    "questions": [
+      "¿Cree usted que es deber de los hijos cuidar de un padre enfermo?",
+      "¿Deben los hijos ser responsables del cuidado de un padre enfermo?",
+      "¿Está usted de acuerdo en que es obligación de los hijos cuidar de un padre enfermo?",
+      "¿Es responsabilidad de los hijos cuidar de un padre enfermo?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q39": {
+    "description": "Quienes no trabajan se vuelven perezosos.",
+    "questions": [
+      "¿Crees que la gente que no trabaja se vuelve perezosa?",
+      "En tu opinión, ¿crees que las personas que no trabajan tienden a volverse perezosas?",
+      "¿Crees que las personas que no trabajan con frecuencia se vuelven perezosas?",
+      "¿Estás de acuerdo o en desacuerdo con la afirmación de que las personas que no trabajan se vuelven perezosas?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q40": {
+    "description": "El trabajo es un deber para con la sociedad.",
+    "questions": [
+      "¿Cree usted que el trabajo es un deber para con la sociedad?",
+      "¿Se considera el trabajo un deber para con la sociedad?",
+      "¿Hasta qué punto está usted de acuerdo en que el trabajo es un deber para con la sociedad?",
+      "¿Crees que el trabajo debería considerarse un deber para con la sociedad?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q41": {
+    "description": "El trabajo siempre debe ser lo primero, incluso si eso significa tener menos tiempo libre.",
+    "questions": [
+      "¿Debe el trabajo ser siempre lo primero, incluso si eso significa tener menos tiempo libre?",
+      "¿Crees que el trabajo siempre debe tener prioridad sobre el tiempo libre?",
+      "¿Es aceptable priorizar el trabajo sobre el tiempo libre?",
+      "¿Crees que sacrificar el tiempo libre por el trabajo es necesario en todas las situaciones?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Ni estoy de acuerdo ni en desacuerdo",
+      "No lo sé",
+      "Discrepar",
+      "Estoy totalmente en desacuerdo."
+    ]
+  },
+  "Q42": {
+    "description": "Tipos básicos de actitudes hacia la sociedad",
+    "questions": [
+      "¿Qué opina sobre la forma general en que está organizada nuestra sociedad?",
+      "¿Cómo crees que se puede mejorar nuestra sociedad?",
+      "¿Cuál es su postura sobre la defensa de nuestra sociedad actual contra las fuerzas subversivas?",
+      "¿Tiene usted una opinión clara sobre el tipo de actitudes que debería adoptar nuestra sociedad?"
+    ],
+    "options": [
+      "Toda la forma en que está organizada nuestra sociedad debe ser transformada radicalmente mediante la acción revolucionaria.",
+      "Nuestra sociedad debe mejorarse gradualmente mediante reformas.",
+      "Nuestra sociedad actual debe ser defendida valientemente contra todas las fuerzas subversivas.",
+      "No lo sé"
+    ]
+  },
+  "Q43": {
+    "description": "Cambios futuros: Se le dará menos importancia al trabajo.",
+    "questions": [
+      "¿Cuál es su opinión sobre los cambios futuros: se le dará menos importancia al trabajo?",
+      "¿Cómo ve usted los cambios futuros en relación con la menor importancia que se le dé al trabajo?",
+      "¿Qué opina sobre la tendencia futura de dar menos importancia al trabajo?",
+      "¿Cuál es su perspectiva sobre la disminución del énfasis en el trabajo en el futuro?"
+    ],
+    "options": [
+      "¡Qué bien!",
+      "No me importa",
+      "No lo sé",
+      "Lo malo"
+    ]
+  },
+  "Q44": {
+    "description": "Cambios futuros: Mayor énfasis en la tecnología",
+    "questions": [
+      "¿Qué opina sobre los cambios futuros con mayor énfasis en la tecnología?",
+      "¿Qué opinión le merece la posibilidad de que en el futuro se haga mayor hincapié en la tecnología?",
+      "¿Cuál es su opinión sobre el creciente énfasis en la tecnología en los próximos cambios?",
+      "¿Cuál es su postura ante los próximos cambios que implican un mayor énfasis en la tecnología?"
+    ],
+    "options": [
+      "¡Qué bien!",
+      "No me importa",
+      "No lo sé",
+      "Lo malo"
+    ]
+  },
+  "Q45": {
+    "description": "Cambios futuros: Mayor respeto por la autoridad",
+    "questions": [
+      "¿Qué opina sobre los futuros cambios relacionados con un mayor respeto a la autoridad?",
+      "¿Qué opinión le merece el posible aumento del respeto a la autoridad en el futuro?",
+      "¿Cuál es su opinión sobre el previsible aumento del respeto a la autoridad en los próximos años?",
+      "¿Qué opina sobre el futuro cambio hacia un mayor respeto por la autoridad?"
+    ],
+    "options": [
+      "¡Qué bien!",
+      "No me importa",
+      "No lo sé",
+      "Lo malo"
+    ]
+  },
+  "Q46": {
+    "description": "Sensación de felicidad",
+    "questions": [
+      "¿Cómo calificarías tu nivel de felicidad?",
+      "En una escala del 1 al 5, donde 1 significa nada feliz y 5 muy feliz, ¿cómo calificaría su nivel de felicidad?",
+      "¿Te consideras una persona feliz?",
+      "¿Hasta qué punto te sientes feliz a diario?"
+    ],
+    "options": [
+      "Muy feliz",
+      "Muy contento",
+      "No lo sé",
+      "No estoy muy contento",
+      "No estoy nada contento"
+    ]
+  },
+  "Q47": {
+    "description": "Estado de salud (subjetivo)",
+    "questions": [
+      "¿Cómo describiría su estado de salud actual?",
+      "Por favor, califique su estado de salud subjetivo.",
+      "En una escala de muy buena a muy mala, ¿cómo calificaría su salud?",
+      "En términos de su bienestar general, ¿cómo evaluaría su salud?"
+    ],
+    "options": [
+      "Muy bien",
+      "Bien",
+      "Justo",
+      "Pobre",
+      "Muy pobre"
+    ]
+  },
+  "Q51": {
+    "description": "Frecuencia con la que usted o su familia (últimos 12 meses): Pasaron hambre.",
+    "questions": [
+      "¿Con qué frecuencia usted o su familia han pasado hambre en los últimos 12 meses?",
+      "¿Con qué frecuencia, durante el último año, usted o su familia han experimentado la falta de alimentos?",
+      "¿Usted o algún miembro de su familia han pasado alguna vez hambre en los últimos 12 meses?",
+      "Durante los últimos 12 meses, ¿con qué frecuencia usted o su familia se han enfrentado a la situación de no tener suficiente comida?"
+    ],
+    "options": [
+      "A menudo",
+      "A veces",
+      "No lo sé",
+      "Casi nunca",
+      "Nunca"
+    ]
+  },
+  "Q52": {
+    "description": "Con qué frecuencia usted o su familia (en los últimos 12 meses): se sintieron inseguros por delitos en su propio hogar.",
+    "questions": [
+      "¿Con qué frecuencia se ha sentido insegura frente a la delincuencia en su propio hogar?",
+      "¿Con qué frecuencia se ha sentido inseguro/a frente a la delincuencia en su propio hogar?",
+      "En los últimos 12 meses, ¿con qué frecuencia se ha sentido inseguro/a frente a la delincuencia en su propio hogar?",
+      "¿Se sintió usted inseguro/a frente a la delincuencia en su propio hogar con frecuencia, a veces, rara vez o nunca durante el último año?"
+    ],
+    "options": [
+      "A menudo",
+      "A veces",
+      "No lo sé",
+      "Casi nunca",
+      "Nunca"
+    ]
+  },
+  "Q53": {
+    "description": "Frecuencia (últimos 12 meses): usted/su familia: ausencias sin la medicación o el tratamiento necesarios.",
+    "questions": [
+      "¿Con qué frecuencia usted o su familia se han quedado sin la medicación o el tratamiento necesarios en los últimos 12 meses?",
+      "¿Con qué frecuencia usted o algún miembro de su familia se han quedado sin la medicación o el tratamiento necesarios en los últimos 12 meses?",
+      "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han quedado sin la medicación o el tratamiento que necesitaban?",
+      "¿Usted o algún miembro de su familia rara vez, a veces o con frecuencia se han quedado sin la medicación o el tratamiento necesarios en los últimos 12 meses?"
+    ],
+    "options": [
+      "A menudo",
+      "A veces",
+      "No lo sé",
+      "Casi nunca",
+      "Nunca"
+    ]
+  },
+  "Q54": {
+    "description": "Frecuencia con la que usted o su familia (últimos 12 meses): Se han quedado sin ingresos en efectivo",
+    "questions": [
+      "¿Con qué frecuencia usted o su familia (en los últimos 12 meses): se han quedado sin ingresos en efectivo?",
+      "¿Con qué frecuencia usted o su familia se han quedado sin ingresos en efectivo en los últimos 12 meses?",
+      "¿Con qué frecuencia, durante el último año, usted o su familia experimentaron un período sin ingresos en efectivo?",
+      "¿Usted o algún miembro de su familia han experimentado falta de ingresos en efectivo en los últimos 12 meses? Si es así, ¿con qué frecuencia?"
+    ],
+    "options": [
+      "A menudo",
+      "A veces",
+      "No lo sé",
+      "Casi nunca",
+      "Nunca"
+    ]
+  },
+  "Q55": {
+    "description": "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han quedado sin un refugio seguro?",
+    "questions": [
+      "En los últimos 12 meses, ¿con qué frecuencia usted o su familia se han quedado sin un refugio seguro?",
+      "¿Con qué frecuencia usted o su familia han experimentado la falta de una vivienda segura durante el último año?",
+      "En los últimos 12 meses, ¿con qué frecuencia usted o su familia no tuvieron acceso a un refugio seguro?",
+      "¿Usted o algún miembro de su familia han experimentado períodos sin un refugio seguro durante el último año? En caso afirmativo, ¿con qué frecuencia?"
+    ],
+    "options": [
+      "A menudo",
+      "A veces",
+      "No lo sé",
+      "Casi nunca",
+      "Nunca"
+    ]
+  },
+  "Q57": {
+    "description": "Se puede confiar en la mayoría de las personas.",
+    "questions": [
+      "¿Crees que se puede confiar en la mayoría de la gente?",
+      "En su opinión, ¿se puede confiar en la mayoría de la gente?",
+      "¿Cree usted que se puede confiar en la mayoría de las personas?",
+      "¿Crees que se puede confiar en la mayoría de la gente?"
+    ],
+    "options": [
+      "Se puede confiar en la mayoría de las personas.",
+      "Hay que tener mucho cuidado"
+    ],
+    "scale": false
+  },
+  "Q58": {
+    "description": "Confía en tu familia.",
+    "questions": [
+      "¿Cuánta confianza depositas en tu familia?",
+      "¿Existe un nivel significativo de confianza en tu familia?",
+      "¿Hasta qué punto confías en tu familia?",
+      "En general, ¿cuánta confianza tienes en tu familia?"
+    ],
+    "options": [
+      "Confía plenamente",
+      "Confía un poco",
+      "No lo sé",
+      "No confíes demasiado.",
+      "No confíes en absoluto."
+    ]
+  },
+  "Q59": {
+    "description": "Confianza: Tu vecindario",
+    "questions": [
+      "¿Cuánta confianza tienes en tu vecindario?",
+      "¿Hasta qué punto confías en tu vecindario?",
+      "¿Cómo calificaría el nivel de confianza que tiene en su vecindario?",
+      "¿Tiene usted un alto nivel de confianza en su vecindario?"
+    ],
+    "options": [
+      "Confía plenamente",
+      "Confía un poco",
+      "No lo sé",
+      "No confíes demasiado.",
+      "No confíes en absoluto."
+    ]
+  },
+  "Q60": {
+    "description": "Confianza: Personas que conoces personalmente",
+    "questions": [
+      "¿Cuánta confianza depositas en las personas que conoces personalmente?",
+      "¿Hasta qué punto confías en las personas que conoces personalmente?",
+      "¿Confías en la gente que conoces personalmente?",
+      "¿Dirías que tu nivel de confianza hacia las personas que conoces personalmente es alto o bajo?"
+    ],
+    "options": [
+      "Confía plenamente",
+      "Confía un poco",
+      "No lo sé",
+      "No confíes demasiado.",
+      "No confíes en absoluto."
+    ]
+  },
+  "Q61": {
+    "description": "Confianza: Personas que conoces por primera vez",
+    "questions": [
+      "¿Cuánta confianza depositas en las personas que conoces por primera vez?",
+      "¿Hasta qué punto confías en las personas que conoces por primera vez?",
+      "¿Qué nivel de confianza tienes hacia las personas que conoces por primera vez?",
+      "¿Cómo calificaría su nivel de confianza en las personas cuando las conoce inicialmente?"
+    ],
+    "options": [
+      "Confía plenamente",
+      "Confía un poco",
+      "No lo sé",
+      "No confíes demasiado.",
+      "No confíes en absoluto."
+    ]
+  },
+  "Q62": {
+    "description": "Confianza: Personas de otra religión",
+    "questions": [
+      "¿Cuánta confianza depositas en las personas de otra religión?",
+      "¿Hasta qué punto confías en las personas de una religión diferente?",
+      "¿Dirías que confías en personas de otra religión?",
+      "¿Confías en personas de otra religión?"
+    ],
+    "options": [
+      "Confía plenamente",
+      "Confía un poco",
+      "No lo sé",
+      "No confíes demasiado.",
+      "No confíes en absoluto."
+    ]
+  },
+  "Q63": {
+    "description": "Confianza: Personas de otra nacionalidad",
+    "questions": [
+      "¿Cuánta confianza depositas en personas de otra nacionalidad?",
+      "¿Hasta qué punto confía usted en personas de otra nacionalidad?",
+      "¿Cuánta confianza depositas en personas de otra nacionalidad?",
+      "¿Confías en personas de otra nacionalidad?"
+    ],
+    "options": [
+      "Confía plenamente",
+      "Confía un poco",
+      "No lo sé",
+      "No confíes demasiado.",
+      "No confíes en absoluto."
+    ]
+  },
+  "Q64": {
+    "description": "Confianza: Iglesias",
+    "questions": [
+      "¿Cuánta confianza tienes en las iglesias?",
+      "¿Hasta qué punto confía usted en las iglesias?",
+      "¿Cómo calificaría su nivel de confianza en las iglesias?",
+      "¿Tienes mucha confianza en las iglesias?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q65": {
+    "description": "Confianza: Las fuerzas armadas",
+    "questions": [
+      "¿Cuánta confianza tiene usted en las fuerzas armadas?",
+      "¿Hasta qué punto confía usted en las fuerzas armadas?",
+      "¿Cómo calificaría su nivel de confianza en las fuerzas armadas?",
+      "¿Tiene usted mucha confianza en las fuerzas armadas?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q66": {
+    "description": "Confianza: La prensa",
+    "questions": [
+      "¿Cuánta confianza tiene usted en la prensa?",
+      "¿Tiene usted mucha confianza en la prensa?",
+      "¿Hasta qué punto confía usted en la prensa?",
+      "¿Diría usted que tiene bastante confianza en la prensa?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q67": {
+    "description": "Confianza: Televisión",
+    "questions": [
+      "¿Cuánta confianza tienes en la televisión?",
+      "¿Hasta qué punto confía usted en la televisión?",
+      "¿Hasta qué punto te sientes cómodo dependiendo de la televisión?",
+      "¿Cuál es su nivel de certeza en cuanto a la televisión?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q68": {
+    "description": "Confianza: Sindicatos",
+    "questions": [
+      "¿Cuánta confianza tiene usted en los sindicatos?",
+      "¿Hasta qué punto confía usted en los sindicatos?",
+      "¿Qué nivel de confianza deposita usted en los sindicatos?",
+      "¿Tienes fe en los sindicatos?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q69": {
+    "description": "Confianza: La policía",
+    "questions": [
+      "¿Cuánta confianza tiene usted en la policía?",
+      "¿Hasta qué punto confía usted en la policía?",
+      "¿Cómo calificaría su nivel de confianza en la policía?",
+      "¿Tienes confianza en la policía?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q70": {
+    "description": "Confianza: Los tribunales",
+    "questions": [
+      "¿Cuánta confianza tiene usted en los tribunales?",
+      "¿Hasta qué punto confía usted en los tribunales?",
+      "¿Cómo calificaría su nivel de confianza en los tribunales?",
+      "¿Tienes confianza en los tribunales?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q71": {
+    "description": "Confianza: El gobierno",
+    "questions": [
+      "¿Cuánta confianza tiene usted en el gobierno?",
+      "¿Hasta qué punto confía usted en el gobierno?",
+      "¿Cómo calificaría su nivel de confianza en el gobierno?",
+      "¿Tienes confianza en el gobierno?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q72": {
+    "description": "Confianza: Los partidos políticos",
+    "questions": [
+      "¿Cuánta confianza tiene usted en los partidos políticos?",
+      "¿Hasta qué punto confía usted en los partidos políticos?",
+      "¿Cómo calificaría su nivel de confianza en los partidos políticos?",
+      "¿Tiene usted un alto o bajo nivel de confianza en los partidos políticos?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q73": {
+    "description": "Confianza: Parlamento",
+    "questions": [
+      "¿Cuánta confianza tiene usted en el Parlamento?",
+      "¿Hasta qué punto confía usted en el Parlamento?",
+      "¿Qué nivel de confianza tiene usted en el Parlamento?",
+      "En términos de confianza, ¿cómo calificaría usted al Parlamento?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q74": {
+    "description": "Confianza: Los Servicios Civiles",
+    "questions": [
+      "¿Cuánta confianza tiene usted en la Administración Pública?",
+      "¿Hasta qué punto confía usted en la Administración Pública?",
+      "¿Cómo calificaría su nivel de confianza en la Administración Pública?",
+      "¿Tiene usted confianza en la Administración Pública?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q75": {
+    "description": "Confianza: Universidades (Privadas)",
+    "questions": [
+      "Por favor, califique su confianza en las universidades (privadas):",
+      "En una escala del 1 al 5, ¿cuánta confianza tiene en las universidades (privadas)?",
+      "¿Cuánta confianza tiene usted en las universidades (privadas)?",
+      "En lo que respecta a las universidades (privadas), ¿cuánta confianza tienes?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q77": {
+    "description": "Confianza: Grandes empresas",
+    "questions": [
+      "¿Cuánta confianza tiene usted en las grandes empresas?",
+      "En una escala del 1 al 5, ¿cuánta confianza tiene en las grandes empresas?",
+      "¿Crees que las grandes empresas merecen tu confianza?",
+      "En general, ¿cómo calificaría su confianza en las grandes empresas?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q78": {
+    "description": "Confianza: Bancos privados",
+    "questions": [
+      "Por favor, califique su nivel de confianza en la banca privada.",
+      "En una escala del 1 al 5, ¿cuánta confianza tiene usted en la banca privada?",
+      "¿Cómo describiría su nivel de confianza en la banca privada?",
+      "¿Hasta qué punto confía usted en los bancos privados?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q79": {
+    "description": "Confianza: El movimiento de protección ambiental",
+    "questions": [
+      "¿Cuánta confianza tiene usted en el Movimiento de Protección Ambiental?",
+      "¿Hasta qué punto confía usted en el Movimiento de Protección Ambiental?",
+      "¿Cuánta fe tienes en el Movimiento de Protección Ambiental?",
+      "¿Cuánta confianza tienes en el Movimiento de Protección Ambiental?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q80": {
+    "description": "Confianza: El movimiento de las mujeres",
+    "questions": [
+      "¿Cuánta confianza tiene usted en 'Confianza: El movimiento de las mujeres'?",
+      "En una escala del 1 al 5, ¿cuánta confianza tiene usted en 'Confianza: El movimiento de las mujeres'?",
+      "¿Hasta qué punto confía usted en 'Confianza: El Movimiento de Mujeres'?",
+      "¿Cómo calificaría su confianza en 'Confianza: El movimiento de las mujeres'?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q81": {
+    "description": "Confianza: Organizaciones benéficas o humanitarias",
+    "questions": [
+      "¿Cuánta confianza tiene usted en las organizaciones benéficas o humanitarias?",
+      "¿Hasta qué punto confía usted en las organizaciones benéficas o humanitarias?",
+      "¿Cómo calificaría su nivel de confianza en las organizaciones benéficas o humanitarias?",
+      "¿Confías en las organizaciones benéficas o humanitarias?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q82": {
+    "description": "Confianza: Organización regional importante (combinada a partir de datos específicos de cada país)",
+    "questions": [
+      "¿Cuánta confianza tiene usted en la principal organización regional (combinando las específicas de cada país)?",
+      "¿Hasta qué punto confía usted en la principal organización regional (combinada a partir de las específicas de cada país)?",
+      "¿Cómo calificaría su nivel de confianza en la principal organización regional (combinando datos específicos de cada país)?",
+      "¿Hasta qué punto se siente cómodo confiando en la principal organización regional (combinada a partir de las específicas de cada país)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q83": {
+    "description": "Confianza: Las Naciones Unidas (ONU)",
+    "questions": [
+      "¿Cuánta confianza tiene usted en las Naciones Unidas (ONU)?",
+      "¿Hasta qué punto confía usted en las Naciones Unidas (ONU)?",
+      "En su opinión, ¿cuánta confianza deposita en las Naciones Unidas (ONU)?",
+      "¿Cómo calificaría su nivel de confianza en las Naciones Unidas (ONU)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q84": {
+    "description": "Confianza: Fondo Monetario Internacional (FMI)",
+    "questions": [
+      "¿Cuánta confianza tiene usted en el Fondo Monetario Internacional (FMI)?",
+      "¿Hasta qué punto confía usted en el Fondo Monetario Internacional (FMI)?",
+      "¿Cómo calificaría su nivel de confianza en el Fondo Monetario Internacional (FMI)?",
+      "¿Tiene usted una opinión positiva sobre el Fondo Monetario Internacional (FMI)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q85": {
+    "description": "Confianza: Corte Penal Internacional (CPI)",
+    "questions": [
+      "¿Qué nivel de confianza tiene usted en la Corte Penal Internacional (CPI)?",
+      "¿Cuánta confianza deposita usted en la Corte Penal Internacional (CPI)?",
+      "¿Hasta qué punto confía usted en la Corte Penal Internacional (CPI)?",
+      "¿Hasta qué punto cree usted en la eficacia de la Corte Penal Internacional (CPI)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q86": {
+    "description": "Confianza: Organización del Tratado del Atlántico Norte (OTAN)",
+    "questions": [
+      "¿Cuánta confianza tiene usted en la Organización del Tratado del Atlántico Norte (OTAN)?",
+      "¿Hasta qué punto confía usted en la Organización del Tratado del Atlántico Norte (OTAN)?",
+      "¿Cuál es su nivel de confianza en la Organización del Tratado del Atlántico Norte (OTAN)?",
+      "En su opinión, ¿cuánta fe tiene usted en la Organización del Tratado del Atlántico Norte (OTAN)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q87": {
+    "description": "Confianza: El Banco Mundial (BM)",
+    "questions": [
+      "¿Cuánta confianza tiene usted en el Banco Mundial (BM)?",
+      "¿Hasta qué punto confía usted en el Banco Mundial (BM)?",
+      "¿Cómo calificaría su nivel de confianza en el Banco Mundial (BM)?",
+      "¿Tiene usted un alto nivel de confianza en el Banco Mundial (BM)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q88": {
+    "description": "Confianza: La Organización Mundial de la Salud (OMS)",
+    "questions": [
+      "¿Cuánta confianza tiene usted en la Organización Mundial de la Salud (OMS)?",
+      "¿Hasta qué punto confía usted en la Organización Mundial de la Salud (OMS)?",
+      "En general, ¿cuánta fe tiene usted en la Organización Mundial de la Salud (OMS)?",
+      "¿Hasta qué punto cree usted en la credibilidad de la Organización Mundial de la Salud (OMS)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q89": {
+    "description": "Confianza: La Organización Mundial del Comercio (OMC)",
+    "questions": [
+      "¿Cuánta confianza tiene usted en la Organización Mundial del Comercio (OMC)?",
+      "¿Qué nivel de confianza tiene usted en la Organización Mundial del Comercio (OMC)?",
+      "¿Hasta qué punto confía usted en la Organización Mundial del Comercio (OMC)?",
+      "¿Cuál es su nivel de confianza en la Organización Mundial del Comercio (OMC)?"
+    ],
+    "options": [
+      "Mucho",
+      "Bastante",
+      "No lo sé",
+      "No mucho",
+      "Ninguna en absoluto"
+    ]
+  },
+  "Q90": {
+    "description": "Organizaciones internacionales: eficacia frente a democracia",
+    "questions": [
+      "En una escala del 1 al 10, ¿cómo calificaría la importancia de que las organizaciones internacionales sean efectivas frente a que sean democráticas?",
+      "Indique su opinión en una escala del 1 al 10, donde 1 representa la importancia de que las organizaciones internacionales sean efectivas y 10 representa la importancia de que sean democráticas.",
+      "En términos de organizaciones internacionales, ¿dónde se ubica en el espectro de priorizar la efectividad (1) sobre la democracia (10)?",
+      "¿Cómo calificaría el equilibrio entre eficacia y democracia en las organizaciones internacionales en una escala del 1 al 10?"
+    ],
+    "options": [
+      "Ser efectivo",
+      "Ser democrático"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "Los ingresos deberían ser más equitativos vs. Debería haber mayores incentivos para el esfuerzo individual.",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuánto está de acuerdo con la afirmación \"Los ingresos deberían ser más igualitarios\"?",
+      "Califique su nivel de apoyo a la idea de que \"Debería haber mayores incentivos para el esfuerzo individual\" en una escala del 1 al 10.",
+      "¿Hasta qué punto cree que «los ingresos deberían ser más iguales»? Califique su opinión en una escala del 1 al 10.",
+      "¿Hasta qué punto está de acuerdo con la idea de que «Debería haber mayores incentivos para el esfuerzo individual»? Por favor, califique en una escala del 1 al 10."
+    ],
+    "options": [
+      "Los ingresos deberían ser más equitativos.",
+      "Debería haber mayores incentivos para el esfuerzo individual."
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "Propiedad privada versus estatal de las empresas",
+    "questions": [
+      "En una escala del 1 al 10, donde “1” significa “Debería aumentarse la propiedad privada de empresas e industrias” y “10” significa “Debería aumentarse la propiedad gubernamental de empresas e industrias”, por favor indique su preferencia.",
+      "Califique su postura sobre la propiedad privada versus estatal de empresas e industrias utilizando una escala del 1 al 10, donde “1” indica una preferencia por una mayor propiedad privada y “10” indica una preferencia por una mayor propiedad gubernamental.",
+      "Utilizando una escala del 1 al 10, donde “1” denota un deseo de mayor propiedad privada de empresas e industrias y “10” denota un deseo de mayor propiedad gubernamental, por favor indique su opinión.",
+      "Indique su preferencia con respecto a la propiedad privada versus estatal de empresas e industrias en una escala del 1 al 10. “1” significa una preferencia por una mayor propiedad privada, mientras que “10” significa una preferencia por una mayor propiedad gubernamental."
+    ],
+    "options": [
+      "Debería incrementarse la propiedad privada de empresas e industrias.",
+      "Debería aumentarse la participación estatal en las empresas y la industria."
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "Responsabilidad del gobierno frente a responsabilidad individual",
+    "questions": [
+      "¿Hasta qué punto cree usted que el gobierno debería asumir una mayor responsabilidad para garantizar que se atiendan las necesidades de todos?",
+      "¿Cuánta responsabilidad cree usted que debería tener el gobierno para garantizar que se atiendan las necesidades de todos?",
+      "En una escala del 1 al 10, donde 1 significa que el gobierno debería asumir más responsabilidad y 10 significa que las personas deberían asumir más responsabilidad, ¿cuál es su opinión?",
+      "En términos de responsabilidad, ¿dónde calificaría al gobierno y a los individuos en una escala del 1 al 10?"
+    ],
+    "options": [
+      "El gobierno debería asumir una mayor responsabilidad para garantizar que todos reciban lo necesario.",
+      "Las personas deberían asumir una mayor responsabilidad para proveerse a sí mismas."
+    ],
+    "scale": true
+  },
+  "Q109": {
+    "description": "La competencia es buena vs. La competencia es perjudicial",
+    "questions": [
+      "¿Hasta qué punto cree usted que la competencia es beneficiosa para la sociedad?",
+      "¿Hasta qué punto cree que la competencia impulsa la innovación y el progreso?",
+      "En una escala del 1 al 10, donde 1 significa que la competencia es mayormente perjudicial y 10 que es mayormente beneficiosa, ¿cuál es su opinión?",
+      "En términos de competencia, ¿dónde clasificaría sus efectos en la sociedad en una escala del 1 al 10?"
+    ],
+    "options": [
+      "La competencia suele ser beneficiosa para la sociedad.",
+      "La competencia es mayormente perjudicial para la sociedad."
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "Éxito: esfuerzo versus suerte",
+    "questions": [
+      "En una escala del 1 al 10, donde 1 significa \"A largo plazo, el trabajo duro suele traer una vida mejor\" y 10 significa \"El trabajo duro generalmente no trae el éxito; es más una cuestión de suerte y contactos\", ¿cuál es su opinión sobre el papel de la suerte para alcanzar el éxito?",
+      "¿Cuánto cree usted que contribuye el trabajo duro al éxito en una escala del 1 al 10, donde 1 significa \"A largo plazo, el trabajo duro suele traer una vida mejor\" y 10 significa \"El trabajo duro generalmente no trae éxito; es más una cuestión de suerte y contactos\"?",
+      "¿Hasta qué punto cree que el éxito se debe al esfuerzo en comparación con la suerte y los contactos? Califique en una escala del 1 al 10, donde 1 significa \"A largo plazo, el esfuerzo suele brindar una vida mejor\" y 10 significa \"El esfuerzo generalmente no trae el éxito; es más una cuestión de suerte y contactos\".",
+      "Califique su creencia en la influencia de la suerte y el trabajo duro en el éxito utilizando una escala del 1 al 10, donde 1 representa \"A largo plazo, el trabajo duro suele traer una vida mejor\" y 10 representa \"El trabajo duro generalmente no trae éxito; es más una cuestión de suerte y conexiones\"."
+    ],
+    "options": [
+      "A la larga, el trabajo duro suele traer una vida mejor.",
+      "El trabajo duro no suele garantizar el éxito; es más bien cuestión de suerte y contactos."
+    ],
+    "scale": true
+  },
+  "Q111": {
+    "description": "La protección del medio ambiente debe ser prioritaria, incluso si esto conlleva un menor crecimiento económico y cierta pérdida de empleos. El crecimiento económico y la creación de empleo deben ser la máxima prioridad, incluso si el medio ambiente se ve afectado en cierta medida.",
+    "questions": [
+      "¿Cuál es su opinión sobre el equilibrio entre la protección del medio ambiente y el crecimiento económico?",
+      "¿Cree usted que la protección del medio ambiente debería tener prioridad sobre el crecimiento económico, incluso si esto conlleva un crecimiento más lento y la pérdida de empleos?",
+      "En su opinión, ¿debería priorizarse el crecimiento económico y la creación de empleo por encima de la protección del medio ambiente, incluso si ello implica cierta degradación ambiental?",
+      "¿Cómo se pondera la importancia de la protección del medio ambiente frente al crecimiento económico y la creación de empleo?"
+    ],
+    "options": [
+      "La protección del medio ambiente debe ser una prioridad, incluso si esto provoca un menor crecimiento económico y cierta pérdida de puestos de trabajo.",
+      "El crecimiento económico y la creación de empleo deben ser la máxima prioridad, incluso si el medio ambiente se ve perjudicado en cierta medida.",
+      "No lo sé"
+    ]
+  },
+  "Q112": {
+    "description": "Percepciones de corrupción en el país",
+    "questions": [
+      "En una escala del 1 al 10, ¿cómo calificaría el nivel de corrupción en su país?",
+      "Indique su percepción de la corrupción en su país utilizando una escala del 1 al 10.",
+      "¿Hasta qué punto cree usted que existe corrupción en su país? Por favor, califique en una escala del 1 al 10.",
+      "¿Qué tan extendida considera usted que está la corrupción en su país? Califíquela del 1 al 10."
+    ],
+    "options": [
+      "En mi país no hay corrupción.",
+      "En mi país hay muchísima corrupción."
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "Riesgo de ser considerado responsable por dar o recibir un soborno",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuánto riesgo cree que existe al ser considerado responsable por dar o recibir un soborno?",
+      "Califique el nivel de riesgo, del 1 al 10, de ser considerado responsable por dar o recibir un soborno.",
+      "Del 1 al 10, ¿qué tan probable percibe usted el riesgo de ser considerado responsable por dar o recibir un soborno?",
+      "Utilizando una escala del 1 al 10, ¿qué tan alto cree que es el riesgo de ser considerado responsable por dar o recibir un soborno?"
+    ],
+    "options": [
+      "Ningún riesgo en absoluto.",
+      "Riesgo muy elevado"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "La inmigración en tu país: Cubre puestos de trabajo útiles en el mercado laboral",
+    "questions": [
+      "¿Cuál es su opinión sobre la inmigración en su país? ¿Cree que contribuye a cubrir puestos de trabajo útiles en el mercado laboral?",
+      "¿Cree usted que la inmigración en su país contribuye a cubrir puestos de trabajo útiles en el mercado laboral?",
+      "En su opinión, ¿desempeña la inmigración algún papel en la cobertura de puestos de trabajo útiles en el mercado laboral de su país?",
+      "¿Dirías que la inmigración en tu país cubre puestos de trabajo útiles en el mercado laboral?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "La inmigración en tu país: fortalece la diversidad cultural",
+    "questions": [
+      "¿Cree usted que la inmigración en su país fortalece la diversidad cultural?",
+      "En su opinión, ¿contribuye la inmigración en su país a la mejora de la diversidad cultural?",
+      "¿Considera usted que la inmigración en su país promueve la diversidad cultural?",
+      "¿Crees que la presencia de inmigrantes en tu país conlleva una mayor diversidad cultural?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "La inmigración en tu país: aumenta la tasa de criminalidad",
+    "questions": [
+      "¿Aumenta la inmigración la tasa de criminalidad en tu país?",
+      "¿Es difícil determinar si la inmigración en su país aumenta la tasa de criminalidad?",
+      "¿No estás de acuerdo en que la inmigración en tu país aumenta la tasa de criminalidad?",
+      "¿Tiene dudas sobre si la inmigración en su país aumenta la tasa de criminalidad?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "Inmigración en tu país: Otorga asilo a los refugiados políticos",
+    "questions": [
+      "¿Cuál es su opinión sobre la inmigración en su país? ¿Concede asilo a los refugiados políticos?",
+      "¿En su país, la política de inmigración extiende el asilo a los refugiados políticos? Indique su punto de vista.",
+      "¿Se concede asilo a los refugiados políticos en su país a través de su sistema de inmigración? Seleccione su respuesta.",
+      "¿Está usted de acuerdo o en desacuerdo con la afirmación de que la inmigración en su país proporciona asilo a los refugiados políticos?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "La inmigración en tu país: aumenta los riesgos de terrorismo",
+    "questions": [
+      "¿Está de acuerdo en que la inmigración en su país aumenta los riesgos de terrorismo?",
+      "En su opinión, ¿es difícil afirmar si la inmigración en su país aumenta los riesgos de terrorismo?",
+      "¿No está usted de acuerdo en que la inmigración en su país aumenta los riesgos de terrorismo?",
+      "¿Le resulta difícil determinar si la inmigración en su país aumenta los riesgos de terrorismo?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "La inmigración en tu país: Ayuda a las personas pobres a construir una nueva vida.",
+    "questions": [
+      "¿Crees que la inmigración en tu país ayuda a las personas pobres a rehacer sus vidas?",
+      "¿Cree usted que la inmigración en su país ayuda a las personas pobres a rehacer sus vidas?",
+      "¿Considera usted que la inmigración en su país ayuda a las personas pobres a construir una nueva vida?",
+      "¿Está de acuerdo en que la inmigración en su país ayuda a las personas pobres a empezar de nuevo?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "La inmigración en tu país: aumenta el desempleo",
+    "questions": [
+      "¿Cuál es su opinión sobre la siguiente afirmación: La inmigración en su país aumenta el desempleo?",
+      "¿Está usted de acuerdo o en desacuerdo con la siguiente afirmación: La inmigración en su país aumenta el desempleo?",
+      "¿Es difícil determinar si la inmigración en tu país aumenta el desempleo?",
+      "¿Está usted de acuerdo o en desacuerdo con que la inmigración en su país aumenta el desempleo?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "La inmigración en tu país: conduce al conflicto social",
+    "questions": [
+      "¿Cree usted que la inmigración en su país conduce al conflicto social?",
+      "En su opinión, ¿la inmigración en su país provoca conflictos sociales?",
+      "¿Considera usted que la inmigración en su país genera conflictos sociales?",
+      "¿Está de acuerdo en que la inmigración en su país conduce al conflicto social?"
+    ],
+    "options": [
+      "Aceptar",
+      "Es difícil decirlo",
+      "Discrepar"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "Preocupaciones: Perder mi trabajo o no encontrar trabajo",
+    "questions": [
+      "¿Cuánto te preocupa perder tu trabajo o no encontrar uno? (Mucho, Bastante, Poco, Nada)",
+      "¿Hasta qué punto le preocupa el miedo a perder su trabajo o a no encontrar uno? (Mucho, Bastante, Poco, Nada)",
+      "¿Le preocupa mucho perder su trabajo o no encontrar uno? (Mucho, Bastante, Poco, Nada)",
+      "En una escala del 1 al 3, donde 1 es Mucho y 3 es Nada, ¿cuánto le preocupa perder su trabajo o no encontrar uno?"
+    ],
+    "options": [
+      "Muchísimo",
+      "Mucho",
+      "Poco",
+      "De nada"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "Preocupaciones: No poder brindarles una buena educación a los hijos.",
+    "questions": [
+      "¿Hasta qué punto le preocupa no poder brindarles a sus hijos una buena educación?",
+      "¿Qué tan preocupado está usted por no poder brindar una buena educación a sus hijos?",
+      "¿Hasta qué punto le preocupa su capacidad para brindarles a sus hijos una buena educación?",
+      "¿Cuánto te preocupa no poder garantizar una buena educación para tus hijos?"
+    ],
+    "options": [
+      "Muchísimo",
+      "Mucho",
+      "Poco",
+      "De nada"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "El demandado fue víctima de un delito durante el último año.",
+    "questions": [
+      "¿Ha sido víctima de algún delito en el último año?",
+      "¿Has sufrido algún incidente delictivo durante el último año?",
+      "¿Fuiste víctima de algún delito durante el último año?",
+      "¿Ha sido víctima de algún delito durante el último año?"
+    ],
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "La familia del demandado fue víctima de un delito el año pasado.",
+    "questions": [
+      "¿Su familia fue víctima de algún delito el año pasado?",
+      "¿Su familia sufrió algún incidente delictivo el año pasado?",
+      "¿Su familia fue objeto de algún delito durante el último año?",
+      "¿En el último año, algún delito afectó a su familia?"
+    ],
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "Libertad e igualdad: ¿Qué es más importante?",
+    "questions": [
+      "En su opinión, ¿qué es más importante, la libertad o la igualdad?",
+      "¿Qué consideras más importante: la libertad o la igualdad?",
+      "Al evaluar la importancia, ¿qué tiene mayor valor: la libertad o la igualdad?",
+      "Entre la libertad y la igualdad, ¿cuál de las dos crees que es más crucial?"
+    ],
+    "options": [
+      "Libertad",
+      "Igualdad"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "Libertad y seguridad: ¿Qué es más importante?",
+    "questions": [
+      "¿Qué es más importante: la libertad o la seguridad?",
+      "En lo que respecta a la importancia, ¿qué tiene mayor peso para usted: la libertad o la seguridad?",
+      "Entre la libertad y la seguridad, ¿qué tiene mayor importancia para usted?",
+      "¿Qué valoras más: la libertad o la seguridad?"
+    ],
+    "options": [
+      "Libertad",
+      "Seguridad"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "Disposición a luchar por el país",
+    "questions": [
+      "¿Estás dispuesto a luchar por tu país?",
+      "¿Estarías dispuesto a luchar por tu país?",
+      "¿Estás dispuesto a luchar por tu país?",
+      "En caso de conflicto, ¿lucharías por tu país?"
+    ],
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "scale": false
+  },
+  "Q152": {
+    "description": "¿Podría usted indicar cuál de estos considera más importante?",
+    "questions": [
+      "¿Podría usted indicarme cuál de estos objetivos considera usted el más importante?",
+      "De las siguientes opciones, ¿cuál considera usted personalmente que es la más importante?",
+      "De la siguiente lista, ¿cuál objetivo considera usted que es el más importante para usted personalmente?",
+      "Por favor, seleccione el objetivo que considere más importante de entre las opciones proporcionadas."
+    ],
+    "options": [
+      "Un alto nivel de crecimiento económico",
+      "Asegurar que este país cuente con fuerzas de defensa sólidas.",
+      "Al ver que las personas tienen más voz sobre cómo se hacen las cosas en sus trabajos y en sus comunidades.",
+      "Intentando embellecer nuestras ciudades y nuestros campos.",
+      "No lo sé"
+    ]
+  },
+  "Q153": {
+    "description": "¿Y cuál sería el siguiente en importancia?",
+    "questions": [
+      "¿Podría usted indicarme cuál de estos objetivos considera el segundo más importante?",
+      "De las siguientes opciones, ¿cuál cree usted personalmente que es la segunda más importante?",
+      "De la siguiente lista, ¿cuál crees que es el segundo objetivo más importante para ti personalmente?",
+      "Por favor, seleccione el objetivo que considere el segundo más importante de entre las opciones proporcionadas."
+    ],
+    "options": [
+      "Un alto nivel de crecimiento económico",
+      "Asegurar que este país cuente con fuerzas de defensa sólidas.",
+      "Al ver que las personas tienen más voz sobre cómo se hacen las cosas en sus trabajos y en sus comunidades.",
+      "Intentando embellecer nuestras ciudades y nuestros campos.",
+      "No lo sé"
+    ]
+  },
+  "Q154": {
+    "description": "¿Podría usted indicar cuál de estos considera más importante?",
+    "questions": [
+      "¿Podría usted indicarme cuál de estos objetivos considera usted el más importante?",
+      "De las siguientes opciones, ¿cuál considera usted personalmente que es la más importante?",
+      "De la siguiente lista, ¿cuál objetivo considera usted que es el más importante para usted personalmente?",
+      "Por favor, seleccione el objetivo que considere más importante de entre las opciones proporcionadas."
+    ],
+    "options": [
+      "Mantener el orden en la nación",
+      "Dar a la gente más voz en las decisiones importantes del gobierno",
+      "Lucha contra el aumento de los precios",
+      "Proteger la libertad de expresión"
+    ]
+  },
+  "Q155": {
+    "description": "¿Y cuál sería el siguiente en importancia?",
+    "questions": [
+      "¿Podría usted indicarme cuál de estos objetivos considera el segundo más importante?",
+      "De las siguientes opciones, ¿cuál cree usted personalmente que es la segunda más importante?",
+      "De la siguiente lista, ¿cuál crees que es el segundo objetivo más importante para ti personalmente?",
+      "Por favor, seleccione el objetivo que considere el segundo más importante de entre las opciones proporcionadas."
+    ],
+    "options": [
+      "Mantener el orden en la nación",
+      "Dar a la gente más voz en las decisiones importantes del gobierno",
+      "Lucha contra el aumento de los precios",
+      "Proteger la libertad de expresión"
+    ]
+  },
+  "Q156": {
+    "description": "¿Podría usted indicar cuál de estos considera más importante?",
+    "questions": [
+      "¿Podría usted indicarme cuál de estos objetivos considera usted el más importante?",
+      "De las siguientes opciones, ¿cuál considera usted personalmente que es la más importante?",
+      "De la siguiente lista, ¿cuál objetivo considera usted que es el más importante para usted personalmente?",
+      "Por favor, seleccione el objetivo que considere más importante de entre las opciones proporcionadas."
+    ],
+    "options": [
+      "Una economía estable",
+      "Avances hacia una sociedad menos impersonal y más humana",
+      "Avances hacia una sociedad en la que las ideas valgan más que el dinero",
+      "La lucha contra el crimen",
+      "No lo sé"
+    ]
+  },
+  "Q157": {
+    "description": "¿Y cuál sería el siguiente en importancia?",
+    "questions": [
+      "¿Podría usted indicarme cuál de estos objetivos considera el segundo más importante?",
+      "De las siguientes opciones, ¿cuál cree usted personalmente que es la segunda más importante?",
+      "De la siguiente lista, ¿cuál crees que es el segundo objetivo más importante para ti personalmente?",
+      "Por favor, seleccione el objetivo que considere el segundo más importante de entre las opciones proporcionadas."
+    ],
+    "options": [
+      "Una economía estable",
+      "Avances hacia una sociedad menos impersonal y más humana",
+      "Avances hacia una sociedad en la que las ideas valgan más que el dinero",
+      "La lucha contra el crimen"
+    ]
+  },
+  "Q158": {
+    "description": "La ciencia y la tecnología están haciendo nuestras vidas más sanas, fáciles y cómodas.",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuánto está de acuerdo en que la ciencia y la tecnología están haciendo nuestras vidas más saludables, fáciles y cómodas?",
+      "Califique su opinión del 1 al 10 sobre la siguiente afirmación: La ciencia y la tecnología están mejorando nuestras vidas al hacerlas más saludables, fáciles y cómodas.",
+      "¿Hasta qué punto está de acuerdo en que la ciencia y la tecnología contribuyen a una vida más sana, fácil y cómoda? Por favor, califique del 1 al 10.",
+      "Utilizando una escala del 1 al 10, indique su grado de acuerdo con la idea de que la ciencia y la tecnología están haciendo nuestras vidas más saludables, fáciles y cómodas."
+    ],
+    "options": [
+      "Totalmente en desacuerdo.",
+      "Totalmente de acuerdo"
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "Gracias a la ciencia y la tecnología, habrá más oportunidades para la próxima generación.",
+    "questions": [
+      "En una escala del 1 al 10, ¿hasta qué punto está de acuerdo en que habrá más oportunidades para la próxima generación gracias a la ciencia y la tecnología?",
+      "Califique su grado de acuerdo con que la ciencia y la tecnología crearán más oportunidades para la próxima generación en una escala del 1 al 10.",
+      "¿Hasta qué punto cree usted que la ciencia y la tecnología generarán mayores oportunidades para la próxima generación? Por favor, califique en una escala del 1 al 10.",
+      "¿Hasta qué punto está usted de acuerdo o en desacuerdo con que la ciencia y la tecnología brindarán más oportunidades a la próxima generación? Por favor, califique del 1 al 10."
+    ],
+    "options": [
+      "Totalmente en desacuerdo.",
+      "Totalmente de acuerdo"
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "Dependemos demasiado de la ciencia y no lo suficiente de la fe.",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuánto está de acuerdo con la afirmación \"Dependemos demasiado de la ciencia y no lo suficiente de la fe\"?",
+      "Califique su grado de acuerdo con la afirmación 'Confiamos excesivamente en la ciencia y no damos suficiente importancia a la fe' utilizando una escala del 1 al 10.",
+      "¿Hasta qué punto está usted de acuerdo o en desacuerdo con la afirmación de que «Confiamos demasiado en la ciencia y descuidamos la fe»? Califique su respuesta en una escala del 1 al 10.",
+      "Utilizando una escala del 1 al 10, indique el grado de acuerdo que tiene con la afirmación 'Tendemos a depender excesivamente de la ciencia y a desestimar la fe'."
+    ],
+    "options": [
+      "Totalmente en desacuerdo.",
+      "Totalmente de acuerdo"
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "Uno de los efectos negativos de la ciencia es que desmorona las ideas de la gente sobre lo correcto y lo incorrecto.",
+    "questions": [
+      "Uno de los efectos negativos de la ciencia es que socava las ideas preconcebidas de las personas sobre lo que está bien y lo que está mal. ¿Hasta qué punto está usted en desacuerdo o de acuerdo con esta afirmación? (1 = Totalmente en desacuerdo, 10 = Totalmente de acuerdo)",
+      "En una escala del 1 al 10, ¿cuánto está usted de acuerdo o en desacuerdo con la idea de que la ciencia desmantela las ideas de las personas sobre lo correcto y lo incorrecto?",
+      "Por favor, indique su grado de acuerdo o desacuerdo con la siguiente afirmación: La ciencia tiene un impacto negativo en las ideas de las personas sobre lo que está bien y lo que está mal. (1 = Totalmente en desacuerdo, 10 = Totalmente de acuerdo)",
+      "¿Hasta qué punto cree usted que la ciencia socava las nociones humanas de lo correcto y lo incorrecto? Por favor, califique del 1 al 10, donde 1 representa \"Totalmente en desacuerdo\" y 10 representa \"Totalmente de acuerdo\"."
+    ],
+    "options": [
+      "Totalmente en desacuerdo.",
+      "Totalmente de acuerdo"
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "No es importante para mí saber de ciencia en mi vida diaria.",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuánto está de acuerdo o en desacuerdo con la afirmación: \"No es importante para mí saber de ciencia en mi vida diaria\"?",
+      "Califique su grado de acuerdo o desacuerdo con la afirmación: 'No es importante para mí saber sobre ciencia en mi vida diaria' en una escala del 1 al 10.",
+      "¿Hasta qué punto está usted de acuerdo o en desacuerdo con la afirmación: «No es importante para mí saber de ciencia en mi vida diaria»? Utilice una escala del 1 al 10.",
+      "Indique su opinión sobre la afirmación: 'No es importante para mí saber sobre ciencia en mi vida diaria' calificándola en una escala del 1 al 10."
+    ],
+    "options": [
+      "Totalmente en desacuerdo.",
+      "Totalmente de acuerdo"
+    ],
+    "scale": true
+  },
+  "Q163": {
+    "description": "¿Dirías que el mundo está mejor o peor gracias a la ciencia y la tecnología?",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuánto cree que la ciencia y la tecnología han mejorado el mundo?",
+      "¿Hasta qué punto cree usted que la ciencia y la tecnología han tenido un impacto positivo en la sociedad?",
+      "¿Cómo calificaría los efectos generales de la ciencia y la tecnología en el mundo?",
+      "En su opinión, ¿el mundo está mejor gracias a la ciencia y la tecnología?"
+    ],
+    "options": [
+      "Mucho peor",
+      "Mucho mejor"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "La importancia de Dios",
+    "questions": [
+      "En una escala del 1 al 10, ¿qué importancia tiene Dios para usted?",
+      "¿Qué importancia le das a Dios en tu vida? Por favor, utiliza una escala del 1 al 10.",
+      "¿Hasta qué punto consideras importante a Dios en tus actividades diarias? Por favor, califica en una escala del 1 al 10.",
+      "Indique la importancia que le atribuye a Dios en su sistema de creencias. Califíquela en una escala del 1 al 10."
+    ],
+    "options": [
+      "Para nada importante",
+      "Muy importante"
+    ],
+    "scale": true
+  },
+  "Q165": {
+    "description": "Creencia en Dios",
+    "questions": [
+      "¿Crees en Dios?",
+      "¿Dirías que crees en la existencia de Dios?",
+      "¿Cree usted personalmente que Dios existe?",
+      "Por favor, indique si cree o no en Dios."
+    ],
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "scale": false
+  },
+  "Q166": {
+    "description": "Cree en: la vida después de la muerte",
+    "questions": [
+      "¿Crees en la vida después de la muerte?",
+      "¿Hay vida después de la muerte?",
+      "¿Crees que hay vida después de la muerte?",
+      "¿Cree usted que hay vida después de la muerte?"
+    ],
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "Cree en: el infierno",
+    "questions": [
+      "¿Crees en el infierno?",
+      "¿Crees firmemente en el infierno?",
+      "¿Dirías que crees en el infierno?",
+      "¿Crees en el concepto del infierno?"
+    ],
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "Cree en: el cielo",
+    "questions": [
+      "¿Crees en el cielo?",
+      "¿Crees en el cielo?",
+      "¿Crees que existe el cielo?",
+      "¿Crees en el concepto del cielo?"
+    ],
+    "options": [
+      "Sí",
+      "No"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "Siempre que la ciencia y la religión entran en conflicto, la religión siempre tiene razón.",
+    "questions": [
+      "¿Crees que cuando la ciencia y la religión entran en conflicto, la religión siempre tiene razón?",
+      "En su opinión, ¿tiene siempre razón la religión cuando existe un conflicto entre ciencia y religión?",
+      "¿Estás de acuerdo en que la religión siempre tiene razón cuando contradice la ciencia?",
+      "¿Crees que la religión tiene razón en todas las circunstancias en las que contradice a la ciencia?"
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ],
+    "scale": false
+  },
+  "Q170": {
+    "description": "Actitud hacia la exclusividad religiosa",
+    "questions": [
+      "¿Está usted de acuerdo o en desacuerdo con la afirmación: «La única religión aceptable es mi religión»?",
+      "¿Dirías que estás totalmente de acuerdo, de acuerdo, en desacuerdo o totalmente en desacuerdo con que solo tu religión es aceptable?",
+      "¿Hasta qué punto está usted de acuerdo o en desacuerdo con la creencia de que su religión es la única aceptable?",
+      "Indique, por favor, su grado de acuerdo con la afirmación de que solo su religión es aceptable."
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Aceptar",
+      "Discrepar",
+      "Totalmente en desacuerdo"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "¿Con qué frecuencia asistes a servicios religiosos?",
+    "questions": [
+      "¿Con qué frecuencia asiste a servicios religiosos?",
+      "¿Con qué frecuencia asistes a servicios religiosos?",
+      "¿Con qué frecuencia participa usted en servicios religiosos?",
+      "¿Con qué frecuencia asiste a servicios religiosos?"
+    ],
+    "options": [
+      "Más de una vez por semana",
+      "Una vez a la semana",
+      "Una vez al mes",
+      "Solo en días festivos especiales.",
+      "Una vez al año",
+      "Con menos frecuencia",
+      "Nunca, prácticamente nunca"
+    ],
+    "scale": false
+  },
+  "Q172": {
+    "description": "Frecuencia de la oración",
+    "questions": [
+      "Aparte de bodas y funerales, ¿con qué frecuencia rezas?",
+      "¿Con qué frecuencia practica la oración o la devoción religiosa?",
+      "Por favor, indique con qué frecuencia reza en su vida diaria.",
+      "¿Con qué frecuencia rezas personalmente, excluyendo los servicios y ceremonias religiosas?"
+    ],
+    "options": [
+      "Varias veces al día",
+      "Una vez al día",
+      "Varias veces por semana",
+      "Solo al asistir a servicios religiosos.",
+      "Solo en días festivos especiales.",
+      "Una vez al año",
+      "Con menos frecuencia",
+      "Nunca, prácticamente nunca"
+    ],
+    "scale": false
+  },
+  "Q173": {
+    "description": "Autoidentificación de la religiosidad",
+    "questions": [
+      "Independientemente de si asistes o no a servicios religiosos, ¿te considerarías una persona religiosa, no religiosa o atea?",
+      "¿Cómo te describirías en términos de religiosidad personal?",
+      "¿Te consideras religioso, no religioso o ateo?",
+      "¿Cómo clasificaría su nivel de religiosidad?"
+    ],
+    "options": [
+      "Una persona religiosa",
+      "No es una persona religiosa.",
+      "Un ateo"
+    ],
+    "scale": false
+  },
+  "Q174": {
+    "description": "Significado de la religión: enfoque moral versus ceremonial",
+    "questions": [
+      "¿Con cuál de las siguientes afirmaciones estás más de acuerdo? El significado básico de la religión es:",
+      "¿Cuál de las siguientes opciones representa mejor lo que significa la religión para usted?",
+      "En su opinión, ¿cuál es el propósito principal o la esencia de la religión?",
+      "Por favor, indique qué afirmación refleja mejor su punto de vista sobre qué es la religión."
+    ],
+    "options": [
+      "Para seguir las normas y ceremonias religiosas",
+      "Hacer el bien a los demás"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "Significado de la religión: Darle sentido a la vida después de la muerte frente a darle sentido a la vida en este mundo.",
+    "questions": [
+      "¿Cuál es el propósito de la religión? (Seleccione una)",
+      "¿Cuál de las siguientes afirmaciones se ajusta mejor a tu visión de la religión? (Elige una)",
+      "En su opinión, ¿la función principal de la religión es comprender la vida después de la muerte o comprender la vida en este mundo? (Seleccione una)",
+      "Al considerar la religión, ¿qué aspecto de la vida cree que busca explicar principalmente? (Elija uno)"
+    ],
+    "options": [
+      "Para dar sentido a la vida después de la muerte",
+      "Para darle sentido a la vida en este mundo"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "Grado de acuerdo: Hoy en día a menudo resulta difícil decidir qué normas morales son las correctas que se deben seguir.",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuánto está de acuerdo con la siguiente afirmación: Hoy en día a menudo resulta difícil decidir qué normas morales son las correctas a seguir? (1 = Totalmente de acuerdo, 10 = Totalmente en desacuerdo)",
+      "Por favor, califique su grado de acuerdo con la siguiente afirmación: Hoy en día, a menudo resulta difícil decidir qué normas morales son las correctas a seguir en una escala del 1 al 10. (1 = Totalmente de acuerdo, 10 = Totalmente en desacuerdo)",
+      "Indique su grado de acuerdo con la siguiente afirmación: Hoy en día, a menudo resulta difícil decidir qué normas morales son las correctas a seguir, utilizando una escala del 1 al 10. (1 = Totalmente de acuerdo, 10 = Totalmente en desacuerdo)",
+      "¿Cuánto está usted de acuerdo con la siguiente afirmación? Hoy en día, a menudo resulta difícil decidir qué normas morales son las correctas. Por favor, califique en una escala del 1 al 10, donde 1 significa que está totalmente de acuerdo y 10 significa que está totalmente en desacuerdo."
+    ],
+    "options": [
+      "Totalmente de acuerdo",
+      "Totalmente en desacuerdo."
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "Justificable: Solicitar beneficios gubernamentales a los que no se tiene derecho.",
+    "questions": [
+      "¿En qué circunstancias, si las hay, cree usted que está justificado reclamar prestaciones gubernamentales a las que no tiene derecho?",
+      "¿Bajo qué condiciones, si las hay, cree usted que está justificado reclamar prestaciones gubernamentales a las que no tiene derecho?",
+      "¿Considera justificable reclamar prestaciones gubernamentales a las que no se tiene derecho en determinadas situaciones? Si es así, ¿cuándo?",
+      "En su opinión, ¿existen escenarios en los que esté justificado solicitar prestaciones gubernamentales a las que no se tiene derecho?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": false
+  },
+  "Q178": {
+    "description": "Justificable: Evitar pagar el billete en el transporte público",
+    "questions": [
+      "¿Con qué frecuencia cree que está justificado evitar pagar el billete en el transporte público?",
+      "¿Hasta qué punto considera aceptable evitar pagar el billete en el transporte público?",
+      "En su opinión, ¿cuándo es apropiado evitar pagar el billete en el transporte público?",
+      "¿Hasta qué punto considera justificado el acto de evitar pagar el billete en el transporte público?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": false
+  },
+  "Q179": {
+    "description": "Justificable: Robar propiedad",
+    "questions": [
+      "¿Crees que robar propiedades nunca está justificado?",
+      "¿Crees que robar propiedades siempre está justificado?",
+      "En su opinión, ¿robar propiedades nunca está justificado?",
+      "¿Cree usted que robar propiedades siempre está justificado?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": false
+  },
+  "Q180": {
+    "description": "Justificable: Defraudar al fisco",
+    "questions": [
+      "¿Cree usted que defraudar a los impuestos está justificado en algún caso?",
+      "En su opinión, ¿es siempre incorrecto evadir impuestos?",
+      "¿Crees que existen circunstancias en las que se pueda justificar el fraude fiscal?",
+      "¿Cree usted que evadir impuestos nunca debería considerarse aceptable?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": false
+  },
+  "Q181": {
+    "description": "Justificable: Que alguien acepte un soborno en el ejercicio de sus funciones.",
+    "questions": [
+      "¿Cuál es su opinión sobre la justificación de que alguien acepte un soborno en el ejercicio de sus funciones?",
+      "¿Hasta qué punto cree usted que es justificable que alguien acepte un soborno en el ejercicio de sus funciones?",
+      "En su opinión, ¿es aceptable en algún caso que alguien acepte un soborno en el ejercicio de sus funciones?",
+      "¿Crees que aceptar un soborno en el ejercicio de las funciones de alguien está siempre justificado, nunca justificado o algo intermedio?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": false
+  },
+  "Q182": {
+    "description": "Actitud hacia la homosexualidad",
+    "questions": [
+      "¿Cree usted que la homosexualidad es justificable en algún caso, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿es justificable la homosexualidad bajo alguna circunstancia, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Crees que existen situaciones en las que se pueda justificar la homosexualidad, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿existe alguna situación en la que se pueda justificar la homosexualidad, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q183": {
+    "description": "Actitud hacia la prostitución",
+    "questions": [
+      "¿Cree usted que la prostitución está justificada alguna vez, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿es justificable la prostitución bajo alguna circunstancia, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Crees que existen situaciones en las que la prostitución pueda justificarse, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿existe alguna situación en la que se pueda justificar la prostitución, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q184": {
+    "description": "Justificable: El aborto",
+    "questions": [
+      "¿Cree usted que el aborto está justificado alguna vez, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿es justificable el aborto bajo alguna circunstancia, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Crees que existen situaciones en las que el aborto pueda justificarse, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Considera que el aborto es siempre injustificable, en una escala del 1 (siempre injustificable) al 10 (siempre justificable)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q185": {
+    "description": "Justificable: Divorcio",
+    "questions": [
+      "¿Es justificable alguna vez el divorcio, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Cree usted que el divorcio puede justificarse, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Puede considerarse justificable el divorcio, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿existe alguna situación en la que el divorcio pueda justificarse, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q186": {
+    "description": "Actitud hacia el sexo antes del matrimonio",
+    "questions": [
+      "¿Es justificable alguna vez tener relaciones sexuales antes del matrimonio, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Crees que las relaciones sexuales antes del matrimonio pueden justificarse, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Se puede considerar justificable el sexo antes del matrimonio, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿existe alguna situación en la que se pueda justificar el sexo antes del matrimonio, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q187": {
+    "description": "Justificable: Suicidio",
+    "questions": [
+      "¿Cuál es su opinión sobre la justificación del suicidio?",
+      "¿Crees que el suicidio está justificado alguna vez?",
+      "En lo que respecta al suicidio, ¿cree que existen circunstancias que lo justifiquen?",
+      "¿Considera usted que el suicidio es moralmente justificable en alguna situación?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q188": {
+    "description": "Justificable: Eutanasia",
+    "questions": [
+      "¿Cuál es su postura sobre la justificación de la eutanasia?",
+      "¿Cree usted que la eutanasia está justificada en determinadas circunstancias?",
+      "En su opinión, ¿es justificable alguna vez la eutanasia?",
+      "¿Debería considerarse la eutanasia una opción justificable en casos específicos?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q189": {
+    "description": "Justificable: Que un hombre golpee a su esposa",
+    "questions": [
+      "¿Es justificable que un hombre golpee a su esposa?",
+      "¿Crees que está justificado que un hombre golpee a su esposa?",
+      "En su opinión, ¿es aceptable alguna vez que un hombre golpee a su esposa?",
+      "¿Crees que existen circunstancias en las que esté justificado que un hombre golpee a su esposa?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q190": {
+    "description": "Justificable: Padres que golpean a los niños",
+    "questions": [
+      "¿Considera justificable que los padres peguen a sus hijos?",
+      "¿Está justificado alguna vez que los padres utilicen la fuerza física contra sus hijos?",
+      "¿Cree usted que los padres tienen derecho a disciplinar físicamente a sus hijos?",
+      "En su opinión, ¿es aceptable que los padres utilicen el castigo físico con sus hijos?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q191": {
+    "description": "Justificable: Violencia contra otras personas",
+    "questions": [
+      "¿Crees que la violencia contra otras personas está justificada alguna vez?",
+      "En su opinión, ¿existe alguna situación en la que la violencia contra otras personas pueda considerarse justificable?",
+      "¿Crees que existen circunstancias en las que se pueda justificar la violencia contra otras personas?",
+      "¿Es posible justificar la violencia contra otras personas en algún escenario?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q192": {
+    "description": "Justificable: El terrorismo como medio político, ideológico o religioso",
+    "questions": [
+      "¿Cree usted que el terrorismo está justificado alguna vez como medio político, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Es posible justificar el terrorismo como medio ideológico, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Considera que el terrorismo podría justificarse como medio religioso, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿es el terrorismo alguna vez un medio justificable para alcanzar objetivos políticos, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q193": {
+    "description": "Actitud hacia el sexo casual",
+    "questions": [
+      "¿Es justificable alguna vez el sexo casual, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Crees que el sexo casual puede justificarse, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Se puede considerar justificable el sexo casual, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿existe alguna situación en la que se pueda justificar el sexo casual, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q194": {
+    "description": "Justificable: Violencia política",
+    "questions": [
+      "¿Cree usted que la violencia política está justificada alguna vez, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿existe alguna circunstancia en la que se pueda justificar la violencia política, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Cree usted que la violencia política puede justificarse moralmente bajo ciertas condiciones, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Es posible justificar la violencia política, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q195": {
+    "description": "Justificable: Pena de muerte",
+    "questions": [
+      "¿Cree usted que la pena de muerte es justificable, en una escala del 1 (nunca) al 10 (siempre)?",
+      "En su opinión, ¿es alguna vez justificable la pena de muerte, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Consideraría justificable la pena de muerte en ciertas situaciones, en una escala del 1 (nunca) al 10 (siempre)?",
+      "¿Cree usted que existen circunstancias en las que se pueda justificar la pena de muerte, en una escala del 1 (nunca) al 10 (siempre)?"
+    ],
+    "options": [
+      "Nunca justificable",
+      "Siempre justificable"
+    ],
+    "scale": true
+  },
+  "Q196": {
+    "description": "Derecho del gobierno a utilizar la videovigilancia en áreas públicas",
+    "questions": [
+      "¿Cree usted que el gobierno debería o no debería tener derecho a mantener a las personas bajo videovigilancia en áreas públicas?",
+      "¿Debería el gobierno tener derecho a vigilar a los ciudadanos mediante videovigilancia pública?",
+      "¿Cree usted que es aceptable que las autoridades utilicen cámaras de vídeo para vigilar a las personas en espacios públicos?",
+      "Indique si cree que el gobierno debería tener derecho a mantener a las personas bajo videovigilancia en lugares públicos."
+    ],
+    "options": [
+      "Definitivamente debería tener el derecho",
+      "Probablemente debería tener derecho",
+      "Probablemente no debería tener el derecho",
+      "Definitivamente no debería tener el derecho"
+    ],
+    "scale": false
+  },
+  "Q197": {
+    "description": "Derecho del gobierno a monitorear las comunicaciones en línea",
+    "questions": [
+      "¿Cree usted que el gobierno debería o no debería tener derecho a monitorizar todos los correos electrónicos y cualquier otra información intercambiada en Internet?",
+      "¿Debería el gobierno tener derecho a monitorizar las comunicaciones en línea de los ciudadanos?",
+      "¿Está de acuerdo en que las autoridades deberían poder monitorizar las comunicaciones por Internet por motivos de seguridad?",
+      "Indique si cree que el gobierno debería tener derecho a monitorizar los correos electrónicos y la información en línea."
+    ],
+    "options": [
+      "Definitivamente debería tener el derecho",
+      "Probablemente debería tener derecho",
+      "Probablemente no debería tener el derecho",
+      "Definitivamente no debería tener el derecho"
+    ],
+    "scale": false
+  },
+  "Q198": {
+    "description": "Derecho del gobierno a recopilar información personal de forma secreta",
+    "questions": [
+      "¿Cree usted que el gobierno debería o no debería tener derecho a recopilar información sobre cualquier persona que viva en este país sin su conocimiento?",
+      "¿Deberían las autoridades tener derecho a recopilar secretamente información personal sobre los ciudadanos?",
+      "¿Cree usted que debería permitirse al gobierno recopilar información sobre las personas sin informarles?",
+      "Indique si cree que el gobierno debería tener derecho a recopilar datos personales sin el conocimiento de los ciudadanos."
+    ],
+    "options": [
+      "Definitivamente debería tener el derecho",
+      "Probablemente debería tener derecho",
+      "Probablemente no debería tener el derecho",
+      "Definitivamente no debería tener el derecho"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "Interés por la política",
+    "questions": [
+      "¿Qué tan interesado estás en la política?",
+      "¿Hasta qué punto le interesa la política?",
+      "¿Qué nivel de interés tiene usted en la política?",
+      "¿Te consideras una persona interesada en la política?"
+    ],
+    "options": [
+      "Muy interesado",
+      "Algo interesado",
+      "No me interesa mucho",
+      "No me interesa en absoluto."
+    ],
+    "scale": false
+  },
+  "Q200": {
+    "description": "Frecuencia con la que se discuten temas políticos con los amigos",
+    "questions": [
+      "Cuando te reúnes con tus amigos, ¿dirías que discutís temas políticos con frecuencia, ocasionalmente o nunca?",
+      "¿Con qué frecuencia hablas de temas políticos cuando te reúnes con tus amigos?",
+      "¿Dirías que los temas políticos surgen con frecuencia, ocasionalmente o nunca cuando hablas con tus amigos?",
+      "Indique con qué frecuencia usted y sus amigos hablan de temas políticos: frecuentemente, ocasionalmente o nunca."
+    ],
+    "options": [
+      "Frecuentemente",
+      "Ocasionalmente",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q201": {
+    "description": "Frecuencia de obtención de información de periódicos diarios",
+    "questions": [
+      "¿Con qué frecuencia utiliza usted los periódicos diarios para obtener información sobre lo que ocurre en este país y en el mundo?",
+      "¿Lee usted un periódico a diario, semanalmente, mensualmente, con menos frecuencia o nunca?",
+      "¿Con qué frecuencia lee usted los periódicos para mantenerse informado sobre acontecimientos nacionales o internacionales?",
+      "Indique con qué frecuencia se informa a través de periódicos diarios: diariamente, semanalmente, mensualmente, con menor frecuencia o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q202": {
+    "description": "Frecuencia con la que se obtiene información de las noticias de televisión",
+    "questions": [
+      "¿Con qué frecuencia ve usted los noticieros de televisión para informarse sobre lo que sucede en su país y en el mundo?",
+      "¿Utiliza usted las noticias por televisión a diario, semanalmente, mensualmente, con menos frecuencia o nunca?",
+      "¿Con qué frecuencia ve usted programas de noticias en televisión para mantenerse informado?",
+      "Indique con qué frecuencia ve las noticias en televisión: diariamente, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q203": {
+    "description": "Frecuencia con la que se obtiene información de las noticias de radio",
+    "questions": [
+      "¿Con qué frecuencia escucha usted las noticias por radio para informarse sobre acontecimientos nacionales e internacionales?",
+      "¿Escuchas las noticias por radio a diario, semanalmente, mensualmente, con menos frecuencia o nunca?",
+      "¿Con qué frecuencia escucha usted programas de radio para mantenerse informado sobre la actualidad?",
+      "Indique con qué frecuencia recibe las noticias por la radio: diariamente, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q204": {
+    "description": "Frecuencia de uso del teléfono móvil para noticias e información",
+    "questions": [
+      "¿Con qué frecuencia utiliza su teléfono móvil para obtener noticias o información sobre lo que ocurre en este país y en el mundo?",
+      "¿Utiliza usted el teléfono móvil a diario, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca para obtener información?",
+      "¿Con qué frecuencia utiliza su teléfono móvil para consultar noticias o información de actualidad?",
+      "Indique con qué frecuencia utiliza su teléfono móvil para informarse: diariamente, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q205": {
+    "description": "Frecuencia de uso del correo electrónico para noticias e información",
+    "questions": [
+      "¿Con qué frecuencia utiliza usted el correo electrónico para obtener información sobre lo que ocurre en este país y en el mundo?",
+      "¿Utiliza usted el correo electrónico a diario, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca para recibir noticias o actualizaciones?",
+      "¿Con qué frecuencia consulta o recibe noticias o actualizaciones por correo electrónico?",
+      "Indique con qué frecuencia utiliza el correo electrónico para mantenerse informado: diariamente, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q206": {
+    "description": "Frecuencia de uso de Internet para noticias e información",
+    "questions": [
+      "¿Con qué frecuencia utiliza usted Internet para obtener información sobre lo que ocurre en este país y en el mundo?",
+      "¿Accede usted a noticias o información en línea diariamente, semanalmente, mensualmente, con menor frecuencia o nunca?",
+      "¿Con qué frecuencia te conectas a internet para consultar las noticias o leer sobre la actualidad?",
+      "Indique con qué frecuencia utiliza Internet para obtener noticias e información: diariamente, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q207": {
+    "description": "Frecuencia de uso de las redes sociales para noticias e información",
+    "questions": [
+      "¿Con qué frecuencia utiliza usted las redes sociales (como Facebook, Twitter, etc.) para obtener información sobre lo que ocurre en este país y en el mundo?",
+      "¿Recibe noticias o actualizaciones a través de las redes sociales diariamente, semanalmente, mensualmente, con menos frecuencia o nunca?",
+      "¿Con qué frecuencia utiliza usted las redes sociales para seguir las noticias o la actualidad política?",
+      "Indique con qué frecuencia consulta las redes sociales para informarse: diariamente, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q208": {
+    "description": "Frecuencia con la que se comentan las noticias con amigos o compañeros",
+    "questions": [
+      "¿Con qué frecuencia hablas con amigos o colegas para obtener información sobre lo que sucede en este país y en el mundo?",
+      "¿Hablas de noticias o actualidad con tus amigos o compañeros a diario, semanalmente, mensualmente, con menos frecuencia o nunca?",
+      "¿Con qué frecuencia intercambias información sobre temas de actualidad con tus amigos o compañeros de trabajo?",
+      "Indique con qué frecuencia habla con amigos o colegas sobre noticias: diariamente, semanalmente, mensualmente, con menos frecuencia que mensualmente o nunca."
+    ],
+    "options": [
+      "A diario",
+      "Semanalmente",
+      "Mensual",
+      "Menos de un mes",
+      "Nunca"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "Acción política: Firmar una petición",
+    "questions": [
+      "¿Has firmado alguna vez una petición de acción política?",
+      "¿Estás considerando firmar una petición de acción política en el futuro?",
+      "¿Estarías dispuesto a firmar una petición de acción política?",
+      "¿Tiene usted intención de firmar una petición de acción política?"
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "Acción política: Participar en boicots",
+    "questions": [
+      "¿Has participado alguna vez en un boicot político?",
+      "¿Estás considerando participar en un boicot político?",
+      "¿Estarías dispuesto a participar en un boicot político?",
+      "¿Participar en un boicot político es algo que jamás considerarías?"
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "Acción política: Asistir a manifestaciones legales/pacíficas",
+    "questions": [
+      "¿Has asistido alguna vez a una manifestación pacífica y legal con fines políticos?",
+      "¿Está dispuesto a participar en futuras manifestaciones legales y pacíficas en pro de la acción política?",
+      "¿Consideraría asistir a una manifestación pacífica y legal con fines políticos?",
+      "¿Asistir a manifestaciones legales/pacíficas con fines políticos es algo que nunca harías?"
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "Acción política: Participar en huelgas no oficiales",
+    "questions": [
+      "¿Has participado alguna vez en huelgas no oficiales con fines políticos?",
+      "¿Está usted abierto a la posibilidad de unirse a huelgas no oficiales con fines de acción política?",
+      "¿Consideraría usted participar en huelgas no oficiales como forma de acción política?",
+      "¿Cree usted firmemente que nunca participaría en huelgas no oficiales por motivos políticos?"
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q213": {
+    "description": "Participación en donaciones a un grupo o campaña",
+    "questions": [
+      "¿Alguna vez has donado a un grupo o campaña política? ¿Lo harías ahora, o nunca lo harías?",
+      "¿Dirías que has donado a algún grupo o campaña, que podrías hacerlo en el futuro o que nunca lo harías?",
+      "¿Alguna vez has hecho una contribución financiera a un grupo o campaña política? ¿Lo harías ahora, o nunca lo harías?",
+      "Indique si ha donado, podría donar o nunca donaría a una organización o campaña política."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q214": {
+    "description": "Participación en el contacto con un funcionario del gobierno",
+    "questions": [
+      "¿Alguna vez te has puesto en contacto con un funcionario del gobierno por un asunto político? ¿Lo harías, o nunca lo harías?",
+      "¿Diría usted que se ha puesto en contacto con un funcionario del gobierno, que podría hacerlo o que nunca lo haría?",
+      "¿Alguna vez te has puesto en contacto con un representante del gobierno para tratar asuntos políticos o públicos? ¿Lo harías, o nunca lo harías?",
+      "Indique si se ha puesto en contacto, podría ponerse en contacto o nunca se pondría en contacto con un funcionario del gobierno para expresar sus opiniones o inquietudes."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q215": {
+    "description": "Animar a otros a tomar medidas sobre cuestiones políticas",
+    "questions": [
+      "¿Alguna vez has animado a otros a tomar medidas sobre temas políticos? ¿Lo harías tú? ¿O nunca lo harías?",
+      "¿Dirías que has animado a otros a tomar medidas sobre cuestiones políticas, que tal vez lo harías, o que nunca lo harías?",
+      "¿Alguna vez has intentado persuadir a otros para que se involucren en temas políticos? ¿Lo harías, o nunca lo harías?",
+      "Indique si ha alentado, podría alentar o nunca alentaría a otros a tomar medidas políticas."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q216": {
+    "description": "Animar a otros a votar",
+    "questions": [
+      "¿Alguna vez has animado a otros a votar? ¿Lo harías tú? ¿O nunca lo harías?",
+      "¿Dirías que has animado a la gente a votar, que tal vez lo harías o que nunca lo harías?",
+      "¿Alguna vez has animado a otros a votar en unas elecciones? ¿Lo harías tú? ¿O nunca lo harías?",
+      "Indique si ha animado, podría animar o nunca animaría a otros a participar en las votaciones."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q217": {
+    "description": "Búsqueda en línea de información sobre política y eventos políticos",
+    "questions": [
+      "¿Has buscado información sobre política y acontecimientos políticos utilizando Internet o redes sociales como Facebook o Twitter?",
+      "¿Dirías que lo has hecho, que podrías hacerlo o que nunca lo harías?",
+      "¿Alguna vez has utilizado Internet o las redes sociales para buscar información sobre temas o eventos políticos? ¿Lo harías, o nunca lo harías?",
+      "Indique si ha buscado, podría buscar o nunca buscaría información política en línea o en las redes sociales."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q218": {
+    "description": "Participación en la firma de una petición electrónica",
+    "questions": [
+      "¿Has firmado alguna vez una petición electrónica? ¿Lo harías ahora, o jamás lo harías?",
+      "¿Dirías que has firmado alguna petición online, que podrías hacerlo, o que nunca lo harías?",
+      "¿Alguna vez has participado en la firma de una petición por Internet? ¿Lo harías ahora, o nunca lo harías?",
+      "Indique si ha firmado, podría firmar o nunca firmaría una petición electrónica."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q219": {
+    "description": "Animar a otros a participar en acciones políticas a través de las redes sociales",
+    "questions": [
+      "¿Has animado a otras personas a emprender algún tipo de acción política utilizando Internet o las redes sociales?",
+      "¿Dirías que lo has hecho, que podrías hacerlo o que nunca lo harías?",
+      "¿Alguna vez has utilizado las redes sociales para animar a otros a participar en acciones políticas? ¿Lo harías? ¿O nunca lo harías?",
+      "Indique si ha alentado, podría alentar o nunca alentaría a otros a realizar acciones políticas en línea."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q220": {
+    "description": "Organizar actividades políticas o protestas en línea",
+    "questions": [
+      "¿Has organizado alguna vez actividades, eventos o protestas políticas utilizando Internet o redes sociales como Facebook o Twitter?",
+      "¿Dirías que has organizado actividades de este tipo, que podrías hacerlo o que nunca lo harías?",
+      "¿Has utilizado alguna vez plataformas en línea para organizar un evento político, una campaña o una protesta? ¿Lo harías, o jamás lo harías?",
+      "Indique si ha organizado, podría organizar o nunca organizaría actividades políticas a través de Internet o redes sociales."
+    ],
+    "options": [
+      "Lo he hecho",
+      "Podría hacerlo",
+      "Jamás lo haría."
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "Vota en las elecciones: nivel local",
+    "questions": [
+      "¿Con qué frecuencia vota usted en las elecciones locales?",
+      "¿Cuál es su práctica habitual de votación en las elecciones locales?",
+      "¿Sueles votar en las elecciones locales o no?",
+      "¿Tienes derecho a votar en las elecciones locales?"
+    ],
+    "options": [
+      "Siempre",
+      "Generalmente",
+      "Nunca",
+      "No se les permite votar"
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "Vota en las elecciones: nivel nacional",
+    "questions": [
+      "¿Con qué frecuencia vota usted en las elecciones a nivel nacional?",
+      "¿Cuál es su patrón de votación habitual en las elecciones a nivel nacional?",
+      "¿Participa usted alguna vez en elecciones a nivel nacional?",
+      "¿Puedes votar en las elecciones a nivel nacional?"
+    ],
+    "options": [
+      "Siempre",
+      "Generalmente",
+      "Nunca",
+      "No se les permite votar"
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "¿Con qué frecuencia se cuentan los votos en las elecciones del país?",
+    "questions": [
+      "¿Con qué frecuencia se realiza un recuento justo de los votos en las elecciones del país?",
+      "¿Con qué frecuencia se realiza un recuento justo de los votos en las elecciones del país?",
+      "¿Los votos en las elecciones del país suelen contarse de manera justa con mayor o menor frecuencia?",
+      "¿Hasta qué punto se cuentan los votos en las elecciones del país de manera justa?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "¿Con qué frecuencia, en las elecciones del país, se impide que los candidatos de la oposición se presenten a las elecciones?",
+    "questions": [
+      "¿Con qué frecuencia se impide a los candidatos de la oposición presentarse a las elecciones del país?",
+      "¿Hasta qué punto se impide a los candidatos de la oposición presentarse a las elecciones del país?",
+      "¿Con qué frecuencia se impide a los candidatos de la oposición presentarse a las elecciones del país?",
+      "¿Con qué frecuencia se impide a los candidatos de la oposición presentarse a las elecciones del país?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "¿Con qué frecuencia se soborna a los votantes en las elecciones del país?",
+    "questions": [
+      "¿Con qué frecuencia se soborna a los votantes en las elecciones del país?",
+      "¿Con qué frecuencia reciben sobornos los votantes en las elecciones del país?",
+      "¿Con qué frecuencia se soborna a los votantes en las elecciones del país?",
+      "¿Con qué frecuencia se encuentran los votantes con casos de soborno en las elecciones del país?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "¿Con qué frecuencia los periodistas ofrecen una cobertura imparcial de las elecciones en el país?",
+    "questions": [
+      "¿Con qué frecuencia los periodistas ofrecen una cobertura imparcial de las elecciones en su país?",
+      "¿Con qué frecuencia ofrecen los periodistas una cobertura imparcial de las elecciones en su país?",
+      "¿Con qué frecuencia diría usted que los periodistas ofrecen una cobertura justa de las elecciones en su país?",
+      "¿Los periodistas de tu país suelen ofrecer una cobertura imparcial de las elecciones?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "¿Con qué frecuencia se celebran elecciones en el país?: Los funcionarios electorales son justos",
+    "questions": [
+      "¿Con qué frecuencia son justos los funcionarios electorales en las elecciones del país?",
+      "¿Con qué frecuencia los funcionarios electorales demuestran imparcialidad en las elecciones del país?",
+      "¿Hasta qué punto demuestran imparcialidad los funcionarios electorales en las elecciones del país?",
+      "¿Con qué frecuencia percibe usted que los funcionarios electorales son imparciales en las elecciones del país?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "¿Con qué frecuencia en las elecciones del país: Los ricos compran votos?",
+    "questions": [
+      "¿Con qué frecuencia crees que los ricos compran elecciones en tu país?",
+      "En su opinión, ¿con qué frecuencia compran elecciones los ricos en su país?",
+      "¿Hasta qué punto cree usted que los ricos compran elecciones en su país?",
+      "¿Con qué frecuencia percibe usted que los ricos compran elecciones en su país?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "¿Con qué frecuencia en las elecciones del país: Los votantes son amenazados con violencia en los centros de votación?",
+    "questions": [
+      "¿Con qué frecuencia se amenaza a los votantes con violencia en los centros de votación durante las elecciones del país?",
+      "¿Con qué frecuencia se amenaza a los votantes con violencia en los colegios electorales durante las elecciones del país?",
+      "¿Los votantes que participan en las elecciones del país suelen enfrentarse a amenazas de violencia en los centros de votación?",
+      "¿En qué medida se amenaza habitualmente a los votantes con violencia en los centros de votación durante las elecciones del país?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "¿Con qué frecuencia se ofrece a los votantes una verdadera opción en las elecciones del país?",
+    "questions": [
+      "¿Con qué frecuencia se ofrece a los votantes una verdadera opción en las elecciones del país?",
+      "¿Con qué frecuencia se ofrece a los votantes una verdadera opción en las elecciones del país?",
+      "¿Con qué frecuencia los votantes tienen una verdadera opción en las elecciones del país?",
+      "¿Hasta qué punto se ofrece a los votantes una verdadera opción en las elecciones del país?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "¿Con qué frecuencia en las elecciones del país: Las mujeres tienen las mismas oportunidades para dirigir la oficina?",
+    "questions": [
+      "¿Con qué frecuencia tienen las mujeres las mismas oportunidades de presentarse a cargos públicos en las elecciones de su país?",
+      "¿Con qué frecuencia tienen las mujeres las mismas oportunidades de presentarse a un cargo público en las elecciones de su país?",
+      "¿Hasta qué punto tienen las mujeres las mismas oportunidades de presentarse a cargos públicos en las elecciones de su país?",
+      "¿Las mujeres suelen tener las mismas oportunidades de presentarse a cargos públicos en las elecciones de su país?"
+    ],
+    "options": [
+      "Muy a menudo",
+      "Con bastante frecuencia",
+      "No muy a menudo",
+      "No muy a menudo"
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "¿Hasta qué punto diría usted que el sistema político de su país permite que personas como usted tengan voz y voto en las decisiones del gobierno?",
+    "questions": [
+      "¿Hasta qué punto cree usted que el sistema político de su país permite que personas como usted tengan voz y voto en las decisiones del gobierno?",
+      "¿Qué importancia le otorga usted a la capacidad del sistema político de su país para permitir que personas como usted influyan en las decisiones del gobierno?",
+      "En su opinión, ¿qué importancia tiene para personas como usted poder influir en las decisiones del gobierno a través del sistema político?",
+      "¿Hasta qué punto cree usted que el sistema político de su país permite que personas como usted tengan voz y voto en las acciones del gobierno?"
+    ],
+    "options": [
+      "Muy importante",
+      "Bastante importante",
+      "No es muy importante",
+      "Para nada importante"
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "Sistema político: Contar con un líder fuerte que no tenga que preocuparse por el parlamento ni por las elecciones.",
+    "questions": [
+      "¿Qué opina usted de un sistema político con un líder fuerte que no tenga que preocuparse por el parlamento ni por las elecciones?",
+      "¿Cómo percibe usted un sistema político en el que un líder fuerte no está obligado a lidiar con el parlamento ni con las elecciones?",
+      "¿Qué opina de un sistema político que cuenta con un líder fuerte sin ninguna participación en el parlamento ni en las elecciones?",
+      "En su opinión, ¿cómo calificaría un sistema político con un líder fuerte que no tenga que preocuparse por el parlamento ni por las elecciones?"
+    ],
+    "options": [
+      "Muy bien",
+      "Bastante bueno",
+      "Bastante malo",
+      "Muy mal"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "Sistema político: Que los expertos, y no el gobierno, tomen decisiones según lo que consideren mejor para el país.",
+    "questions": [
+      "¿Qué opina usted de un sistema político en el que expertos toman decisiones basándose en lo que consideran mejor para el país?",
+      "¿Cuál es su opinión sobre un sistema político en el que las decisiones son tomadas por expertos según su criterio sobre lo que es mejor para el país?",
+      "¿Qué opinas de un sistema político que se basa en expertos para tomar decisiones que redunden en el mejor interés del país?",
+      "¿Qué opinión le merece un sistema político en el que las decisiones las toman expertos que determinan qué es lo mejor para el país?"
+    ],
+    "options": [
+      "Muy bien",
+      "Bastante bueno",
+      "Bastante malo",
+      "Muy mal"
+    ],
+    "scale": false
+  },
+  "Q237": {
+    "description": "Evaluación del régimen militar como forma de gobierno del país",
+    "questions": [
+      "¿Dirías que el gobierno militar es una forma muy buena, bastante buena, bastante mala o muy mala de gobernar este país?",
+      "¿Cómo calificaría el gobierno militar como sistema de gobierno para su país?",
+      "¿Crees que tener al ejército al mando del gobierno del país es una buena o mala manera de gobernarlo?",
+      "Indique si considera que el gobierno militar es una forma muy buena, bastante buena, bastante mala o muy mala de gobernar el país."
+    ],
+    "options": [
+      "Muy bien",
+      "Bastante bueno",
+      "Bastante malo",
+      "Muy mal"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "Sistema político: Tener un sistema político democrático",
+    "questions": [
+      "¿Cuál es su opinión sobre el sistema político democrático?",
+      "¿Cómo calificaría usted el sistema político democrático?",
+      "En su opinión, ¿es bueno o malo el sistema político democrático?",
+      "¿Cuál es su valoración del sistema político democrático?"
+    ],
+    "options": [
+      "Muy bien",
+      "Bastante bueno",
+      "Bastante malo",
+      "Muy mal"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "Sistema político: Sistema regido por la ley religiosa en el que no existen partidos políticos ni elecciones.",
+    "questions": [
+      "¿Cuál es su opinión sobre un sistema político regido por la ley religiosa sin partidos políticos ni elecciones?",
+      "¿Cómo calificaría un sistema donde la ley religiosa rige sin partidos políticos ni elecciones?",
+      "En su opinión, ¿cuán bueno o malo es un sistema político regido por la ley religiosa sin partidos políticos ni elecciones?",
+      "¿Cuál es su percepción de un sistema regido únicamente por la ley religiosa, sin partidos políticos ni elecciones?"
+    ],
+    "options": [
+      "Muy bien",
+      "Bastante bueno",
+      "Bastante malo",
+      "Muy mal"
+    ],
+    "scale": false
+  },
+  "Q240": {
+    "description": "Autoubicación en el espectro político izquierda-derecha",
+    "questions": [
+      "En materia política, se habla de \"izquierda\" y \"derecha\". ¿Cómo ubicarías tus opiniones en esta escala del 1 (izquierda) al 10 (derecha)?",
+      "¿Dónde ubicaría sus opiniones políticas en una escala del 1 (izquierda) al 10 (derecha)?",
+      "En una escala del 1 al 10, donde 1 significa 'izquierda' y 10 significa 'derecha', ¿dónde te ubicas políticamente?",
+      "¿Cómo describiría sus opiniones políticas en una escala que va de izquierda (1) a derecha (10)?"
+    ],
+    "options": [
+      "Izquierda",
+      "Bien"
+    ],
+    "scale": true
+  },
+  "Q241": {
+    "description": "Democracia: Los gobiernos gravan a los ricos y subsidian a los pobres.",
+    "questions": [
+      "¿Hasta qué punto cree usted que gravar a los ricos y subvencionar a los pobres es una característica esencial de la democracia?",
+      "En una escala del 1 al 10, ¿qué importancia le atribuye usted a que las democracias graven a los ricos y proporcionen subsidios a los pobres?",
+      "¿Hasta qué punto está usted de acuerdo o en desacuerdo con que las democracias deban gravar a los ricos y subvencionar a los pobres? Por favor, califique su respuesta en una escala del 1 al 10.",
+      "Califique en qué medida cree que gravar a los ricos y subsidiar a los pobres es un aspecto fundamental de la democracia utilizando una escala del 1 al 10."
+    ],
+    "options": [
+      "No es una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "Democracia: Las autoridades religiosas interpretan las leyes",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuán esencial considera usted que es para la democracia que las autoridades religiosas interpreten las leyes?",
+      "Califique en qué medida cree que la democracia requiere que las autoridades religiosas interpreten las leyes, en una escala del 1 al 10.",
+      "¿Hasta qué punto considera necesario para la democracia que las autoridades religiosas tengan el poder de interpretar las leyes? Por favor, califique del 1 al 10.",
+      "¿Qué importancia le atribuye usted a la interpretación de las leyes por parte de autoridades religiosas para la democracia? Indique su opinión en una escala del 1 al 10."
+    ],
+    "options": [
+      "No es una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q243": {
+    "description": "Importancia percibida de las elecciones libres como característica de la democracia",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuán esencial considera usted para la democracia que las personas elijan a sus líderes en elecciones libres?",
+      "En una escala del 1 al 10, donde 1 significa \"nada esencial\" y 10 significa \"definitivamente esencial\", ¿qué importancia tienen las elecciones libres para la democracia?",
+      "¿En qué medida considera que las elecciones libres son una característica esencial de la democracia en una escala del 1 al 10?",
+      "Califique del 1 al 10 la importancia de las elecciones libres como característica definitoria de la democracia."
+    ],
+    "options": [
+      "No es en absoluto una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "Democracia: La gente recibe ayuda estatal por desempleo",
+    "questions": [
+      "Democracia: ¿Reciben las personas ayudas estatales por desempleo?",
+      "¿Hasta qué punto cree usted que el hecho de que las personas reciban ayudas estatales por desempleo es una característica esencial de la democracia? (Valore del 1 al 10)",
+      "En una escala del 1 al 10, ¿cuán esencial considera usted la provisión de ayuda estatal para el desempleo en una democracia?",
+      "¿En qué medida cree usted que la provisión de ayuda estatal por desempleo contribuye a las características esenciales de una democracia? (Califique del 1 al 10)"
+    ],
+    "options": [
+      "No es una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q245": {
+    "description": "La importancia que se le atribuye a la intervención del ejército cuando el gobierno es incompetente como característica de la democracia.",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuán esencial considera usted para la democracia que el ejército tome el poder cuando el gobierno es incompetente?",
+      "En una escala del 1 al 10, califique en qué medida considera que la intervención del ejército en el gobierno es una característica esencial de la democracia.",
+      "¿Hasta qué punto cree usted que la toma del poder por parte del ejército cuando el gobierno falla es compatible con la democracia en una escala del 1 al 10?",
+      "Indique, en una escala del 1 al 10, cuán importante cree que es para la democracia que el ejército reemplace a un gobierno incompetente."
+    ],
+    "options": [
+      "No es en absoluto una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q246": {
+    "description": "La importancia percibida de los derechos civiles que protegen a las personas de la opresión estatal como característica de la democracia.",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuán esencial considera usted que es para la democracia que los derechos civiles protejan a las personas de la opresión estatal?",
+      "En una escala del 1 al 10, donde 1 significa \"nada esencial\" y 10 significa \"definitivamente esencial\", ¿cuán importantes son las protecciones de los derechos civiles para la democracia?",
+      "¿Hasta qué punto cree usted que los derechos civiles que protegen a los individuos de la opresión gubernamental son una característica esencial de la democracia en una escala del 1 al 10?",
+      "Indique, en una escala del 1 al 10, cuán esenciales considera que son los derechos civiles para la democracia."
+    ],
+    "options": [
+      "No es en absoluto una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "Democracia: El Estado garantiza la igualdad de ingresos.",
+    "questions": [
+      "Democracia: El Estado que garantiza la igualdad de ingresos.",
+      "Democracia: ¿Es el papel del Estado en lograr la igualdad de ingresos?",
+      "¿Hasta qué punto cree usted que la democracia implica que el Estado garantice la igualdad de ingresos entre las personas?",
+      "En una escala del 1 al 10, ¿cuán esencial cree que es para la democracia que el Estado garantice la igualdad de ingresos entre las personas?"
+    ],
+    "options": [
+      "No es una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "Democracia: El pueblo obedece a sus gobernantes.",
+    "questions": [
+      "Democracia: La obediencia del pueblo a sus gobernantes no es una característica esencial de la democracia. (Califica en una escala del 1 al 10)",
+      "¿Hasta qué punto considera usted que la obediencia del pueblo a sus gobernantes es una característica esencial de la democracia? (Valore en una escala del 1 al 10)",
+      "En su opinión, ¿qué importancia tiene para la democracia que el pueblo obedezca a sus gobernantes? (Valore en una escala del 1 al 10)",
+      "¿Hasta qué punto está usted de acuerdo en que la obediencia del pueblo a sus gobernantes es un aspecto fundamental de la democracia? (Valore en una escala del 1 al 10)"
+    ],
+    "options": [
+      "No es una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q249": {
+    "description": "Importancia percibida de la igualdad de género como característica de la democracia",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuán esencial considera usted que es para la democracia que las mujeres tengan los mismos derechos que los hombres?",
+      "En una escala del 1 al 10, ¿qué importancia le atribuye a la igualdad de género para la democracia?",
+      "¿Hasta qué punto considera que la igualdad de derechos entre mujeres y hombres es una característica esencial de la democracia en una escala del 1 al 10?",
+      "Indique, en una escala del 1 al 10, cuán esencial es la igualdad de género para el sistema democrático."
+    ],
+    "options": [
+      "No es en absoluto una característica esencial de la democracia.",
+      "Una característica esencial de la democracia"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "Importancia de la democracia",
+    "questions": [
+      "En una escala del 1 al 10, ¿qué importancia le atribuye usted a la democracia?",
+      "¿Cómo calificaría la importancia de la democracia en una escala del 1 al 10?",
+      "¿Hasta qué punto cree usted que la democracia es importante? Por favor, califique en una escala del 1 al 10.",
+      "Indique el nivel de importancia que le atribuye a la democracia en una escala del 1 al 10."
+    ],
+    "options": [
+      "Para nada importante",
+      "Absolutamente importante"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "¿Hasta qué punto se gobierna este país de forma democrática hoy en día?",
+    "questions": [
+      "¿Hasta qué punto considera usted que este país se gobierna democráticamente hoy en día? (En una escala del 1 al 10)",
+      "En una escala del 1 al 10, ¿cuán democrático cree usted que es el gobierno de este país hoy en día?",
+      "¿Hasta qué punto considera que este país se gobierna democráticamente? Por favor, califique en una escala del 1 al 10.",
+      "¿Cómo calificaría el nivel actual de democracia en este país en una escala del 1 al 10?"
+    ],
+    "options": [
+      "Nada democrático",
+      "Completamente democrático"
+    ],
+    "scale": true
+  },
+  "Q252": {
+    "description": "Satisfacción con el funcionamiento del sistema político",
+    "questions": [
+      "En una escala del 1 al 10, ¿cuán satisfecho está usted con el funcionamiento del sistema político de su país en la actualidad?",
+      "¿Qué tan satisfecho está con el funcionamiento actual del sistema político en su país? Califíquelo del 1 (nada satisfecho) al 10 (completamente satisfecho).",
+      "En general, ¿cómo calificaría su satisfacción con el funcionamiento del sistema político de su país en una escala del 1 al 10?",
+      "Indique, en una escala del 1 (nada satisfecho) al 10 (completamente satisfecho), cuán satisfecho está con el funcionamiento del sistema político de su país en la actualidad."
+    ],
+    "options": [
+      "No estoy nada satisfecho",
+      "Completamente satisfecho"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "El respeto a los derechos humanos individuales hoy en día",
+    "questions": [
+      "¿Cómo describiría el nivel de respeto a los derechos humanos individuales en la actualidad?",
+      "¿Hasta qué punto cree usted que se respetan los derechos humanos individuales en la sociedad actual?",
+      "En su opinión, ¿cuánto respeto se otorga hoy en día a los derechos humanos individuales?",
+      "En lo que respecta a los derechos humanos individuales, ¿cómo evaluaría el nivel de respeto actual?"
+    ],
+    "options": [
+      "Un gran respeto por los derechos humanos individuales",
+      "Bastante respeto",
+      "No lo sé",
+      "No mucho respeto",
+      "Ningún respeto en absoluto"
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "Orgullo nacional",
+    "questions": [
+      "¿Qué tan orgulloso te sientes de tu nacionalidad?",
+      "En una escala del 1 al 4, ¿cuán orgulloso te sientes de tu nacionalidad?",
+      "En términos de orgullo nacional, ¿se consideraría usted más cercano a estar muy orgulloso o a no estar nada orgulloso?",
+      "¿Describiría su nivel de orgullo nacional como bastante orgulloso, poco orgulloso o algo intermedio?"
+    ],
+    "options": [
+      "Muy orgulloso",
+      "Bastante orgulloso",
+      "No muy orgulloso",
+      "Para nada orgulloso"
+    ],
+    "scale": false
+  }
+}

@@ -1,0 +1,1492 @@
+V262: Year survey,B_COUNTRY_ALPHA: Country code ISO 3166 alpha,N_REGION_ISO: Region (ISO),G_TOWNSIZE2: Settlement size_5 groups,V240: Sex,V242: Age,V247: Language at home,V57: Marital status,V248R: Highest educational level: Respondent (recoded into 3 groups),V238: Social class (subjective),Counts
+2012,-4,CO-ANT Antioquia,100000-500000,Female,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,21,Spanish; Castilian,Single,No answer,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,22,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,26,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,29,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,32,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,33,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,39,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,49,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,52,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,53,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Female,60,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,22,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,27,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,35,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,36,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,39,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,45,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,48,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,49,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,50,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,52,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,65,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-ANT Antioquia,100000-500000,Male,70,Spanish; Castilian,Married,Lower,Upper middle class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,24,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,24,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,29,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,29,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,33,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,38,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,41,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,49,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,49,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Female,62,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,19,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,24,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,25,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,27,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,29,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,29,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,30,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,33,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,42,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,48,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,53,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,20000-100000,Male,66,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,19,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,22,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,26,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,28,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,29,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,32,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,39,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,40,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,46,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,53,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Female,56,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,21,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,22,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,23,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,27,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,28,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,30,Spanish; Castilian,Single,Higher,Upper class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,32,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,35,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,52,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,61,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,5000-20000,Male,79,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,21,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,21,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,22,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,24,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,24,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,26,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,26,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,27,Spanish; Castilian,Living together as married,Middle,Working class,2
+2012,-4,CO-ANT Antioquia,500000 and more,Female,28,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,30,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,31,Spanish; Castilian,Married,Higher,Upper class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,31,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,31,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,32,Spanish; Castilian,Single,Higher,Upper class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,34,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,35,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,35,Spanish; Castilian,Single,Middle,Don´t know,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,38,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,38,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,42,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,43,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,43,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,44,Spanish; Castilian,Divorced,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,44,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,45,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,45,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,45,Spanish; Castilian,Separated,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,47,Spanish; Castilian,Widowed,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,48,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,49,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,49,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,51,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,52,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,52,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,52,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,53,English,Separated,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,53,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,54,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,55,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,56,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,57,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,57,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,58,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,58,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,60,Spanish; Castilian,Separated,Middle,Don´t know,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,63,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,64,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Female,76,Spanish; Castilian,Widowed,Middle,Upper class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,19,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,20,Spanish; Castilian,Single,Middle,Working class,2
+2012,-4,CO-ANT Antioquia,500000 and more,Male,22,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,22,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,23,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,24,Spanish; Castilian,Single,Higher,Upper class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,26,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,26,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,27,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,27,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,28,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,30,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,30,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,31,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,32,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,34,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,36,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,36,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,36,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,38,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,40,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,40,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,41,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,42,Spanish; Castilian,Married,Higher,Upper class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,42,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,44,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,45,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,46,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,47,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,48,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,49,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,49,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,52,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,52,Spanish; Castilian,Separated,Higher,Lower class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,53,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,55,French,Married,Lower,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,57,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,59,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,62,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,62,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,62,Spanish; Castilian,Single,Middle,Upper class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,67,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ANT Antioquia,500000 and more,Male,70,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,22,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,23,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,29,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,33,Spanish; Castilian,Living together as married,Higher,Don´t know,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,35,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,39,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,43,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,45,Spanish; Castilian,Divorced,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,47,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,48,Spanish; Castilian,Living together as married,Lower,Upper class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,48,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Female,62,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,19,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,25,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,29,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,35,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,40,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,58,Spanish; Castilian,Single,Lower,Lower middle class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,59,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,61,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,62,Spanish; Castilian,Separated,Higher,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,64,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,20000-100000,Male,69,Spanish; Castilian,Married,Lower,Upper middle class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,21,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,22,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,24,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,27,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,45,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,46,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,48,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,53,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,56,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Female,64,Spanish; Castilian,Married,Lower,Upper middle class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,18,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,20,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,22,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,26,Spanish; Castilian,Separated,Lower,Upper middle class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,28,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,31,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,32,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,46,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,48,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,55,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,56,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,59,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,5000-20000,Male,76,Spanish; Castilian,Married,Lower,Upper class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,20,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,22,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,24,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,27,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,27,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,29,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,29,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,30,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,30,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,31,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,38,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,40,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,42,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,44,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,45,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,45,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,46,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,47,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,52,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,62,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,63,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,65,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,66,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Female,76,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,23,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,23,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,24,Spanish; Castilian,Single,Higher,Don´t know,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,25,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,26,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,28,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,33,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,34,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,35,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,39,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,45,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,45,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,49,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,51,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,55,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,61,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,62,Spanish; Castilian,Divorced,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,65,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,71,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-ATL Atlántico,500000 and more,Male,73,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,20,Spanish; Castilian,Single,Middle,Lower class,2
+2012,-4,CO-BOL Bolívar,100000-500000,Female,22,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,28,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,31,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,33,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,42,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,54,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,62,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,63,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Female,65,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,19,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,19,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,24,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,27,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,37,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,39,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,39,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,42,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,43,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,50,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,50,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,100000-500000,Male,54,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,18,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,19,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,27,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,29,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,31,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,32,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,40,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,44,Spanish; Castilian,Divorced,Higher,Upper middle class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,46,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,47,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,47,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,52,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Female,54,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,21,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,31,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,33,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,37,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,45,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,48,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,52,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,62,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-BOL Bolívar,500000 and more,Male,73,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,19,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,22,English,Living together as married,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,23,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,25,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,26,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,26,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,29,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,31,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,32,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,34,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,38,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,39,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,41,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,42,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,51,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,51,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,53,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,53,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,54,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,56,Spanish; Castilian,Living together as married,Lower,Don´t know,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,57,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,60,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,61,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,65,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Female,69,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,18,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,20,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,23,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,24,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,26,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,32,Spanish; Castilian,Married,Lower,Lower class,2
+2012,-4,CO-BOY Boyacá,5000-20000,Male,33,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,34,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,37,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,38,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,41,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,46,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,47,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,48,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,52,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,53,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,59,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,60,Spanish; Castilian,Married,Lower,Don´t know,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,71,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,71,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-BOY Boyacá,5000-20000,Male,82,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,18,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,21,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,23,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,33,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,39,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,41,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,53,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,53,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,76,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,100000-500000,Female,76,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,22,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,38,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,41,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,48,Spanish; Castilian,Separated,Higher,Upper middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,60,Spanish; Castilian,Separated,Lower,Working class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,62,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,62,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,63,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,70,Spanish; Castilian,Divorced,Middle,Upper middle class,1
+2012,-4,CO-CAL Caldas,100000-500000,Male,71,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,21,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,24,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,27,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,35,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,35,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,38,Spanish; Castilian,Single,Middle,Don´t know,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,39,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,41,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,58,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,59,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,60,Spanish; Castilian,Widowed,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Female,62,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,18,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,22,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,23,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,40,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,40,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,44,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,44,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,50,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,52,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,52,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CAL Caldas,5000-20000,Male,53,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,19,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,22,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,28,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,38,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,40,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,43,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,44,French,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,50,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,59,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,65,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Female,72,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,22,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,23,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,23,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,26,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,31,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,35,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,38,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,48,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,48,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,53,French,Married,Lower,Working class,1
+2012,-4,CO-CAQ Caquetá,100000-500000,Male,66,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,22,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,25,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,28,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,32,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,35,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,36,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,36,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,44,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,47,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,57,Spanish; Castilian,Widowed,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,100000-500000,Female,58,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,20,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,21,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,21,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,29,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,32,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,36,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,39,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,49,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,50,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,55,"Other local; aboriginal; tribal, community",Married,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,65,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-CAU Cauca,100000-500000,Male,65,Spanish; Castilian,Widowed,Higher,Lower middle class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,18,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,22,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,22,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,32,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,40,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,50,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,53,German,Divorced,Middle,Working class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,55,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,59,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Female,68,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,18,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,23,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,26,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,26,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,31,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,34,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,36,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,40,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,44,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,61,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,67,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,69,French,Living together as married,Lower,Working class,1
+2012,-4,CO-CAU Cauca,5000-20000,Male,72,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,20,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,21,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,23,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,27,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,29,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,34,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,35,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,36,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,40,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,42,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,47,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,50,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Female,56,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,18,Spanish; Castilian,Single,Middle,Working class,2
+2012,-4,CO-CES Cesar,20000-100000,Male,26,Spanish; Castilian,Living together as married,Lower,Upper class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,26,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,30,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,33,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,39,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,54,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,55,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,64,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-CES Cesar,20000-100000,Male,71,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,21,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,25,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,27,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,27,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,37,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,38,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,39,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,41,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,42,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,44,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,53,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Female,61,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,19,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,21,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,21,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,29,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,30,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,32,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,43,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,63,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,65,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,66,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-COR Córdoba,100000-500000,Male,70,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,23,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,26,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,30,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,32,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,40,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,45,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,46,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,47,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,52,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Female,55,Spanish; Castilian,Widowed,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,19,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,21,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,24,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,33,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,35,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,39,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,41,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,42,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,49,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,50,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-COR Córdoba,20000-100000,Male,69,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,19,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,20,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,25,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,30,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,31,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,33,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,39,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,41,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,42,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,43,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Female,67,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,18,Spanish; Castilian,Single,Middle,Upper class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,21,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,25,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,26,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,28,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,37,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,43,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,45,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,52,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,56,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,100000-500000,Male,63,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,18,Spanish; Castilian,Single,Middle,Upper class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,27,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,29,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,36,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,37,English,Single,Higher,Upper middle class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,40,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,43,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,51,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,52,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Female,68,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,20,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,21,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,25,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,29,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,29,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,40,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,45,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,48,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,53,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,56,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-CUN Cundinamarca,5000-20000,Male,57,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,18,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,18,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,18,Spanish; Castilian,Single,Higher,Working class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,18,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,19,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,19,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,19,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,20,Spanish; Castilian,Single,Higher,Upper middle class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,20,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,21,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,21,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,21,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,22,Other,Single,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,22,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,22,Spanish; Castilian,Single,Middle,Lower middle class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,23,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,23,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,23,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,23,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,25,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,26,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,26,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,26,Spanish; Castilian,Single,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,27,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,27,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,27,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,27,Spanish; Castilian,Single,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,28,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,28,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,29,Spanish; Castilian,Living together as married,Middle,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,29,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,30,Spanish; Castilian,Living together as married,Middle,Working class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,30,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,30,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,31,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,31,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,31,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,33,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,34,Spanish; Castilian,Separated,No answer,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,35,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,35,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,35,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,35,Spanish; Castilian,Separated,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,35,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,35,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,36,Spanish; Castilian,Living together as married,Middle,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,36,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,36,Spanish; Castilian,Separated,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,37,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,38,Spanish; Castilian,Divorced,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,38,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,38,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,39,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,39,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,39,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,39,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,39,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,40,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,40,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,40,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,41,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,41,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,42,Spanish; Castilian,Married,Higher,Upper middle class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,42,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,42,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,42,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,42,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,43,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,43,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,43,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,43,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,44,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,44,Spanish; Castilian,Separated,No answer,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,45,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,46,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,46,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,47,Spanish; Castilian,Divorced,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,47,Spanish; Castilian,Divorced,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,47,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,47,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,47,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,48,Other,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,48,Spanish; Castilian,Widowed,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,49,Spanish; Castilian,Divorced,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,49,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,50,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,50,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,51,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,51,Spanish; Castilian,Married,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,52,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,52,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,52,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,52,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,52,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,52,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,53,Spanish; Castilian,Married,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,55,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,55,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,56,English,Divorced,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,56,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,56,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,56,Spanish; Castilian,Married,Middle,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,56,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,57,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,57,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,57,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,57,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,57,Spanish; Castilian,Separated,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,58,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,58,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,58,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,59,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,59,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,61,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,61,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,62,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,63,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,63,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,64,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,65,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,65,Spanish; Castilian,Widowed,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,65,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,67,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,67,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,67,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,70,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,71,Spanish; Castilian,Widowed,No answer,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Female,73,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,18,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,18,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,18,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,19,Spanish; Castilian,Single,Higher,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,19,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,19,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,19,Spanish; Castilian,Single,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,20,Spanish; Castilian,Single,Higher,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,20,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,20,Spanish; Castilian,Single,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,22,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,22,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,22,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,22,Spanish; Castilian,Single,Higher,Working class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,23,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,24,Spanish; Castilian,Separated,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,25,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,26,Spanish; Castilian,Living together as married,Middle,Working class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,26,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,26,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,26,Spanish; Castilian,Single,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,27,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,27,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,28,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,28,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,28,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,28,Spanish; Castilian,Separated,Higher,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,28,Spanish; Castilian,Single,Higher,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,29,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,29,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,31,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,31,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,31,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,32,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,32,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,32,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,32,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,33,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,34,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,34,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,35,Spanish; Castilian,Divorced,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,35,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,35,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,35,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,37,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,37,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,37,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,38,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,38,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,38,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,39,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,39,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,39,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,39,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,40,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,40,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,40,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,40,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,41,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,41,Spanish; Castilian,Separated,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,42,Spanish; Castilian,Married,Higher,Lower middle class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,42,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,43,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,43,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,43,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,44,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,44,Spanish; Castilian,Living together as married,Middle,Working class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,44,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,45,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,46,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,46,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,47,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,47,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,48,Spanish; Castilian,Married,Higher,Working class,2
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,48,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,49,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,49,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,49,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,49,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,49,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,50,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,50,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,52,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,52,Spanish; Castilian,Single,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,53,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,55,Spanish; Castilian,Divorced,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,55,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,56,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,57,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,57,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,57,Spanish; Castilian,Married,Higher,Upper class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,57,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,59,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,59,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,59,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,59,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,60,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,61,Spanish; Castilian,Divorced,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,61,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,61,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,63,Spanish; Castilian,Married,No answer,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,63,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,67,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,68,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,69,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,72,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,74,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,74,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,75,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,77,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-DC Distrito Capital de Bogotá,500000 and more,Male,80,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,25,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,26,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,32,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,40,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,42,Spanish; Castilian,Divorced,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,44,Spanish; Castilian,Separated,Lower,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,55,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,59,Spanish; Castilian,Divorced,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Female,60,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,22,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,25,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,26,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,32,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,32,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,33,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,37,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,59,"Other local; aboriginal; tribal, community",Separated,Lower,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,61,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,68,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,69,Spanish; Castilian,Divorced,Lower,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,74,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-HUI Huila,100000-500000,Male,75,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,18,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,22,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,24,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,29,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,29,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,31,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,42,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,47,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,54,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,60,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Female,68,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,18,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,32,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,40,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,43,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,58,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,60,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,66,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-HUI Huila,20000-100000,Male,67,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,18,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,23,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,28,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,31,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,34,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,37,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,47,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,49,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,54,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,61,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,61,Spanish; Castilian,Widowed,Higher,Upper middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Female,76,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,22,Spanish; Castilian,Single,Middle,Upper class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,29,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,29,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,31,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,43,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,46,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,52,English,Single,Middle,Lower middle class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,52,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-MAG Magdalena,100000-500000,Male,60,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Female,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Female,20,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-MET Meta,100000-500000,Female,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Female,32,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-MET Meta,100000-500000,Female,37,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Female,38,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-MET Meta,100000-500000,Female,39,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-MET Meta,100000-500000,Female,42,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-MET Meta,100000-500000,Female,59,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Female,61,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-MET Meta,100000-500000,Female,61,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Female,65,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Female,74,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Male,19,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Male,26,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Male,26,Spanish; Castilian,Separated,Middle,Upper middle class,1
+2012,-4,CO-MET Meta,100000-500000,Male,31,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-MET Meta,100000-500000,Male,32,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Male,40,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-MET Meta,100000-500000,Male,43,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-MET Meta,100000-500000,Male,57,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-MET Meta,100000-500000,Male,60,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-MET Meta,100000-500000,Male,67,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-MET Meta,100000-500000,Male,70,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Female,19,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Female,22,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Female,29,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Female,30,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-MET Meta,5000-20000,Female,32,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Female,34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Female,46,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Female,53,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Female,55,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Female,58,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Male,21,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Male,23,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Male,25,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Male,27,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Male,28,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Male,32,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Male,33,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Male,36,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-MET Meta,5000-20000,Male,53,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Male,55,Spanish; Castilian,Separated,Lower,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Male,57,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-MET Meta,5000-20000,Male,60,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-MET Meta,5000-20000,Male,74,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,18,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,19,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,20,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,20,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,25,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,26,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,29,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,30,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,31,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,32,Other,Living together as married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,34,Spanish; Castilian,Divorced,Middle,Upper middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,35,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,37,Spanish; Castilian,Married,No answer,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,39,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,41,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,45,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,50,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,53,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,54,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,55,Spanish; Castilian,Separated,Lower,Upper middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,55,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,59,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Female,70,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,18,Spanish; Castilian,Single,Middle,Upper class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,19,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,21,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,23,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,24,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,26,Spanish; Castilian,Widowed,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,28,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,29,Other,Living together as married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,29,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,30,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,33,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,38,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,40,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,40,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,42,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,47,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,49,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,50,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,50,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,56,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,58,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,60,French,Living together as married,Lower,Upper middle class,1
+2012,-4,CO-NAR Nariño,100000-500000,Male,60,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,18,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,22,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,26,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,27,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,32,Spanish; Castilian,Living together as married,Lower,Upper class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,34,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,37,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,38,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,39,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,50,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,65,Spanish; Castilian,Divorced,Higher,Upper middle class,1
+2012,-4,CO-NAR Nariño,20000-100000,Female,65,Spanish; Castilian,Widowed,Higher,Upper middle class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,19,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,34,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,35,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,36,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,39,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,46,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,46,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,54,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,60,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,71,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-NAR Nariño,20000-100000,Male,82,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,18,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,24,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,24,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,26,Spanish; Castilian,Living together as married,Middle,Lower class,2
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,27,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,29,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,31,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,31,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,32,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,35,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,38,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,39,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,41,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,42,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,46,Spanish; Castilian,Separated,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,51,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,55,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,56,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,59,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,64,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,73,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Female,77,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,19,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,21,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,23,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,24,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,24,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,25,Spanish; Castilian,Single,Lower,Don´t know,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,26,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,28,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,32,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,32,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,32,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,35,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,39,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,40,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,45,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,46,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,46,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,53,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,55,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,58,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,58,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,61,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,61,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,64,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,20000-100000,Male,78,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,23,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,25,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,26,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,30,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,30,Spanish; Castilian,Separated,Lower,Don´t know,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,40,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,43,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,43,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,44,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,45,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,53,Spanish; Castilian,Single,Lower,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Female,72,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,19,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,23,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,26,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,29,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,40,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,65,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,66,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,68,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,70,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,70,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-NSA Norte de Santander,500000 and more,Male,77,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,20,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,25,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,27,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,36,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,36,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,38,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,44,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2012,-4,CO-PUT Putumayo,20000-100000,Female,46,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Female,55,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,18,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,20,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,26,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,27,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,38,Other,Married,Lower,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,38,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,39,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,43,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,46,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,49,Spanish; Castilian,Divorced,Middle,Working class,1
+2012,-4,CO-PUT Putumayo,20000-100000,Male,50,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,18,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,19,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,26,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,38,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,40,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,40,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,45,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,47,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,51,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,58,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,60,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Female,64,Spanish; Castilian,Married,Middle,Upper middle class,2
+2012,-4,CO-QUI Quindío,20000-100000,Male,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,25,Spanish; Castilian,Divorced,Middle,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,31,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,31,Spanish; Castilian,Separated,Higher,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,37,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,50,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,50,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,56,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,57,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,60,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-QUI Quindío,20000-100000,Male,82,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,19,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,21,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,22,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,23,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,29,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,29,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,32,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,33,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,48,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,58,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,59,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,69,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,71,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Female,76,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,20,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,27,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,37,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,40,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,51,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,53,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,59,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,60,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-RIS Risaralda,20000-100000,Male,77,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,20,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,24,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,29,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,33,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,33,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,43,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,44,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,50,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,52,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-SAN Santander,100000-500000,Female,58,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,20,Spanish; Castilian,Single,Middle,Upper class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,20,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,24,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,36,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,37,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,37,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,41,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,45,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,46,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,53,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,56,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-SAN Santander,100000-500000,Male,69,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,23,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,26,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,35,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,36,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,39,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,40,Spanish; Castilian,Living together as married,No answer,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,44,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,47,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,55,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,56,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,70,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Female,76,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,19,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,19,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,25,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,30,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,31,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,32,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,33,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,41,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,46,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,60,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-SAN Santander,20000-100000,Male,64,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,20,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,21,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,30,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,31,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,32,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,46,Spanish; Castilian,Single,Higher,Upper class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,48,Spanish; Castilian,Widowed,Higher,Upper middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,51,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,53,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,66,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,74,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Female,78,Spanish; Castilian,Widowed,Higher,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,20,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,23,Spanish; Castilian,Single,Middle,Upper class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,26,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,27,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,28,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,31,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,37,Spanish; Castilian,Married,Lower,No answer,1
+2012,-4,CO-SAN Santander,500000 and more,Male,48,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,49,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,59,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,63,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-SAN Santander,500000 and more,Male,66,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,18,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,20,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,20,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,30,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,30,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,32,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,41,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,42,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,42,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,44,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,50,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Female,63,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,23,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,26,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,27,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,31,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,38,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,38,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,41,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,42,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,42,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,48,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,49,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,100000-500000,Male,62,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,20,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,21,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,26,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,28,Spanish; Castilian,Living together as married,Middle,Don´t know,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,37,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,41,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,44,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,48,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-SUC Sucre,20000-100000,Female,52,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,19,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,22,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,25,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,30,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,33,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,34,Spanish; Castilian,Married,Higher,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,38,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,41,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,41,Spanish; Castilian,Single,Lower,Lower middle class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,44,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,46,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,47,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-SUC Sucre,20000-100000,Male,66,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,24,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,28,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,31,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,32,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,36,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,42,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,45,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,51,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,63,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,66,Spanish; Castilian,Separated,Lower,Lower class,1
+2012,-4,CO-TOL Tolima,20000-100000,Female,81,Spanish; Castilian,Widowed,Lower,Lower class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,22,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,25,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,26,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,28,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,29,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,31,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,33,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,49,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,53,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,56,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,61,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-TOL Tolima,20000-100000,Male,70,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Female,26,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Female,29,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Female,42,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Female,50,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Female,52,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Female,56,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,21,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,24,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,25,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,29,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,32,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,39,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,41,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,45,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,52,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,55,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,56,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,57,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,57,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,59,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,62,Spanish; Castilian,Married,Higher,Upper class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,76,Spanish; Castilian,Separated,Higher,Working class,1
+2012,-4,CO-TOL Tolima,500000 and more,Male,77,Spanish; Castilian,Married,Lower,Don´t know,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,22,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,22,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,25,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,26,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,28,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,31,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,34,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,40,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,49,English,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,53,Spanish; Castilian,Separated,Higher,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,58,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,59,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Female,60,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,19,Spanish; Castilian,Single,Middle,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,22,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,24,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,26,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,28,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,32,Spanish; Castilian,Married,Middle,No answer,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,37,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,63,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,100000-500000,Male,71,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,19,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,21,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,23,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,27,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,31,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,32,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,32,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,36,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,40,French,Single,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,40,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,43,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,48,Spanish; Castilian,Separated,Middle,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,54,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,58,Spanish; Castilian,Married,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,60,Spanish; Castilian,Widowed,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,62,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,74,Spanish; Castilian,Single,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,76,Spanish; Castilian,Widowed,Lower,No answer,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Female,78,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,23,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,23,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,25,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,26,Spanish; Castilian,Single,Higher,Lower middle class,2
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,28,English,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,29,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,29,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,32,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,34,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,37,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,39,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,41,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,44,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,46,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,51,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,55,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,57,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,58,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,61,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,62,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,63,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,64,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,71,Spanish; Castilian,Married,Middle,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,20000-100000,Male,74,Spanish; Castilian,Married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,18,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,18,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,18,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,21,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,25,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,26,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,27,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,27,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,28,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,32,Spanish; Castilian,Living together as married,Middle,Working class,2
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,35,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,36,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,36,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,38,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,38,Spanish; Castilian,Living together as married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,38,Spanish; Castilian,Single,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,40,Spanish; Castilian,Living together as married,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,46,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,47,Spanish; Castilian,Widowed,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,50,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,51,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,53,Spanish; Castilian,Divorced,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,53,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,55,Spanish; Castilian,Single,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,56,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,56,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,61,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,64,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,65,Spanish; Castilian,Separated,Middle,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,67,Spanish; Castilian,Living together as married,Lower,Don´t know,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,67,Spanish; Castilian,Widowed,Middle,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,68,Spanish; Castilian,Single,Lower,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,74,Spanish; Castilian,Widowed,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,75,Spanish; Castilian,Single,Lower,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Female,76,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,18,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,18,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,18,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,19,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,21,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,22,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,23,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,27,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,29,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,30,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,31,Spanish; Castilian,Separated,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,31,Spanish; Castilian,Single,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,32,Spanish; Castilian,Single,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,33,Spanish; Castilian,Single,Higher,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,34,Spanish; Castilian,Single,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,37,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,39,Spanish; Castilian,Married,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,40,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,45,Spanish; Castilian,Married,Middle,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,47,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,50,Spanish; Castilian,Married,Higher,Upper middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,58,Spanish; Castilian,Divorced,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,58,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,58,Spanish; Castilian,Single,Higher,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,60,Spanish; Castilian,Married,Higher,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,61,Spanish; Castilian,Married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,61,Spanish; Castilian,Separated,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,62,Spanish; Castilian,Married,Higher,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,65,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,73,Spanish; Castilian,Married,Middle,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,76,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,76,Spanish; Castilian,Living together as married,Lower,Working class,1
+2012,-4,CO-VAC Valle del Cauca,500000 and more,Male,78,Spanish; Castilian,Married,Lower,Upper middle class,1

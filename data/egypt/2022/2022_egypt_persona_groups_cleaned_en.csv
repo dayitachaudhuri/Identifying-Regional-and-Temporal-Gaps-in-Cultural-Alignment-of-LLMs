@@ -1,0 +1,16 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2018,Egypt,EG-ASN Aswan,Rural,Female,35-44,Arabic,Married,Lower,Working class,4
+2018,Egypt,EG-ASN Aswan,Rural,Male,45-54,Arabic,Married,Lower,Working class,4
+2018,Egypt,EG-AST Asyut,Rural,Female,16-24,Arabic,Married,Lower,Lower class,4
+2018,Egypt,EG-BH Beheira,Rural,Female,45-54,Arabic,Married,Lower,Lower class,6
+2018,Egypt,EG-BH Beheira,Rural,Female,55-64,Arabic,Widowed,Lower,Lower class,5
+2018,Egypt,EG-BH Beheira,Rural,Male,55-64,Arabic,Married,Lower,Lower class,4
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Middle,Lower middle class,4
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Middle,Lower middle class,5
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,4
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,4
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Married,Middle,Upper middle class,4
+2018,Egypt,EG-FYM Faiyum,Rural,Male,45-54,Arabic,Married,Lower,Lower middle class,4
+2018,Egypt,EG-KN Qena,Rural,Female,45-54,Arabic,Married,Lower,Working class,4
+2018,Egypt,EG-MNF Monufia,Rural,Male,35-44,Arabic,Married,Middle,Lower class,4
+2018,Egypt,EG-SHG Sohag,Rural,Male,45-54,Arabic,Married,Lower,Working class,6

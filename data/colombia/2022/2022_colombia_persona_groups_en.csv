@@ -1,0 +1,1263 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2018,Colombia,CO-ANT Antioquia,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-ANT Antioquia,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,3
+2018,Colombia,CO-ANT Antioquia,Rural,Female,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,25-34,Spanish; Castilian,Separated,Higher,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,35-44,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Rural,Female,35-44,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,35-44,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,4
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Widowed,No answer,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,55-64,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,55-64,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,55-64,Spanish; Castilian,Separated,Lower,Lower class,2
+2018,Colombia,CO-ANT Antioquia,Rural,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,3
+2018,Colombia,CO-ANT Antioquia,Rural,Male,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,16-24,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,25-34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,35-44,Spanish; Castilian,Divorced,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,35-44,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,35-44,Spanish; Castilian,Separated,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,5
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,3
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Separated,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,2
+2018,Colombia,CO-ANT Antioquia,Rural,Male,55-64,Spanish; Castilian,Married,Middle,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,55-64,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Rural,Male,65 and more years,Spanish; Castilian,Living together as married,No answer,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,16-24,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,16-24,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,16-24,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Working class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Divorced,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Upper class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Lower middle class,3
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower middle class,3
+2018,Colombia,CO-ANT Antioquia,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,45-54,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,45-54,Spanish; Castilian,Married,Lower,Working class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,45-54,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Separated,Middle,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Single,Lower,Lower class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Female,65 and more years,Spanish; Castilian,Married,Lower,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,65 and more years,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Female,65 and more years,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,No answer,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,No answer,Single,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,5
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,35-44,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Working class,2
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Separated,Higher,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Separated,Lower,Upper class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,45-54,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,4
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,65 and more years,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Upper middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-ANT Antioquia,Urban,Male,65 and more years,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,16-24,Spanish; Castilian,Married,Higher,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,16-24,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,25-34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,25-34,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,25-34,Spanish; Castilian,Single,Lower,Upper class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Working class,2
+2018,Colombia,CO-ATL Atlántico,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Upper class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,35-44,Spanish; Castilian,Widowed,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,45-54,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,45-54,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,55-64,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,55-64,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Upper middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,65 and more years,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,3
+2018,Colombia,CO-ATL Atlántico,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,25-34,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Working class,2
+2018,Colombia,CO-ATL Atlántico,Urban,Male,35-44,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,35-44,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,35-44,Spanish; Castilian,Single,Lower,Upper class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Working class,2
+2018,Colombia,CO-ATL Atlántico,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,45-54,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,45-54,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,55-64,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,55-64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Lower middle class,2
+2018,Colombia,CO-ATL Atlántico,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,65 and more years,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-ATL Atlántico,Urban,Male,65 and more years,Spanish; Castilian,Widowed,Middle,Upper class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,25-34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,25-34,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-BOL Bolívar,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,45-54,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,45-54,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,45-54,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Female,65 and more years,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,3
+2018,Colombia,CO-BOL Bolívar,Rural,Male,35-44,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,2
+2018,Colombia,CO-BOL Bolívar,Rural,Male,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,55-64,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Rural,Male,65 and more years,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,16-24,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-BOL Bolívar,Urban,Female,16-24,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,55-64,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,55-64,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Female,65 and more years,Spanish; Castilian,Separated,Higher,Upper middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,35-44,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,35-44,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,45-54,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Working class,2
+2018,Colombia,CO-BOL Bolívar,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,45-54,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,55-64,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,55-64,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-BOL Bolívar,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,16-24,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,16-24,Spanish; Castilian,Single,Don't know,Lower class,3
+2018,Colombia,CO-BOY Boyacá,Urban,Female,16-24,Spanish; Castilian,Single,Don't know,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,16-24,Spanish; Castilian,Single,Don't know,Working class,2
+2018,Colombia,CO-BOY Boyacá,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,25-34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,25-34,Spanish; Castilian,Single,Don't know,Lower class,2
+2018,Colombia,CO-BOY Boyacá,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,16-24,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,16-24,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,16-24,Spanish; Castilian,Single,Don't know,Lower class,3
+2018,Colombia,CO-BOY Boyacá,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,25-34,Spanish; Castilian,Single,Don't know,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,45-54,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,55-64,Spanish; Castilian,Married,Don't know,Lower middle class,2
+2018,Colombia,CO-BOY Boyacá,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-BOY Boyacá,Urban,Male,65 and more years,Spanish; Castilian,Married,Don't know,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,25-34,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,35-44,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,45-54,Spanish; Castilian,Widowed,Higher,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Female,55-64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,25-34,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-CAL Caldas,Urban,Male,35-44,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,35-44,Spanish; Castilian,Separated,Middle,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,45-54,Spanish; Castilian,Divorced,Higher,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,45-54,Spanish; Castilian,Divorced,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,55-64,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,55-64,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,65 and more years,Spanish; Castilian,Divorced,Lower,Lower class,1
+2018,Colombia,CO-CAL Caldas,Urban,Male,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,16-24,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,55-64,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower class,2
+2018,Colombia,CO-CAQ Caquetá,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Male,25-34,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CAQ Caquetá,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,16-24,No answer,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,25-34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,2
+2018,Colombia,CO-CAU Cauca,Rural,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,35-44,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Female,55-64,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-CAU Cauca,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,25-34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,25-34,Spanish; Castilian,Separated,Higher,Working class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,45-54,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,55-64,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,65 and more years,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-CAU Cauca,Rural,Male,65 and more years,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-CES Cesar,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,3
+2018,Colombia,CO-CES Cesar,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-CES Cesar,Urban,Female,45-54,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-CES Cesar,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CES Cesar,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CES Cesar,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-CES Cesar,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-CES Cesar,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-CES Cesar,Urban,Male,35-44,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-CES Cesar,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Upper middle class,1
+2018,Colombia,CO-CES Cesar,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-CES Cesar,Urban,Male,55-64,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CES Cesar,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CHO Chocó,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CHO Chocó,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CHO Chocó,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CHO Chocó,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CHO Chocó,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CHO Chocó,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-CHO Chocó,Rural,Female,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-CHO Chocó,Rural,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CHO Chocó,Rural,Male,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CHO Chocó,Rural,Male,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CHO Chocó,Rural,Male,45-54,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-CHO Chocó,Rural,Male,55-64,Spanish; Castilian,Living together as married,Middle,Working class,2
+2018,Colombia,CO-CHO Chocó,Rural,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CHO Chocó,Rural,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-COR Córdoba,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,2
+2018,Colombia,CO-COR Córdoba,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,45-54,Spanish; Castilian,Separated,Higher,Upper middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,55-64,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Female,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,25-34,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-COR Córdoba,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,35-44,Spanish; Castilian,Separated,Higher,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,2
+2018,Colombia,CO-COR Córdoba,Rural,Male,45-54,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-COR Córdoba,Rural,Male,65 and more years,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Upper class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,25-34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,35-44,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,45-54,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Female,65 and more years,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,55-64,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-COR Córdoba,Urban,Male,65 and more years,Spanish; Castilian,Married,No answer,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,16-24,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,25-34,Spanish; Castilian,Divorced,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,25-34,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,35-44,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,55-64,Spanish; Castilian,Married,Middle,Lower middle class,2
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,55-64,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Female,65 and more years,Spanish; Castilian,Widowed,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,16-24,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,3
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,45-54,Spanish; Castilian,Divorced,Higher,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,45-54,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,45-54,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,55-64,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Rural,Male,65 and more years,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Working class,2
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,3
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,45-54,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,45-54,Spanish; Castilian,Widowed,Middle,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower class,2
+2018,Colombia,CO-CUN Cundinamarca,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,3
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,25-34,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,35-44,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,35-44,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,35-44,Spanish; Castilian,Single,Higher,Lower middle class,3
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,35-44,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,45-54,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,2
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,45-54,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,55-64,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,55-64,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-CUN Cundinamarca,Urban,Male,65 and more years,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Upper middle class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower middle class,6
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Upper class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Upper middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,5
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Working class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,English,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,5
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Married,Higher,Lower middle class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Married,Higher,Working class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Separated,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Separated,Middle,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Upper middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Widowed,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Working class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Separated,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Working class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Working class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Married,Higher,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Married,Lower,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Separated,Middle,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Single,Higher,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Widowed,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,45-54,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Divorced,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,55-64,Spanish; Castilian,Widowed,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,65 and more years,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,65 and more years,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,65 and more years,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,65 and more years,Spanish; Castilian,Widowed,No answer,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,English,Single,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,7
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Upper class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Working class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,12
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,5
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Married,Higher,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Married,Higher,Upper middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Separated,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Separated,Middle,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,6
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Upper middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,5
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Upper class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Married,Lower,Upper class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Married,Middle,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Divorced,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Working class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Lower middle class,3
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Separated,Don't know,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,45-54,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Divorced,Lower,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,55-64,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,65 and more years,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,65 and more years,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower class,2
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,65 and more years,Spanish; Castilian,Married,Middle,Upper middle class,1
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,65 and more years,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-HUI Huila,Rural,Female,35-44,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-HUI Huila,Rural,Male,16-24,English,Single,Lower,Working class,1
+2018,Colombia,CO-HUI Huila,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-HUI Huila,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-HUI Huila,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-HUI Huila,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-HUI Huila,Rural,Male,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-HUI Huila,Rural,Male,55-64,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,25-34,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-HUI Huila,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-HUI Huila,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-HUI Huila,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-HUI Huila,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-HUI Huila,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Working class,2
+2018,Colombia,CO-HUI Huila,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-HUI Huila,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-HUI Huila,Urban,Male,55-64,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,16-24,"Other local; aboriginal; tribal, community",Single,Lower,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,16-24,Spanish; Castilian,Married,Middle,Upper class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,25-34,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,35-44,Spanish; Castilian,Divorced,Lower,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Female,65 and more years,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Male,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Male,25-34,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Male,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Male,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Rural,Male,45-54,Spanish; Castilian,Separated,Lower,Lower class,2
+2018,Colombia,CO-LAG La Guajira,Urban,Female,16-24,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,2
+2018,Colombia,CO-LAG La Guajira,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Female,45-54,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,35-44,No answer,Single,Higher,Working class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-LAG La Guajira,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,16-24,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,16-24,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,25-34,Spanish; Castilian,Married,Higher,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,25-34,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,16-24,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,16-24,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,25-34,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,45-54,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,55-64,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Rural,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,16-24,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,25-34,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,25-34,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Working class,2
+2018,Colombia,CO-MAG Magdalena,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,35-44,Spanish; Castilian,Separated,Higher,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,35-44,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,35-44,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Lower class,2
+2018,Colombia,CO-MAG Magdalena,Urban,Female,55-64,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,45-54,Spanish; Castilian,Living together as married,Higher,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,45-54,Spanish; Castilian,Living together as married,Higher,Upper class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,45-54,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,45-54,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-MAG Magdalena,Urban,Male,55-64,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-MAG Magdalena,Urban,Male,65 and more years,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,16-24,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,45-54,Spanish; Castilian,Widowed,Middle,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Female,55-64,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Female,55-64,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Middle,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-MET Meta,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Male,25-34,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Male,35-44,No answer,Married,Middle,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-MET Meta,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Male,55-64,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-MET Meta,Urban,Male,55-64,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-MET Meta,Urban,Male,65 and more years,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Working class,2
+2018,Colombia,CO-NAR Nariño,Rural,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,25-34,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,25-34,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,45-54,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Female,55-64,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,16-24,Spanish; Castilian,Married,Lower,Upper middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-NAR Nariño,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,25-34,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,25-34,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,25-34,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,35-44,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,35-44,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,35-44,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-NAR Nariño,Rural,Male,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,45-54,Spanish; Castilian,Separated,Middle,Lower class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,55-64,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,65 and more years,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Urban,Female,65 and more years,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-NAR Nariño,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-NAR Nariño,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Working class,2
+2018,Colombia,CO-NAR Nariño,Urban,Male,35-44,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-NAR Nariño,Urban,Male,55-64,Spanish; Castilian,Married,Higher,Lower class,1
+2018,Colombia,CO-NAR Nariño,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-NAR Nariño,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,25-34,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,2
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,45-54,Spanish; Castilian,Married,Higher,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,55-64,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,55-64,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,55-64,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Female,65 and more years,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,25-34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,25-34,Spanish; Castilian,Separated,No answer,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,35-44,English,Living together as married,Middle,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,35-44,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,35-44,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,45-54,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,55-64,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,65 and more years,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-NSA Norte de Santander,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-PUT Putumayo,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-PUT Putumayo,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower class,2
+2018,Colombia,CO-PUT Putumayo,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,3
+2018,Colombia,CO-PUT Putumayo,Rural,Female,25-34,Spanish; Castilian,Separated,Higher,Lower class,1
+2018,Colombia,CO-PUT Putumayo,Rural,Female,25-34,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-PUT Putumayo,Rural,Male,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-PUT Putumayo,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower class,2
+2018,Colombia,CO-PUT Putumayo,Rural,Male,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,2
+2018,Colombia,CO-PUT Putumayo,Rural,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-PUT Putumayo,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-PUT Putumayo,Rural,Male,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-QUI Quindío,Rural,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-QUI Quindío,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-QUI Quindío,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-QUI Quindío,Rural,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-QUI Quindío,Rural,Female,45-54,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-QUI Quindío,Rural,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-QUI Quindío,Rural,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower middle class,2
+2018,Colombia,CO-QUI Quindío,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-QUI Quindío,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-QUI Quindío,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-QUI Quindío,Rural,Male,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-QUI Quindío,Rural,Male,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-QUI Quindío,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-QUI Quindío,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,16-24,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,25-34,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Upper middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,35-44,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Female,45-54,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Male,25-34,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-RIS Risaralda,Rural,Male,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-RIS Risaralda,Rural,Male,55-64,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,25-34,Spanish; Castilian,Separated,Middle,Working class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,25-34,Spanish; Castilian,Widowed,Middle,Upper middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,45-54,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Female,55-64,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Upper middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-RIS Risaralda,Urban,Male,45-54,Spanish; Castilian,Divorced,Higher,Upper middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,16-24,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,25-34,Spanish; Castilian,Divorced,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-SAN Santander,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,25-34,Spanish; Castilian,Married,Higher,Lower middle class,2
+2018,Colombia,CO-SAN Santander,Urban,Female,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,2
+2018,Colombia,CO-SAN Santander,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Upper class,2
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Separated,Middle,Upper middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,45-54,Spanish; Castilian,Divorced,Lower,Upper class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,45-54,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,45-54,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,55-64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,55-64,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,55-64,Spanish; Castilian,Separated,Higher,Upper middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,55-64,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,65 and more years,Spanish; Castilian,Married,Lower,Lower class,2
+2018,Colombia,CO-SAN Santander,Urban,Female,65 and more years,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,3
+2018,Colombia,CO-SAN Santander,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,25-34,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,3
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,35-44,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,English,Married,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Married,Higher,Lower class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower class,2
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Single,Higher,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,45-54,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,55-64,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,65 and more years,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-SAN Santander,Urban,Male,65 and more years,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,35-44,English,Living together as married,Higher,Lower middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,35-44,English,Living together as married,Higher,Upper middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,35-44,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,45-54,English,Married,Middle,Lower middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,45-54,English,Single,Lower,Lower class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,65 and more years,English,Widowed,Higher,Upper middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,65 and more years,No answer,Divorced,Middle,Lower middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Female,65 and more years,No answer,Widowed,Higher,Working class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,25-34,English,Single,Higher,Lower class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,25-34,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,35-44,English,Living together as married,Lower,Working class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,35-44,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,45-54,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,65 and more years,English,Living together as married,Higher,Working class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,"CO-SAP San Andrés, Providencia y Santa Catalina",Urban,Male,65 and more years,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,16-24,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-SUC Sucre,Urban,Female,25-34,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,45-54,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,45-54,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,45-54,Spanish; Castilian,Separated,Lower,Upper class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,45-54,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,55-64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Female,55-64,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,16-24,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,35-44,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,35-44,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-SUC Sucre,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,45-54,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,45-54,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,55-64,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-SUC Sucre,Urban,Male,65 and more years,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Rural,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,2
+2018,Colombia,CO-TOL Tolima,Rural,Female,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Rural,Female,16-24,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-TOL Tolima,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-TOL Tolima,Rural,Female,45-54,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Rural,Female,55-64,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,16-24,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,45-54,English,Married,Lower,Working class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,45-54,Spanish; Castilian,Married,Higher,Working class,1
+2018,Colombia,CO-TOL Tolima,Rural,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,16-24,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,25-34,Spanish; Castilian,Married,Middle,Lower middle class,2
+2018,Colombia,CO-TOL Tolima,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,35-44,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,35-44,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,45-54,Spanish; Castilian,Separated,Higher,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,55-64,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Female,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,3
+2018,Colombia,CO-TOL Tolima,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,2
+2018,Colombia,CO-TOL Tolima,Urban,Male,35-44,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,35-44,Spanish; Castilian,Single,Middle,Working class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-TOL Tolima,Urban,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower middle class,2
+2018,Colombia,CO-TOL Tolima,Urban,Male,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,16-24,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,45-54,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Female,45-54,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,35-44,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,45-54,Spanish; Castilian,Divorced,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,55-64,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,55-64,Spanish; Castilian,Separated,Middle,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,65 and more years,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,65 and more years,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Rural,Male,65 and more years,Spanish; Castilian,Widowed,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,English,Single,Higher,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,No answer,Single,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,7
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Upper class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Working class,3
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Separated,Lower,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Separated,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,German,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Divorced,Higher,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Living together as married,Higher,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Living together as married,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,35-44,Spanish; Castilian,Single,Middle,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Living together as married,Lower,Working class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,45-54,Spanish; Castilian,Single,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,55-64,Spanish; Castilian,Divorced,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,55-64,Spanish; Castilian,Divorced,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,55-64,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,55-64,Spanish; Castilian,Married,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,55-64,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,55-64,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,55-64,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Divorced,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,65 and more years,Spanish; Castilian,Widowed,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Living together as married,Higher,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Living together as married,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Lower middle class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,5
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,4
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Widowed,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Living together as married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Married,Higher,Upper class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Separated,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Separated,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Don't know,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,3
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Lower middle class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Upper class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Lower,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Lower middle class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,25-34,Spanish; Castilian,Single,Middle,Working class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Upper class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,35-44,Spanish; Castilian,Married,Higher,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,35-44,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,35-44,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,35-44,Spanish; Castilian,Single,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,35-44,Spanish; Castilian,Single,Middle,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,45-54,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,45-54,Spanish; Castilian,Married,Middle,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,45-54,Spanish; Castilian,Single,Higher,Upper middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Living together as married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Living together as married,Middle,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Married,Middle,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Separated,Lower,Lower class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,55-64,Spanish; Castilian,Separated,Lower,Working class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,65 and more years,Spanish; Castilian,Living together as married,Higher,Lower middle class,1
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,65 and more years,Spanish; Castilian,Married,Higher,Lower middle class,2
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,65 and more years,Spanish; Castilian,Separated,Higher,Upper middle class,1

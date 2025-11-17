@@ -1,0 +1,3163 @@
+{
+  "Q1": {
+    "description": "jIvana meM mahatvapUrNa: parivAra",
+    "questions": [
+      "Apa apane jIvana meM parivAra ke mahatva ko kisa prakAra AMkeMge?",
+      "Apa apane jIvana meM parivAra ko kisa hada taka mahatvapUrNa mAnate haiM?",
+      "kyA Apa kaheMge ki parivAra Apake jIvana meM bahuta mahatva rakhatA hai?",
+      "kyA Apa apane jIvana meM parivAra ko mahatvapUrNa mAnate haiM?"
+    ],
+    "options": [
+      "bahuta zarUrI",
+      "balki mahatvapUrNa",
+      "patA nahIM",
+      "bahuta mahatvapUrNa nahIM",
+      "kataI mahatvapUrNa nahIM"
+    ]
+  },
+  "Q2": {
+    "description": "jIvana meM mahatvapUrNa: mitra",
+    "questions": [
+      "jIvana meM mitra kitane mahatvapUrNa haiM?",
+      "ApakI rAya meM, jIvana meM dostoM kA kitanA mahatva hai?",
+      "Apa jIvana meM mitroM ko kisa hada taka mahatvapUrNa mAnate haiM?",
+      "kyA Apa mAnate haiM ki jIvana meM mitroM kA bahuta mahatva hai?"
+    ],
+    "options": [
+      "bahuta zarUrI",
+      "balki mahatvapUrNa",
+      "patA nahIM",
+      "bahuta mahatvapUrNa nahIM",
+      "kataI mahatvapUrNa nahIM"
+    ]
+  },
+  "Q3": {
+    "description": "jIvana meM mahatvapUrNa: avakAsha kA samaya",
+    "questions": [
+      "Apake jIvana meM avakAsha kA samaya kitanA mahatvapUrNa hai?",
+      "Apake lie avakAsha kA samaya kisa hada taka mahatvapUrNa hai?",
+      "kyA Apa apane jIvana meM avakAsha ke samaya ko mahatvapUrNa mAnate haiM?",
+      "mahatva ke paimAne para, Apa apane jIvana meM avakAsha ke samaya ko kahA.N rakheMge?"
+    ],
+    "options": [
+      "bahuta zarUrI",
+      "balki mahatvapUrNa",
+      "patA nahIM",
+      "bahuta mahatvapUrNa nahIM",
+      "kataI mahatvapUrNa nahIM"
+    ]
+  },
+  "Q4": {
+    "description": "jIvana meM mahatvapUrNa: rAjanIti",
+    "questions": [
+      "Apa jIvana meM rAjanIti ke mahatva ko kisa prakAra AMkeMge?",
+      "Apa rAjanIti ko jIvana meM kitanA mahatvapUrNa mAnate haiM?",
+      "ApakI rAya meM jIvana meM rAjanIti kitanI mahatvapUrNa hai?",
+      "Apake anusAra jIvana meM rAjanIti kisa hada taka mahatvapUrNa hai?"
+    ],
+    "options": [
+      "bahuta zarUrI",
+      "balki mahatvapUrNa",
+      "patA nahIM",
+      "bahuta mahatvapUrNa nahIM",
+      "kataI mahatvapUrNa nahIM"
+    ]
+  },
+  "Q5": {
+    "description": "jIvana meM mahatvapUrNa: kArya",
+    "questions": [
+      "Apake jIvana meM kAma kitanA mahatvapUrNa hai?",
+      "kyA Apa kaheMge ki kAma Apake jIvana meM mahatvapUrNa hai?",
+      "Apa jIvana meM kAma ko kisa hada taka mahatvapUrNa mAnate haiM?",
+      "kyA Apa kAma ko jIvana kA eka mahatvapUrNa pahalU mAnate haiM?"
+    ],
+    "options": [
+      "bahuta zarUrI",
+      "balki mahatvapUrNa",
+      "patA nahIM",
+      "bahuta mahatvapUrNa nahIM",
+      "kataI mahatvapUrNa nahIM"
+    ]
+  },
+  "Q6": {
+    "description": "jIvana meM mahatvapUrNa: dharma",
+    "questions": [
+      "Apake jIvana meM dharma kitanA mahatvapUrNa hai?",
+      "Apa apane jIvana meM dharma ko kisa hada taka mahatvapUrNa mAnate haiM?",
+      "kyA Apa kaheMge ki dharma Apake jIvana meM mahatvapUrNa hai?",
+      "Apa apane jIvana meM dharma ko kitanA mahatva dete haiM?"
+    ],
+    "options": [
+      "bahuta zarUrI",
+      "balki mahatvapUrNa",
+      "patA nahIM",
+      "bahuta mahatvapUrNa nahIM",
+      "kataI mahatvapUrNa nahIM"
+    ]
+  },
+  "Q7": {
+    "description": "bachchoM ke mahatvapUrNa guNa: achChe shiShTAchAra",
+    "questions": [
+      "bachchoM meM achChe shiShTAchAra ke mahatva para ApakI kyA rAya hai?",
+      "kyA achChe shiShTAchAra bachchoM ke lie eka mahatvapUrNa guNa haiM?",
+      "kyA Apa mAnate haiM ki bachchoM meM achChe shiShTAchAra para jora diyA jAnA chAhie?",
+      "kyA Apa bachchoM meM achChe shiShTAchAra ko eka mahatvapUrNa visheShatA mAneMge?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q8": {
+    "description": "mahatvapUrNa bAla guNa: svataMtratA",
+    "questions": [
+      "eka bachche meM svataMtratA kitanI mahatvapUrNa hai?",
+      "kyA svataMtratA ko eka bachche meM eka mahatvapUrNa guNa ke rUpa meM ullekha kiyA gayA hai?",
+      "kyA Apa mAnate haiM ki bachche meM svataMtratA eka mahatvapUrNa guNa hai?",
+      "kyA Apa jAnate haiM ki eka bachche meM svataMtratA eka mahatvapUrNa guNa mAnA jAtA hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q9": {
+    "description": "bachchoM ke mahatvapUrNa guNa: ka.DI mehanata",
+    "questions": [
+      "kyA Apa bachchoM meM ka.DI mehanata ko eka mahatvapUrNa guNa mAnate haiM?",
+      "kyA Apake anusAra ka.DI mehanata eka aisA guNa hai jo eka bachche ke lie mahatvapUrNa hai?",
+      "kyA Apa mAnate haiM ki ka.DI mehanata eka bachche ke lie eka mahatvapUrNa guNa hai?",
+      "ApakI rAya meM, kyA ka.DI mehanata eka mahatvapUrNa bAla guNa hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q10": {
+    "description": "bachchoM ke mahatvapUrNa guNa: jimmedArI kI bhAvanA",
+    "questions": [
+      "kyA Apa jimmedArI kI bhAvanA ko eka mahatvapUrNa bAla guNa mAnate haiM?",
+      "kyA jimmedArI kI bhAvanA ko bachchoM kA eka mahatvapUrNa guNa batAyA gayA hai?",
+      "kyA Apa bachchoM meM jimmedArI kI bhAvanA ko eka mahatvapUrNa guNa ke rUpa meM jAnate haiM?",
+      "kyA Apa jAnate haiM ki bachchoM ke lie jimmedArI kI bhAvanA mahatvapUrNa mAnI jAtI hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q11": {
+    "description": "bachchoM ke mahatvapUrNa guNa: kalpanAshIlatA",
+    "questions": [
+      "eka bachche meM kalpanAshIlatA ke mahatva ke bAre meM Apa kyA sochate haiM?",
+      "kyA kalpanAshIlatA eka bachche ke lie mahatvapUrNa guNa hai?",
+      "kyA Apa mAnate haiM ki kalpanAshIlatA eka bachche ke lie mahatvapUrNa guNa hai?",
+      "kyA Apa isa bAta se sahamata haiM ki kalpanAshIlatA bachche ke vikAsa meM mahatvapUrNa bhUmikA nibhAtI hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q12": {
+    "description": "bachchoM ke mahatvapUrNa guNa: sahiShNutA aura dUsaroM ke prati sammAna",
+    "questions": [
+      "kyA Apako lagatA hai ki bachchoM ke lie dUsaroM ke prati sahiShNutA aura sammAna rakhanA mahatvapUrNa hai?",
+      "kyA Apa mAnate haiM ki sahiShNutA aura dUsaroM ke prati sammAna bachchoM ke lie Avashyaka guNa haiM?",
+      "kyA sahiShNutA aura dUsaroM ke prati sammAna jaise mahatvapUrNa guNa bachchoM meM hone chAhie?",
+      "kyA Apa bachchoM ke mAmale meM anya logoM ke prati sahiShNutA aura sammAna ko mahatvapUrNa mAnate haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q13": {
+    "description": "bachchoM ke mahatvapUrNa guNa: mitavyayitA, paisA aura chIzeM bachAnA",
+    "questions": [
+      "Apa eka bachche meM mitavyayitA aura paise tathA chIjoM kI bachata ko kitanA mahatvapUrNa mAnate haiM?",
+      "kyA Apa mAnate haiM ki mitavyayitA aura paise va chIjoM kI bachata karanA eka bachche meM mahatvapUrNa guNa haiM?",
+      "kyA Apake vichAra se mitavyayitA aura paise tathA anya vastuoM kI bachata karanA aise guNa haiM jo eka bachche ke lie mahatvapUrNa haiM?",
+      "kyA Apa kaheMge ki mitavyayitA aura paise va anya chIjoM kI bachata karanA eka bachche ke lie mahatvapUrNa guNa haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q14": {
+    "description": "bachchoM ke mahatvapUrNa guNa: dRRi.Dha saMkalpa, dRRi.DhatA",
+    "questions": [
+      "eka bachche meM dRRi.Dha saMkalpa aura dRRi.DhatA kitanI mahatvapUrNa hai?",
+      "kyA dRRi.Dha saMkalpa aura dRRi.DhatA jaise guNa eka bachche meM hone chAhie?",
+      "kyA Apa mAnate haiM ki dRRi.Dha saMkalpa aura dRRi.DhatA eka bachche meM mahatvapUrNa guNa haiM?",
+      "kyA Apa kaheMge ki dRRi.Dha saMkalpa aura dRRi.DhatA aise guNa haiM jo bachchoM meM nahIM pAe jAte?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q15": {
+    "description": "bachchoM ke mahatvapUrNa guNa: dhArmika AsthA",
+    "questions": [
+      "eka bachche meM dhArmika AsthA kitanI mahatvapUrNa hai?",
+      "kyA dhArmika AsthA eka bachche ke lie mahatvapUrNa guNa hai?",
+      "kyA dhArmika AsthA bachche ke vikAsa meM mahatvapUrNa bhUmikA nibhAtI hai?",
+      "kyA Apa bachchoM meM dhArmika AsthA ko eka mahatvapUrNa guNa mAnate haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q16": {
+    "description": "mahatvapUrNa bAla guNa: niHsvArthatA",
+    "questions": [
+      "eka bachche meM niHsvArthatA ke mahatva ke bAre meM Apa kyA sochate haiM?",
+      "ApakI rAya meM, kyA niHsvArthatA eka bachche ke lie eka mahatvapUrNa guNa hai?",
+      "kyA niHsvArthatA aisI chIja hai jise bachchoM meM mahatva diyA jAnA chAhie?",
+      "bachchoM ke guNoM para vichAra karate samaya kyA Apako lagatA hai ki niHsvArthatA mahatvapUrNa hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q17": {
+    "description": "bachchoM ke mahatvapUrNa guNa: Aj~nAkAritA",
+    "questions": [
+      "bachche meM Aj~nAkAritA ke mahatva para ApakI kyA rAya hai?",
+      "kyA Apa mAnate haiM ki bachche meM Aj~nAkAritA eka mahatvapUrNa guNa hai?",
+      "kyA bachchoM meM Aj~nAkAritA eka aisA guNa hai jisa para zora diyA jAnA chAhie?",
+      "Apake dRRiShTikoNa se, bachche ke vikAsa ke lie Aj~nAkAritA kitanI mahatvapUrNa hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q18": {
+    "description": "pa.DosI: nashe.DI",
+    "questions": [
+      "Apake pa.DosI nashe ke AdI haiM, isa bAre meM Apa kyA sochate haiM?",
+      "Apake lie yaha kitanA mahatvapUrNa hai ki Apake pa.DosI nashe ke AdI hoM?",
+      "kyA Apake pa.DosiyoM kA nashe kA AdI honA Apake lie chiMtA kA viShaya hai?",
+      "kyA Apa jAnate haiM ki Apake pa.DosI nashe ke AdI haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q19": {
+    "description": "pa.DosI: alaga jAti ke loga",
+    "questions": [
+      "kyA Apako lagatA hai ki alaga nasla ke logoM kA pa.DosI honA mahatvapUrNa hai?",
+      "kyA Apake pa.Dosa meM alaga nasla ke logoM kI maujUdagI kA ullekha nahIM kiyA gayA hai?",
+      "kyA Apa isa bAta ko lekara anishchita haiM ki kyA Apake pa.DosI kisI anya jAti ke loga haiM?",
+      "kyA Apake pa.DosI kisI anya jAti ke haiM, lekina Apa unheM nahIM jAnate?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q20": {
+    "description": "pa.DosI: eDsa se pI.Dita loga",
+    "questions": [
+      "Apake anusAra eDsa se pI.Dita pa.DosiyoM ke lie sahAyatA sevAeM upalabdha karAnA kitanA mahatvapUrNa hai?",
+      "Apa kisa hada taka mAnate haiM ki eDsa se pI.Dita pa.DosiyoM ke viShaya para samudAya meM khulakara charchA kI jAnI chAhie?",
+      "kyA Apa eDsa se pI.Dita pa.DosiyoM ke lie upalabdha saMsAdhanoM aura sahAyatA ke bAre meM jAnate haiM?",
+      "Apa eDsa se pI.Dita pa.DosiyoM ke sAmane Ane vAlI vishiShTa chunautiyoM aura jarUratoM ke bAre meM kitane jAgarUka haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q21": {
+    "description": "pa.DosI: apravAsI/videshI karmachArI",
+    "questions": [
+      "Apake anusAra yaha kitanA mahatvapUrNa hai ki Apake pa.DosI ApravAsI/videshI shramika hoM?",
+      "ApakI rAya meM, kyA isameM yaha ullekha kiyA gayA hai ki kyA Apake pa.DosI apravAsI/videshI shramika haiM?",
+      "kyA Apa jAnate haiM ki Apake pa.DosI apravAsI/videshI shramika haiM?",
+      "kyA Apake pa.DosiyoM kI ApravAsI/videshI karmachArI sthiti ke bAre meM Apako nahIM batAyA gayA hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q22": {
+    "description": "pa.DosI: samalaiMgika",
+    "questions": [
+      "samalaiMgika pa.DosiyoM ke bAre meM ApakI kyA rAya hai?",
+      "samalaiMgika pa.DosiyoM ke bAre meM Apa kaisA mahasUsa kareMge?",
+      "kyA Apako lagatA hai ki apane pa.DosiyoM kI yauna abhiruchi kA ullekha karanA mahatvapUrNa hai?",
+      "kyA Apa apane pa.DosiyoM kI yauna abhiruchi jAnate haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q23": {
+    "description": "pa.DosI: alaga dharma ke loga",
+    "questions": [
+      "aise pa.DosiyoM ke bAre meM ApakI kyA rAya hai jo alaga dharma ko mAnate hoM?",
+      "Apake vichAra meM, kyA Apake pa.DosiyoM kI dhArmika saMbaddhatA mahatvapUrNa bhUmikA nibhAtI hai?",
+      "kyA Apako lagatA hai ki pa.DosiyoM ke lie apanI dhArmika mAnyatAoM kA khulAsA karanA mahatvapUrNa hai?",
+      "kyA Apa apane pa.DosiyoM kI dhArmika pRRiShThabhUmi se avagata haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q24": {
+    "description": "pa.DosI: bahuta sharAba pIne vAle",
+    "questions": [
+      "kyA Apake pa.DosI bahuta adhika sharAba pIte haiM?",
+      "kyA Apa apane pa.DosiyoM ko bahuta adhika sharAba pIne vAlA mAnate haiM?",
+      "kyA Apa kaheMge ki Apake pa.DosI bahuta sharAba pIte haiM?",
+      "kyA pa.DosiyoM kI atyadhika sharAba pIne kI AdateM Apake lie mahatvapUrNa haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q25": {
+    "description": "pa.DosI: avivAhita jo.De eka sAtha raha rahe haiM",
+    "questions": [
+      "una pa.DosiyoM ke bAre meM ApakI kyA rAya hai jo avivAhita jo.De eka sAtha raha rahe haiM?",
+      "avivAhita jo.DoM ko pa.DosI ke rUpa meM dekhakara Apako kaisA lagegA?",
+      "kyA Apako lagatA hai ki apane pa.DosiyoM kI rishte kI sthiti kA ullekha karanA mahatvapUrNa hai?",
+      "kyA Apa apane pa.DosiyoM kI rishte kI sthiti jAnate haiM?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q26": {
+    "description": "pa.DosI: ve loga jo alaga bhAShA bolate haiM",
+    "questions": [
+      "Apake lie yaha kitanA mahatvapUrNa hai ki pa.DosI alaga bhAShA boleM?",
+      "kyA Apako yaha batAyA gayA hai ki pa.DosiyoM ko alaga bhAShA bolanI chAhie?",
+      "kyA Apa jAnate haiM ki alaga bhAShA bolane vAle pa.DosiyoM kA honA mahatvapUrNa hai?",
+      "kyA Apako patA hai ki kisI pa.DosI dvArA alaga bhAShA bolane kA ullekha kiyA gayA hai?"
+    ],
+    "options": [
+      "mahatvapUrNa",
+      "patA nahIM",
+      "mahatvapUrNa nahIM"
+    ]
+  },
+  "Q27": {
+    "description": "jIvana kA eka mukhya lakShya apane mAtA-pitA ko gauravAnvita karanA rahA hai",
+    "questions": [
+      "apane mAtA-pitA ko gauravAnvita karanA kisa hada taka mere jIvana kA mukhya lakShya hai?",
+      "maiM apane mAtA-pitA ko jIvana meM gauravAnvita karane ke lie kitanA prayAsa karatA hU.N?",
+      "maiM apane mAtA-pitA ko jIvana meM kisa hada taka gauravAnvita karanA chAhatA hU.N?",
+      "kyA maiM apane mAtA-pitA ko gauravAnvita karanA apane jIvana kA prAthamika lakShya mAnatA hU.N?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ]
+  },
+  "Q28": {
+    "description": "prI-skUla kA bachchA kAmakAjI mA.N se pareshAna",
+    "questions": [
+      "kyA Apa mAnate haiM ki jaba unakI mAM kAma karatI hai to prI-skUla jAne vAle bachche ko pareshAnI hotI hai?",
+      "kyA Apa isa rAya ke haiM ki kAmakAjI mAM kA usake prI-skUla bachche para nakArAtmaka prabhAva pa.DatA hai?",
+      "kyA Apa isa bAta se sahamata haiM ki prI-skUla bachche ko apanI mAM kI naukarI ke kAraNa kaThinAiyoM kA sAmanA karanA pa.DatA hai?",
+      "kyA Apa yaha mAnane ko taiyAra haiM ki kAmakAjI mAM kA usake prI-skUla bachche para hAnikAraka prabhAva pa.DatA hai?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ]
+  },
+  "Q29": {
+    "description": "puruSha mahilAoM kI tulanA meM behatara rAjanItika netA banate haiM",
+    "questions": [
+      "kyA Apa pUrI taraha se sahamata haiM, sahamata haiM, asahamata haiM, pUrI taraha se asahamata haiM, yA nahIM jAnate ki kyA puruSha mahilAoM kI tulanA meM behatara rAjanItika netA banate haiM?",
+      "kyA Apa kaheMge ki Apa isa kathana se pUrI taraha sahamata haiM, sahamata haiM, asahamata haiM, pUrI taraha asahamata haiM, yA nahIM jAnate ki puruSha mahilAoM kI tulanA meM behatara rAjanItika netA banate haiM?",
+      "ApakI rAya meM, kyA Apa isa bAta se pUrI taraha sahamata haiM, sahamata haiM, asahamata haiM, pUrI taraha asahamata haiM, yA phira Apa nahIM jAnate ki puruSha, mahilAoM kI tulanA meM behatara rAjanItika netA banate haiM?",
+      "jaba bAta puruShoM dvArA mahilAoM kI tulanA meM behatara rAjanItika netA banane kI AtI hai, to kyA ApakA dRRiShTikoNa isa bAta para dRRi.DhatA se sahamata honA, sahamata honA, asahamata honA, dRRi.DhatA se asahamata honA hai, yA phira yaha nahIM jAnanA hai ki puruSha mahilAoM kI tulanA meM behatara rAjanItika netA kaise banate haiM?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ]
+  },
+  "Q30": {
+    "description": "vishvavidyAlaya eka la.Dake ke lie eka la.DakI kI tulanA meM adhika mahatvapUrNa hai",
+    "questions": [
+      "kyA Apa mAnate haiM ki vishvavidyAlaya eka la.Dake ke lie la.DakI kI tulanA meM adhika mahatvapUrNa hai?",
+      "ApakI rAya meM, kyA vishvavidyAlaya eka la.Dake ke lie eka la.DakI kI tulanA meM adhika mahatvapUrNa hai?",
+      "kyA Apa isa bAta se sahamata haiM ki vishvavidyAlaya eka la.Dake ke lie la.DakI kI tulanA meM adhika mahatva rakhatA hai?",
+      "kyA ApakA mAnanA hai ki vishvavidyAlaya eka la.Dake ke lie la.DakI kI tulanA meM adhika mahatvapUrNa hai?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ]
+  },
+  "Q31": {
+    "description": "puruSha mahilAoM kI tulanA meM behatara vyAvasAyika adhikArI banate haiM",
+    "questions": [
+      "kyA Apa mAnate haiM ki puruSha, mahilAoM kI tulanA meM behatara vyAvasAyika adhikArI banate haiM?",
+      "ApakI rAya meM, kyA puruSha mahilAoM kI tulanA meM vyavasAyika kAryakArI ke rUpa meM adhika saphala hote haiM?",
+      "kyA Apa isa kathana se sahamata haiM ki puruSha mahilAoM kI tulanA meM behatara vyAvasAyika adhikArI hote haiM?",
+      "kyA Apako lagatA hai ki puruShoM kI tulanA meM mahilAeM vyavasAyika kAryakArI ke rUpa meM kama prabhAvI haiM?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ]
+  },
+  "Q32": {
+    "description": "gRRihiNI honA bhI utanA hI saMtoShaprada hai",
+    "questions": [
+      "kyA gRRihiNI honA bhI kairiyara banAne jitanA hI saMtoShaprada hai?",
+      "kyA Apa mAnate haiM ki gRRihiNI honA bhI kairiyara banAne jitanA hI saMtoShaprada hai?",
+      "ApakI rAya meM, kyA gRRihiNI honA bhI kariyara banAne ke samAna hI saMtuShTidAyaka hai?",
+      "kyA Apa isa bAta se sahamata hoMge ki gRRihiNI honA bhI kairiyara banAne jitanA hI saMtoShaprada ho sakatA hai?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ]
+  },
+  "Q33": {
+    "description": "naukariyoM kI kamI: puruShoM ko mahilAoM kI tulanA meM naukarI para adhika adhikAra honA chAhie",
+    "questions": [
+      "kyA Apa isa bAta se pUrI taraha sahamata haiM yA asahamata haiM ki puruShoM aura mahilAoM donoM ke lie naukariyAM durlabha honI chAhie?",
+      "kyA Apa isa bAta se sahamata haiM yA asahamata haiM ki puruShoM ko mahilAoM kI tulanA meM naukarI para adhika adhikAra honA chAhie?",
+      "ApakI rAya meM, kyA Apa isa bAta se na to sahamata haiM aura na hI asahamata haiM ki puruShoM aura mahilAoM donoM ke lie naukariyAM durlabha honI chAhie?",
+      "kyA Apa isa bAta se pUrI taraha asahamata haiM yA nahIM jAnate ki puruShoM ko mahilAoM kI tulanA meM naukarI para adhika adhikAra honA chAhie?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q34": {
+    "description": "naukariyoM kI kamI: niyoktAoM ko ApravAsiyoM kI tulanA meM (desha ke) logoM ko prAthamikatA denI chAhie",
+    "questions": [
+      "kyA niyoktAoM ko naukarI kI kamI ke kAraNa ApravAsiyoM kI apekShA (desha ke) logoM ko prAthamikatA denI chAhie?",
+      "kyA Apa isa bAta se sahamata haiM ki jaba naukariyAM kama hoM to niyoktAoM ko ApravAsiyoM kI apekShA (desha ke) logoM ko prAthamikatA denI chAhie?",
+      "kyA yaha uchita hai ki niyoktA naukariyoM kI kamI ke daurAna ApravAsiyoM ke bajAya (desha ke) logoM ko prAthamikatA deM?",
+      "kyA Apako lagatA hai ki naukarI kI kamI ke samaya niyoktAoM ko ApravAsiyoM ke bajAya (rAShTrIya) vyaktiyoM ko prAthamikatA denI chAhie?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q35": {
+    "description": "yadi mahilA kI Aya pati se adhika ho to samasyA",
+    "questions": [
+      "yadi mahilAoM kI Aya unake pati se adhika ho to isa samasyA para ApakI kyA rAya hai?",
+      "Apa usa sthiti ke bAre meM kaisA mahasUsa karate haiM jahAM eka mahilA apane pati se adhika paisA kamAtI hai?",
+      "kyA Apa mAnate haiM ki jaba patnI kI Aya usake pati se adhika ho to isameM koI samasyA hai?",
+      "mahilAoM dvArA apane pati se adhika Aya arjita karane ke mudde para ApakA kyA rukha hai?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q37": {
+    "description": "sAmAja ke prati bachche paidA karane kA kartavya",
+    "questions": [
+      "kyA bachche paidA karanA samAja ke prati koI kartavya hai?",
+      "kyA Apa mAnate haiM ki bachche paidA karanA samAja ke prati eka kartavya hai?",
+      "kyA Apa mAnate haiM ki samAja ke prati vyakti kA yaha kartavya hai ki vaha bachche paidA kare?",
+      "kyA logoM ko bachche paidA karanA samAja ke prati apanA kartavya samajhanA chAhie?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q38": {
+    "description": "bImAra mAtA-pitA kI dekhabhAla karanA bachchoM kA kartavya hai",
+    "questions": [
+      "kyA Apa mAnate haiM ki bImAra mAtA-pitA kI dekhabhAla karanA bachchoM kA kartavya hai?",
+      "kyA bachchoM ko bImAra mAtA-pitA kI dekhabhAla kI jimmedArI lenI chAhie?",
+      "kyA Apa isa bAta se sahamata haiM ki bImAra mAtA-pitA kI dekhabhAla karanA bachchoM kA dAyitva hai?",
+      "kyA bImAra mAtA-pitA kI dekhabhAla karanA bachchoM kI jimmedArI hai?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q39": {
+    "description": "jo loga kAma nahIM karate ve AlasI ho jAte haiM",
+    "questions": [
+      "kyA Apa mAnate haiM ki jo loga kAma nahIM karate ve AlasI ho jAte haiM?",
+      "ApakI rAya meM, kyA Apako lagatA hai ki jo loga kAma nahIM karate ve AlasI ho jAte haiM?",
+      "kyA Apa isa bAta para vishvAsa karate haiM ki jo loga kAma nahIM karate ve aksara AlasI ho jAte haiM?",
+      "kyA Apa isa kathana se sahamata haiM yA asahamata haiM ki jo loga kAma nahIM karate ve AlasI ho jAte haiM?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q40": {
+    "description": "kAma samAja ke prati eka kartavya hai",
+    "questions": [
+      "kyA Apa mAnate haiM ki kAma karanA samAja ke prati eka kartavya hai?",
+      "kyA kAma ko samAja ke prati kartavya mAnA jAtA hai?",
+      "Apa kisa hada taka isa bAta se sahamata haiM ki kAma karanA samAja ke prati eka kartavya hai?",
+      "kyA Apako lagatA hai ki kAma ko samAja ke prati kartavya ke rUpa meM dekhA jAnA chAhie?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q41": {
+    "description": "kAma ko hameshA prAthamikatA denI chAhie, bhale hI isake lie khAlI samaya kama mile",
+    "questions": [
+      "kyA kAma ko hameshA prAthamikatA dI jAnI chAhie, bhale hI isake lie khAlI samaya kama ho?",
+      "kyA Apa mAnate haiM ki kAma ko hameshA khAlI samaya se adhika prAthamikatA dI jAnI chAhie?",
+      "kyA yaha svIkArya hai ki khAlI samaya kI apekShA kAma ko prAthamikatA dI jAe?",
+      "kyA Apako lagatA hai ki kAma ke lie khAlI samaya kA tyAga karanA hara sthiti meM Avashyaka hai?"
+    ],
+    "options": [
+      "pUrI taraha sahamata",
+      "sahamata",
+      "nA to sahamata nA hI asahamata",
+      "patA nahIM",
+      "asahamata",
+      "dRRi.DhatA se asahamata"
+    ]
+  },
+  "Q42": {
+    "description": "samAja ke prati buniyAdI prakAra ke dRRiShTikoNa",
+    "questions": [
+      "hamAre samAja kI samagra saMrachanA ke bAre meM Apake kyA vichAra haiM?",
+      "Apake anusAra hamAre samAja meM sudhAra kaise kiyA jA sakatA hai?",
+      "vidhvaMsakArI tAkatoM se hamAre vartamAna samAja kI rakShA karane ke saMbaMdha meM ApakA kyA rukha hai?",
+      "kyA Apake pAsa isa bAre meM koI spaShTa rAya hai ki hamAre samAja ko kisa prakAra kA dRRiShTikoNa apanAnA chAhie?"
+    ],
+    "options": [
+      "hamAre samAja ke saMgaThana ke sampUrNa tarIke ko krAMtikArI kArravAI dvArA maulika rUpa se badalanA hogA",
+      "hamAre samAja ko sudhAroM dvArA dhIre-dhIre behatara banAyA jAnA chAhie",
+      "hamAre vartamAna samAja ko sabhI vidhvaMsaka tAkatoM se bahAdurI se bachAyA jAnA chAhie",
+      "patA nahIM"
+    ]
+  },
+  "Q43": {
+    "description": "bhaviShya meM badalAva: kAma ko kama mahatva diyA jAegA",
+    "questions": [
+      "bhaviShya meM hone vAle badalAvoM para ApakI kyA rAya hai: kAma ko kama mahatva diyA jAegA?",
+      "kAma ko kama mahatva die jAne ke saMbaMdha meM bhaviShya meM hone vAle badalAvoM ko Apa kisa prakAra dekhate haiM?",
+      "kAma ko kama mahatva dene kI bhaviShya kI pravRRitti ke bAre meM Apake kyA vichAra haiM?",
+      "bhaviShya meM kAma para kama hote jora ke bAre meM ApakA kyA dRRiShTikoNa hai?"
+    ],
+    "options": [
+      "achI bAta hai",
+      "burA mata mAnanA",
+      "patA nahIM",
+      "burI chIza"
+    ]
+  },
+  "Q44": {
+    "description": "bhaviShya meM badalAva: praudyogikI para adhika jora",
+    "questions": [
+      "praudyogikI para adhika jora dene ke sAtha bhaviShya meM hone vAle badalAvoM ke bAre meM Apake kyA vichAra haiM?",
+      "bhaviShya meM praudyogikI para adhika jora die jAne kI saMbhAvanA ke bAre meM Apa kaisA mahasUsa karate haiM?",
+      "AgAmI parivartanoM meM praudyogikI para ba.Dhate phokasa ke bAre meM ApakI kyA rAya hai?",
+      "AgAmI parivartanoM ke bAre meM ApakA kyA rukha hai, jinameM praudyogikI para adhika jora diyA jAegA?"
+    ],
+    "options": [
+      "achI bAta hai",
+      "burA mata mAnanA",
+      "patA nahIM",
+      "burI chIza"
+    ]
+  },
+  "Q45": {
+    "description": "bhaviShya meM parivartana: prAdhikAra ke prati adhika sammAna",
+    "questions": [
+      "prAdhikAra ke prati adhika sammAna ke saMbaMdha meM bhaviShya meM hone vAle parivartanoM ke bAre meM Apake kyA vichAra haiM?",
+      "bhaviShya meM prAdhikAra ke prati sammAna meM saMbhAvita vRRiddhi ke bAre meM Apa kaisA mahasUsa karate haiM?",
+      "Ane vAle varShoM meM prAdhikAra ke prati sammAna meM apekShita vRRiddhi ke bAre meM ApakI kyA rAya hai?",
+      "bhaviShya meM prAdhikAra ke prati adhika sammAna kI dishA meM hone vAle badalAva ke bAre meM ApakI kyA rAya hai?"
+    ],
+    "options": [
+      "achI bAta hai",
+      "burA mata mAnanA",
+      "patA nahIM",
+      "burI chIza"
+    ]
+  },
+  "Q46": {
+    "description": "khushI kI anubhUti",
+    "questions": [
+      "Apa apanI khushI kI bhAvanA ko kisa prakAra AMkeMge?",
+      "1 se 5 ke paimAne para, jisameM 1 kA artha hai bilkula khusha nahIM aura 5 kA artha hai bahuta khusha, Apa apanI khushI ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apa svayaM ko eka khusha vyakti mAnate haiM?",
+      "Apa pratidina kisa hada taka khusha mahasUsa karate haiM?"
+    ],
+    "options": [
+      "bahuta khusha",
+      "kAphI khusha",
+      "patA nahIM",
+      "bahuta khusha nahIM hU.N",
+      "bilkula bhI khusha nahIM"
+    ]
+  },
+  "Q47": {
+    "description": "svAsthya kI sthiti (vyaktiparaka)",
+    "questions": [
+      "Apa apane svAsthya kI vartamAna sthiti kA varNana kaise kareMge?",
+      "kRRipayA apane svAsthya kI vyaktiparaka sthiti kA mUlyAMkana kareM|",
+      "bahuta achChe se lekara bahuta kharAba ke paimAne para Apa apane svAsthya ko kisa prakAra AMkeMge?",
+      "apane samagra kalyANa ke saMdarbha meM, Apa apane svAsthya kA Akalana kaise kareMge?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "achChA",
+      "gorA",
+      "garIba",
+      "bahuta garIba"
+    ]
+  },
+  "Q51": {
+    "description": "Apa/parivAra kI AvRRitti (piChale 12 mahIne): paryApta bhojana ke binA rahanA",
+    "questions": [
+      "piChale 12 mahInoM meM Apa yA ApakA parivAra kitanI bAra binA paryApta bhojana ke raha gayA hai?",
+      "piChale varSha meM, Apane yA Apake parivAra ne kitanI bAra khAne ke lie paryApta bhojana na milane kA anubhava kiyA hai?",
+      "kyA Apa yA ApakA parivAra piChale 12 mahInoM meM kabhI bhI paryApta bhojana ke binA raha gayA hai?",
+      "piChale 12 mahInoM ke daurAna, Apako yA Apake parivAra ko kitanI bAra paryApta bhojana na milane kI sthiti kA sAmanA karanA pa.DA hai?"
+    ],
+    "options": [
+      "aksara",
+      "kabhI-kabhI",
+      "patA nahIM",
+      "kabhI-kabhAra",
+      "kabhI nahIM"
+    ]
+  },
+  "Q52": {
+    "description": "Apa/parivAra dvArA bAraMbAratA (piChale 12 mahIne): apane hI ghara meM aparAdha se asurakShita mahasUsa kiyA",
+    "questions": [
+      "kyA Apane kabhI apane ghara meM aparAdha se asurakShita mahasUsa kiyA hai?",
+      "Apane apane ghara meM aparAdha ke kAraNa kitanI bAra asurakShita mahasUsa kiyA?",
+      "piChale 12 mahInoM meM Apane apane ghara meM aparAdha ke kAraNa kitanI bAra asurakShita mahasUsa kiyA hai?",
+      "kyA Apane piChale varSha meM apane ghara meM aparAdha ke kAraNa aksara, kabhI-kabhI, kabhI-kabhAra yA kabhI bhI asurakShita mahasUsa kiyA?"
+    ],
+    "options": [
+      "aksara",
+      "kabhI-kabhI",
+      "patA nahIM",
+      "kabhI-kabhAra",
+      "kabhI nahIM"
+    ]
+  },
+  "Q53": {
+    "description": "Apa/parivAra kI AvRRitti (piChale 12 mahIne): Avashyaka davA yA upachAra ke binA chale gae",
+    "questions": [
+      "piChale 12 mahInoM meM Apa yA Apake parivAra ko kitanI bAra Avashyaka davA yA upachAra nahIM milA?",
+      "piChale 12 mahInoM meM Apa yA Apake parivAra ko kitanI bAra Avashyaka davA yA upachAra nahIM milA?",
+      "piChale 12 mahInoM meM, Apa yA Apake parivAra ko kitanI bAra Avashyaka davA yA upachAra nahIM milA?",
+      "kyA Apa yA ApakA parivAra piChale 12 mahInoM meM kabhI-kabhAra, kabhI-kabhI yA aksara Avashyaka davA yA upachAra ke binA raha gayA hai?"
+    ],
+    "options": [
+      "aksara",
+      "kabhI-kabhI",
+      "patA nahIM",
+      "kabhI-kabhAra",
+      "kabhI nahIM"
+    ]
+  },
+  "Q54": {
+    "description": "Apa/parivAra kI AvRRitti (piChale 12 mahIne): nakada Aya ke binA rahe",
+    "questions": [
+      "AvRRitti Apa/parivAra (piChale 12 mahIne): kyA Apake pAsa nakada Aya nahIM hai?",
+      "piChale 12 mahInoM meM Apa yA ApakA parivAra kitanI bAra binA nakada Aya ke rahe haiM?",
+      "piChale varSha meM, Apane yA Apake parivAra ne kitanI bAra binA kisI nakada Aya ke avadhi kA anubhava kiyA?",
+      "kyA Apako yA Apake parivAra ko piChale 12 mahInoM meM nakada Aya meM kamI kA sAmanA karanA pa.DA hai? yadi hA.N, to kitanI bAra?"
+    ],
+    "options": [
+      "aksara",
+      "kabhI-kabhI",
+      "patA nahIM",
+      "kabhI-kabhAra",
+      "kabhI nahIM"
+    ]
+  },
+  "Q55": {
+    "description": "piChale 12 mahInoM meM, Apa yA ApakA parivAra kitanI bAra: binA kisI surakShita Ashraya ke rahe haiM?",
+    "questions": [
+      "piChale 12 mahInoM meM Apa yA ApakA parivAra kitanI bAra binA surakShita Ashraya ke rahe haiM?",
+      "piChale varSha ke daurAna, Apane yA Apake parivAra ne kitanI bAra surakShita AvAsa kI kamI kA anubhava kiyA hai?",
+      "piChale 12 mahInoM meM, Apako yA Apake parivAra ko kitanI bAra surakShita Ashraya nahIM mila pAyA?",
+      "kyA Apane yA Apake parivAra ne piChale sAla binA kisI surakShita Ashraya ke samaya bitAyA hai? yadi hA.N, to kitanI bAra?"
+    ],
+    "options": [
+      "aksara",
+      "kabhI-kabhI",
+      "patA nahIM",
+      "kabhI-kabhAra",
+      "kabhI nahIM"
+    ]
+  },
+  "Q57": {
+    "description": "adhikAMsha logoM para bharosA kiyA jA sakatA hai",
+    "questions": [
+      "kyA Apa mAnate haiM ki adhikatara logoM para bharosA kiyA jA sakatA hai?",
+      "ApakI rAya meM, kyA adhikAMsha logoM para bharosA kiyA jA sakatA hai?",
+      "kyA ApakA mAnanA hai ki adhikatara logoM para bharosA kiyA jA sakatA hai?",
+      "kyA Apako lagatA hai ki adhikatara logoM para bharosA kiyA jA sakatA hai?"
+    ],
+    "options": [
+      "adhikAMsha logoM para bharosA kiyA jA sakatA hai",
+      "bahuta sAvadhAna rahane kI zarUrata hai"
+    ],
+    "scale": false
+  },
+  "Q58": {
+    "description": "vishvAsa: ApakA parivAra",
+    "questions": [
+      "Apa apane parivAra para kitanA bharosA karate haiM?",
+      "kyA Apake parivAra meM vishvAsa kA stara kAphI UMchA hai?",
+      "Apa apane parivAra para kisa hada taka bharosA karate haiM?",
+      "sAmAnyataH Apako apane parivAra para kitanA bharosA hai?"
+    ],
+    "options": [
+      "pUrI taraha se bharosA kareM",
+      "kuCha hada taka bharosA kareM",
+      "patA nahIM",
+      "bahuta jyAdA bharosA mata karo",
+      "bilkula bharosA mata karo"
+    ]
+  },
+  "Q59": {
+    "description": "TrasTa: ApakA pa.Dosa",
+    "questions": [
+      "Apa apane pa.Dosa para kitanA bharosA karate haiM?",
+      "Apa apane pa.Dosa para kisa hada taka bharosA karate haiM?",
+      "Apa apane pa.Dosa ke prati apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apake pa.Dosa meM Apa para uchcha stara kA vishvAsa hai?"
+    ],
+    "options": [
+      "pUrI taraha se bharosA kareM",
+      "kuCha hada taka bharosA kareM",
+      "patA nahIM",
+      "bahuta jyAdA bharosA mata karo",
+      "bilkula bharosA mata karo"
+    ]
+  },
+  "Q60": {
+    "description": "vishvAsa: ve loga jinheM Apa vyaktigata rUpa se jAnate haiM",
+    "questions": [
+      "Apa jina logoM ko vyaktigata rUpa se jAnate haiM una para Apa kitanA bharosA karate haiM?",
+      "Apa jina logoM ko vyaktigata rUpa se jAnate haiM una para Apa kisa hada taka bharosA karate haiM?",
+      "kyA Apa una logoM para bharosA karate haiM jinheM Apa vyaktigata rUpa se jAnate haiM?",
+      "kyA Apa kaheMge ki jina logoM ko Apa vyaktigata rUpa se jAnate haiM unake prati Apake vishvAsa kA stara uchcha hai yA nimna?"
+    ],
+    "options": [
+      "pUrI taraha se bharosA kareM",
+      "kuCha hada taka bharosA kareM",
+      "patA nahIM",
+      "bahuta jyAdA bharosA mata karo",
+      "bilkula bharosA mata karo"
+    ]
+  },
+  "Q61": {
+    "description": "vishvAsa: ve loga jinase Apa pahalI bAra milate haiM",
+    "questions": [
+      "Apa jina logoM se pahalI bAra milate haiM una para kitanA bharosA karate haiM?",
+      "Apa jina logoM se pahalI bAra milate haiM una para Apa kisa hada taka bharosA karate haiM?",
+      "jina logoM se Apa pahalI bAra milate haiM, unake prati ApakA vishvAsa kisa stara kA hai?",
+      "jaba Apa pahalI bAra kisI vyakti se milate haiM to Apa usa para apane vishvAsa ke stara ko kisa prakAra AMkate haiM?"
+    ],
+    "options": [
+      "pUrI taraha se bharosA kareM",
+      "kuCha hada taka bharosA kareM",
+      "patA nahIM",
+      "bahuta jyAdA bharosA mata karo",
+      "bilkula bharosA mata karo"
+    ]
+  },
+  "Q62": {
+    "description": "TrasTa: dUsare dharma ke loga",
+    "questions": [
+      "Apa dUsare dharma ke logoM para kitanA bharosA karate haiM?",
+      "Apa dUsare dharma ke logoM para kisa hada taka bharosA karate haiM?",
+      "kyA Apa kisI anya dharma ke logoM para bharosA karate haiM?",
+      "kyA Apako dUsare dharma ke logoM para bharosA hai?"
+    ],
+    "options": [
+      "pUrI taraha se bharosA kareM",
+      "kuCha hada taka bharosA kareM",
+      "patA nahIM",
+      "bahuta jyAdA bharosA mata karo",
+      "bilkula bharosA mata karo"
+    ]
+  },
+  "Q63": {
+    "description": "TrasTa: anya rAShTrIyatA ke loga",
+    "questions": [
+      "Apa kisI anya rAShTrIyatA ke logoM para kitanA bharosA karate haiM?",
+      "Apa kisa hada taka alaga rAShTrIyatA ke vyaktiyoM para bharosA karate haiM?",
+      "dUsare rAShTrIyatA ke logoM para ApakA kitanA bharosA hai?",
+      "kyA Apa kisI anya rAShTrIyatA ke vyaktiyoM para bharosA karate haiM?"
+    ],
+    "options": [
+      "pUrI taraha se bharosA kareM",
+      "kuCha hada taka bharosA kareM",
+      "patA nahIM",
+      "bahuta jyAdA bharosA mata karo",
+      "bilkula bharosA mata karo"
+    ]
+  },
+  "Q64": {
+    "description": "vishvAsa: charcha",
+    "questions": [
+      "Apako charchoM para kitanA bharosA hai?",
+      "Apa charchoM para kisa hada taka bharosA karate haiM?",
+      "Apa charchoM meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako charchoM para bahuta bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q65": {
+    "description": "AtmavishvAsa: sashastra bala",
+    "questions": [
+      "sashastra baloM para Apako kitanA bharosA hai?",
+      "Apa sashastra baloM para kisa hada taka bharosA karate haiM?",
+      "Apa sashastra baloM meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako sashastra baloM para adhika bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q66": {
+    "description": "AtmavishvAsa: presa",
+    "questions": [
+      "Apako presa para kitanA bharosA hai?",
+      "kyA Apako presa para bahuta bharosA hai?",
+      "Apako presa para kisa hada taka bharosA hai?",
+      "kyA Apa kaheMge ki Apako presa para kAphI bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q67": {
+    "description": "AtmavishvAsa: TelIvijana",
+    "questions": [
+      "TelIvijana para ApakA kitanA bharosA hai?",
+      "Apa TelIvijana para kisa hada taka bharosA karate haiM?",
+      "Apa TelIvijana para kitane sahajatA se nirbhara haiM?",
+      "TelIvizana ke bAre meM ApakI nishchitatA kA stara kyA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q68": {
+    "description": "vishvAsa: shramika saMgha",
+    "questions": [
+      "Apako shramika saMghoM para kitanA bharosA hai?",
+      "Apa shramika saMghoM para kisa hada taka bharosA karate haiM?",
+      "Apa shramika saMghoM para kisa stara kA bharosA rakhate haiM?",
+      "kyA Apako shramika saMghoM para bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q69": {
+    "description": "AtmavishvAsa: pulisa",
+    "questions": [
+      "Apako pulisa para kitanA bharosA hai?",
+      "Apa pulisa para kisa hada taka bharosA karate haiM?",
+      "Apa pulisa meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako pulisa para bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q70": {
+    "description": "vishvAsa: nyAyAlaya",
+    "questions": [
+      "Apako adAlatoM para kitanA bharosA hai?",
+      "Apa adAlatoM para kisa hada taka bharosA karate haiM?",
+      "Apa nyAyAlayoM meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako nyAyAlayoM para bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q71": {
+    "description": "vishvAsa: sarakAra",
+    "questions": [
+      "Apako sarakAra para kitanA bharosA hai?",
+      "Apa sarakAra para kisa hada taka bharosA karate haiM?",
+      "Apa sarakAra meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako sarakAra para bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q72": {
+    "description": "vishvAsa: rAjanItika dala",
+    "questions": [
+      "Apako rAjanItika daloM para kitanA bharosA hai?",
+      "Apa rAjanItika daloM para kisa hada taka bharosA karate haiM?",
+      "Apa rAjanItika daloM meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako rAjanItika daloM para bharosA hai yA kama?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q73": {
+    "description": "vishvAsa: saMsada",
+    "questions": [
+      "saMsada para ApakA kitanA bharosA hai?",
+      "Apako saMsada para kitanA bharosA hai?",
+      "saMsada para ApakA kitanA bharosA hai?",
+      "AtmavishvAsa ke saMdarbha meM Apa saMsada ko kisa prakAra AMkeMge?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q74": {
+    "description": "AtmavishvAsa: sivila sevA",
+    "questions": [
+      "sivila sevA meM ApakA kitanA vishvAsa hai?",
+      "Apako sivila sevA para kitanA bharosA hai?",
+      "Apa sivila sevA meM apane AtmavishvAsa ke stara ko kaise AMkeMge?",
+      "kyA Apako sivila sevA para bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q75": {
+    "description": "AtmavishvAsa: vishvavidyAlaya (nijI)",
+    "questions": [
+      "kRRipayA vishvavidyAlayoM (nijI) meM apane vishvAsa kA mUlyAMkana kareM:",
+      "1-5 ke paimAne para, vishvavidyAlayoM (nijI) meM Apa kitane Ashvasta haiM?",
+      "vishvavidyAlayoM (nijI) para Apako kitanA bharosA hai?",
+      "vishvavidyAlayoM (nijI) ke saMbaMdha meM Apa kitane Ashvasta haiM?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q77": {
+    "description": "AtmavishvAsa: pramukha kaMpaniyA.N",
+    "questions": [
+      "Apako pramukha kaMpaniyoM para kitanA bharosA hai?",
+      "1 se 5 ke paimAne para, Apa pramukha kaMpaniyoM meM kitane Ashvasta haiM?",
+      "kyA Apako lagatA hai ki pramukha kaMpaniyAM Apake vishvAsa kI pAtra haiM?",
+      "sAmAnyataH, Apa pramukha kaMpaniyoM meM apane vishvAsa ko kisa prakAra AMkeMge?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q78": {
+    "description": "vishvAsa: nijI baiMka",
+    "questions": [
+      "kRRipayA nijI baiMkoM meM apane vishvAsa ke stara kA mUlyAMkana kareM|",
+      "1 se 5 ke paimAne para, nijI baiMkoM para ApakA kitanA bharosA hai?",
+      "Apa nijI baiMkoM meM apane vishvAsa ke stara kA varNana kaise kareMge?",
+      "Apa nijI baiMkoM para kisa hada taka bharosA karate haiM?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q79": {
+    "description": "AtmavishvAsa: paryAvaraNa saMrakShaNa AMdolana",
+    "questions": [
+      "paryAvaraNa saMrakShaNa AMdolana meM Apako kitanA vishvAsa hai?",
+      "paryAvaraNa saMrakShaNa AMdolana para Apa kisa hada taka bharosA karate haiM?",
+      "paryAvaraNa saMrakShaNa AMdolana meM ApakI kitanI AsthA hai?",
+      "paryAvaraNa saMrakShaNa AMdolana meM Apa kitane Ashvasta haiM?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q80": {
+    "description": "AtmavishvAsa: mahilA AMdolana",
+    "questions": [
+      "'kaॉnphiDeMsa: da vUmena mUvameMTa' meM Apako kitanA vishvAsa hai?",
+      "1 se 5 ke paimAne para, 'AtmavishvAsa: mahilA AMdolana' meM Apako kitanA vishvAsa hai?",
+      "Apa 'kaॉnphiDeMsa: da vUmena mUvameMTa' para kisa hada taka bharosA karatI haiM?",
+      "Apa 'AtmavishvAsa: mahilA AMdolana' meM apane vishvAsa ko kaise AMkeMge?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q81": {
+    "description": "vishvAsa: dharmArtha yA mAnavIya saMgaThana",
+    "questions": [
+      "dharmArtha yA mAnavIya saMgaThanoM meM ApakA kitanA vishvAsa hai?",
+      "Apa dharmArtha yA mAnavIya saMgaThanoM para kisa hada taka bharosA karate haiM?",
+      "Apa dharmArtha yA mAnavIya saMgaThanoM meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako dharmArtha yA mAnavIya saMgaThanoM para bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q82": {
+    "description": "vishvAsa: pramukha kShetrIya saMgaThana (desha-vishiShTa se saMyukta)",
+    "questions": [
+      "pramukha kShetrIya saMgaThana (desha-vishiShTa ko milAkara) meM Apako kitanA vishvAsa hai?",
+      "Apa pramukha kShetrIya saMgaThana (desha-vishiShTa ko milAkara) para kisa hada taka bharosA karate haiM?",
+      "Apa pramukha kShetrIya saMgaThana (desha-vishiShTa se saMyukta) meM apane vishvAsa ke stara ko kaise AMkeMge?",
+      "Apa pramukha kShetrIya saMgaThana (desha-vishiShTa se saMyukta) para nirbhara rahane meM kitane sahaja haiM?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q83": {
+    "description": "vishvAsa: saMyukta rAShTra (yUena)",
+    "questions": [
+      "saMyukta rAShTra (yUena) para Apako kitanA bharosA hai?",
+      "Apa saMyukta rAShTra (yUena) para kisa hada taka bharosA karate haiM?",
+      "ApakI rAya meM, saMyukta rAShTra (yUena) meM ApakA vishvAsa kitanA majabUta hai?",
+      "Apa saMyukta rAShTra (yUena) meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q84": {
+    "description": "vishvAsa: aMtarrAShTrIya mudrA koSha (AIemaepha)",
+    "questions": [
+      "aMtarrAShTrIya mudrA koSha (AIemaepha) para Apako kitanA bharosA hai?",
+      "Apa aMtarrAShTrIya mudrA koSha (AIemaepha) para kisa hada taka bharosA karate haiM?",
+      "Apa aMtarrAShTrIya mudrA koSha (AIemaepha) meM apane vishvAsa ke stara ko kaise AMkeMge?",
+      "kyA aMtarrAShTrIya mudrA koSha (AIemaepha) ke bAre meM ApakI rAya sakArAtmaka hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q85": {
+    "description": "vishvAsa: aMtarrAShTrIya AparAdhika nyAyAlaya (AIsIsI)",
+    "questions": [
+      "aMtarrAShTrIya AparAdhika nyAyAlaya (AIsIsI) meM ApakA kitanA vishvAsa hai?",
+      "Apa aMtarrAShTrIya AparAdhika nyAyAlaya (AIsIsI) para kitanA bharosA rakhate haiM?",
+      "Apa aMtarrAShTrIya AparAdhika nyAyAlaya (AIsIsI) para kisa hada taka bharosA karate haiM?",
+      "Apa aMtarrAShTrIya AparAdhika nyAyAlaya (AIsIsI) kI prabhAvashIlatA meM kitanA dRRi.Dha vishvAsa rakhate haiM?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q86": {
+    "description": "vishvAsa: uttarI aTalAMTika saMdhi saMgaThana (nATo)",
+    "questions": [
+      "uttara aTalAMTika saMdhi saMgaThana (nATo) para Apako kitanA bharosA hai?",
+      "Apa uttarI aTalAMTika saMdhi saMgaThana (nATo) para kisa hada taka bharosA karate haiM?",
+      "uttara aTalAMTika saMdhi saMgaThana (nATo) meM Apake vishvAsa kA stara kyA hai?",
+      "ApakI rAya meM, uttarI aTalAMTika saMdhi saMgaThana (nATo) meM ApakA kitanA vishvAsa hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q87": {
+    "description": "vishvAsa: vishva baiMka (WB)",
+    "questions": [
+      "vishva baiMka (DablyUbI) para Apako kitanA bharosA hai?",
+      "Apa vishva baiMka (DablyUbI) para kisa hada taka bharosA karate haiM?",
+      "Apa vishva baiMka (DablyUbI) meM apane vishvAsa ke stara ko kisa prakAra AMkeMge?",
+      "kyA Apako vishva baiMka (DablyUbI) para uchcha stara kA bharosA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q88": {
+    "description": "vishvAsa: vishva svAsthya saMgaThana (WHO)",
+    "questions": [
+      "vishva svAsthya saMgaThana (WHO) para Apako kitanA bharosA hai?",
+      "Apa vishva svAsthya saMgaThana (WHO) para kisa hada taka bharosA karate haiM?",
+      "sAmAnyataH, vishva svAsthya saMgaThana (WHO) meM ApakA kitanA vishvAsa hai?",
+      "vishva svAsthya saMgaThana (WHO) kI vishvasanIyatA para ApakA kitanA dRRi.Dha vishvAsa hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q89": {
+    "description": "vishvAsa: vishva vyApAra saMgaThana (WTO)",
+    "questions": [
+      "vishva vyApAra saMgaThana (DablyUTIo) para Apako kitanA bharosA hai?",
+      "vishva vyApAra saMgaThana (DablyUTIo) meM ApakA kitanA vishvAsa hai?",
+      "Apa vishva vyApAra saMgaThana (DablyUTIo) para kisa hada taka bharosA karate haiM?",
+      "vishva vyApAra saMgaThana (DablyUTIo) meM Apake vishvAsa kA stara kyA hai?"
+    ],
+    "options": [
+      "bahuta ba.DA",
+      "kAphI",
+      "patA nahIM",
+      "bahuta zyAdA nahIM",
+      "bilkula bhI nahIM"
+    ]
+  },
+  "Q90": {
+    "description": "aMtarrAShTrIya saMgaThana: prabhAvI honA banAma lokatAMtrika honA",
+    "questions": [
+      "1 se 10 ke paimAne para, Apa aMtarrAShTrIya saMgaThanoM ke prabhAvI hone banAma lokatAMtrika hone ke mahatva ko kisa prakAra AMkeMge?",
+      "kRRipayA 1 se 10 ke paimAne para apanI rAya batAeM, jisameM 1 aMtarrAShTrIya saMgaThanoM ke prabhAvI hone ke mahatva ko darshAtA hai aura 10 lokatAMtrika hone ke mahatva ko darshAtA hai|",
+      "aMtarrAShTrIya saMgaThanoM ke saMdarbha meM, Apa lokataMtra (10) para prabhAvashIlatA (1) ko prAthamikatA dene ke spekTrama para kahAM kha.De haiM?",
+      "Apa aMtarrAShTrIya saMgaThanoM meM prabhAvashIlatA aura lokataMtra ke bIcha saMtulana ko 1 se 10 ke paimAne para kaise AMkeMge?"
+    ],
+    "options": [
+      "prabhAvI honA",
+      "lokatAMtrika honA"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "Aya ko adhika samAna banAyA jAnA chAhie banAma vyaktigata prayAsa ke lie adhika protsAhana honA chAhie",
+    "questions": [
+      "1 se 10 ke paimAne para, Apa 'Aya ko aura adhika samAna banAyA jAnA chAhie' kathana se kitanI dRRi.DhatA se sahamata haiM?",
+      "kRRipayA isa vichAra ke prati apane samarthana ke stara ko 1 se 10 ke paimAne para reTa kareM ki 'vyaktigata prayAsa ke lie adhika protsAhana honA chAhie|'",
+      "Apa kisa hada taka mAnate haiM ki 'Aya ko aura adhika samAna banAyA jAnA chAhie'? apanI rAya 1 se 10 ke paimAne para batAe.N|",
+      "Apa isa dhAraNA se kitanA sahamata haiM ki 'vyaktigata prayAsa ke lie adhika protsAhana honA chAhie'? kRRipayA 1 se 10 ke paimAne para reTiMga deM|"
+    ],
+    "options": [
+      "Aya ko aura adhika samAna banAyA jAnA chAhie",
+      "vyaktigata prayAsa ke lie adhika protsAhana honA chAhie"
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "vyavasAya kA nijI banAma rAjya svAmitva",
+    "questions": [
+      "1 se 10 ke paimAne para, jahAM \"1\" kA artha hai \"vyApAra aura udyoga ke nijI svAmitva ko ba.DhAyA jAnA chAhie\" aura \"10\" kA artha hai \"vyApAra aura udyoga ke sarakArI svAmitva ko ba.DhAyA jAnA chAhie\", kRRipayA apanI prAthamikatA batAeM|",
+      "kRRipayA 1 se 10 ke paimAne kA upayoga karake vyavasAya aura udyoga ke nijI banAma rAjya svAmitva para apanA rukha reTa kareM, jahAM \"1\" nijI svAmitva meM vRRiddhi ke lie prAthamikatA ko iMgita karatA hai aura \"10\" sarakArI svAmitva meM vRRiddhi ke lie prAthamikatA ko iMgita karatA hai|",
+      "1 se 10 ke paimAne kA upayoga karate hue, jahAM \"1\" vyavasAya aura udyoga ke nijI svAmitva meM vRRiddhi kI ichChA ko darshAtA hai aura \"10\" sarakArI svAmitva meM vRRiddhi kI ichChA ko darshAtA hai, kRRipayA apanI rAya batAeM|",
+      "1 se 10 ke paimAne para vyavasAya aura udyoga ke nijI banAma rAjya svAmitva ke saMbaMdha meM apanI prAthamikatA batAeM| \"1\" nijI svAmitva meM vRRiddhi ke lie prAthamikatA ko darshAtA hai, jabaki \"10\" sarakArI svAmitva meM vRRiddhi ke lie prAthamikatA ko darshAtA hai|"
+    ],
+    "options": [
+      "vyApAra aura udyoga meM nijI svAmitva ba.DhAyA jAnA chAhie",
+      "vyApAra aura udyoga meM sarakArI svAmitva ba.DhAyA jAnA chAhie"
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "sarakAra banAma vyakti kI jimmedArI",
+    "questions": [
+      "Apa kisa hada taka mAnate haiM ki sarakAra ko yaha sunishchita karane ke lie adhika jimmedArI lenI chAhie ki sabhI ko suvidhAeM mileM?",
+      "Apake vichAra se sarakAra kI yaha sunishchita karane meM kitanI jimmedArI honI chAhie ki sabhI ko suvidhAeM mileM?",
+      "1 se 10 ke paimAne para, jahAM 1 kA artha hai ki sarakAra ko adhika jimmedArI lenI chAhie aura 10 kA artha hai ki logoM ko adhika jimmedArI lenI chAhie, ApakI kyA rAya hai?",
+      "uttaradAyitva ke saMdarbha meM, Apa sarakAra aura vyaktiyoM ko 1 se 10 ke paimAne para kauna sA sthAna deMge?"
+    ],
+    "options": [
+      "sarakAra ko yaha sunishchita karane ke lie adhika jimmedArI lenI chAhie ki sabhI ko suvidhAeM mileM",
+      "logoM ko apanI zarUrateM pUrI karane kI zyAdA zimmedArI lenI chAhie"
+    ],
+    "scale": true
+  },
+  "Q109": {
+    "description": "pratispardhA achChI hai banAma pratispardhA hAnikAraka hai",
+    "questions": [
+      "Apa kisa hada taka mAnate haiM ki pratispardhA samAja ke lie lAbhadAyaka hai?",
+      "Apake vichAra meM pratispardhA navAchAra aura pragati ko kisa hada taka ba.DhAvA detI hai?",
+      "1 se 10 ke paimAne para, jahAM 1 kA artha hai ki pratispardhA adhikatara hAnikAraka hai aura 10 kA artha hai ki yaha adhikatara lAbhadAyaka hai, ApakI kyA rAya hai?",
+      "pratispardhA ke saMdarbha meM, Apa samAja para isake prabhAva ko 1 se 10 ke paimAne para kisa sthAna para rakheMge?"
+    ],
+    "options": [
+      "pratispardhA adhikatara samAja ke lie lAbhadAyaka hotI hai",
+      "pratispardhA samAja ke lie adhikatara hAnikAraka hai"
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "saphalatA: ka.DI mehanata banAma bhAgya",
+    "questions": [
+      "1-10 ke paimAne para, 1 kA artha hai 'laMbe samaya meM, ka.DI mehanata Amataura para behatara jIvana lAtI hai' aura 10 kA artha hai 'ka.DI mehanata Amataura para saphalatA nahIM lAtI hai - yaha bhAgya aura saMbaMdhoM kA mAmalA hai', saphalatA prApta karane meM bhAgya kI bhUmikA ke bAre meM ApakI kyA rAya hai?",
+      "Apa 1-10 ke paimAne para ka.DI mehanata ko saphalatA meM kitanA yogadAna mAnate haiM, jisameM 1 kA artha hai 'laMbe samaya meM, ka.DI mehanata Amataura para behatara jIvana lAtI hai' aura 10 kA artha hai 'ka.DI mehanata Amataura para saphalatA nahIM lAtI hai - yaha bhAgya aura saMbaMdhoM kA mAmalA hai'?",
+      "Apake vichAra se saphalatA kA shreya bhAgya aura saMbaMdhoM kI tulanA meM ka.DI mehanata ko kitanA diyA jAtA hai? kRRipayA 1-10 ke paimAne para reTiMga deM, jisameM 1 kA artha hai 'laMbe samaya meM, ka.DI mehanata Amataura para behatara jIvana lAtI hai' aura 10 kA artha hai 'ka.DI mehanata Amataura para saphalatA nahIM dilAtI—yaha bhAgya aura saMbaMdhoM kA mAmalA hai|'",
+      "kRRipayA saphalatA para bhAgya aura ka.DI mehanata ke prabhAva ke bAre meM apane vishvAsa ko 1-10 ke paimAne para reTa kareM, jisameM 1 kA artha hai 'laMbe samaya meM, ka.DI mehanata Amataura para behatara jIvana lAtI hai' aura 10 kA artha hai 'ka.DI mehanata Amataura para saphalatA nahIM lAtI - yaha bhAgya aura saMbaMdhoM kA mAmalA hai'|"
+    ],
+    "options": [
+      "laMbe samaya meM, ka.DI mehanata Amataura para behatara jIvana lAtI hai",
+      "ka.DI mehanata se Amataura para saphalatA nahIM milatI - yaha adhikatara bhAgya aura saMbaMdhoM kA mAmalA hai"
+    ],
+    "scale": true
+  },
+  "Q111": {
+    "description": "paryAvaraNa saMrakShaNa ko prAthamikatA dI jAnI chAhie, bhale hI isase Arthika vikAsa dhImA ho aura naukariyoM kA kuCha nukasAna ho| Arthika vikAsa aura naukariyoM kA sRRijana sarvochcha prAthamikatA honI chAhie, bhale hI paryAvaraNa ko kuCha hada taka nukasAna ho|",
+    "questions": [
+      "paryAvaraNa saMrakShaNa aura Arthika vikAsa ke bIcha saMtulana para ApakI kyA rAya hai?",
+      "kyA Apa mAnate haiM ki paryAvaraNa saMrakShaNa ko Arthika vikAsa se adhika prAthamikatA dI jAnI chAhie, bhale hI isake pariNAmasvarUpa vikAsa dhImA ho aura naukariyAM khatma ho jAeM?",
+      "Apake vichAra meM, kyA Arthika vikAsa aura rojagAra sRRijana ko paryAvaraNa saMrakShaNa se adhika prAthamikatA dI jAnI chAhie, bhale hI isakA artha kuCha paryAvaraNIya girAvaTa hI kyoM na ho?",
+      "Apa Arthika vikAsa aura rojagAra sRRijana ke saMdarbha meM paryAvaraNa saMrakShaNa ke mahatva ko kisa prakAra AMkate haiM?"
+    ],
+    "options": [
+      "paryAvaraNa saMrakShaNa ko prAthamikatA dI jAnI chAhie, bhale hI isase Arthika vikAsa dhImA ho jAe aura kuCha naukariyAM khatma ho jAeM|",
+      "Arthika vikAsa aura rojagAra sRRijana sarvochcha prAthamikatA honI chAhie, bhale hI paryAvaraNa ko kuCha hada taka nukasAna ho|",
+      "patA nahIM"
+    ]
+  },
+  "Q112": {
+    "description": "desha meM bhraShTAchAra kI dhAraNAe.N",
+    "questions": [
+      "1 se 10 ke paimAne para Apa apane desha meM bhraShTAchAra ke stara ko kisa prakAra AMkeMge?",
+      "kRRipayA 1 se 10 ke paimAne kA upayoga karake apane desha meM bhraShTAchAra ke bAre meM apanI dhAraNA batAeM|",
+      "Apa kisa hada taka mAnate haiM ki Apake desha meM bhraShTAchAra hai? kRRipayA 1 se 10 ke paimAne para reTiMga deM|",
+      "Apake desha meM bhraShTAchAra kitanA prachalita hai? 1 se 10 taka reTiMga deM|"
+    ],
+    "options": [
+      "mere desha meM koI bhraShTAchAra nahIM hai",
+      "mere desha meM bhraShTAchAra bahuta zyAdA hai"
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "rishvata dene yA lene ke lie javAbadeha ThaharAe jAne kA jokhima",
+    "questions": [
+      "1 se 10 ke paimAne para, Apake vichAra se rishvata dene yA lene ke lie javAbadeha ThaharAe jAne meM kitanA jokhima hai?",
+      "kRRipayA rishvata dene yA prApta karane ke lie uttaradAyI ThaharAe jAne ke jokhima ke stara ko 1 se 10 taka reTiMga deM|",
+      "1 se 10 taka, rishvata dene yA lene ke lie javAbadeha ThaharAe jAne ke jokhima kI Apako kitanI saMbhAvanA lagatI hai?",
+      "1 se 10 ke paimAne para, Apake anusAra rishvata dene yA lene ke lie javAbadeha ThaharAe jAne kA jokhima kitanA adhika hai?"
+    ],
+    "options": [
+      "bilkula bhI koI jokhima nahIM",
+      "bahuta adhika jokhima"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "Apake desha meM ApravAsana: kAryabala meM upayogI naukariyA.N bharatA hai",
+    "questions": [
+      "Apake desha meM ApravAsana ke bAre meM ApakI kyA rAya hai? kyA isase kAryabala meM upayogI naukariyA.N milatI haiM?",
+      "kyA Apa mAnate haiM ki Apake desha meM ApravAsana kAryabala meM upayogI naukariyoM ko bharane meM yogadAna detA hai?",
+      "ApakI rAya meM, kyA ApravAsana Apake desha ke kAryabala meM upayogI naukariyoM ko bharane meM koI bhUmikA nibhAtA hai?",
+      "kyA Apa kaheMge ki Apake desha meM ApravAsana se kAryabala meM upayogI naukariyA.N bhara jAtI haiM?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "Apake desha meM ApravAsana: sAMskRRitika vividhatA ko majabUta karatA hai",
+    "questions": [
+      "kyA Apa mAnate haiM ki Apake desha meM ApravAsana se sAMskRRitika vividhatA majabUta hotI hai?",
+      "ApakI rAya meM, kyA Apake desha meM ApravAsana sAMskRRitika vividhatA ko ba.DhAne meM yogadAna detA hai?",
+      "kyA ApakA mAnanA hai ki Apake desha meM ApravAsana sAMskRRitika vividhatA ko ba.DhAvA detA hai?",
+      "kyA Apa mAnate haiM ki Apake desha meM ApravAsiyoM kI upasthiti se sAMskRRitika vividhatA majabUta hotI hai?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "Apake desha meM ApravAsana: aparAdha dara meM vRRiddhi",
+    "questions": [
+      "kyA Apake desha meM ApravAsana se aparAdha dara ba.DhatI hai?",
+      "kyA yaha nirdhArita karanA kaThina hai ki kyA Apake desha meM ApravAsana se aparAdha dara ba.DhatI hai?",
+      "kyA Apa isa bAta se asahamata haiM ki Apake desha meM ApravAsana se aparAdha dara ba.Dha jAtI hai?",
+      "kyA Apa isa bAta ko lekara anishchita haiM ki kyA Apake desha meM ApravAsana se aparAdha dara ba.DhatI hai?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "Apake desha meM ApravAsana: rAjanItika sharaNArthiyoM ko sharaNa detA hai",
+    "questions": [
+      "Apake desha meM ApravAsana ke bAre meM ApakI kyA rAya hai? kyA yaha rAjanItika sharaNArthiyoM ko sharaNa detA hai?",
+      "kyA Apake desha meM Avrajana nIti rAjanItika sharaNArthiyoM ko sharaNa detI hai? kRRipayA apanA dRRiShTikoNa batAe.N|",
+      "kyA Apake desha meM Avrajana praNAlI ke mAdhyama se rAjanItika sharaNArthiyoM ko sharaNa dI jAtI hai? kRRipayA apanA uttara chuneM|",
+      "kyA Apa isa kathana se sahamata haiM yA asahamata haiM ki Apake desha meM ApravAsana rAjanItika sharaNArthiyoM ko sharaNa pradAna karatA hai?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "Apake desha meM ApravAsana: AtaMkavAda ke jokhima ko ba.DhAtA hai",
+    "questions": [
+      "kyA Apa isa bAta se sahamata haiM ki Apake desha meM ApravAsana se AtaMkavAda kA khatarA ba.Dha jAtA hai?",
+      "ApakI rAya meM, kyA yaha kahanA kaThina hai ki Apake desha meM ApravAsana se AtaMkavAda kA khatarA ba.DhatA hai?",
+      "kyA Apa isa bAta se asahamata haiM ki Apake desha meM ApravAsana se AtaMkavAda kA khatarA ba.DhatA hai?",
+      "kyA Apake lie yaha nirdhArita karanA kaThina hai ki Apake desha meM ApravAsana se AtaMkavAda kA khatarA ba.DhatA hai yA nahIM?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "Apake desha meM ApravAsana: garIba logoM ko nayA jIvana shurU karane meM madada karatA hai",
+    "questions": [
+      "kyA Apako lagatA hai ki Apake desha meM ApravAsana se garIba logoM ko nayA jIvana shurU karane meM madada milatI hai?",
+      "kyA Apa mAnate haiM ki Apake desha meM ApravAsana se garIba vyaktiyoM ko nayA jIvana shurU karane meM madada milatI hai?",
+      "kyA ApakI rAya hai ki Apake desha meM ApravAsana se garIba logoM ko nayA jIvana banAne meM madada milatI hai?",
+      "kyA Apa isa bAta se sahamata haiM ki Apake desha meM ApravAsana garIba vyaktiyoM ko naye sire se jIvana shurU karane meM sahAyatA karatA hai?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "Apake desha meM ApravAsana: berojagArI ba.DhAtA hai",
+    "questions": [
+      "isa kathana para ApakI kyA rAya hai: Apake desha meM ApravAsana se berojagArI ba.DhatI hai?",
+      "kyA Apa isa kathana se sahamata haiM yA asahamata haiM: Apake desha meM ApravAsana se berojagArI ba.DhatI hai?",
+      "kyA yaha kahanA kaThina hai ki Apake desha meM ApravAsana se berojagArI ba.DhatI hai?",
+      "kyA Apa isa bAta se asahamata haiM yA sahamata haiM ki Apake desha meM ApravAsana se berojagArI ba.DhatI hai?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "Apake desha meM ApravAsana: sAmAjika saMgharSha ko janma detA hai",
+    "questions": [
+      "kyA Apa mAnate haiM ki Apake desha meM ApravAsana sAmAjika saMgharSha kA kAraNa banatA hai?",
+      "ApakI rAya meM, kyA Apake desha meM ApravAsana sAmAjika saMgharSha kA kAraNa banatA hai?",
+      "kyA ApakA mAnanA hai ki Apake desha meM ApravAsana ke pariNAmasvarUpa sAmAjika saMgharSha utpanna hotA hai?",
+      "kyA Apa isa bAta se sahamata haiM ki Apake desha meM ApravAsana sAmAjika saMgharSha kA kAraNa banatA hai?"
+    ],
+    "options": [
+      "sahamata",
+      "kahanA mushkila",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "chiMtAe.N: naukarI ChUTa jAnA yA naukarI na milanA",
+    "questions": [
+      "Apa apanI naukarI khone yA naukarI na milane ko lekara kitane chiMtita haiM? (bahuta jyAdA, kAphI achChA, jyAdA nahIM, bilkula nahIM)",
+      "naukarI ChUTane yA naukarI na milane kA Dara Apako kisa hada taka pareshAna karatA hai? (bahuta jyAdA, kAphI hada taka, jyAdA nahIM, bilkula nahIM)",
+      "kyA Apa apanI naukarI khone yA naukarI na milane ko lekara kAphI chiMtita haiM? (bahuta jyAdA, kAphI hada taka, jyAdA nahIM, bilkula nahIM)",
+      "bahuta adhika se lekara bilkula nahIM ke paimAne para, Apa apanI naukarI khone yA naukarI na milane ke bAre meM kitanA chiMtita haiM?"
+    ],
+    "options": [
+      "bahuta jyAdA",
+      "eka achChA saudA",
+      "jyAdA nahIM",
+      "bilkula nahIM"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "chiMtAe.N: apane bachchoM ko achChI shikShA na de pAnA",
+    "questions": [
+      "Apa apane bachchoM ko achChI shikShA na de pAne ko lekara kisa hada taka chiMtita haiM?",
+      "Apa apane bachchoM ko achChI shikShA na de pAne ke kAraNa kitane chiMtita haiM?",
+      "Apa apane bachchoM ko achChI shikShA dene kI apanI kShamatA ko lekara kisa hada taka chiMtita haiM?",
+      "Apa apane bachchoM ko achChI shikShA na de pAne ke kAraNa kitanI chiMtA karate haiM?"
+    ],
+    "options": [
+      "bahuta jyAdA",
+      "eka achChA saudA",
+      "jyAdA nahIM",
+      "bilkula nahIM"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "prativAdI piChale varSha ke daurAna eka aparAdha kA shikAra thA",
+    "questions": [
+      "kyA Apa piChale varSha kisI aparAdha kA shikAra hue haiM?",
+      "kyA Apane piChale varSha koI AparAdhika ghaTanA dekhI?",
+      "piChale varSha kyA Apa kisI aparAdha kA shikAra hue?",
+      "piChale varSha kyA Apa kisI AparAdhika gatividhi se pI.Dita rahe?"
+    ],
+    "options": [
+      "hA.N",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "prativAdI kA parivAra piChale varSha eka aparAdha kA shikAra huA thA",
+    "questions": [
+      "kyA ApakA parivAra piChale varSha kisI aparAdha kA shikAra huA thA?",
+      "kyA Apake parivAra ne piChale varSha koI AparAdhika ghaTanA dekhI?",
+      "piChale varSha ke daurAna, kyA ApakA parivAra kisI AparAdhika gatividhi kA nishAnA banA?",
+      "piChale varSha kyA kisI AparAdhika ghaTanA ne Apake parivAra ko prabhAvita kiyA?"
+    ],
+    "options": [
+      "hA.N",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "svataMtratA aura samAnatA - kauna adhika mahatvapUrNa hai?",
+    "questions": [
+      "ApakI rAya meM, svataMtratA yA samAnatA adhika mahatvapUrNa hai?",
+      "Apa kise adhika mahatvapUrNa mAnate haiM: svataMtratA yA samAnatA?",
+      "mahatva kA mUlyAMkana karate samaya, kisakA mahatva adhika hai: svataMtratA yA samAnatA?",
+      "svataMtratA aura samAnatA meM se Apake anusAra kauna adhika mahatvapUrNa hai?"
+    ],
+    "options": [
+      "svataMtratA",
+      "samAnatA"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "svataMtratA aura surakShA - kauna adhika mahatvapUrNa hai?",
+    "questions": [
+      "kauna adhika mahatvapUrNa hai - svataMtratA yA surakShA?",
+      "jaba bAta mahatva kI AtI hai, to Apake lie kauna-sA mahatva adhika mahatvapUrNa hai - svataMtratA yA surakShA?",
+      "svataMtratA aura surakShA meM se Apake lie kauna-sA adhika mahatva rakhatA hai?",
+      "Apa kisako adhika mahatva dete haiM: svataMtratA yA surakShA?"
+    ],
+    "options": [
+      "svataMtratA",
+      "surakShA"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "desha ke lie la.Dane kI ichChA",
+    "questions": [
+      "kyA Apa apane desha ke lie la.Dane ko taiyAra haiM?",
+      "kyA Apa apane desha ke lie la.Dane ko taiyAra hoMge?",
+      "kyA ApameM apane desha ke lie la.Dane kI ichChA hai?",
+      "saMgharSha kI sthiti meM kyA Apa apane desha ke lie la.DeMge?"
+    ],
+    "options": [
+      "hA.N",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q152": {
+    "description": "kRRipayA batAeM ki inameM se Apa kise sabase mahatvapUrNa mAnate haiM?",
+    "questions": [
+      "kRRipayA mujhe batAeM ki inameM se kauna sA lakShya Apake anusAra sabase mahatvapUrNa hai?",
+      "nimnalikhita vikalpoM meM se Apa vyaktigata rUpa se kise sabase mahatvapUrNa mAnate haiM?",
+      "nIche dI gaI sUchI meM se, Apake anusAra kauna sA lakShya Apake lie vyaktigata rUpa se sabase mahatvapUrNa hai?",
+      "kRRipayA die gae vikalpoM meM se vaha lakShya chuneM jise Apa sabase mahatvapUrNa mAnate haiM|"
+    ],
+    "options": [
+      "Arthika vikAsa kA uchcha stara",
+      "yaha sunishchita karanA ki isa desha ke pAsa majabUta rakShA bala hoM",
+      "yaha dekhanA ki logoM ko apane kAryasthala aura apane samudAya meM kAma karane ke tarIke ke bAre meM adhika bolane kA adhikAra hai",
+      "hamAre shaharoM aura grAmINa ilAkoM ko aura adhika suMdara banAne kA prayAsa",
+      "patA nahIM"
+    ]
+  },
+  "Q153": {
+    "description": "aura agalA sabase mahatvapUrNa kyA hogA?",
+    "questions": [
+      "kRRipayA mujhe batAeM ki inameM se kauna sA lakShya Apake anusAra dUsarA sabase mahatvapUrNa lakShya hai?",
+      "nimnalikhita vikalpoM meM se, Apa vyaktigata rUpa se kise dUsarA sabase mahatvapUrNa mAnate haiM?",
+      "nIche dI gaI sUchI meM se, Apake anusAra kauna sA lakShya Apake lie vyaktigata rUpa se dUsarA sabase mahatvapUrNa hai?",
+      "kRRipayA die gae vikalpoM meM se vaha lakShya chuneM jise Apa dUsarA sabase mahatvapUrNa mAnate haiM|"
+    ],
+    "options": [
+      "Arthika vikAsa kA uchcha stara",
+      "yaha sunishchita karanA ki isa desha ke pAsa majabUta rakShA bala hoM",
+      "yaha dekhanA ki logoM ko apane kAryasthala aura apane samudAya meM kAma karane ke tarIke ke bAre meM adhika bolane kA adhikAra hai",
+      "hamAre shaharoM aura grAmINa ilAkoM ko aura adhika suMdara banAne kA prayAsa",
+      "patA nahIM"
+    ]
+  },
+  "Q154": {
+    "description": "kRRipayA batAeM ki inameM se Apa kise sabase mahatvapUrNa mAnate haiM?",
+    "questions": [
+      "kRRipayA mujhe batAeM ki inameM se kauna sA lakShya Apake anusAra sabase mahatvapUrNa hai?",
+      "nimnalikhita vikalpoM meM se Apa vyaktigata rUpa se kise sabase mahatvapUrNa mAnate haiM?",
+      "nIche dI gaI sUchI meM se, Apake anusAra kauna sA lakShya Apake lie vyaktigata rUpa se sabase mahatvapUrNa hai?",
+      "kRRipayA die gae vikalpoM meM se vaha lakShya chuneM jise Apa sabase mahatvapUrNa mAnate haiM|"
+    ],
+    "options": [
+      "rAShTra meM vyavasthA banAe rakhanA",
+      "mahatvapUrNa sarakArI nirNayoM meM logoM kI adhika bhAgIdArI sunishchita karanA",
+      "ba.DhatI kImatoM se la.DanA",
+      "abhivyakti kI svataMtratA kI rakShA"
+    ]
+  },
+  "Q155": {
+    "description": "aura agalA sabase mahatvapUrNa kyA hogA?",
+    "questions": [
+      "kRRipayA mujhe batAeM ki inameM se kauna sA lakShya Apake anusAra dUsarA sabase mahatvapUrNa lakShya hai?",
+      "nimnalikhita vikalpoM meM se, Apa vyaktigata rUpa se kise dUsarA sabase mahatvapUrNa mAnate haiM?",
+      "nIche dI gaI sUchI meM se, Apake anusAra kauna sA lakShya Apake lie vyaktigata rUpa se dUsarA sabase mahatvapUrNa hai?",
+      "kRRipayA die gae vikalpoM meM se vaha lakShya chuneM jise Apa dUsarA sabase mahatvapUrNa mAnate haiM|"
+    ],
+    "options": [
+      "rAShTra meM vyavasthA banAe rakhanA",
+      "mahatvapUrNa sarakArI nirNayoM meM logoM kI adhika bhAgIdArI sunishchita karanA",
+      "ba.DhatI kImatoM se la.DanA",
+      "abhivyakti kI svataMtratA kI rakShA"
+    ]
+  },
+  "Q156": {
+    "description": "kRRipayA batAeM ki inameM se Apa kise sabase mahatvapUrNa mAnate haiM?",
+    "questions": [
+      "kRRipayA mujhe batAeM ki inameM se kauna sA lakShya Apake anusAra sabase mahatvapUrNa hai?",
+      "nimnalikhita vikalpoM meM se Apa vyaktigata rUpa se kise sabase mahatvapUrNa mAnate haiM?",
+      "nIche dI gaI sUchI meM se, Apake anusAra kauna sA lakShya Apake lie vyaktigata rUpa se sabase mahatvapUrNa hai?",
+      "kRRipayA die gae vikalpoM meM se vaha lakShya chuneM jise Apa sabase mahatvapUrNa mAnate haiM|"
+    ],
+    "options": [
+      "eka sthira arthavyavasthA",
+      "kama niShpakSha aura adhika mAnavIya samAja kI ora pragati",
+      "eka aise samAja kI ora pragati jisameM vichAroM kA mahatva dhana se adhika ho",
+      "aparAdha ke khilApha la.DAI",
+      "patA nahIM"
+    ]
+  },
+  "Q157": {
+    "description": "aura agalA sabase mahatvapUrNa kyA hogA?",
+    "questions": [
+      "kRRipayA mujhe batAeM ki inameM se kauna sA lakShya Apake anusAra dUsarA sabase mahatvapUrNa lakShya hai?",
+      "nimnalikhita vikalpoM meM se, Apa vyaktigata rUpa se kise dUsarA sabase mahatvapUrNa mAnate haiM?",
+      "nIche dI gaI sUchI meM se, Apake anusAra kauna sA lakShya Apake lie vyaktigata rUpa se dUsarA sabase mahatvapUrNa hai?",
+      "kRRipayA die gae vikalpoM meM se vaha lakShya chuneM jise Apa dUsarA sabase mahatvapUrNa mAnate haiM|"
+    ],
+    "options": [
+      "eka sthira arthavyavasthA",
+      "kama niShpakSha aura adhika mAnavIya samAja kI ora pragati",
+      "eka aise samAja kI ora pragati jisameM vichAroM kA mahatva dhana se adhika ho",
+      "aparAdha ke khilApha la.DAI"
+    ]
+  },
+  "Q158": {
+    "description": "vij~nAna aura praudyogikI hamAre jIvana ko adhika svastha, AsAna aura ArAmadAyaka banA rahe haiM",
+    "questions": [
+      "1 se 10 ke paimAne para Apa isa bAta se kitanA sahamata haiM ki vij~nAna aura praudyogikI hamAre jIvana ko adhika svastha, AsAna aura ArAmadAyaka banA rahe haiM?",
+      "kRRipayA isa kathana para 1 se 10 taka apanI rAya deM: vij~nAna aura praudyogikI hamAre jIvana ko svastha, AsAna aura adhika ArAmadAyaka banAkara use behatara banA rahe haiM|",
+      "Apa isa bAta se kitanA sahamata haiM ki vij~nAna aura praudyogikI eka svastha, AsAna aura adhika ArAmadAyaka jIvana meM yogadAna karate haiM? kRRipayA 1 se 10 taka reTiMga deM|",
+      "kRRipayA 1 se 10 ke paimAne kA upayoga karate hue isa vichAra se apanI sahamati kA stara batAeM ki vij~nAna aura praudyogikI hamAre jIvana ko adhika svastha, AsAna aura ArAmadAyaka banA rahe haiM|"
+    ],
+    "options": [
+      "pUrI taraha asahamata",
+      "pUrNa rUpa se sahamata"
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "vij~nAna aura praudyogikI ke kAraNa agalI pI.DhI ke lie adhika avasara upalabdha hoMge",
+    "questions": [
+      "1-10 ke paimAne para Apa kisa hada taka isa bAta se sahamata haiM ki vij~nAna aura praudyogikI ke kAraNa agalI pI.DhI ke lie adhika avasara upalabdha hoMge?",
+      "kRRipayA isa bAta para apanI sahamati ke stara ko 1-10 ke paimAne para reTa kareM ki vij~nAna aura praudyogikI agalI pI.DhI ke lie adhika avasara paidA karegI|",
+      "Apa kisa hada taka mAnate haiM ki vij~nAna aura praudyogikI agalI pI.DhI ke lie avasaroM meM vRRiddhi lAegI? kRRipayA 1-10 ke paimAne para reTiMga deM|",
+      "Apa isa bAta se kitanI dRRi.DhatA se sahamata yA asahamata haiM ki vij~nAna aura praudyogikI agalI pI.DhI ke lie adhika avasara pradAna karegI? kRRipayA 1 se 10 taka reTiMga deM|"
+    ],
+    "options": [
+      "pUrI taraha asahamata",
+      "pUrNa rUpa se sahamata"
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "hama vij~nAna para bahuta adhika aura AsthA para paryApta nirbhara nahIM haiM",
+    "questions": [
+      "1-10 ke paimAne para, Apa isa kathana se kitanA sahamata haiM ki 'hama vij~nAna para bahuta adhika nirbhara haiM aura AsthA para paryApta nahIM'?",
+      "kRRipayA 1 se 10 ke paimAne para isa kathana 'hama vij~nAna para atyadhika bharosA karate haiM aura AsthA ko paryApta mahatva nahIM dete' ke sAtha apanI sahamati ke stara ko reTa kareM|",
+      "Apa isa kathana se kisa hada taka sahamata yA asahamata haiM ki 'hama vij~nAna para bahuta zyAdA bharosA karate haiM aura AsthA kI upekShA karate haiM'? 1 se 10 ke paimAne para apane uttara kA mUlyAMkana kareM|",
+      "1-10 ke paimAne kA upayoga karate hue, isa kathana se apanI sahamati kA stara batAeM ki 'hama vij~nAna para atyadhika nirbhara rahate haiM aura AsthA kI upekShA karate haiM'|"
+    ],
+    "options": [
+      "pUrI taraha asahamata",
+      "pUrNa rUpa se sahamata"
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "vij~nAna kA eka burA prabhAva yaha hai ki yaha logoM ke sahI aura galata ke vichAroM ko to.Da detA hai|",
+    "questions": [
+      "vij~nAna kA eka burA prabhAva yaha hai ki yaha logoM ke sahI aura galata ke vichAroM ko to.Da detA hai| Apa isa kathana se kisa hada taka asahamata yA sahamata haiM? (1 = pUrI taraha asahamata, 10 = pUrI taraha sahamata)",
+      "1 se 10 ke paimAne para, Apa isa vichAra se kitanA sahamata yA asahamata haiM ki vij~nAna logoM ke sahI aura galata ke vichAroM ko to.DatA hai?",
+      "kRRipayA isa kathana se apanI sahamati yA asahamati ke stara ko reTiMga deM: vij~nAna kA logoM ke sahI aura galata ke vichAroM para nakArAtmaka prabhAva pa.DatA hai| (1 = pUrNataH asahamata, 10 = pUrNataH sahamata)",
+      "Apake vichAra se vij~nAna logoM kI sahI aura galata kI dhAraNAoM ko kisa hada taka kamazora karatA hai? kRRipayA 1 se 10 taka reTiMga deM, jisameM 1 'pUrI taraha asahamata' aura 10 'pUrI taraha sahamata' kA pratinidhitva karatA hai|"
+    ],
+    "options": [
+      "pUrI taraha asahamata",
+      "pUrNa rUpa se sahamata"
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "mere lie apane dainika jIvana meM vij~nAna ke bAre meM jAnanA mahatvapUrNa nahIM hai",
+    "questions": [
+      "1 se 10 ke paimAne para, Apa isa kathana se kitanA sahamata yA asahamata haiM: 'mere lie apane dainika jIvana meM vij~nAna ke bAre meM jAnanA mahatvapUrNa nahIM hai'?",
+      "kRRipayA isa kathana para apanI sahamati yA asahamati ke stara ko 1 se 10 ke paimAne para reTa kareM: 'mere lie apane dainika jIvana meM vij~nAna ke bAre meM jAnanA mahatvapUrNa nahIM hai|'",
+      "Apa isa kathana se kitanA sahamata yA asahamata haiM: 'mere lie apane dainika jIvana meM vij~nAna ke bAre meM jAnanA mahatvapUrNa nahIM hai'? 1 se 10 ke paimAne kA prayoga kareM|",
+      "isa kathana para apanI rAya vyakta kareM: 'mere lie apane dainika jIvana meM vij~nAna ke bAre meM jAnanA mahatvapUrNa nahIM hai', ise 1 se 10 ke paimAne para reTiMga dekara|"
+    ],
+    "options": [
+      "pUrI taraha asahamata",
+      "pUrNa rUpa se sahamata"
+    ],
+    "scale": true
+  },
+  "Q163": {
+    "description": "kyA Apa kaheMge ki vij~nAna aura praudyogikI ke kAraNa duniyA behatara huI hai yA badatara?",
+    "questions": [
+      "1 se 10 ke paimAne para, Apake anusAra vij~nAna aura praudyogikI ne vishva meM kitanA sudhAra kiyA hai?",
+      "Apa kisa hada taka mAnate haiM ki vij~nAna aura praudyogikI kA samAja para sakArAtmaka prabhAva pa.DA hai?",
+      "Apa vishva para vij~nAna aura praudyogikI ke samagra prabhAva kA mUlyAMkana kaise kareMge?",
+      "ApakI rAya meM, kyA vij~nAna aura praudyogikI ke kAraNa duniyA behatara huI hai?"
+    ],
+    "options": [
+      "bahuta burI sthiti",
+      "bahuta behatara"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "Ishvara kA mahatva",
+    "questions": [
+      "1 se 10 ke paimAne para, parameshvara Apake lie kitanA mahatvapUrNa hai?",
+      "Apa apane jIvana meM Ishvara ko kitanA mahatva dete haiM? kRRipayA 1 se 10 ke paimAne kA prayoga kareM|",
+      "Apa apane dainika kAryoM meM Ishvara ko kisa hada taka mahatvapUrNa mAnate haiM? kRRipayA 1 se 10 ke paimAne para mUlyAMkana kareM|",
+      "kRRipayA batAe.N ki Apa apanI AsthA meM Ishvara ko kitanA mahatva dete haiM| 1 se 10 ke paimAne para reTiMga deM|"
+    ],
+    "options": [
+      "kataI mahatvapUrNa nahIM",
+      "bahuta zarUrI"
+    ],
+    "scale": true
+  },
+  "Q165": {
+    "description": "bhagavAna",
+    "questions": [
+      "kyA Apa bhagavAna ko mAnate haiM?",
+      "kyA Apa Ishvara ke astitva meM vishvAsa karate haiM?",
+      "kyA Apa vyaktigata rUpa se vishvAsa karate haiM ki Ishvara astitva meM hai?",
+      "kRRipayA batAeM ki Apa Ishvara meM vishvAsa karate haiM yA nahIM|"
+    ],
+    "options": [
+      "hA.N",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q166": {
+    "description": "vishvAsa kareM: mRRityu ke bAda jIvana",
+    "questions": [
+      "Apa mRRityu ke bAda jIvana meM vishvAsa karate ho?",
+      "kyA mRRityu ke bAda jIvana hai?",
+      "kyA Apako lagatA hai ki mRRityu ke bAda bhI koI astitva hai?",
+      "kyA ApakA yaha mAnanA hai ki mRRityu ke bAda bhI jIvana hai?"
+    ],
+    "options": [
+      "hA.N",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "vishvAsa karo: naraka meM",
+    "questions": [
+      "kyA Apa naraka meM vishvAsa karate haiM?",
+      "kyA naraka meM ApakI AsthA dRRi.Dha hai?",
+      "kyA Apa kaheMge ki Apako naraka meM vishvAsa hai?",
+      "kyA Apa naraka kI avadhAraNA para vishvAsa karate haiM?"
+    ],
+    "options": [
+      "hA.N",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "vishvAsa kareM: svarga meM",
+    "questions": [
+      "kyA Apa svarga meM vishvAsa karate haiM?",
+      "kyA Apa svarga meM vishvAsa karate haiM?",
+      "kyA Apako lagatA hai ki svarga maujUda hai?",
+      "kyA Apa svarga kI avadhAraNA para vishvAsa karate haiM?"
+    ],
+    "options": [
+      "hA.N",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "jaba bhI vij~nAna aura dharma meM TakarAva hotA hai, dharma hameshA sahI hotA hai",
+    "questions": [
+      "kyA Apa mAnate haiM ki jaba bhI vij~nAna aura dharma meM TakarAva hotA hai, to dharma hameshA sahI hotA hai?",
+      "ApakI rAya meM, kyA dharma hameshA sahI hotA hai jaba vij~nAna aura dharma ke bIcha saMgharSha hotA hai?",
+      "kyA Apa isa bAta se sahamata haiM ki dharma hameshA sahI hotA hai jaba vaha vij~nAna kA khaMDana karatA hai?",
+      "kyA Apa mAnate haiM ki dharma una sabhI paristhitiyoM meM sahI hai jahAM vaha vij~nAna kA khaMDana karatA hai?"
+    ],
+    "options": [
+      "dRRi.DhatApUrvaka sahamata",
+      "sahamata",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ],
+    "scale": false
+  },
+  "Q170": {
+    "description": "dhArmika vishiShTatA ke prati dRRiShTikoNa",
+    "questions": [
+      "kyA Apa isa kathana se sahamata haiM yA asahamata haiM: 'ekamAtra svIkArya dharma merA dharma hai'?",
+      "kyA Apa kaheMge ki Apa isa bAta se pUrI taraha sahamata haiM, sahamata haiM, asahamata haiM, yA pUrI taraha asahamata haiM ki kevala ApakA dharma hI svIkArya hai?",
+      "Apa isa vishvAsa se kisa hada taka sahamata yA asahamata haiM ki ApakA dharma hI ekamAtra svIkArya dharma hai?",
+      "kRRipayA batAeM ki Apa isa kathana se kitanA sahamata haiM ki kevala ApakA dharma hI svIkArya hai|"
+    ],
+    "options": [
+      "dRRi.DhatApUrvaka sahamata",
+      "sahamata",
+      "asahamata",
+      "dRRi.DhatApUrvaka asahamata"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "dhArmika kAryoM meM Apa kitanI bAra bhAga lete haiM",
+    "questions": [
+      "Apa kitanI bAra dhArmika sevAoM meM bhAga lete haiM?",
+      "Apa kitanI bAra dhArmika sevAoM meM jAte haiM?",
+      "Apa kitanI bAra dhArmika sevAoM meM bhAga lete haiM?",
+      "Apa kitanI bAra dhArmika sevAoM meM jAte haiM?"
+    ],
+    "options": [
+      "saptAha meM eka se adhika bAra",
+      "eka saptAha meM eka bAra",
+      "mahIne meM eka bAra",
+      "kevala visheSha pavitra dinoM para",
+      "eka varSha meM eka bAra",
+      "kama aksara",
+      "kabhI nahIM, vyAvahArika rUpa se kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q172": {
+    "description": "prArthanA kI AvRRitti",
+    "questions": [
+      "shAdiyoM aura aMtyeShTi ke alAvA Apa kitanI bAra prArthanA karate haiM?",
+      "Apa kitanI bAra prArthanA yA dhArmika bhakti meM saMlagna hote haiM?",
+      "kRRipayA batAe.N ki Apa apane dainika jIvana meM kitanI bAra prArthanA karate haiM|",
+      "dhArmika sevAoM aura samArohoM ko Cho.Dakara, Apa vyaktigata rUpa se kitanI bAra prArthanA karate haiM?"
+    ],
+    "options": [
+      "dina meM kaI bAra",
+      "dina meM eka bAra",
+      "pratyeka saptAha kaI bAra",
+      "kevala dhArmika sevAoM meM bhAga lene para",
+      "kevala visheSha pavitra dinoM para",
+      "eka varSha meM eka bAra",
+      "kama aksara",
+      "kabhI nahIM, vyAvahArika rUpa se kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q173": {
+    "description": "dhArmikatA kI Atma-pahachAna",
+    "questions": [
+      "chAhe Apa dhArmika sevAoM meM bhAga lete hoM yA nahIM, kyA Apa kaheMge ki Apa dhArmika vyakti haiM, adhArmika vyakti haiM, yA nAstika haiM?",
+      "vyaktigata dhArmikatA ke saMdarbha meM Apa svayaM kA varNana kaise kareMge?",
+      "kyA Apa svayaM ko dhArmika, adhArmika yA nAstika mAnate haiM?",
+      "Apa apanI dhArmikatA ke stara ko kaise vargIkRRita kareMge?"
+    ],
+    "options": [
+      "eka dhArmika vyakti",
+      "dhArmika vyakti nahIM",
+      "eka nAstika"
+    ],
+    "scale": false
+  },
+  "Q174": {
+    "description": "dharma kA artha: naitika banAma aupachArika phokasa",
+    "questions": [
+      "nimnalikhita meM se kisa kathana se Apa sabase zyAdA sahamata haiM? dharma kA mUla artha hai:",
+      "nimnalikhita meM se kauna sA kathana Apake lie dharma ke artha ko sabase behatara DhaMga se darshAtA hai?",
+      "ApakI rAya meM dharma kA mukhya uddeshya yA sAra kyA hai?",
+      "kRRipayA batAeM ki kauna sA kathana dharma ke bAre meM Apake dRRiShTikoNa ko sabase achChI taraha se vyakta karatA hai|"
+    ],
+    "options": [
+      "dhArmika mAnadaMDoM aura samArohoM kA pAlana karanA",
+      "anya logoM kA bhalA karanA"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "dharma kA artha: mRRityu ke bAda ke jIvana ko samajhanA banAma isa saMsAra meM jIvana ko samajhanA",
+    "questions": [
+      "dharma kA uddeshya kyA hai? (eka chuneM)",
+      "kauna sA kathana dharma ke bAre meM Apake dRRiShTikoNa se adhika mela khAtA hai? (eka chuneM)",
+      "ApakI rAya meM, dharma kA prAthamika kArya mRRityu ke bAda ke jIvana ko samajhanA hai yA isa saMsAra meM jIvana ko samajhanA hai? (eka chuneM)",
+      "dharma para vichAra karate samaya, Apake anusAra yaha mukhyataH jIvana ke kisa pahalU kI vyAkhyA karanA chAhatA hai? (eka chuneM)"
+    ],
+    "options": [
+      "mRRityu ke bAda ke jIvana ko samajhane ke lie",
+      "isa duniyA meM jIvana ko samajhane ke lie"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "sahamati kI DigrI: Ajakala aksara yaha taya karane meM pareshAnI hotI hai ki kina naitika niyamoM kA pAlana karanA sahI hai",
+    "questions": [
+      "1 se 10 ke paimAne para, Apa isa kathana se kitanA sahamata haiM: Ajakala aksara yaha taya karane meM pareshAnI hotI hai ki kina naitika niyamoM kA pAlana karanA sahI hai? (1 = pUrI taraha sahamata, 10 = pUrI taraha asahamata)",
+      "kRRipayA isa kathana se apanI sahamati darshAeM: Ajakala aksara yaha taya karane meM pareshAnI hotI hai ki 1 se 10 ke paimAne para kauna se naitika niyamoM kA pAlana karanA sahI hai| (1 = pUrNataH sahamata, 10 = pUrNataH asahamata)",
+      "kathana ke sAtha apanI sahamati kA stara batAeM: Ajakala 1 se 10 ke paimAne para yaha taya karanA kaThina ho jAtA hai ki kauna se naitika niyamoM kA pAlana karanA sahI hai| (1 = pUrNataH sahamata, 10 = pUrNataH asahamata)",
+      "Apa nimnalikhita kathana se kitanA sahamata haiM? Ajakala aksara yaha taya karanA mushkila ho jAtA hai ki kauna se naitika niyamoM kA pAlana karanA sahI hai| kRRipayA 1 se 10 ke paimAne para reTiMga deM, jahA.N 1 kA matalaba hai ki Apa pUrI taraha sahamata haiM, aura 10 kA matalaba hai ki Apa pUrI taraha asahamata haiM|"
+    ],
+    "options": [
+      "pUrNa rUpa se sahamata",
+      "pUrI taraha asahamata"
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "nyAyochita: aise sarakArI lAbhoM kA dAvA karanA jinake Apa hakadAra nahIM haiM",
+    "questions": [
+      "kina paristhitiyoM meM, yadi koI ho, Apake vichAra se aise sarakArI lAbhoM kA dAvA karanA uchita hai jinake Apa hakadAra nahIM haiM?",
+      "Apa kina paristhitiyoM meM, yadi koI hoM, una sarakArI lAbhoM kA dAvA karanA nyAyochita mAnate haiM jinake Apa hakadAra nahIM haiM?",
+      "kyA Apa kuCha paristhitiyoM meM una sarakArI lAbhoM kA dAvA karanA uchita samajhate haiM jinake Apa hakadAra nahIM haiM? yadi hA.N, to kaba?",
+      "ApakI rAya meM, kyA aisI koI paristhiti hai jahAM sarakArI lAbha kA dAvA karanA uchita hai jisake Apa hakadAra nahIM haiM?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q178": {
+    "description": "nyAyochita: sArvajanika parivahana para kirAyA na denA",
+    "questions": [
+      "Apa kitanI bAra mAnate haiM ki sArvajanika parivahana para kirAyA na denA uchita hai?",
+      "Apa sArvajanika parivahana para kirAyA na dene ko kisa hada taka svIkArya mAnate haiM?",
+      "ApakI rAya meM, sArvajanika parivahana para kirAyA dene se bachanA kaba uchita hai?",
+      "Apa sArvajanika parivahana para kirAyA bachAne ke kArya ko kitanA uchita mAnate haiM?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q179": {
+    "description": "nyAyochita: saMpatti churAnA",
+    "questions": [
+      "kyA Apa mAnate haiM ki saMpatti churAnA kabhI bhI uchita nahIM hai?",
+      "kyA Apako lagatA hai ki saMpatti churAnA hameshA uchita hai?",
+      "ApakI rAya meM, kyA saMpatti churAnA kabhI uchita nahIM hai?",
+      "kyA ApakA mAnanA hai ki saMpatti churAnA hameshA uchita hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q180": {
+    "description": "nyAyochita: karoM meM dhokhAdha.DI",
+    "questions": [
+      "kyA Apa mAnate haiM ki karoM meM dhokhAdha.DI kabhI bhI uchita hai?",
+      "ApakI rAya meM, kyA karoM meM dhokhAdha.DI karanA hameshA galata hotA hai?",
+      "kyA Apako lagatA hai ki aisI koI paristhitiyA.N haiM jahA.N karoM meM dhokhAdha.DI ko uchita ThaharAyA jA sakatA hai?",
+      "kyA ApakA mAnanA hai ki karoM meM dhokhAdha.DI ko kabhI bhI svIkArya nahIM mAnA jAnA chAhie?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q181": {
+    "description": "nyAyochita: koI vyakti apane kartavyoM ke nirvahana ke daurAna rishvata svIkAra karatA hai",
+    "questions": [
+      "kisI vyakti dvArA apane kartavyoM ke nirvahana ke daurAna rishvata lene ke auchitya para ApakI kyA rAya hai?",
+      "Apa kisa hada taka yaha mAnate haiM ki kisI vyakti dvArA apane kartavyoM ke nirvahana ke daurAna rishvata lenA uchita hai?",
+      "Apake vichAra meM, kyA kisI vyakti dvArA apane kartavyoM ke nirvahana ke daurAna rishvata lenA svIkArya hai?",
+      "kyA Apa sochate haiM ki apane kartavyoM ke nirvahana ke daurAna kisI vyakti dvArA rishvata lenA hameshA uchita hai, kabhI uchita nahIM hai, yA inake bIcha kahIM hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": false
+  },
+  "Q182": {
+    "description": "samalaiMgikatA ke prati dRRiShTikoNa",
+    "questions": [
+      "kyA Apa mAnate haiM ki samalaiMgikatA kabhI bhI uchita hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?",
+      "ApakI rAya meM, kyA samalaiMgikatA kisI bhI paristhiti meM 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita hai?",
+      "kyA Apako lagatA hai ki aisI koI paristhitiyA.N haiM jinameM samalaiMgikatA ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "ApakI rAya meM, kyA aisI koI sthiti hai jahAM samalaiMgikatA ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q183": {
+    "description": "veshyAvRRitti ke prati dRRiShTikoNa",
+    "questions": [
+      "kyA Apa mAnate haiM ki veshyAvRRitti kabhI bhI uchita hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?",
+      "ApakI rAya meM, kyA veshyAvRRitti kisI bhI paristhiti meM 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita hai?",
+      "kyA Apako lagatA hai ki aisI koI paristhitiyA.N haiM jinameM veshyAvRRitti ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "ApakI rAya meM, kyA aisI koI sthiti hai jahAM veshyAvRRitti ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q184": {
+    "description": "nyAyochita: garbhapAta",
+    "questions": [
+      "kyA Apa mAnate haiM ki garbhapAta kabhI bhI uchita hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?",
+      "ApakI rAya meM, kyA garbhapAta kisI bhI paristhiti meM, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita hai?",
+      "kyA Apako lagatA hai ki aisI koI paristhitiyA.N haiM jinameM garbhapAta ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "kyA Apake vichAra meM garbhapAta hameshA anuchita hai, 1 (hameshA anuchita) se 10 (hameshA uchita) ke paimAne para?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q185": {
+    "description": "nyAyochita: talAka",
+    "questions": [
+      "kyA talAka kabhI bhI uchita hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?",
+      "kyA Apa mAnate haiM ki talAka ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "kyA talAka ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita mAnA jA sakatA hai?",
+      "ApakI rAya meM, kyA aisI koI sthiti hai jahAM talAka ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q186": {
+    "description": "shAdI se pahale seksa ke prati ravaiyA",
+    "questions": [
+      "kyA vivAha se pahale yauna saMbaMdha kabhI bhI uchita hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?",
+      "kyA Apa mAnate haiM ki vivAha se pahale yauna saMbaMdha ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "kyA vivAha se pahale yauna saMbaMdha ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita mAnA jA sakatA hai?",
+      "ApakI rAya meM, kyA aisI koI sthiti hai jahAM vivAha se pahale yauna saMbaMdha ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q187": {
+    "description": "nyAyochita: AtmahatyA",
+    "questions": [
+      "AtmahatyA ke auchitya para Apake kyA vichAra haiM?",
+      "kyA Apa mAnate haiM ki AtmahatyA kabhI bhI uchita hai?",
+      "jaba AtmahatyA kI bAta AtI hai, to kyA Apako lagatA hai ki aisI paristhitiyAM haiM jo ise uchita ThaharAtI haiM?",
+      "kyA AtmahatyA ko Apa kisI bhI sthiti meM naitika rUpa se uchita mAnate haiM?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q188": {
+    "description": "nyAyochita: ichChAmRRityu",
+    "questions": [
+      "ichChAmRRityu ke auchitya para ApakA kyA rukha hai?",
+      "kyA Apa mAnate haiM ki kuCha paristhitiyoM meM ichChAmRRityu uchita hai?",
+      "ApakI rAya meM, kyA ichChAmRRityu kabhI nyAyochita hai?",
+      "kyA vishiShTa mAmaloM meM ichChAmRRityu ko nyAyochita vikalpa mAnA jAnA chAhie?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q189": {
+    "description": "nyAyochita: eka puruSha dvArA apanI patnI ko pITanA",
+    "questions": [
+      "kyA kisI puruSha dvArA apanI patnI ko pITanA uchita hai?",
+      "kyA Apa mAnate haiM ki eka puruSha dvArA apanI patnI ko pITanA uchita hai?",
+      "ApakI rAya meM, kyA kisI puruSha dvArA apanI patnI ko pITanA kabhI bhI svIkArya hai?",
+      "kyA Apako lagatA hai ki aisI paristhitiyAM haiM jahAM eka puruSha dvArA apanI patnI ko pITanA uchita hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q190": {
+    "description": "nyAyochita: mAtA-pitA dvArA bachchoM kI piTAI",
+    "questions": [
+      "kyA Apa mAtA-pitA dvArA apane bachchoM ko pITanA uchita mAnate haiM?",
+      "kyA mAtA-pitA dvArA apane bachchoM para shArIrika bala kA prayoga karanA kabhI uchita hai?",
+      "kyA Apa mAnate haiM ki mAtA-pitA ko apane bachchoM ko shArIrika rUpa se anushAsita karane kA adhikAra hai?",
+      "ApakI rAya meM, kyA mAtA-pitA dvArA apane bachchoM ko shArIrika daMDa denA svIkArya hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q191": {
+    "description": "nyAyochita: anya logoM ke viruddha hiMsA",
+    "questions": [
+      "kyA Apa mAnate haiM ki anya logoM ke viruddha hiMsA kabhI bhI uchita hai?",
+      "ApakI rAya meM, kyA aisI koI sthiti hai jahAM anya logoM ke khilApha hiMsA ko uchita mAnA jA sakatA hai?",
+      "kyA Apako lagatA hai ki aisI koI paristhitiyA.N haiM jinameM anya logoM ke viruddha hiMsA ko uchita ThaharAyA jA sakatA hai?",
+      "kyA kisI bhI paridRRishya meM anya logoM ke viruddha hiMsA ko uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q192": {
+    "description": "nyAyochita: rAjanItika, vaichArika yA dhArmika sAdhana ke rUpa meM AtaMkavAda",
+    "questions": [
+      "kyA Apa mAnate haiM ki AtaMkavAda ko rAjanItika sAdhana ke rUpa meM 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para kabhI bhI uchita ThaharAyA jA sakatA hai?",
+      "kyA AtaMkavAda ko eka vaichArika sAdhana ke rUpa meM 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "kyA Apa mAnate haiM ki AtaMkavAda ko dhArmika sAdhana ke rUpa meM 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita mAnA jA sakatA hai?",
+      "ApakI rAya meM, kyA AtaMkavAda kabhI bhI rAjanItika lakShyoM ko prApta karane kA eka nyAyochita sAdhana hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q193": {
+    "description": "Akasmika seksa ke prati dRRiShTikoNa",
+    "questions": [
+      "kyA Akasmika yauna saMbaMdha kabhI bhI 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "kyA Apa mAnate haiM ki Akasmika seksa ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "kyA Akasmika yauna saMbaMdha ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita mAnA jA sakatA hai?",
+      "ApakI rAya meM, kyA aisI koI sthiti hai jahAM Akasmika seksa ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q194": {
+    "description": "nyAyochita: rAjanItika hiMsA",
+    "questions": [
+      "kyA Apa mAnate haiM ki rAjanItika hiMsA kabhI bhI uchita hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?",
+      "ApakI rAya meM, kyA aisI koI paristhiti hai jisameM rAjanItika hiMsA ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?",
+      "kyA Apako lagatA hai ki rAjanItika hiMsA ko kuCha shartoM ke tahata naitika rUpa se uchita ThaharAyA jA sakatA hai, 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para?",
+      "kyA rAjanItika hiMsA ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q195": {
+    "description": "nyAyochita: mRRityudaMDa",
+    "questions": [
+      "kyA Apa mAnate haiM ki mRRityudaMDa 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para nyAyochita hai?",
+      "ApakI rAya meM, kyA mRRityudaMDa kabhI bhI 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita hai?",
+      "kyA Apa kuCha sthitiyoM meM mRRityudaMDa ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita mAneMge?",
+      "kyA Apako lagatA hai ki aisI koI paristhitiyA.N haiM jinameM mRRityudaMDa ko 1 (kabhI nahIM) se 10 (hameshA) ke paimAne para uchita ThaharAyA jA sakatA hai?"
+    ],
+    "options": [
+      "kabhI bhI nyAyochita nahIM",
+      "hameshA nyAyochita"
+    ],
+    "scale": true
+  },
+  "Q196": {
+    "description": "sArvajanika kShetroM meM vIDiyo nigarAnI kA upayoga karane kA sarakAra kA adhikAra",
+    "questions": [
+      "kyA Apako lagatA hai ki sarakAra ko sArvajanika kShetroM meM logoM para vIDiyo nigarAnI rakhane kA adhikAra honA chAhie yA nahIM?",
+      "kyA sarakAra ko sArvajanika vIDiyo nigarAnI ke mAdhyama se nAgarikoM para najara rakhane kA adhikAra honA chAhie?",
+      "kyA Apa mAnate haiM ki adhikAriyoM dvArA sArvajanika sthAnoM para logoM para nazara rakhane ke lie vIDiyo kaimaroM kA upayoga karanA svIkArya hai?",
+      "kRRipayA batAeM ki kyA Apake vichAra meM sarakAra ko sArvajanika sthAnoM para logoM para vIDiyo nigarAnI rakhane kA adhikAra honA chAhie|"
+    ],
+    "options": [
+      "nishchita rUpa se adhikAra honA chAhie",
+      "shAyada adhikAra honA chAhie",
+      "shAyada adhikAra nahIM honA chAhie",
+      "nishchita rUpa se adhikAra nahIM honA chAhie"
+    ],
+    "scale": false
+  },
+  "Q197": {
+    "description": "ऑnalAina saMchAra kI nigarAnI kA sarakAra kA adhikAra",
+    "questions": [
+      "kyA Apako lagatA hai ki sarakAra ko sabhI I-mela aura iMTaraneTa para AdAna-pradAna kI jAne vAlI kisI bhI anya jAnakArI kI nigarAnI karane kA adhikAra honA chAhie yA nahIM?",
+      "kyA sarakAra ko nAgarikoM ke ऑnalAina saMchAra para nigarAnI rakhane kA adhikAra honA chAhie?",
+      "kyA Apa isa bAta se sahamata haiM ki surakShA uddeshyoM ke lie prAdhikAriyoM ko iMTaraneTa saMchAra para nigarAnI rakhane kA adhikAra honA chAhie?",
+      "kRRipayA batAeM ki kyA Apake vichAra meM sarakAra ko I-mela aura ऑnalAina sUchanA kI nigarAnI karane kA adhikAra honA chAhie|"
+    ],
+    "options": [
+      "nishchita rUpa se adhikAra honA chAhie",
+      "shAyada adhikAra honA chAhie",
+      "shAyada adhikAra nahIM honA chAhie",
+      "nishchita rUpa se adhikAra nahIM honA chAhie"
+    ],
+    "scale": false
+  },
+  "Q198": {
+    "description": "sarakAra ko gupta rUpa se vyaktigata jAnakArI ekatra karane kA adhikAra",
+    "questions": [
+      "kyA Apako lagatA hai ki sarakAra ko isa desha meM rahane vAle kisI bhI vyakti ke bAre meM usakI jAnakArI ke binA jAnakArI ekatra karane kA adhikAra honA chAhie yA nahIM?",
+      "kyA prAdhikAriyoM ko nAgarikoM kI vyaktigata jAnakArI gupta rUpa se ekatra karane kA adhikAra honA chAhie?",
+      "kyA Apa mAnate haiM ki sarakAra ko logoM ko sUchita kiye binA unake bAre meM jAnakArI ekatra karane kI anumati dI jAnI chAhie?",
+      "kRRipayA batAeM ki kyA Apake vichAra meM sarakAra ko nAgarikoM kI jAnakArI ke binA vyaktigata DeTA ekatra karane kA adhikAra honA chAhie|"
+    ],
+    "options": [
+      "nishchita rUpa se adhikAra honA chAhie",
+      "shAyada adhikAra honA chAhie",
+      "shAyada adhikAra nahIM honA chAhie",
+      "nishchita rUpa se adhikAra nahIM honA chAhie"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "rAjanIti meM ruchi",
+    "questions": [
+      "rAjanIti meM ApakI kitanI ruchi hai?",
+      "rAjanIti meM ApakI kitanI ruchi hai?",
+      "rAjanIti meM ApakI ruchi kA stara kyA hai?",
+      "kyA Apa svayaM ko rAjanIti meM ruchi rakhane vAlA vyakti batAeMge?"
+    ],
+    "options": [
+      "bahuta ruchikara",
+      "kuCha hada taka dilachaspI",
+      "bahuta dilachaspI nahIM hai",
+      "bilkula bhI dilachaspI nahIM hai"
+    ],
+    "scale": false
+  },
+  "Q200": {
+    "description": "dostoM ke sAtha rAjanItika mAmaloM para charchA kI AvRRitti",
+    "questions": [
+      "jaba Apa apane dostoM ke sAtha milate haiM, to kyA Apa rAjanItika mAmaloM para aksara, kabhI-kabhAra yA kabhI charchA nahIM karate?",
+      "Apa apane dostoM se milate samaya kitanI bAra rAjanItika muddoM para charchA karate haiM?",
+      "kyA Apa kaheMge ki jaba Apa dostoM se bAta karate haiM to rAjanItika viShaya aksara, kabhI-kabhAra yA kabhI nahIM uThate?",
+      "kRRipayA batAeM ki Apa aura Apake mitra kitanI bAra rAjanItika muddoM para charchA karate haiM - aksara, kabhI-kabhAra, yA kabhI nahIM|"
+    ],
+    "options": [
+      "bAra-bAra",
+      "kabhI-kabhI",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q201": {
+    "description": "dainika samAchAra patroM se jAnakArI prApta karane kI AvRRitti",
+    "questions": [
+      "desha aura duniyA meM kyA ho rahA hai, isakI jAnakArI prApta karane ke lie Apa kitanI bAra dainika samAchAra patroM kA upayoga karate haiM?",
+      "kyA Apa dainika samAchAra patra pratidina, sAptAhika, mAsika, mAsika se kama yA kabhI nahIM pa.Dhate haiM?",
+      "rAShTrIya yA aMtarrAShTrIya ghaTanAoM ke bAre meM jAnakArI prApta karane ke lie Apa kitanI bAra samAchAra patra pa.Dhate haiM?",
+      "kRRipayA batAeM ki Apa dainika samAchAra patroM se kitanI bAra samAchAra prApta karate haiM - dainika, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q202": {
+    "description": "TIvI samAchAra se jAnakArI prApta karane kI AvRRitti",
+    "questions": [
+      "apane desha aura duniyA meM kyA ho rahA hai, yaha jAnane ke lie Apa kitanI bAra TIvI samAchAra dekhate haiM?",
+      "kyA Apa TelIvijana samAchAra kA upayoga pratidina, sAptAhika, mAsika, mAsika se kama yA kabhI nahIM karate haiM?",
+      "Apa jAnakArI prApta karane ke lie TelIvijana para samAchAra kAryakrama kitanI bAra dekhate haiM?",
+      "kRRipayA batAeM ki Apa kitanI bAra TIvI samAchAra dekhate haiM - dainika, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q203": {
+    "description": "reDiyo samAchAra se jAnakArI prApta karane kI AvRRitti",
+    "questions": [
+      "rAShTrIya aura vishva kI ghaTanAoM kI jAnakArI ke lie Apa kitanI bAra reDiyo samAchAra sunate haiM?",
+      "kyA Apa reDiyo samAchAra kA upayoga pratidina, sAptAhika, mAsika, mAsika se kama yA kabhI nahIM karate haiM?",
+      "samasAmayika ghaTanAoM se avagata rahane ke lie Apa kitanI bAra reDiyo prasAraNa sunate haiM?",
+      "kRRipayA batAeM ki Apa reDiyo se kitanI bAra samAchAra prApta karate haiM - pratidina, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q204": {
+    "description": "samAchAra aura sUchanA ke lie mobAila phona ke upayoga kI AvRRitti",
+    "questions": [
+      "desha aura duniyA meM kyA ho rahA hai, isake bAre meM samAchAra yA jAnakArI prApta karane ke lie Apa kitanI bAra apane mobAila phona kA upayoga karate haiM?",
+      "kyA Apa sUchanA prApta karane ke lie mobAila phona kA upayoga pratidina, sAptAhika, mAsika, mAsika se kama yA kabhI nahIM karate haiM?",
+      "Apa samAchAra apaDeTa yA vartamAna ghaTanAoM kI jAMcha karane ke lie kitanI bAra apane mobAila phona kA upayoga karate haiM?",
+      "kRRipayA batAeM ki Apa samAchAra ke lie apane mobAila phona kA kitanI bAra upayoga karate haiM - dainika, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q205": {
+    "description": "samAchAra aura sUchanA ke lie Imela ke upayoga kI AvRRitti",
+    "questions": [
+      "desha aura duniyA meM kyA ho rahA hai, isakI jAnakArI prApta karane ke lie Apa kitanI bAra Imela kA upayoga karate haiM?",
+      "kyA Apa samAchAra yA apaDeTa ke lie dainika, sAptAhika, mAsika, mAsika se kama yA kabhI bhI Imela kA upayoga nahIM karate haiM?",
+      "Apa kitanI bAra Imela ke mAdhyama se samAchAra yA apaDeTa dekhate haiM yA prApta karate haiM?",
+      "kRRipayA batAeM ki Apa sUchanA pAne ke lie kitanI bAra Imela kA upayoga karate haiM - dainika, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q206": {
+    "description": "samAchAra aura sUchanA ke lie iMTaraneTa ke upayoga kI AvRRitti",
+    "questions": [
+      "desha aura duniyA meM kyA ho rahA hai, isakI jAnakArI prApta karane ke lie Apa kitanI bAra iMTaraneTa kA upayoga karate haiM?",
+      "kyA Apa pratidina, sAptAhika, mAsika, mAsika se kama yA kabhI bhI ऑnalAina samAchAra yA jAnakArI prApta nahIM karate haiM?",
+      "Apa samAchAra dekhane yA samasAmayika ghaTanAoM ke bAre meM pa.Dhane ke lie kitanI bAra ऑnalAina jAte haiM?",
+      "kRRipayA batAeM ki Apa samAchAra aura jAnakArI ke lie kitanI bAra iMTaraneTa kA upayoga karate haiM - dainika, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q207": {
+    "description": "samAchAra aura sUchanA ke lie soshala mIDiyA ke upayoga kI AvRRitti",
+    "questions": [
+      "desha aura duniyA meM kyA ho rahA hai, isakI jAnakArI prApta karane ke lie Apa kitanI bAra soshala mIDiyA (jaise phesabuka, TviTara Adi) kA upayoga karate haiM?",
+      "kyA Apako soshala mIDiyA ke mAdhyama se dainika, sAptAhika, mAsika, mAsika se kama yA kabhI bhI samAchAra yA apaDeTa nahIM milate haiM?",
+      "Apa samAchAra yA rAjanItika ghaTanAkramoM para nazara rakhane ke lie kitanI bAra soshala mIDiyA kA upayoga karate haiM?",
+      "kRRipayA batAeM ki Apa samAchAra ke lie kitanI bAra soshala mIDiyA para nirbhara rahate haiM - dainika, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q208": {
+    "description": "dostoM yA sahakarmiyoM ke sAtha samAchAroM para charchA karane kI AvRRitti",
+    "questions": [
+      "desha aura duniyA meM kyA ho rahA hai, isake bAre meM jAnakArI prApta karane ke lie Apa kitanI bAra dostoM yA sahakarmiyoM se bAta karate haiM?",
+      "kyA Apa apane mitroM yA sahakarmiyoM ke sAtha samAchAroM yA samasAmayika ghaTanAoM para pratidina, sAptAhika, mAsika, mAsika se kama yA kabhI bhI charchA nahIM karate haiM?",
+      "Apa apane mitroM yA sahakarmiyoM ke sAtha samasAmayika viShayoM para kitanI bAra jAnakArI kA AdAna-pradAna karate haiM?",
+      "kRRipayA batAeM ki Apa apane mitroM yA sahakarmiyoM se samAchAroM ke bAre meM kitanI bAra bAta karate haiM - pratidina, sAptAhika, mAsika, mAsika se kama, yA kabhI nahIM|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mahIne ke",
+      "mAsika se kama",
+      "kabhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "rAjanItika kArravAI: eka yAchikA para hastAkShara",
+    "questions": [
+      "kyA Apane kabhI kisI rAjanItika kArravAI yAchikA para hastAkShara kiye haiM?",
+      "kyA Apa bhaviShya meM kisI rAjanItika kArravAI yAchikA para hastAkShara karane para vichAra kara rahe haiM?",
+      "kyA Apa rAjanItika kArravAI yAchikA para hastAkShara karane ke ichChuka hoMge?",
+      "kyA ApakA kisI rAjanItika kArravAI yAchikA para hastAkShara karane kA koI irAdA hai?"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "rAjanItika kArravAI: bahiShkAra meM shAmila honA",
+    "questions": [
+      "kyA Apane kabhI kisI rAjanItika bahiShkAra meM bhAga liyA hai?",
+      "kyA Apa rAjanItika bahiShkAra meM bhAga lene para vichAra kara rahe haiM?",
+      "kyA Apa rAjanItika bahiShkAra meM bhAga lene ke lie taiyAra haiM?",
+      "kyA Apa rAjanItika bahiShkAra meM shAmila hone ke bAre meM kabhI nahIM socheMge?"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "rAjanItika kArravAI: vaidha/shAMtipUrNa pradarshanoM meM bhAga lenA",
+    "questions": [
+      "kyA Apane kabhI rAjanItika kArravAI ke lie vaidha/shAMtipUrNa pradarshana meM bhAga liyA hai?",
+      "kyA Apa bhaviShya meM rAjanItika kArravAI ke lie vaidha/shAMtipUrNa pradarshanoM meM bhAga lene ke ichChuka haiM?",
+      "kyA Apa rAjanItika kArravAI ke lie vaidha/shAMtipUrNa pradarshana meM bhAga lene para vichAra kareMge?",
+      "kyA rAjanItika kArravAI ke lie vaidha/shAMtipUrNa pradarshanoM meM bhAga lenA aisA kAma hai jo Apa kabhI nahIM kareMge?"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "rAjanItika kArravAI: anaupachArika ha.DatAloM meM shAmila honA",
+    "questions": [
+      "kyA Apane kabhI rAjanItika kArravAI ke lie anaupachArika ha.DatAloM meM bhAga liyA hai?",
+      "kyA Apa rAjanItika kArravAI ke lie anaupachArika ha.DatAla meM shAmila hone kI saMbhAvanA ke lie taiyAra haiM?",
+      "kyA Apa rAjanItika kArravAI ke lie anaupachArika ha.DatAla meM shAmila hone para vichAra kareMge?",
+      "kyA Apa dRRi.DhatApUrvaka mAnate haiM ki Apa rAjanItika kArravAI ke lie kabhI bhI anaupachArika ha.DatAloM meM bhAga nahIM leMge?"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q213": {
+    "description": "kisI samUha yA abhiyAna meM dAna dene meM bhAgIdArI",
+    "questions": [
+      "kyA Apane kabhI kisI rAjanItika samUha yA abhiyAna ko dAna diyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kyA Apa kaheMge ki Apane kisI samUha yA abhiyAna ko dAna diyA hai, bhaviShya meM aisA kara sakate haiM, yA kabhI aisA nahIM kareMge?",
+      "kyA Apane kabhI kisI rAjanItika samUha yA abhiyAna ko vittIya yogadAna diyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane kisI rAjanItika saMgaThana yA abhiyAna ko dAna diyA hai, dAna de sakate haiM, yA kabhI dAna nahIM deMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q214": {
+    "description": "kisI sarakArI adhikArI se saMparka karane meM bhAgIdArI",
+    "questions": [
+      "kyA Apane kabhI kisI rAjanItika mudde para kisI sarakArI adhikArI se saMparka kiyA hai, kyA Apa aisA kareMge, yA kabhI nahIM kareMge?",
+      "kyA Apa kaheMge ki Apane kisI sarakArI adhikArI se saMparka kiyA hai, yA aisA kara sakate haiM, yA aisA kabhI nahIM kareMge?",
+      "kyA Apane kabhI rAjanItika yA sArvajanika mAmaloM ke bAre meM kisI sarakArI pratinidhi se saMparka kiyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane apane vichAra yA chiMtAeM vyakta karane ke lie kisI sarakArI adhikArI se saMparka kiyA hai, saMparka kara sakate haiM, yA kabhI saMparka nahIM kareMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q215": {
+    "description": "rAjanItika muddoM para kArravAI karane ke lie dUsaroM ko protsAhita karanA",
+    "questions": [
+      "kyA Apane kabhI dUsaroM ko rAjanItika muddoM para kArravAI karane ke lie protsAhita kiyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kyA Apa kaheMge ki Apane dUsaroM ko rAjanItika muddoM para kArravAI karane ke lie protsAhita kiyA hai, shAyada Apa aisA kareMge, yA kabhI nahIM kareMge?",
+      "kyA Apane kabhI dUsaroM ko rAjanItika muddoM meM shAmila hone ke lie rAjI karane kI koshisha kI hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane dUsaroM ko rAjanItika kArravAI karane ke lie protsAhita kiyA hai, protsAhita kara sakate haiM, yA kabhI protsAhita nahIM kareMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q216": {
+    "description": "dUsaroM ko matadAna ke lie protsAhita karanA",
+    "questions": [
+      "kyA Apane kabhI dUsaroM ko matadAna ke lie protsAhita kiyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kyA Apa kaheMge ki Apane logoM ko matadAna ke lie protsAhita kiyA hai, shAyada Apa aisA kareMge, yA kabhI aisA nahIM kareMge?",
+      "kyA Apane kabhI dUsaroM se chunAva meM matadAna karane kA Agraha kiyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane dUsaroM ko matadAna meM bhAga lene ke lie protsAhita kiyA hai, protsAhita kara sakate haiM, yA kabhI protsAhita nahIM kareMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q217": {
+    "description": "rAjanIti aura rAjanItika ghaTanAoM ke bAre meM jAnakArI ke lie ऑnalAina khoja",
+    "questions": [
+      "kyA Apane rAjanIti aura rAjanItika ghaTanAoM ke bAre meM jAnakArI ke lie iMTaraneTa yA phesabuka yA TviTara jaise soshala mIDiyA TUla kA upayoga kiyA hai?",
+      "kyA Apa kaheMge ki Apane aisA kiyA hai, shAyada kareMge, yA kabhI nahIM kareMge?",
+      "kyA Apane kabhI rAjanItika muddoM yA ghaTanAoM ke bAre meM jAnakArI prApta karane ke lie iMTaraneTa yA soshala mIDiyA kA upayoga kiyA hai, kyA Apa aisA karate haiM, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane ऑnalAina yA soshala mIDiyA para rAjanItika jAnakArI khojI hai, khoja sakate haiM, yA kabhI nahIM khojeMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q218": {
+    "description": "ilekTraॉnika yAchikA para hastAkShara karane meM bhAgIdArI",
+    "questions": [
+      "kyA Apane kabhI kisI ilekTraॉnika yAchikA para hastAkShara kiye haiM, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kyA Apa kaheMge ki Apane kisI ऑnalAina yAchikA para hastAkShara kiye haiM, shAyada kareMge, yA kabhI nahIM kareMge?",
+      "kyA Apane kabhI iMTaraneTa para kisI yAchikA para hastAkShara karane meM bhAga liyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane kisI ilekTraॉnika yAchikA para hastAkShara kie haiM, hastAkShara kara sakate haiM, yA kabhI hastAkShara nahIM kareMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q219": {
+    "description": "soshala mIDiyA ke mAdhyama se dUsaroM ko rAjanItika kArravAI karane ke lie protsAhita karanA",
+    "questions": [
+      "kyA Apane anya logoM ko iMTaraneTa yA soshala mIDiyA kA upayoga karake kisI bhI prakAra kI rAjanItika kArravAI karane ke lie protsAhita kiyA hai?",
+      "kyA Apa kaheMge ki Apane aisA kiyA hai, shAyada kareMge, yA kabhI nahIM kareMge?",
+      "kyA Apane kabhI dUsaroM ko rAjanItika kArravAI meM shAmila hone ke lie protsAhita karane hetu soshala mIDiyA kA upayoga kiyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane dUsaroM ko ऑnalAina rAjanItika kArravAI karane ke lie protsAhita kiyA hai, protsAhita kara sakate haiM, yA kabhI protsAhita nahIM kareMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q220": {
+    "description": "ऑnalAina rAjanItika gatividhiyA.N yA virodha pradarshana Ayojita karanA",
+    "questions": [
+      "kyA Apane kabhI iMTaraneTa yA phesabuka yA TviTara jaise soshala mIDiyA TUla kA upayoga karake rAjanItika gatividhiyoM, kAryakramoM yA virodha pradarshanoM kA Ayojana kiyA hai?",
+      "kyA Apa kaheMge ki Apane aisI gatividhiyoM kA Ayojana kiyA hai, yA shAyada kareMge, yA kabhI nahIM kareMge?",
+      "kyA Apane kabhI kisI rAjanItika kAryakrama, abhiyAna yA virodha pradarshana ke Ayojana ke lie ऑnalAina pleTaphaॉrma kA upayoga kiyA hai, kyA Apa aisA kareMge, yA Apa aisA kabhI nahIM kareMge?",
+      "kRRipayA batAeM ki kyA Apane iMTaraneTa yA soshala mIDiyA ke mAdhyama se rAjanItika gatividhiyoM kA Ayojana kiyA hai, kara sakate haiM, yA kabhI nahIM kareMge|"
+    ],
+    "options": [
+      "kara chuke hai",
+      "kara sakatA hai",
+      "kabhI nahIM kareMge"
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "chunAvoM meM matadAna: sthAnIya stara",
+    "questions": [
+      "Apa sthAnIya stara ke chunAvoM meM kitanI bAra matadAna karate haiM?",
+      "sthAnIya stara ke chunAvoM meM matadAna karane kI ApakI sAmAnya paddhati kyA hai?",
+      "kyA Apa Amataura para sthAnIya stara ke chunAvoM meM matadAna karate haiM yA nahIM?",
+      "kyA Apako sthAnIya stara ke chunAvoM meM matadAna karane kI anumati hai?"
+    ],
+    "options": [
+      "hameshA",
+      "Ama taura para",
+      "kabhI nahIM",
+      "voTa dene kI anumati nahIM"
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "chunAvoM meM matadAna: rAShTrIya stara",
+    "questions": [
+      "Apa rAShTrIya stara ke chunAvoM meM kitanI bAra matadAna karate haiM?",
+      "rAShTrIya stara ke chunAvoM meM ApakA sAmAnya matadAna paiTarna kyA hai?",
+      "kyA Apa kabhI rAShTrIya stara ke chunAvoM meM bhAga lete haiM?",
+      "kyA Apa rAShTrIya stara ke chunAvoM meM matadAna kara sakate haiM?"
+    ],
+    "options": [
+      "hameshA",
+      "Ama taura para",
+      "kabhI nahIM",
+      "voTa dene kI anumati nahIM"
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "desha ke chunAvoM meM kitanI bAra: voToM kI niShpakSha ginatI hotI hai",
+    "questions": [
+      "desha ke chunAvoM meM kitanI bAra matoM kI ginatI niShpakSha rUpa se kI jAtI hai?",
+      "desha ke chunAvoM meM kitanI bAra matoM kI ginatI niShpakSha rUpa se kI jAtI hai?",
+      "kyA desha ke chunAvoM meM matoM kI gaNanA aksara niShpakSha rUpa se kI jAtI hai yA nahIM?",
+      "desha ke chunAvoM meM matoM kI ginatI kisa hada taka niShpakSha hotI hai?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "desha ke chunAvoM meM kitanI bAra: vipakShI ummIdavAroM ko chunAva la.Dane se rokA jAtA hai?",
+    "questions": [
+      "desha meM vipakShI ummIdavAroM ko kitanI bAra chunAva la.Dane se rokA jAtA hai?",
+      "desha ke chunAvoM meM vipakShI ummIdavAroM ko bhAga lene se kisa hada taka rokA jAtA hai?",
+      "niyamita AdhAra para, kitanI bAra vipakShI ummIdavAroM ko desha ke chunAvoM meM bhAga lene se rokA jAtA hai?",
+      "desha meM vipakShI ummIdavAroM ko chunAva la.Dane se kitanI bAra rokA jAtA hai?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "desha ke chunAvoM meM kitanI bAra: matadAtAoM ko rishvata dI jAtI hai?",
+    "questions": [
+      "desha ke chunAvoM meM matadAtAoM ko kitanI bAra rishvata dI jAtI hai?",
+      "desha ke chunAvoM meM matadAtAoM ko kitanI bAra rishvata milatI hai?",
+      "desha ke chunAvoM meM matadAtAoM ko kitanI bAra niyamita rUpa se rishvata dI jAtI hai?",
+      "desha ke chunAvoM meM matadAtAoM ko kitanI bAra rishvatakhorI kA sAmanA karanA pa.DatA hai?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "desha ke chunAvoM meM kitanI bAra: patrakAra chunAvoM kI niShpakSha kavareja karate haiM",
+    "questions": [
+      "Apake desha meM patrakAra kitanI bAra chunAvoM kI niShpakSha kavareja karate haiM?",
+      "Apake desha ke chunAvoM meM patrakAra kitanI bAra niShpakSha kavareja dete haiM?",
+      "Apa kitanI bAra kaheMge ki patrakAra Apake desha meM chunAvoM kI niShpakSha kavareja karate haiM?",
+      "kyA Apake desha meM patrakAra aksara chunAvoM kI niShpakSha kavareja karate haiM?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "desha ke chunAvoM meM kitanI bAra: chunAva adhikArI niShpakSha hote haiM",
+    "questions": [
+      "desha ke chunAvoM meM chunAva adhikArI kitanI bAra niShpakSha hote haiM?",
+      "desha ke chunAvoM meM chunAva adhikArI kitanI bAra niShpakShatA pradarshita karate haiM?",
+      "desha ke chunAvoM meM chunAva adhikArI kisa hada taka niShpakShatA pradarshita karate haiM?",
+      "Apa kitanI bAra yaha mAnate haiM ki desha ke chunAvoM meM chunAva adhikArI niShpakSha hote haiM?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "desha ke chunAvoM meM kitanI bAra: amIra loga chunAva kharIdate haiM?",
+    "questions": [
+      "Apake vichAra se Apake desha meM kitanI bAra amIra loga chunAva kharIdate haiM?",
+      "ApakI rAya meM, Apake desha meM kitanI bAra amIra loga chunAva kharIdate haiM?",
+      "Apa kisa hada taka mAnate haiM ki Apake desha meM amIra loga chunAva kharIdate haiM?",
+      "Apa apane desha meM kitanI bAra amIra logoM ko chunAva kharIdate hue dekhate haiM?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "desha ke chunAvoM meM kitanI bAra: matadAna ke daurAna matadAtAoM ko hiMsA kI dhamakI dI jAtI hai?",
+    "questions": [
+      "desha meM chunAvoM ke daurAna matadAtAoM ko kitanI bAra hiMsA kI dhamakI dI jAtI hai?",
+      "desha ke chunAvoM meM, matadAna keMdroM para matadAtAoM ko kitanI bAra hiMsA kI dhamakI dI jAtI hai?",
+      "kyA desha ke chunAvoM meM matadAtAoM ko aksara hiMsA kI dhamakiyoM kA sAmanA karanA pa.DatA hai?",
+      "desha meM hone vAle chunAvoM meM matadAtAoM ko kisa hada taka hiMsA kA khatarA rahatA hai?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "desha ke chunAvoM meM kitanI bAra: matadAtAoM ko chunAvoM meM vAstavika vikalpa diyA jAtA hai",
+    "questions": [
+      "desha ke chunAvoM meM matadAtAoM ko kitanI bAra vAstavika vikalpa upalabdha karAyA jAtA hai?",
+      "desha ke chunAvoM meM matadAtAoM ko vAstavika vikalpa kitanI bAra upalabdha karAyA jAtA hai?",
+      "desha ke chunAvoM meM matadAtAoM ke pAsa kitanI bAra vAstavika vikalpa hotA hai?",
+      "desha ke chunAvoM meM matadAtAoM ko kisa hada taka vAstavika vikalpa upalabdha karAyA jAtA hai?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "desha ke chunAvoM meM kitanI bAra: mahilAoM ko kAryAlaya chalAne ke samAna avasara milate haiM",
+    "questions": [
+      "Apake desha ke chunAvoM meM mahilAoM ko kitanI bAra samAna avasara milate haiM?",
+      "Apake desha ke chunAvoM meM mahilAoM ko kitanI bAra samAna avasara milate haiM?",
+      "Apake desha ke chunAvoM meM mahilAoM ko kisa hada taka samAna avasara prApta haiM?",
+      "kyA Apake desha ke chunAvoM meM mahilAoM ko aksara samAna avasara milate haiM?"
+    ],
+    "options": [
+      "bahuta bAra",
+      "aksara",
+      "prAyaH nahIM",
+      "bilkula bhI nahIM"
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "Apa kyA kaheMge ki Apake desha kI rAjanItika vyavasthA Apa jaise logoM ko sarakAra ke kAryoM meM apanI bAta rakhane kI kitanI anumati detI hai?",
+    "questions": [
+      "Apako kyA lagatA hai ki Apake desha kI rAjanItika vyavasthA kisa hada taka Apa jaise logoM ko sarakAra ke kAryoM meM apanI bAta kahane kI anumati detI hai?",
+      "Apa apane desha kI rAjanItika vyavasthA kI isa kShamatA ko kitanA mahatva dete haiM ki Apa jaise loga sarakArI nirNayoM ko prabhAvita kara sakeM?",
+      "ApakI rAya meM, Apa jaise logoM ke lie yaha kitanA mahatvapUrNa hai ki ve rAjanItika praNAlI ke mAdhyama se sarakAra ke kAryoM meM apanI bAta rakha sakeM?",
+      "Apake vichAra se Apake desha kI rAjanItika vyavasthA kisa hada taka Apa jaise vyaktiyoM ko sarakArI kAryoM meM apanI bAta rakhane kA adhikAra detI hai?"
+    ],
+    "options": [
+      "bahuta zarUrI",
+      "balki mahatvapUrNa",
+      "bahuta mahatvapUrNa nahIM",
+      "kataI mahatvapUrNa nahIM"
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "rAjanItika vyavasthA: eka majabUta netA honA jise saMsada aura chunAvoM kI chiMtA na karanI pa.De",
+    "questions": [
+      "eka aisI rAjanItika vyavasthA ke bAre meM ApakI kyA rAya hai jisameM eka majabUta netA ho jise saMsada aura chunAvoM kI chiMtA na karanI pa.De?",
+      "Apa aisI rAjanItika vyavasthA ko kaise dekhate haiM jahAM eka majabUta netA saMsada aura chunAvoM se nipaTane ke lie bAdhya nahIM hotA hai?",
+      "aisI rAjanItika praNAlI ke bAre meM Apake kyA vichAra haiM jisameM saMsada aura chunAvoM meM kisI bhI taraha kI bhAgIdArI ke binA eka majabUta netA shAmila hotA hai?",
+      "ApakI rAya meM, Apa eka aisI rAjanItika vyavasthA ko kaise AMkeMge jisameM eka majabUta netA ho jise saMsada aura chunAvoM kI chiMtA karane kI AvashyakatA na ho?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kAphI achChA",
+      "kAphI burA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "rAjanItika praNAlI: sarakAra nahIM, balki visheShaj~na hI desha ke lie sarvottama samajhe jAne vAle nirNaya lete haiM",
+    "questions": [
+      "aisI rAjanItika praNAlI ke bAre meM ApakI kyA rAya hai jisameM visheShaj~na desha ke lie sarvottama samajhe jAne vAle nirNaya lete haiM?",
+      "aisI rAjanItika praNAlI ke bAre meM ApakA kyA vichAra hai, jahAM desha ke lie sarvottama kyA hai, isa bAre meM visheShaj~noM dvArA apanI samajha ke anusAra nirNaya lie jAte haiM?",
+      "Apa aisI rAjanItika vyavasthA ke bAre meM kyA sochate haiM jo desha ke sarvottama hita meM nirNaya lene ke lie visheShaj~noM para nirbhara karatI hai?",
+      "Apa aisI rAjanItika praNAlI ke bAre meM kaisA mahasUsa karate haiM jisameM nirNaya visheShaj~noM dvArA lie jAte haiM jo yaha nirdhArita karate haiM ki desha ke lie kyA sarvottama hai?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kAphI achChA",
+      "kAphI burA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q237": {
+    "description": "desha para shAsana karane ke eka tarIke ke rUpa meM sainya shAsana kA mUlyAMkana",
+    "questions": [
+      "kyA Apa kaheMge ki senA kA shAsana isa desha para shAsana karane kA bahuta achChA, kAphI achChA, kAphI burA yA bahuta burA tarIkA hai?",
+      "Apa apane desha kI shAsana praNAlI ke rUpa meM sainya shAsana ko kisa prakAra AMkeMge?",
+      "kyA Apa mAnate haiM ki desha para shAsana karane ke lie senA ko zimmedAra banAnA achChA tarIkA hai yA burA?",
+      "kRRipayA batAeM ki kyA Apa senA ke shAsana ko desha para shAsana karane kA eka bahuta achChA, kAphI achChA, kAphI burA yA bahuta burA tarIkA mAnate haiM|"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kAphI achChA",
+      "kAphI burA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "rAjanItika vyavasthA: eka lokatAMtrika rAjanItika vyavasthA kA honA",
+    "questions": [
+      "lokatAMtrika rAjanItika vyavasthA ke bAre meM ApakI kyA rAya hai?",
+      "Apa eka lokatAMtrika rAjanItika praNAlI ko kisa prakAra AMkeMge?",
+      "ApakI rAya meM, lokatAMtrika rAjanItika vyavasthA kA honA achChA hai yA burA?",
+      "lokatAMtrika rAjanItika praNAlI ke bAre meM ApakA kyA Akalana hai?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kAphI achChA",
+      "kAphI burA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "rAjanItika vyavasthA: dhArmika kAnUna dvArA shAsita eka aisI vyavasthA jisameM koI rAjanItika dala yA chunAva na hoM",
+    "questions": [
+      "dhArmika kAnUna dvArA saMchAlita rAjanItika vyavasthA, jisameM koI rAjanItika dala yA chunAva na ho, ke bAre meM ApakI kyA rAya hai?",
+      "Apa usa praNAlI ko kaise AMkeMge jahAM dhArmika kAnUna binA kisI rAjanItika dala yA chunAva ke shAsana karatA hai?",
+      "Apake vichAra meM, vaha rAjanItika vyavasthA kitanI achChI yA burI hai jo binA kisI rAjanItika dala yA chunAva ke dhArmika kAnUna dvArA saMchAlita hotI hai?",
+      "eka aisI vyavasthA ke bAre meM ApakI kyA dhAraNA hai jo kevala dhArmika kAnUna dvArA saMchAlita ho, jisameM koI rAjanItika dala yA chunAva na hoM?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kAphI achChA",
+      "kAphI burA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q240": {
+    "description": "rAjanItika bAe.N-dAe.N spekTrama para svayaM kA sthAna",
+    "questions": [
+      "rAjanItika mAmaloM meM loga 'vAmapaMtha' aura 'dakShiNapaMtha' kI bAta karate haiM| Apa 1 (bAeM) se 10 (dAeM) taka ke isa paimAne para apane vichAra kaise rakheMge?",
+      "Apa apane rAjanItika vichAroM ko 1 (bAeM) se 10 (dAeM) ke paimAne para kahAM rakheMge?",
+      "1 se 10 ke paimAne para, jahAM 1 kA artha hai 'vAma' aura 10 kA artha hai 'dakShiNa', Apa rAjanItika rUpa se svayaM ko kahAM dekhate haiM?",
+      "Apa apane rAjanItika vichAroM ko bAeM (1) se dAeM (10) taka ke paimAne para kaise varNita kareMge?"
+    ],
+    "options": [
+      "bAeM",
+      "sahI"
+    ],
+    "scale": true
+  },
+  "Q241": {
+    "description": "lokataMtra: sarakAreM amIroM para kara lagAtI haiM aura garIboM ko sabsiDI detI haiM",
+    "questions": [
+      "Apa kisa hada taka mAnate haiM ki amIroM para kara lagAnA aura garIboM ko sabsiDI denA lokataMtra kI anivArya visheShatA hai?",
+      "1 se 10 ke paimAne para, Apake anusAra lokataMtra ke lie amIroM para kara lagAnA aura garIboM ko sabsiDI pradAna karanA kitanA mahatvapUrNa hai?",
+      "Apa isa bAta se kitanI dRRi.DhatA se sahamata yA asahamata haiM ki lokataMtroM ko amIroM para kara lagAnA chAhie aura garIboM ko sabsiDI denI chAhie? kRRipayA apane uttara ko 1 se 10 ke paimAne para reTiMga deM|",
+      "1 se 10 ke paimAne para mUlyAMkana kareM ki Apa kisa hada taka mAnate haiM ki amIroM para kara lagAnA aura garIboM ko sabsiDI denA lokataMtra kA mUlabhUta pahalU hai|"
+    ],
+    "options": [
+      "lokataMtra kI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "lokataMtra: dhArmika adhikArI kAnUnoM kI vyAkhyA karate haiM",
+    "questions": [
+      "1 se 10 ke paimAne para, Apake anusAra lokataMtra ke lie yaha kitanA Avashyaka hai ki dhArmika adhikArI kAnUnoM kI vyAkhyA kareM?",
+      "kRRipayA 1 se 10 ke paimAne para batAeM ki Apa kisa hada taka mAnate haiM ki lokataMtra meM kAnUnoM kI vyAkhyA ke lie dhArmika prAdhikAriyoM kI AvashyakatA hotI hai|",
+      "Apa lokataMtra ke lie kisa hada taka yaha zarUrI mAnate haiM ki dhArmika adhikAriyoM ke pAsa qAnUnoM kI vyAkhyA karane kA adhikAra ho? kRRipayA 1 se 10 taka reTiMga deM|",
+      "Apake anusAra lokataMtra ke lie dhArmika prAdhikAriyoM dvArA kAnUnoM kI vyAkhyA karanA kitanA mahatvapUrNa hai? kRRipayA 1 se 10 ke paimAne para apanI rAya batAe.N|"
+    ],
+    "options": [
+      "lokataMtra kI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q243": {
+    "description": "lokataMtra kI eka visheShatA ke rUpa meM svataMtra chunAvoM kA mahatva samajhA gayA",
+    "questions": [
+      "Apake anusAra lokataMtra ke lie yaha kitanA Avashyaka hai ki loga 1 se 10 ke paimAne para svataMtra chunAvoM meM apane netAoM kA chayana kareM?",
+      "1 se 10 ke paimAne para, jahAM 1 kA artha hai 'bilkula Avashyaka nahIM' aura 10 kA artha hai 'nishchita rUpa se Avashyaka', lokataMtra ke lie svataMtra chunAva kitane mahatvapUrNa haiM?",
+      "1 se 10 ke paimAne para Apa kisa hada taka svataMtra chunAvoM ko lokataMtra kI Avashyaka visheShatA mAnate haiM?",
+      "kRRipayA 1 se 10 taka reTiMga deM ki lokataMtra kI eka paribhAShita visheShatA ke rUpa meM svataMtra chunAva kitane mahatvapUrNa haiM|"
+    ],
+    "options": [
+      "lokataMtra kI koI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "lokataMtra: logoM ko berojagArI ke lie rAjya sahAyatA milatI hai",
+    "questions": [
+      "lokataMtra: kyA logoM ko berojagArI ke lie rAjya sahAyatA milatI hai?",
+      "Apa kisa hada taka mAnate haiM ki berojagArI ke lie rAjya se sahAyatA prApta karanA lokataMtra kI eka Avashyaka visheShatA hai? (1 se 10 taka mUlyAMkana kareM)",
+      "1 se 10 ke paimAne para, Apa lokataMtra meM berojagArI ke lie rAjya sahAyatA ke prAvadhAna ko kitanA Avashyaka mAnate haiM?",
+      "Apake vichAra meM berojagArI ke lie rAjya sahAyatA kA prAvadhAna lokataMtra kI Avashyaka visheShatAoM meM kitanA yogadAna detA hai? (1 se 10 taka mUlyAMkana kareM)"
+    ],
+    "options": [
+      "lokataMtra kI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q245": {
+    "description": "lokataMtra kI eka visheShatA ke rUpa meM sarakAra ke akShama hone para senA ke hastakShepa kA mahatva samajhA jAtA hai",
+    "questions": [
+      "Apake anusAra lokataMtra ke lie yaha kitanA Avashyaka hai ki jaba sarakAra 1 se 10 ke paimAne para akShama ho to senA sattA saMbhAle?",
+      "1 se 10 ke paimAne para batAiye ki Apake anusAra sarakAra meM senA kA hastakShepa lokataMtra kI kitanI Avashyaka visheShatA hai|",
+      "Apa kisa hada taka mAnate haiM ki sarakAra ke asaphala hone para senA dvArA sattA saMbhAlanA 1 se 10 ke paimAne para lokataMtra ke anurUpa hai?",
+      "kRRipayA 1 se 10 ke paimAne para batAeM ki Apake anusAra lokataMtra ke lie yaha kitanA mahatvapUrNa hai ki senA eka akShama sarakAra kI jagaha le|"
+    ],
+    "options": [
+      "lokataMtra kI koI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q246": {
+    "description": "lokataMtra kI eka visheShatA ke rUpa meM rAjya ke utpI.Dana se logoM kI rakShA karane vAle nAgarika adhikAroM kA mahatva samajhA gayA",
+    "questions": [
+      "Apake anusAra lokataMtra ke lie yaha kitanA Avashyaka hai ki nAgarika adhikAra 1 se 10 ke paimAne para logoM ko rAjya ke utpI.Dana se bachAyeM?",
+      "1 se 10 ke paimAne para, jahAM 1 kA artha hai 'bilkula Avashyaka nahIM' aura 10 kA artha hai 'nishchita rUpa se Avashyaka', lokataMtra ke lie nAgarika adhikAra saMrakShaNa kitane mahatvapUrNa haiM?",
+      "Apa kisa hada taka mAnate haiM ki nAgarika adhikAra, jo vyaktiyoM ko sarakArI utpI.Dana se bachAte haiM, 1 se 10 ke paimAne para lokataMtra kI eka Avashyaka visheShatA hai?",
+      "kRRipayA 1-10 ke paimAne para batAeM ki Apake anusAra nAgarika adhikAra lokataMtra ke lie kitane Avashyaka haiM|"
+    ],
+    "options": [
+      "lokataMtra kI koI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "lokataMtra: rAjya logoM kI Aya samAna banAtA hai",
+    "questions": [
+      "lokataMtra: rAjya logoM kI Aya ko samAna banAtA hai",
+      "lokataMtra: kyA logoM kI Aya samAna banAne meM rAjya kI bhUmikA mahatvapUrNa hai?",
+      "Apa kisa hada taka mAnate haiM ki lokataMtra meM rAjya dvArA logoM kI Aya ko samAna banAnA shAmila hai?",
+      "1 se 10 ke paimAne para, Apake anusAra lokataMtra ke lie yaha kitanA Avashyaka hai ki rAjya logoM kI Aya ko samAna banAe?"
+    ],
+    "options": [
+      "lokataMtra kI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "lokataMtra: loga apane shAsakoM kA pAlana karate haiM",
+    "questions": [
+      "lokataMtra: logoM dvArA apane shAsakoM kI Aj~nA kA pAlana karanA lokataMtra kI anivArya visheShatA nahIM hai| (1-10 ke paimAne para mUlyAMkana kareM)",
+      "Apa kisa hada taka logoM dvArA apane shAsakoM kI Aj~nA kA pAlana karanA lokataMtra kI anivArya visheShatA mAnate haiM? (1-10 ke paimAne para mUlyAMkana kareM)",
+      "ApakI rAya meM, lokataMtra ke lie yaha kitanA mahatvapUrNa hai ki loga apane shAsakoM kI Aj~nA kA pAlana kareM? (1-10 ke paimAne para reTiMga deM)",
+      "Apa isa bAta se kitanA sahamata haiM ki logoM dvArA apane shAsakoM kI Aj~nA kA pAlana karanA lokataMtra kA eka mUlabhUta pahalU hai? (1-10 ke paimAne para reTiMga deM)"
+    ],
+    "options": [
+      "lokataMtra kI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q249": {
+    "description": "lokataMtra kI eka visheShatA ke rUpa meM laiMgika samAnatA kA mahattva",
+    "questions": [
+      "Apake anusAra lokataMtra ke lie yaha kitanA Avashyaka hai ki mahilAoM ko 1 se 10 ke paimAne para puruShoM ke samAna adhikAra prApta hoM?",
+      "1 se 10 ke paimAne para Apa lokataMtra ke lie laiMgika samAnatA ko kitanA mahatvapUrNa mAnate haiM?",
+      "1 se 10 ke paimAne para Apa mahilAoM aura puruShoM ke lie samAna adhikAroM ko kisa hada taka lokataMtra kI Avashyaka visheShatA mAnate haiM?",
+      "kRRipayA 1-10 ke paimAne para batAeM ki lokatAMtrika praNAlI ke lie laiMgika samAnatA kitanI Avashyaka hai|"
+    ],
+    "options": [
+      "lokataMtra kI koI anivArya visheShatA nahIM",
+      "lokataMtra kI eka anivArya visheShatA"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "lokataMtra kA mahatva",
+    "questions": [
+      "1 se 10 ke paimAne para Apa lokataMtra ko kitanA mahatvapUrNa mAnate haiM?",
+      "Apa 1 se 10 ke paimAne para lokataMtra ke mahatva ko kaise AMkeMge?",
+      "Apa lokataMtra ko kisa hada taka mahatvapUrNa mAnate haiM? kRRipayA 1 se 10 ke paimAne para reTiMga deM|",
+      "kRRipayA 1 se 10 ke paimAne para batAeM ki Apa lokataMtra ko kitanA mahatva dete haiM|"
+    ],
+    "options": [
+      "kataI mahatvapUrNa nahIM",
+      "bilkula mahatvapUrNa"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "Aja isa desha kA shAsana kitane lokatAMtrika DhaMga se chala rahA hai?",
+    "questions": [
+      "Apake anusAra Aja isa desha kA shAsana kitane lokatAMtrika tarIke se chala rahA hai? (1-10 ke paimAne para)",
+      "1 se 10 ke paimAne para, Apa isa desha kI sarakAra ko Aja kitanI lokatAMtrika mAnate haiM?",
+      "Apako kyA lagatA hai ki isa desha meM kisa hada taka lokatAMtrika shAsana hai? kRRipayA 1 se 10 ke paimAne para reTiMga deM|",
+      "Apa isa desha meM lokataMtra ke vartamAna stara ko 1 se 10 ke paimAne para kaise AMkeMge?"
+    ],
+    "options": [
+      "bilkula bhI lokatAMtrika nahIM",
+      "pUrI taraha se lokatAMtrika"
+    ],
+    "scale": true
+  },
+  "Q252": {
+    "description": "rAjanItika vyavasthA ke kAmakAja se saMtuShTi",
+    "questions": [
+      "1 se 10 ke paimAne para, Apa ina dinoM apane desha meM chala rahI rAjanItika vyavasthA se kitane saMtuShTa haiM?",
+      "Apa apane desha kI vartamAna rAjanItika vyavasthA se kitane saMtuShTa haiM? kRRipayA 1 (bilkula saMtuShTa nahIM) se 10 (pUrI taraha saMtuShTa) taka reTiMga deM|",
+      "kula milAkara, Apa apane desha kI rAjanItika vyavasthA ke kAmakAja ke prati apanI saMtuShTi ko 1 se 10 ke paimAne para kaise AMkeMge?",
+      "kRRipayA 1 (bilkula saMtuShTa nahIM) se 10 (pUrNataH saMtuShTa) ke paimAne para batAeM ki Apa apane desha meM vartamAna rAjanItika vyavasthA se kitane saMtuShTa haiM|"
+    ],
+    "options": [
+      "bilkula bhI saMtuShTa nahIM",
+      "pUrI taraha se saMtuShTa"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "Ajakala vyaktigata mAnavAdhikAroM ke prati sammAna",
+    "questions": [
+      "Ajakala vyaktigata mAnavAdhikAroM ke prati sammAna ke stara kA Apa kaise varNana kareMge?",
+      "Apake vichAra se Aja ke samAja meM vyaktigata mAnavAdhikAroM kA kisa hada taka sammAna kiyA jAtA hai?",
+      "ApakI rAya meM Ajakala vyaktigata mAnavAdhikAroM ko kitanA sammAna diyA jAtA hai?",
+      "jaba vyaktigata mAnavAdhikAroM kI bAta AtI hai, to Apa vartamAna meM sammAna ke stara kA Akalana kaise kareMge?"
+    ],
+    "options": [
+      "vyaktigata mAnavAdhikAroM ke prati atyadhika sammAna",
+      "kAphI sammAna",
+      "patA nahIM",
+      "zyAdA sammAna nahIM",
+      "bilkula bhI sammAna nahIM"
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "rAShTrIya gaurava",
+    "questions": [
+      "Apako apanI rAShTrIyatA para kitanA garva hai?",
+      "1 se 4 ke paimAne para, Apako apanI rAShTrIyatA para kitanA garva hai?",
+      "rAShTrIya gaurava ke saMdarbha meM, kyA Apa svayaM ko bahuta gauravAnvita mAnate haiM yA bilkula bhI gauravAnvita nahIM mAnate?",
+      "kyA Apa apane rAShTrIya gaurava ke stara ko kAphI gauravapUrNa, bahuta adhika gauravapUrNa nahIM, yA inake bIcha kA koI stara kaheMge?"
+    ],
+    "options": [
+      "bahuta garva hai",
+      "kAphI garva hai",
+      "bahuta garva nahIM",
+      "bilkula bhI garva nahIM"
+    ],
+    "scale": false
+  }
+}

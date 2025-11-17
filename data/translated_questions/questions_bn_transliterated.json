@@ -1,0 +1,3163 @@
+{
+  "Q1": {
+    "description": "jIvanera gurutvapUrNa viShaya়: parivAra",
+    "questions": [
+      "ApanAra jIvane parivArera gurutvake Apani kIbhAve mUlyAya়na karavena?",
+      "tomAra jIvane parivAra kataTA gurutvapUrNa vale tumi mane karo?",
+      "tumi ki valave ye tomAra jIvane parivAra khuvai gurutvapUrNa?",
+      "tumi ki tomAra jIvane parivArake gurutvapUrNa mane karo?"
+    ],
+    "options": [
+      "khuvai gurutvapUrNa",
+      "varaM gurutvapUrNa",
+      "jAni nA",
+      "khuva gurutvapUrNa naya়|",
+      "moTeo gurutvapUrNa naya়"
+    ]
+  },
+  "Q2": {
+    "description": "jIvane gurutvapUrNa: vandhurA",
+    "questions": [
+      "jIvane vandhurA kataTA gurutvapUrNa?",
+      "tomAra mate, jIvane vandhudera gurutva kataTA?",
+      "jIvane vandhudera kataTA gurutvapUrNa vale tumi mane karo?",
+      "tumi ki vishvAsa karo vandhurA jIvane aneka gurutvapUrNa?"
+    ],
+    "options": [
+      "khuvai gurutvapUrNa",
+      "varaM gurutvapUrNa",
+      "jAni nA",
+      "khuva gurutvapUrNa naya়|",
+      "moTeo gurutvapUrNa naya়"
+    ]
+  },
+  "Q3": {
+    "description": "jIvanera gurutvapUrNa: avasara samaya়",
+    "questions": [
+      "ApanAra jIvane avasara samaya় kataTA gurutvapUrNa?",
+      "avasara samaya় ApanAra kAChe kataTA gurutvapUrNa?",
+      "tumi ki avasara samaya়ke tomAra jIvane gurutvapUrNa mane karave?",
+      "gurutvera dika theke, ApanAra jIvane avasara samaya়ke Apani kothAya় rAkhavena?"
+    ],
+    "options": [
+      "khuvai gurutvapUrNa",
+      "varaM gurutvapUrNa",
+      "jAni nA",
+      "khuva gurutvapUrNa naya়|",
+      "moTeo gurutvapUrNa naya়"
+    ]
+  },
+  "Q4": {
+    "description": "jIvane gurutvapUrNa: rAjanIti",
+    "questions": [
+      "jIvane rAjanItira gurutvake Apani kIbhAve mUlyAya়na karavena?",
+      "jIvane rAjanIti kataTA gurutvapUrNa vale Apani mane karena?",
+      "tomAra mate, jIvane rAjanIti kataTA gurutvapUrNa?",
+      "jIvane rAjanIti kataTA gurutvapUrNa vale Apani mane karena?"
+    ],
+    "options": [
+      "khuvai gurutvapUrNa",
+      "varaM gurutvapUrNa",
+      "jAni nA",
+      "khuva gurutvapUrNa naya়|",
+      "moTeo gurutvapUrNa naya়"
+    ]
+  },
+  "Q5": {
+    "description": "jIvanera gurutvapUrNa viShaya়: kAja",
+    "questions": [
+      "tomAra jIvane kAja kataTA gurutvapUrNa?",
+      "tumi ki valave tomAra jIvane kAja gurutvapUrNa?",
+      "jIvane kAjake tumi kataTA gurutvapUrNa mane karo?",
+      "tumi ki kAjake jIvanera ekaTi gurutvapUrNa dika hiseve mane karo?"
+    ],
+    "options": [
+      "khuvai gurutvapUrNa",
+      "varaM gurutvapUrNa",
+      "jAni nA",
+      "khuva gurutvapUrNa naya়|",
+      "moTeo gurutvapUrNa naya়"
+    ]
+  },
+  "Q6": {
+    "description": "jIvane gurutvapUrNa: dharma",
+    "questions": [
+      "ApanAra jIvane dharma kataTA gurutvapUrNa?",
+      "ApanAra jIvane dharma kataTA gurutvapUrNa vale Apani mane karena?",
+      "tumi ki valave ye dharma tomAra jIvane gurutvapUrNa?",
+      "ApanAra jIvane dharmake Apani kataTA gurutva dena?"
+    ],
+    "options": [
+      "khuvai gurutvapUrNa",
+      "varaM gurutvapUrNa",
+      "jAni nA",
+      "khuva gurutvapUrNa naya়|",
+      "moTeo gurutvapUrNa naya়"
+    ]
+  },
+  "Q7": {
+    "description": "shishura gurutvapUrNa guNAvalI: bhAlo AcharaNa",
+    "questions": [
+      "shishudera madhye bhAlo AcharaNera gurutva samparke ApanAra matAmata kI?",
+      "bhAlo AcharaNa ki shishudera janya ekaTi gurutvapUrNa guNa?",
+      "tumi ki mane karo ye shishudera madhye bhAlo AcharaNera upara jora deoYA uchita?",
+      "tumi ki bhAlo AcharaNake shishudera ekaTi gurutvapUrNa vaishiShTya hiseve vivechanA karave?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q8": {
+    "description": "shishura gurutvapUrNa guNAvalI: svAdhInatA",
+    "questions": [
+      "ekaTi shishura svAdhInatA kataTA gurutvapUrNa?",
+      "svAdhInatA ki shishura madhye ekaTi gurutvapUrNa guNa hiseve ullekha karA haya়eChe?",
+      "tumi ki mane karo svAdhInatA ekaTi shishura madhye ekaTi gurutvapUrNa guNa?",
+      "tumi ki jAno ye svAdhInatAke ekaTi shishura madhye ekaTi gurutvapUrNa guNa hiseve vivechanA karA haya়?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q9": {
+    "description": "shishura gurutvapUrNa guNAvalI: kaThora parishrama",
+    "questions": [
+      "tumi ki kaThora parishramake shishura ekaTi gurutvapUrNa guNa vale mane karo?",
+      "tumi ki mane karo ye kaThora parishrama ki ekaTi shishura janya gurutvapUrNa?",
+      "tumi ki vishvAsa karo ye kaThora parishrama ekaTi shishura janya ekaTi gurutvapUrNa vaishiShTya?",
+      "tomAra mate, kaThora parishrama ki shishura janya ekaTi gurutvapUrNa guNa?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q10": {
+    "description": "shishura gurutvapUrNa guNAvalI: dAya়itvavodha",
+    "questions": [
+      "tumi ki dAYitvavodhake shishura ekaTi gurutvapUrNa guNa hiseve mane karo?",
+      "dAya়itvavodha ki shishura ekaTi gurutvapUrNa guNa hiseve ullekha karA haya়eChe?",
+      "Apani ki jAnena ye dAYitvavodha shishura ekaTi gurutvapUrNa guNa?",
+      "tumi ki jAno shishudera janya dAYitvavodha gurutvapUrNa vale vivechita haYa?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q11": {
+    "description": "shishura gurutvapUrNa guNAvalI: kalpanAshakti",
+    "questions": [
+      "ekaTi shishura kalpanAshaktira gurutva samparke ApanAra kI mane haya়?",
+      "kalpanAshakti ki ekaTi shishura janya ekaTi gurutvapUrNa guNa?",
+      "tumi ki vishvAsa karo ye kalpanAshakti ekaTi shishura janya ekaTi gurutvapUrNa guNa?",
+      "tomAra ki mane haya় ye kalpanAshakti shishura vikAshe gurutvapUrNa bhUmikA pAlana kare?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q12": {
+    "description": "gurutvapUrNa shishura guNAvalI: sahanashIlatA evaM anyadera prati shraddhA",
+    "questions": [
+      "tumi ki mane karo shishudera janya anyadera prati sahanashIlatA evaM shraddhA thAkA gurutvapUrNa?",
+      "tumi ki vishvAsa karo ye sahanashIlatA evaM anyadera prati shraddhA shishudera janya aparihArya guNAvalI?",
+      "sahanashIlatA evaM anyadera prati shraddhA ki shishudera thAkA uchita emana gurutvapUrNa guNAvalI?",
+      "shishudera kShetre ki Apani sahanashIlatA evaM anyadera prati shraddhAke gurutvapUrNa vale mane karena?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q13": {
+    "description": "shishura gurutvapUrNa guNAvalI: mitavyaya়ItA, TAkA evaM jinisapatra sAshraya় karA",
+    "questions": [
+      "ekaTi shishura janya mitavyaya়ItA evaM TAkA-paya়sA evaM jinisapatra sAshraya় karA kataTA gurutvapUrNa vale Apani mane karena?",
+      "tumi ki mane karo mitavyaya়ItA evaM TAkA-paya়sA evaM jinisapatra sAshraya় karA ekaTi shishura gurutvapUrNa guNa?",
+      "mitavyaya়ItA, artha sAshraya় evaM ApanAra mane haya় emana guNAvalI ki ekaTi shishura janya gurutvapUrNa?",
+      "tumi ki valave ye ChoTavelAya় mitavyaya়ItA evaM artha evaM jinisapatra saMrakShaNa karA gurutvapUrNa vaishiShTya?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q14": {
+    "description": "shishura gurutvapUrNa guNAvalI: dRRiDha় saMkalpa, adhyavasAya়,",
+    "questions": [
+      "ekaTi shishura madhye dRRiDha় saMkalpa evaM adhyavasAya় kataTA gurutvapUrNa?",
+      "ekaTi shishura madhye ki dRRiDha় saMkalpa evaM adhyavasAya়era guNAvalIra kathA ullekha karA uchita?",
+      "tumi ki vishvAsa karo ye ekaTi shishura madhye dRRiDha় saMkalpa evaM adhyavasAya় gurutvapUrNa guNAvalI?",
+      "tumi ki valave ye dRRiDha় saMkalpa evaM adhyavasAya় emana guNAvalI yA ekaTi shishura madhye jAnA yAya় nA?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q15": {
+    "description": "shishura gurutvapUrNa guNAvalI: dharmIya় vishvAsa",
+    "questions": [
+      "ekaTi shishura madhye dharmIya় vishvAsa kataTA gurutvapUrNa?",
+      "dharmIya় vishvAsa ki ekaTi shishura janya ekaTi gurutvapUrNa guNa?",
+      "shishura vikAshe dharmIya় vishvAsa ki gurutvapUrNa bhUmikA pAlana kare?",
+      "tumi ki mane karo dharmIya় vishvAsa shishudera madhye ekaTi gurutvapUrNa vaishiShTya?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q16": {
+    "description": "shishura gurutvapUrNa guNAvalI: niHsvArthatA",
+    "questions": [
+      "ekaTi shishura madhye niHsvArthatAra gurutva samparke ApanAra kI mane haya়?",
+      "tomAra mate, niHsvArthatA ki ekajana shishura janya gurutvapUrNa guNa?",
+      "shishudera madhye ki niHsvArthaparatAke mUlya deoYA uchita?",
+      "santAnera guNAvalI vivechanA karAra samaya়, Apani ki mane karena niHsvArthatA gurutvapUrNa?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q17": {
+    "description": "shishura gurutvapUrNa guNAvalI: vAdhyatA",
+    "questions": [
+      "shishura vAdhyatAra gurutva samparke ApanAra matAmata kI?",
+      "tumi ki vAdhyatAke ekaTi shishura madhye ekaTi gurutvapUrNa guNa vale mane karo?",
+      "vAdhyatA ki emana ekaTi guNa yAra upara shishudera jora deoYA uchita?",
+      "ApanAra dRRiShTikoNa theke, shishu vikAshera kShetre vAdhyatA kataTA gurutvapUrNa?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q18": {
+    "description": "prativeshI: mAdakAsakta",
+    "questions": [
+      "tomAra prativeshIrA mAdakAsakta haoYA samparke tumi kI mane karo?",
+      "ApanAra prativeshIrA mAdakAsakta haoya়A kataTA gurutvapUrNa vale Apani mane karena?",
+      "ApanAra prativeshIdera mAdakAsakta haoYAra kathA ki ApanAra kAChe udvegera viShaYa vale mane hachChe?",
+      "tumi ki jAno tomAra prativeshIrA mAdakAsakta kinA?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q19": {
+    "description": "prativeshI: bhinna jAtira mAnuSha",
+    "questions": [
+      "tomAra ki mane haya় bhinna jAtira prativeshI thAkA gurutvapUrNa?",
+      "ApanAra pADa়Aya় ki bhinna jAtira prativeshIdera upasthitira kathA ullekha karA haya়ni?",
+      "tumi ki nishchita nao ye tomAra prativeshIrA bhinna jAtira loka kinA?",
+      "tomAra ki emana prativeshI AChe yArA bhinna jAtira mAnuSha kintu tumi jAno nA?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q20": {
+    "description": "prativeshI: eiDasa AkrAnta vyaktirA",
+    "questions": [
+      "eiDasa AkrAnta prativeshIdera janya sahAya়tA pariShevA thAkA kataTA gurutvapUrNa vale Apani mane karena?",
+      "eiDasa AkrAnta prativeshIdera viShaya়Ti samAje kholAkhuli AlochanA karA uchita vale Apani kataTA vishvAsa karena?",
+      "eiDasa AkrAnta prativeshIdera janya upalavdha sampada evaM sahAya়tA samparke Apani ki avagata?",
+      "eiDasa AkrAnta prativeshIrA ye nirdiShTa chyAle~nja evaM chAhidAra mukhomukhi hana se samparke Apani kataTA sachetana?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q21": {
+    "description": "prativeshI: abhivAsI/videshI karmI",
+    "questions": [
+      "abhivAsI/videshI karmI prativeshI thAkA kataTA gurutvapUrNa vale Apani mane karena?",
+      "ApanAra mate, ApanAra prativeshIrA abhivAsI/videshI karmI kinA tA ki ullekha karA haya়eChe?",
+      "tumi ki jAno tomAra prativeshIrA abhivAsI/videshI karmI kinA?",
+      "ApanAra prativeshIdera abhivAsI/videshI karmIra avasthA ki ApanAke jAnAno haya়ni?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q22": {
+    "description": "prativeshI: samakAmI",
+    "questions": [
+      "samakAmI prativeshIdera samparke ApanAra matAmata kI?",
+      "samakAmI prativeshI thAkale ApanAra kemana lAgave?",
+      "tomAra ki mane haya় tomAra prativeshIdera yauna abhimukhitA ullekha karA gurutvapUrNa?",
+      "tumi ki tomAra prativeshIdera yauna abhimukhitA jAno?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q23": {
+    "description": "prativeshI: bhinna dharmera mAnuSha",
+    "questions": [
+      "bhinna dharmAvalamvI prativeshI thAkA samparke ApanAra matAmata kI?",
+      "ApanAra mate, ApanAra prativeshIdera dharmIya় sampRRiktatA ki gurutvapUrNa bhUmikA pAlana kare?",
+      "ApanAra ki mane haya় prativeshIdera tAdera dharmIya় vishvAsa prakAsha karA gurutvapUrNa?",
+      "tumi ki tomAra prativeshIdera dharmIya় paTabhUmi samparke jAno?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q24": {
+    "description": "prativeshI: atirikta madyapAnakArI",
+    "questions": [
+      "tomAra prativeshIrA ki atirikta madyapAna kare?",
+      "tumi ki tomAra prativeshIdera atirikta madyapAnakArI mane karo?",
+      "tumi ki valave ye tomAra prativeshIrA khuva veshi madyapAna kare?",
+      "prativeshIdera atirikta madyapAnera abhyAsa ki ApanAra kAChe gurutvapUrNa?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q25": {
+    "description": "prativeshI: avivAhita dampatirA ekasAthe vasavAsa karaChe",
+    "questions": [
+      "avivAhita dampatirA ekasAthe vasavAsakArI prativeshIdera samparke ApanAra matAmata kI?",
+      "avivAhita dampatidera prativeshI hiseve pele ApanAra kemana lAgave?",
+      "tomAra ki mane haya় tomAra prativeshIdera samparkera avasthA ullekha karA gurutvapUrNa?",
+      "tumi ki tomAra prativeshIdera samparkera avasthA jAno?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q26": {
+    "description": "prativeshI: yArA bhinna bhAShAya় kathA vale",
+    "questions": [
+      "prativeshIrA bhinna bhAShAYa kathA vale, eTA tomAra kAChe kataTA gurutvapUrNa?",
+      "tomAra ki valA haya়eChe ye prativeshIdera AlAdA bhAShAYa kathA valA uchita?",
+      "tumi ki jAno ye bhinna bhAShAYa kathA vale emana prativeshI thAkA ki gurutvapUrNa?",
+      "Apani ki jAnena ye anya bhAShAYa kathA valA prativeshIdera kathA valA haYa?"
+    ],
+    "options": [
+      "gurutvapUrNa",
+      "jAni nA",
+      "gurutvapUrNa naya়"
+    ]
+  },
+  "Q27": {
+    "description": "jIvanera anyatama pradhAna lakShya Chila AmAra vAvA-mAke garvita karA|",
+    "questions": [
+      "AmAra jIvanera pradhAna lakShyagulira madhye AmAra vAvA-mAke kataTA garvita karA?",
+      "jIvane AmAra vAvA-mAke garvita karAra janya Ami kataTA cheShTA kari?",
+      "jIvane AmAra vAvA-mAke kataTA garvita karAra lakShya AmAra AChe?",
+      "Ami ki AmAra jIvanera anyatama pradhAna lakShya hiseve AmAra vAvA-mAke garvita karAke vivechanA kari?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q28": {
+    "description": "karmajIvI mAya়era sAthe pri-skula shishuTira durbhoga",
+    "questions": [
+      "tumi ki vishvAsa karo ye ekajana pri-skula shishu yakhana tAra mA kAja kare takhana kaShTa pAya়?",
+      "tumi ki mane karo ye ekajana karmajIvI mA tAra prAka-vidyAlaYera santAnadera upara netivAchaka prabhAva phele?",
+      "Apani ki ekamata ye ekajana pri-skula shishu tAra mAya়era chAkarira kAraNe samasyAra sammukhIna haya়?",
+      "tumi ki vishvAsa karo ye ekajana karmajIvI mA tAra prAka-vidyAlaYera santAnera upara kShatikara prabhAva phele?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q29": {
+    "description": "nArIdera tulanAYa puruSharA bhAlo rAjanaitika netA hate pArena",
+    "questions": [
+      "tumi ki dRRiDha়bhAve ekamata, ekamata, dvimata, tIvrabhAve dvimata, nAki puruSharA nArIdera cheya়e bhAlo rAjanaitika netA hate pAre tA jAno nA?",
+      "tumi ki valave ye tumi dRRiDha়bhAve ekamata, ekamata, dvimata, tIvrabhAve dvimata, athavA ei vaktavyera sAthe jAno nA ye puruSharA nArIdera cheya়e bhAlo rAjanaitika netA hate pAre?",
+      "ApanAra mate, Apani ki dRRiDha়bhAve ekamata, ekamata, dvimata, tIvrabhAve dvimata, nAki jAnena nA ye puruSharA nArIdera cheya়e bhAlo rAjanaitika netA hate pArena?",
+      "tomAra dRRiShTibha~Ngi ki dRRiDha়bhAve ekamata, ekamata, dvimata, tIvrabhAve dvimata, nAki puruSharA nArIdera cheya়e bhAlo rAjanaitika netA haoya়Ara viShaya়Ti jAne nA?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q30": {
+    "description": "ekajana Chelera janya meYera cheYe vishvavidyAlaYa veshi gurutvapUrNa|",
+    "questions": [
+      "tumi ki vishvAsa karo ye ekajana Chelera janya vishvavidyAlaya় meya়edera cheya়e veshi gurutvapUrNa?",
+      "tomAra mate, ekajana Chelera janya ki ekajana meya়era cheya়e vishvavidyAlaya় veshi gurutvapUrNa?",
+      "tumi ki ekamata ye, ekajana Chelera janya ekajana meYera cheYe vishvavidyAlaYera gurutva veshi?",
+      "tomAra ki mane haya়, ekajana Chelera janya vishvavidyAlaya় meya়edera cheya়e veshi gurutvapUrNa?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q31": {
+    "description": "puruSharA nArIdera tulanAYa bhAlo vyavasAYika nirvAhI hate pArena",
+    "questions": [
+      "tumi ki vishvAsa karo ye puruSharA nArIdera tulanAYa bhAlo vyavasAYika nirvAhI hate pAre?",
+      "tomAra mate, vyavasAya়ika nirvAhI hiseve puruSharA ki nArIdera tulanAYa veshi dakSha?",
+      "puruSharA nArIdera tulanAYa bhAlo vyavasAYika nirvAhI, ei vaktavyera sAthe ki Apani ekamata?",
+      "ApanAra ki mane haya় puruShadera tulanAYa vyavasAYika nirvAhI hiseve nArIrA kama kAryakara?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q32": {
+    "description": "gRRihiNI haoya়A Thika tataTAi paripUrNa",
+    "questions": [
+      "gRRihiNI haoya়A ki kyAriya়Ara gaDa়Ara matoi paritRRiptidAya়ka?",
+      "tumi ki vishvAsa karo ye ekajana gRRihiNI haoYATA ekaTA kyAriYArera matoi paripUrNa?",
+      "tomAra mate, ekajana gRRihiNI haoya়A ki kyAriya়Ara gaDa়Ara matoi paritRRiptidAya়ka?",
+      "Apani ki ekamata havena ye ekajana gRRihiNI haoya়A kyAriya়Ara gaDa়Ara matoi paritRRiptidAya়ka hate pAre?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q33": {
+    "description": "chAkarira abhAva: nArIdera tulanAYa puruShadera chAkarira adhikAra veshi thAkA uchita",
+    "questions": [
+      "nArI-puruSha ubhaya়era janyai chAkarira abhAva thAkA uchita, ei viShaYe Apani ki dRRiDha়bhAve ekamata nAki dRRiDha়bhAve dvimata?",
+      "nArIdera tulanAYa puruShadera chAkarira adhikAra veshi thAkA uchita, ei viShaYe Apani ki ekamata nAki dvimata?",
+      "ApanAra mate, Apani ki ekamata vA dvimata poShaNa karena nA ye puruSha evaM mahilAdera janya chAkarira abhAva haoya়A uchita?",
+      "tumi ki dRRiDha়bhAve dvimata poShaNa karo, nAki jAno nA ye puruShadera chAkarite nArIdera cheya়e veshi adhikAra thAkA uchita?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q34": {
+    "description": "chAkarira abhAva: niya়ogakartAdera abhivAsIdera cheya়e (jAtIya়) mAnuShake agrAdhikAra deoya়A uchita",
+    "questions": [
+      "chAkarira abhAvera kAraNe niya়ogakartAdera ki abhivAsIdera cheya়e (jAtira) lokadera agrAdhikAra deoya়A uchita?",
+      "yakhana chAkarira abhAva thAke, takhana niya়ogakartAdera abhivAsIdera cheya়e (jAtira) lokadera agrAdhikAra deoya়A uchita, ei viShaya়e Apani ki ekamata?",
+      "chAkarira abhAvera samaya় niya়ogakartAdera abhivAsIdera parivarte (jAtira) lokadera agrAdhikAra deoya়A ki nyAyya?",
+      "ApanAra ki mane haya় chAkarira abhAvera samaya়e niya়ogakartAdera abhivAsIdera cheya়e (jAtigata) vyaktidera agrAdhikAra deoya়A uchita?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q35": {
+    "description": "svAmIra tulanAYa nArIra AYa veshi hale samasyA",
+    "questions": [
+      "nArIdera yadi svAmIra cheya়e veshi Aya় haya়, tAhale samasyATi samparke ApanAra matAmata kI?",
+      "ekajana mahilA tAra svAmIra cheya়e veshi artha upArjana karena emana paristhiti samparke ApanAra kemana lAge?",
+      "strIra Aya় svAmIra Aya়era cheya়e veshi hale ki samasyA haya় vale Apani mane karena?",
+      "nArIrA tAdera svAmIra cheya়e veshi Aya় karena kinA se viShaya়e ApanAra avasthAna kI?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q37": {
+    "description": "santAna dhAraNera janya samAjera prati kartavya",
+    "questions": [
+      "santAna dhAraNera kShetre samAjera prati ki kona kartavya AChe?",
+      "tumi ki mane karo santAna dhAraNa karA samAjera prati kartavya?",
+      "tumi ki mane karo ye samAjera prati vyaktidera santAna dhAraNera kona kartavya AChe?",
+      "santAna dhAraNera janya samAjera prati mAnuShera ki kartavyavodha thAkA uchita?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q38": {
+    "description": "asustha vAvA-mAya়era yatna neoya়A santAnera kartavya",
+    "questions": [
+      "tumi ki vishvAsa karo ye asustha vAvA-mAya়era yatna neoya়A santAnadera kartavya?",
+      "asustha vAvA-mAya়era yatna neoya়Ara dAya়itva ki shishudera neoya়A uchita?",
+      "asustha vAvA-mAya়era yatna neoya়A santAnadera kartavya, ei viShaYe ki Apani ekamata?",
+      "asustha vAvA-mAya়era dekhAshonA karA ki santAnadera dAya়itva?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q39": {
+    "description": "yArA kAja kare nA tArA alasa haya়e yAya়",
+    "questions": [
+      "tumi ki vishvAsa karo ye yArA kAja kare nA tArA alasa haya়e yAya়?",
+      "tomAra mate, yArA kAja kare nA tArA ki alasa haya়e yAya়?",
+      "tumi ki mane karo ye yArA kAja kare nA tArA prAya়shai alasa haya়e yAya়?",
+      "yArA kAja kare nA tArA alasa haya়e yAya়, ei kathAra sAthe Apani ki ekamata nAki dvimata?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q40": {
+    "description": "kAja samAjera prati ekaTi kartavya",
+    "questions": [
+      "tumi ki vishvAsa karo ye kAja samAjera prati ekaTi kartavya?",
+      "kAja ki samAjera prati kartavya hiseve vivechita?",
+      "samAjera prati kAja ekaTi kartavya, ei viShaYe Apani kataTA ekamata?",
+      "tumi ki mane karo kAjake samAjera prati kartavya hiseve dekhA uchita?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q41": {
+    "description": "kAjake sarvadA prathame AnA uchita, emanaki yadi era phale avasara samaya় kama haya়|",
+    "questions": [
+      "kAja ki savasamaya় prathame AsA uchita, emanaki yadi era phale avasara samaya় kama haya়?",
+      "tumi ki mane karo ye avasara samaya়era cheya়e kAjake savasamaya় agrAdhikAra deoYA uchita?",
+      "avasara samaya়era cheya়e kAjake prAdhAnya deoYA ki grahaNayogya?",
+      "tumi ki mane karo ye sava paristhititei kAjera janya avasara samaya় tyAga karA praya়ojana?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata|",
+      "ekamata",
+      "ekamatao nai, AvAra dvimatao nai|",
+      "jAni nA",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ]
+  },
+  "Q42": {
+    "description": "samAja samparke maulika dharaNera manobhAva",
+    "questions": [
+      "AmAdera samAja yebhAve saMgaThita, se samparke ApanAra matAmata kI?",
+      "AmAdera samAja kIbhAve unnata hate pAre vale Apani vishvAsa karena?",
+      "AmAdera vartamAna samAjake dhvaMsAtmaka shaktira viruddhe rakShA karAra viShaya়e ApanAra avasthAna kI?",
+      "AmAdera samAjera kI dharaNera manobhAva grahaNa karA uchita se samparke ApanAra ki spaShTa matAmata AChe?"
+    ],
+    "options": [
+      "AmAdera samAja yebhAve saMgaThita, tA viplavI padakShepera mAdhyame AmUla parivartana karate have|",
+      "saMskArera mAdhyame AmAdera samAjake dhIre dhIre unnata karate have|",
+      "AmAdera vartamAna samAjake sakala dhvaMsAtmaka shaktira viruddhe sAhasikatAra sAthe rakShA karate have|",
+      "jAni nA"
+    ]
+  },
+  "Q43": {
+    "description": "bhaviShyatera parivartana: kAjera upara kama gurutva deoYA have",
+    "questions": [
+      "bhaviShyatera parivartana samparke ApanAra matAmata kI: kAjera upara kama gurutva deoYA?",
+      "kAjera upara kama gurutva deoYAra kShetre bhaviShyatera parivartanagulike Apani kIbhAve dekhena?",
+      "bhaviShyate kAjera upara kama gurutva deoYAra pravaNatA samparke ApanAra kI dhAraNA?",
+      "bhaviShyate kAjera upara jora kamAra viShaya়e ApanAra dRRiShTibha~Ngi kI?"
+    ],
+    "options": [
+      "bhAlo kathA",
+      "kiChu mane karo nA",
+      "jAni nA",
+      "khArApa jinisa"
+    ]
+  },
+  "Q44": {
+    "description": "bhaviShyatera parivartana: prayuktira upara Arao jora",
+    "questions": [
+      "bhaviShyate prayuktira upara Arao jora diYe parivartana AnAra viShaYe ApanAra kI dhAraNA?",
+      "bhaviShyate prayuktira upara Arao jora deoYAra sambhAvanA samparke ApanAra kemana mane haYa?",
+      "Asanna parivartanagulite prayuktira upara vardhita manoyoga samparke ApanAra matAmata kI?",
+      "prayuktira upara Arao jora deoYA Asanna parivartanagulira viShaya়e ApanAra avasthAna kI?"
+    ],
+    "options": [
+      "bhAlo kathA",
+      "kiChu mane karo nA",
+      "jAni nA",
+      "khArApa jinisa"
+    ]
+  },
+  "Q45": {
+    "description": "bhaviShyatera parivartana: kartRRipakShera prati vRRihattara sammAna",
+    "questions": [
+      "kartRRipakShera prati adhikatara shraddhAshIlatAra viShaya়e bhaviShyatera parivartanaguli samparke ApanAra kI dhAraNA?",
+      "bhaviShyate kartRRipakShera prati shraddhA vRRiddhira sambhAvanA samparke Apani kemana anubhava karena?",
+      "AgAmI vaCharagulite kartRRipakShera prati shraddhA vRRiddhira pratyAshita sambhAvanA samparke ApanAra matAmata kI?",
+      "bhaviShyate kartRRipakShera prati Arao veshi shraddhAra dike parivartana samparke ApanAra anubhUti kI?"
+    ],
+    "options": [
+      "bhAlo kathA",
+      "kiChu mane karo nA",
+      "jAni nA",
+      "khArApa jinisa"
+    ]
+  },
+  "Q46": {
+    "description": "sukhera anubhUti",
+    "questions": [
+      "tomAra sukhera anubhUtike tumi kIbhAve mUlyAya়na karave?",
+      "1 theke 5 skele, yekhAne 1 jana moTeo khushi nana evaM 5 jana khuva khushi, ApanAra sukhera starake Apani kIbhAve mUlyAya়na karavena?",
+      "tumi ki nijeke ekajana sukhI mAnuSha mane karo?",
+      "pratidina Apani kataTA khushi vodha karena?"
+    ],
+    "options": [
+      "khuva khushi",
+      "vesha khushi",
+      "jAni nA",
+      "khuva khushi nai|",
+      "moTeo khushi nai|"
+    ]
+  },
+  "Q47": {
+    "description": "svAsthyera avasthA (viShaya়bhittika)",
+    "questions": [
+      "ApanAra vartamAna svAsthyera avasthA kIbhAve varNanA karavena?",
+      "ApanAra vyaktigata svAsthyera avasthA samparke reTa dina|",
+      "khuva bhAlo theke khuva khArApa skele, ApanAra svAsthyera mUlyAya়na kIbhAve karavena?",
+      "ApanAra sAmagrika susthatAra dika theke, Apani ApanAra svAsthya kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "khuva bhAlo",
+      "bhAlo",
+      "melA",
+      "daridra",
+      "khuvai daridra"
+    ]
+  },
+  "Q51": {
+    "description": "ApanAra/parivArera phrikoya়ensi (gata 12 mAsa): paryApta khAvAra ChADa়Ai chale yAoya়A",
+    "questions": [
+      "gata 12 mAse katavAra Apani vA ApanAra parivAra paryApta khAvAra ChADa়Ai geChena?",
+      "gata vaChare, Apani vA ApanAra parivAra katavAra paryApta khAvAra nA pAoya়Ara abhij~natA peya়eChena?",
+      "gata 12 mAse ki Apani vA ApanAra parivAra kakhanao kakhanao paryApta khAvArera abhAve bhugaChena?",
+      "gata 12 mAse, Apani vA ApanAra parivAra katavAra paryApta khAvAra nA pAoya়Ara paristhitira mukhomukhi haya়eChena?"
+    ],
+    "options": [
+      "prAya়shai",
+      "mAjhe mAjhe",
+      "jAni nA",
+      "kadAchiৎ",
+      "kakhanoi nA"
+    ]
+  },
+  "Q52": {
+    "description": "ApanAra/parivArera phrikoya়ensi (gata 12 mAsa): ApanAra nijera vADa়ite aparAdhera kAraNe anirApada vodha kareChena",
+    "questions": [
+      "ApanAra nijera vADa়ite aparAdhera kAraNe Apani katavAra anirApada vodha kareChilena?",
+      "ApanAra nijera vADa়ite aparAdhera kAraNe Apani katavAra anirApada vodha kareChena?",
+      "gata 12 mAse, ApanAra nijera vADa়ite aparAdhera kAraNe Apani katavAra anirApada vodha kareChena?",
+      "gata eka vaChare ki ApanAra nijera vADa়ite aparAdhera kAraNe prAya়i, kakhanao kakhanao, khuva kamai, athavA kakhanao anirApada vodha kareChena?"
+    ],
+    "options": [
+      "prAya়shai",
+      "mAjhe mAjhe",
+      "jAni nA",
+      "kadAchiৎ",
+      "kakhanoi nA"
+    ]
+  },
+  "Q53": {
+    "description": "ApanAra/parivArera phrikoya়ensi (gata 12 mAsa): ApanAra praya়ojanIya় oShudha vA chikiৎsA ChADa়Ai chale yAoya়A",
+    "questions": [
+      "gata 12 mAse katavAra Apani vA ApanAra parivAra praya়ojanIya় oShudha vA chikiৎsA ChADa়Ai chale geChena?",
+      "gata 12 mAse ApanAra vA ApanAra parivArera katavAra praYojanIYa auShadha vA chikiৎsA ChA.DA thAkate haYeChe?",
+      "gata 12 mAse, katavAra Apani vA ApanAra parivAra ApanAra praya়ojanIya় oShudha vA chikiৎsA ChADa়Ai chale geChena?",
+      "gata 12 mAse ki Apani vA ApanAra parivAra khuva kamai, kakhanao kakhanao, athavA prAya়shai praya়ojanIya় oShudha vA chikiৎsA ChADa়Ai geChena?"
+    ],
+    "options": [
+      "prAya়shai",
+      "mAjhe mAjhe",
+      "jAni nA",
+      "kadAchiৎ",
+      "kakhanoi nA"
+    ]
+  },
+  "Q54": {
+    "description": "ApanAra/parivArera phrikoya়ensi (gata 12 mAsa): nagada Aya় ChADa়Ai chale geChe",
+    "questions": [
+      "ApanAra/parivArera phrikoya়ensi (gata 12 mAsa): nagada Aya় ChADa়Ai chale geChena?",
+      "gata 12 mAse katavAra Apani vA ApanAra parivAra nagada Aya় ChADa়Ai geChena?",
+      "gata vaChare, Apani vA ApanAra parivAra katavAra konao nagada Aya় ChADa়Ai mAsikera sammukhIna haya়eChena?",
+      "gata 12 mAse ki ApanAra vA ApanAra parivArera nagada Aya়era abhAva haya়eChe? yadi tAi haya়, tAhale katavAra?"
+    ],
+    "options": [
+      "prAya়shai",
+      "mAjhe mAjhe",
+      "jAni nA",
+      "kadAchiৎ",
+      "kakhanoi nA"
+    ]
+  },
+  "Q55": {
+    "description": "gata 12 mAse, Apani vA ApanAra parivAra katavAra kareChena: ApanAra mAthAra upara nirApada Ashraya় ChADa়Ai",
+    "questions": [
+      "gata 12 mAse, katavAra Apani vA ApanAra parivAra nirApada Ashraya় ChADa়A geChena?",
+      "gata eka vaChare, Apani vA ApanAra parivAra katavAra nirApada AvAsanera abhAvera sammukhIna haya়eChena?",
+      "gata 12 mAse, katavAra Apani vA ApanAra parivAra nirApada Ashraya়era suyoga pAnani?",
+      "gata vaChara ki ApanAra vA ApanAra parivArera kona nirApada Ashraya় ChADa়Ai mAsika haya়eChe? yadi hyA.N, tAhale katavAra?"
+    ],
+    "options": [
+      "prAya়shai",
+      "mAjhe mAjhe",
+      "jAni nA",
+      "kadAchiৎ",
+      "kakhanoi nA"
+    ]
+  },
+  "Q57": {
+    "description": "veshirabhAga mAnuShakei vishvAsa karA yAYa",
+    "questions": [
+      "tumi ki vishvAsa karo ye veshirabhAga mAnuShakei vishvAsa karA yAYa?",
+      "tomAra mate, adhikAMsha mAnuShake ki vishvAsa karA yAYa?",
+      "tomAra ki vishvAsa ye adhikAMsha mAnuShake vishvAsa karA yAYa?",
+      "tumi ki mane karo adhikAMsha mAnuShakei vishvAsa karA yAYa?"
+    ],
+    "options": [
+      "veshirabhAga mAnuShakei vishvAsa karA yAYa",
+      "khuva sAvadhAna thAkA darakAra|"
+    ],
+    "scale": false
+  },
+  "Q58": {
+    "description": "vishvAsa: ApanAra parivAra",
+    "questions": [
+      "tumi tomAra parivArake kataTA vishvAsa karo?",
+      "ApanAra parivArera upara ki AsthAra ekaTi ullekhayogya stara AChe?",
+      "tumi tomAra parivArake kataTA vishvAsa karo?",
+      "sAdhAraNabhAve, ApanAra parivArera upara ApanAra kataTA AsthA AChe?"
+    ],
+    "options": [
+      "sampUrNa vishvAsa karo",
+      "kiChuTA vishvAsa karo|",
+      "jAni nA",
+      "khuva veshi vishvAsa karo nA|",
+      "ekadama vishvAsa karo nA|"
+    ]
+  },
+  "Q59": {
+    "description": "vishvAsa: ApanAra pADa়A",
+    "questions": [
+      "tumi tomAra elAkA kataTA vishvAsa karo?",
+      "ApanAra AshepAshera elAkAra upara ApanAra kataTA AsthA AChe?",
+      "ApanAra elAkAra prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "ApanAra elAkAya় ki ApanAra AsthAra mAtrA veshi?"
+    ],
+    "options": [
+      "sampUrNa vishvAsa karo",
+      "kiChuTA vishvAsa karo|",
+      "jAni nA",
+      "khuva veshi vishvAsa karo nA|",
+      "ekadama vishvAsa karo nA|"
+    ]
+  },
+  "Q60": {
+    "description": "vishvAsa: ApanAra vyaktigatabhAve parichita mAnuSha",
+    "questions": [
+      "ApanAra vyaktigatabhAve parichita mAnuShadera Apani kataTA vishvAsa karena?",
+      "ApanAra vyaktigatabhAve parichita mAnuShadera Apani kataTA vishvAsa karena?",
+      "tumi ki vyaktigatabhAve chenA mAnuShadera vishvAsa karo?",
+      "tumi ki valave, tomAra parichita vyaktidera prati tomAra AsthAra mAtrA veshi nAki kama?"
+    ],
+    "options": [
+      "sampUrNa vishvAsa karo",
+      "kiChuTA vishvAsa karo|",
+      "jAni nA",
+      "khuva veshi vishvAsa karo nA|",
+      "ekadama vishvAsa karo nA|"
+    ]
+  },
+  "Q61": {
+    "description": "vishvAsa: yAdera sAthe Apani prathamavAra dekhA karena",
+    "questions": [
+      "prathamavAra dekhA haoYA mAnuShadera tumi kataTA vishvAsa karo?",
+      "prathamavArera mato yAdera sAthe dekhA haYa tAdera upara Apani kataTA vishvAsa karena?",
+      "prathamavAra yAdera sAthe dekhA haYa tAdera prati ApanAra AsthAra stara kata?",
+      "yakhana Apani prathamavArera mato tAdera sAthe dekhA karavena, takhana tAdera prati ApanAra AsthAra mAtrA kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "sampUrNa vishvAsa karo",
+      "kiChuTA vishvAsa karo|",
+      "jAni nA",
+      "khuva veshi vishvAsa karo nA|",
+      "ekadama vishvAsa karo nA|"
+    ]
+  },
+  "Q62": {
+    "description": "vishvAsa: anya dharmera mAnuSha",
+    "questions": [
+      "anya dharmera lokadera Apani kataTA vishvAsa karena?",
+      "bhinna dharmera lokedera Apani kataTA vishvAsa karena?",
+      "tumi ki valave ye tumi anya dharmera lokadera vishvAsa karo?",
+      "ApanAra ki bhinna dharmera vyaktidera upara AsthA AChe?"
+    ],
+    "options": [
+      "sampUrNa vishvAsa karo",
+      "kiChuTA vishvAsa karo|",
+      "jAni nA",
+      "khuva veshi vishvAsa karo nA|",
+      "ekadama vishvAsa karo nA|"
+    ]
+  },
+  "Q63": {
+    "description": "vishvAsa: anya jAtIya়tAra mAnuSha",
+    "questions": [
+      "anya jAtira lokadera Apani kataTA vishvAsa karena?",
+      "bhinna jAtIya়tAra vyaktidera Apani kataTA vishvAsa karena?",
+      "anya jAtIYatAra lokedera upara ApanAra kataTA AsthA AChe?",
+      "Apani ki anya jAtIya়tAra vyaktidera vishvAsa karena?"
+    ],
+    "options": [
+      "sampUrNa vishvAsa karo",
+      "kiChuTA vishvAsa karo|",
+      "jAni nA",
+      "khuva veshi vishvAsa karo nA|",
+      "ekadama vishvAsa karo nA|"
+    ]
+  },
+  "Q64": {
+    "description": "AtmavishvAsa: girjA",
+    "questions": [
+      "girjAra upara ApanAra kataTA AsthA AChe?",
+      "Apani girjAgulite kataTA vishvAsa karena?",
+      "girjAra prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "tomAra ki girjAYa khuva veshi AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q65": {
+    "description": "AtmavishvAsa: sashastra vAhinI",
+    "questions": [
+      "sashastra vAhinIra upara ApanAra kataTA AsthA AChe?",
+      "sashastra vAhinIke Apani kataTA vishvAsa karena?",
+      "sashastra vAhinIra prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "sashastra vAhinIra upara ki ApanAra khuva veshi AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q66": {
+    "description": "AtmavishvAsa: saMvAdamAdhyama",
+    "questions": [
+      "saMvAdapatrera upara ApanAra kataTA AsthA AChe?",
+      "ApanAra ki saMvAdamAdhyamera upara khuva veshi AsthA AChe?",
+      "saMvAdamAdhyamera upara ApanAra kataTA AsthA AChe?",
+      "tumi ki valave ye saMvAdamAdhyamera upara tomAra yatheShTa AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q67": {
+    "description": "AtmavishvAsa: Telibhishana",
+    "questions": [
+      "Telibhishanera upara ApanAra kataTA AsthA AChe?",
+      "Apani Telibhishanera upara kataTA vishvAsa karena?",
+      "Telibhishanera upara nirbhara karA ApanAra janya kataTA svAchChandyera viShaya়?",
+      "Telibhishane ApanAra nishchitatAra stara kata?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q68": {
+    "description": "AtmavishvAsa: shramika iuniya়na",
+    "questions": [
+      "shramika iuniya়nera upara ApanAra kataTA AsthA AChe?",
+      "shramika iuniya়nera upara Apani kataTA AsthA rAkhena?",
+      "shramika iuniya়nera prati ApanAra AsthA kataTuku?",
+      "ApanAra ki shramika iuniya়nera upara vishvAsa AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q69": {
+    "description": "AtmavishvAsa: pulisha",
+    "questions": [
+      "pulishera upara ApanAra kataTA AsthA AChe?",
+      "Apani pulishake kataTA vishvAsa karena?",
+      "pulishera prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "pulishera upara ki tomAra AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q70": {
+    "description": "AsthA: AdAlata",
+    "questions": [
+      "AdAlatera upara ApanAra kataTA AsthA AChe?",
+      "AdAlatera upara ApanAra kataTA AsthA AChe?",
+      "AdAlatera prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "ApanAra ki AdAlatera upara AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q71": {
+    "description": "AsthA: sarakAra",
+    "questions": [
+      "sarakArera upara ApanAra kataTA AsthA AChe?",
+      "Apani sarakArake kataTA vishvAsa karena?",
+      "sarakArera prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "sarakArera upara ki ApanAra AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q72": {
+    "description": "AtmavishvAsa: rAjanaitika dalaguli",
+    "questions": [
+      "rAjanaitika dalagulora upara ApanAra kataTA AsthA AChe?",
+      "rAjanaitika dalagulora upara Apani kataTA AsthA rAkhena?",
+      "rAjanaitika dalagulora prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "rAjanaitika dalagulora prati ApanAra AsthA ki uchcha vA nimna starera?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q73": {
+    "description": "AsthA: saMsada",
+    "questions": [
+      "saMsade ApanAra AtmavishvAsa kataTA?",
+      "saMsadera upara ApanAra kataTA AsthA AChe?",
+      "saMsadera prati ApanAra AsthA kataTuku?",
+      "AsthAra dika theke, Apani saMsadake kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q74": {
+    "description": "AtmavishvAsa: sibhila sArbhisesa",
+    "questions": [
+      "sibhila sArbhisesera upara ApanAra kataTA AsthA AChe?",
+      "sibhila sArbhisesera upara ApanAra kataTA AsthA AChe?",
+      "sibhila sArbhisesera prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "sibhila sArbhisesera upara ApanAra ki AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q75": {
+    "description": "AtmavishvAsa: vishvavidyAlaya় (vesarakAri)",
+    "questions": [
+      "vishvavidyAlaya়gulira (vesarakAri) prati ApanAra AsthAra mUlyAya়na karuna:",
+      "1-5 skele, Apani vishvavidyAlaya়gulite (vesarakAri) kataTA AtmavishvAsI?",
+      "vesarakAri vishvavidyAlaya়gulora upara ApanAra kataTA AsthA AChe?",
+      "vishvavidyAlaya়gulira (vesarakAri) kShetre, Apani kataTA AtmavishvAsI?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q77": {
+    "description": "AtmavishvAsa: pradhAna kompAniguli",
+    "questions": [
+      "vaDa় kompAnigulora upara ApanAra kataTA AsthA AChe?",
+      "1 theke 5 skele, Apani vaDa় kompAnigulite kataTA AtmavishvAsI?",
+      "tumi ki mane karo ye va.Da va.Da kompAnigulo tomAra AsthAra yogya?",
+      "sAdhAraNabhAve, vaDa় kompAnigulira prati ApanAra AsthAke Apani kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q78": {
+    "description": "AtmavishvAsa: vesarakAri vyAMka",
+    "questions": [
+      "vesarakAri vyAMkera prati ApanAra AsthAra mAtrA samparke reTa dina|",
+      "1 theke 5 skele, vesarakAri vyAMkera upara ApanAra kataTA AsthA AChe?",
+      "vesarakAri vyAMkera prati ApanAra AsthAra mAtrA kIbhAve varNanA karavena?",
+      "Apani vesarakAri vyAMkagulike kataTA vishvAsa karena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q79": {
+    "description": "AtmavishvAsa: parivesha surakShA Andolana",
+    "questions": [
+      "parivesha surakShA Andolanera upara ApanAra kataTA AsthA AChe?",
+      "parivesha surakShA Andolanera upara Apani kataTA vishvAsa karena?",
+      "parivesha surakShA Andolanera prati ApanAra kataTA vishvAsa AChe?",
+      "parivesha surakShA Andolane Apani kataTA AtmavishvAsI?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q80": {
+    "description": "AtmavishvAsa: nArI Andolana",
+    "questions": [
+      "'AtmavishvAsa: nArI Andolana'-era upara ApanAra kataTA AsthA AChe?",
+      "1 theke 5 skele, 'AtmavishvAsa: nArI Andolana'-era upara ApanAra kataTA AsthA AChe?",
+      "'AtmavishvAsa: nArI Andolana'-era upara Apani kataTA vishvAsa karena?",
+      "'AtmavishvAsa: nArI Andolana'-era prati ApanAra AsthAke Apani kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q81": {
+    "description": "AtmavishvAsa: dAtavya vA mAnavika saMsthA",
+    "questions": [
+      "dAtavya vA mAnavika saMsthAgulira upara ApanAra kataTA AsthA AChe?",
+      "dAtavya vA mAnavika saMsthAgulira upara ApanAra kataTA AsthA AChe?",
+      "dAtavya vA mAnavika saMsthAgulira prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "ApanAra ki dAtavya vA mAnavika saMsthAgulira upara AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q82": {
+    "description": "AtmavishvAsa: pradhAna A~nchalika saMsthA (desha-nirdiShTa theke sammilita)",
+    "questions": [
+      "pradhAna A~nchalika saMsthATira upara ApanAra kataTA AsthA AChe (desha-nirdiShTa theke milita)?",
+      "Apani pradhAna A~nchalika saMsthA (desha-nirdiShTa theke sammilita) kataTA vishvAsa karena?",
+      "pradhAna A~nchalika saMsthATira prati ApanAra AsthAra starake (desha-nirdiShTa theke sammilitabhAve) Apani kIbhAve mUlyAya়na karavena?",
+      "pradhAna A~nchalika saMsthAra (desha-nirdiShTa theke sammilita) upara nirbhara karate Apani kataTA svAchChandya vodha karena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q83": {
+    "description": "AtmavishvAsa: jAtisaMgha (jAtisaMgha)",
+    "questions": [
+      "jAtisaMghera (UN) upara ApanAra kataTA AsthA AChe?",
+      "jAtisaMghera (UN) upara Apani kataTA AsthA rAkhena?",
+      "ApanAra mate, jAtisaMghera (UN) upara ApanAra AsthA kataTA dRRiDha়?",
+      "jAtisaMghera (UN) prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q84": {
+    "description": "AsthA: AntarjAtika mudrA pAoya়A (IMF)",
+    "questions": [
+      "AntarjAtika mudrA tahavilera (IMF) upara ApanAra kataTA AsthA AChe?",
+      "inTAranyAshanAla maniTAri phAunDa (IMF)-era upara Apani kataTA vishvAsa karena?",
+      "AntarjAtika mudrA tahavila (IMF)-era prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "inTAranyAshanAla maniTAri phAunDa (IMF) samparke ApanAra ki itivAchaka matAmata AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q85": {
+    "description": "AtmavishvAsa: AntarjAtika aparAdha AdAlata (ICC)",
+    "questions": [
+      "AntarjAtika aparAdha AdAlatera (ICC) prati ApanAra kataTA AsthA AChe?",
+      "AntarjAtika aparAdha AdAlatera (ICC) upara ApanAra kataTA AsthA AChe?",
+      "AntarjAtika aparAdha AdAlata (ICC)-era upara Apani kataTA AsthA rAkhena?",
+      "AntarjAtika aparAdha AdAlatera (ICC) kAryakAritA samparke Apani kataTA dRRiDha়bhAve vishvAsa karena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q86": {
+    "description": "AtmavishvAsa: uttara ATalAnTika chukti saMsthA (nyATo)",
+    "questions": [
+      "uttara ATalAnTika chukti saMsthA (nyATo)-era upara ApanAra kataTA AsthA AChe?",
+      "uttara ATalAnTika chukti saMsthA (nyATo)-era upara Apani kataTA AsthA rAkhena?",
+      "uttara ATalAnTika chukti saMsthA (nyATo)-era prati ApanAra AsthAra stara kata?",
+      "ApanAra mate, uttara ATalAnTika chukti saMsthA (nyATo)-era upara ApanAra kataTA vishvAsa AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q87": {
+    "description": "AtmavishvAsa: vishvavyAMka (WB)",
+    "questions": [
+      "vishvavyAMkera (WB) upara ApanAra kataTA AsthA AChe?",
+      "vishvavyAMkera upara Apani kataTA AsthA rAkhena?",
+      "vishvavyAMkera (WB) prati ApanAra AsthAra starake Apani kIbhAve mUlyAya়na karavena?",
+      "vishvavyAMkera (WB) upara ApanAra ki uchcha starera AsthA AChe?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q88": {
+    "description": "AtmavishvAsa: vishva svAsthya saMsthA (WHO)",
+    "questions": [
+      "vishva svAsthya saMsthAra (WHO) upara ApanAra kataTA AsthA AChe?",
+      "vishva svAsthya saMsthA (WHO)-era upara Apani kataTA AsthA rAkhena?",
+      "sAdhAraNabhAve, vishva svAsthya saMsthAra (WHO) upara ApanAra kataTA AsthA AChe?",
+      "vishva svAsthya saMsthAra (WHO) vishvAsayogyatAra upara Apani kataTA dRRiDha়bhAve vishvAsa karena?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q89": {
+    "description": "AtmavishvAsa: vishva vANijya saMsthA (WTO)",
+    "questions": [
+      "vishva vANijya saMsthAra (WTO) upara ApanAra kataTA AsthA AChe?",
+      "vishva vANijya saMsthAra (WTO) upara ApanAra kataTA AsthA AChe?",
+      "vishva vANijya saMsthA (WTO)-era upara Apani kataTA AsthA rAkhena?",
+      "vishva vANijya saMsthAra (WTO) prati ApanAra AsthAra stara kata?"
+    ],
+    "options": [
+      "aneka bhAlo",
+      "vesha aneka",
+      "jAni nA",
+      "khuva veshi nA|",
+      "moTeo nA"
+    ]
+  },
+  "Q90": {
+    "description": "AntarjAtika saMsthA: kAryakara haoya়A vanAma gaNatAntrika haoya়A",
+    "questions": [
+      "1 theke 10 skele, AntarjAtika saMsthAgulira kAryakara haoya়Ara vanAma gaNatAntrika haoya়Ara gurutvake Apani kIbhAve mUlyAya়na karavena?",
+      "anugraha kare 1 theke 10 skele ApanAra matAmata jAnAna, 1Ti AntarjAtika saMsthAgulira kAryakara haoya়Ara gurutvake pratinidhitva kare evaM 10Ti gaNatAntrika haoya়Ara gurutvake pratinidhitva kare|",
+      "AntarjAtika saMsthAgulira kShetre, gaNatantrera (10) cheya়e kAryakAritA (1) ke agrAdhikAra deoya়Ara kShetre ApanAra avasthAna kothAya়?",
+      "AntarjAtika saMsthAgulite kAryakAritA evaM gaNatantrera madhye bhArasAmyake Apani 1 theke 10 skele kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "kAryakara haoya়A",
+      "gaNatAntrika haoya়A"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "vyaktigata pracheShTAra janya Arao veshi praNodanA thAkA uchita vanAma Aya় Arao samAna karA uchita",
+    "questions": [
+      "1 theke 10 skele, 'Aya় Arao samAna karA uchita' ei vaktavyera sAthe Apani kataTA ekamata?",
+      "'vyaktigata pracheShTAra janya Arao veshi uৎsAha thAkA uchita' ei dhAraNAra prati ApanAra samarthanera mAtrA anugraha kare 1 theke 10 skele reTa karuna|",
+      "'Aya় Arao samAna karA uchita' vale Apani kataTA vishvAsa karena? 1 theke 10 skele ApanAra matAmata reTa karuna|",
+      "'vyaktigata pracheShTAra janya Arao veshi uৎsAha thAkA uchita' ei dhAraNAra sAthe Apani kataTA ekamata? anugraha kare 1 theke 10 skele reTiM dina|"
+    ],
+    "options": [
+      "Aya় Arao samAna karA uchita",
+      "vyaktigata pracheShTAra janya Arao veshi uৎsAha pradAna karA uchita"
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "vyavasAra vyaktigata mAlikAnA vanAma rAShTrIya় mAlikAnA",
+    "questions": [
+      "1 theke 10 skele, yekhAne \"1\" era artha \"vyavasA o shilpera vyaktigata mAlikAnA vRRiddhi karA uchita\" evaM \"10\" era artha \"vyavasA o shilpera sarakAri mAlikAnA vRRiddhi karA uchita\", anugraha kare ApanAra paChanda ullekha karuna|",
+      "vyavasA o shilpera upara vyaktigata vanAma rAShTrIya় mAlikAnA samparke ApanAra avasthAna 1 theke 10 skela vyavahAra kare mUlyAya়na karuna, yekhAne \"1\" vardhita vyaktigata mAlikAnAra janya agrAdhikAra nirdesha kare evaM \"10\" vardhita sarakAri mAlikAnAra janya agrAdhikAra nirdesha kare|",
+      "1 theke 10 skela vyavahAra kare, yekhAne \"1\" vyavasA o shilpera upara vyaktigata mAlikAnA vRRiddhira AkA~NkShAke nirdesha kare evaM \"10\" sarakAri mAlikAnA vRRiddhira AkA~NkShAke nirdesha kare, anugraha kare ApanAra matAmata jAnAna|",
+      "vyavasA o shilpera vyaktigata vanAma rAShTrIya় mAlikAnAra kShetre ApanAra paChanda 1 theke 10 skele ullekha karuna| \"1\" vardhita vyaktigata mAlikAnAra janya paChandake vojhAya়, yekhAne \"10\" vardhita sarakAri mAlikAnAra janya paChandake vojhAya়|"
+    ],
+    "options": [
+      "vyavasA o shilpera vyaktigata mAlikAnA vRRiddhi karate have",
+      "vyavasA o shilpera upara sarakAri mAlikAnA vRRiddhi karate have|"
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "sarakArera vanAma vyaktira dAYitva",
+    "questions": [
+      "sakalera jIvanayAtrA nishchita karAra janya sarakArera Arao veshi dAYitva neoYA uchita vale Apani kataTA vishvAsa karena?",
+      "sakalera jIvanayAtrA nishchita karAra kShetre sarakArera kataTA dAYitva thAkA uchita vale Apani mane karena?",
+      "1 theke 10 skele, yekhAne 1 mAne sarakArera Arao dAYitva neoYA uchita evaM 10 mAne janagaNera Arao dAYitva neoYA uchita, ApanAra matAmata kI?",
+      "dAYitvera dika theke, 1 theke 10 skele Apani sarakAra evaM vyaktidera kothAya় sthAna devena?"
+    ],
+    "options": [
+      "sakalera janya praya়ojanIya় sahAya়tA nishchita karAra janya sarakArera Arao dAya়itva neoya়A uchita",
+      "mAnuShera nijedera bharaNapoShaNera janya Arao veshi dAya়itva neoya়A uchita"
+    ],
+    "scale": true
+  },
+  "Q109": {
+    "description": "pratiyogitA bhAlo vanAma pratiyogitA kShatikara",
+    "questions": [
+      "pratiyogitA samAjera janya kataTA upakArI vale Apani vishvAsa karena?",
+      "pratiyogitA kataTA udbhAvana evaM agragatike chAlita kare vale Apani mane karena?",
+      "1 theke 10 skele, yekhAne 1 mAne pratiyogitA veshirabhAga kShetrei kShatikAraka evaM 10 mAne veshirabhAga kShetrei upakArI, ApanAra matAmata kI?",
+      "pratiyogitAra dika theke, 1 theke 10 skele samAjera upara era prabhAvake Apani kothAya় sthAna devena?"
+    ],
+    "options": [
+      "pratiyogitA veshirabhAga kShetre samAjera janya upakArI|",
+      "pratiyogitA samAjera janya veshirabhAga kShetrei kShatikara|"
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "sAphalya: kaThora parishrama vanAma bhAgya",
+    "questions": [
+      "1-10 skele, 1 era artha 'dIrghameya়Ade, kaThora parishrama sAdhAraNata ekaTi unnata jIvana niya়e Ase' evaM 10 era artha 'kaThora parishrama sAdhAraNata sAphalya vaya়e Ane nA - eTi bhAgya evaM saMyogera viShaya়', sAphalya arjane bhAgyera bhUmikA samparke ApanAra matAmata kI?",
+      "1-10 skele tumi kataTA vishvAsa karo ye kaThora parishrama sAphalye avadAna rAkhe, 1 era artha 'dIrghameya়Ade, kaThora parishrama sAdhAraNata ekaTi unnata jIvana niya়e Ase' evaM 10 era artha 'kaThora parishrama sAdhAraNata sAphalya vaya়e Ane nA - eTi bhAgya evaM saMyogera viShaya়'?",
+      "bhAgya evaM saMyogera tulanAYa kaThora parishramera upara sAphalya kataTA nirbhara kare vale tumi mane karo? anugraha kare 1-10 skele reTiM dAo, 1 namvarera madhye 'dIrghameya়Ade, kaThora parishrama sAdhAraNata ekaTi unnata jIvana vaYe Ane' evaM 10 namvarera madhye 'kaThora parishrama sAdhAraNata sAphalya vaYe Ane nA - eTi bhAgya evaM saMyogera vyApAra'|",
+      "sAphalyera upara bhAgya evaM kaThora parishramera prabhAvera upara ApanAra vishvAsake 1-10 skela vyavahAra kare reTa karuna| 1Ti 'dIrghameya়Ade, kaThora parishrama sAdhAraNata ekaTi unnata jIvana niya়e Ase' evaM 10Ti 'kaThora parishrama sAdhAraNata sAphalya vaya়e Ane nA - eTi bhAgya evaM saMyogera viShaya়' upasthApana kare|"
+    ],
+    "options": [
+      "dIrghameya়Ade, kaThora parishrama sAdhAraNata ekaTi unnata jIvana niya়e Ase",
+      "kaThora parishrama sAdhAraNata sAphalya vaya়e Ane nA - eTi bhAgya evaM saMyogera viShaya়|"
+    ],
+    "scale": true
+  },
+  "Q111": {
+    "description": "parivesha rakShAke agrAdhikAra deoYA uchita, emanaki yadi era phale arthanaitika pravRRiddhi dhIra haYa evaM kiChu karmasaMsthAnera kShati haYa, vanAma arthanaitika pravRRiddhi evaM karmasaMsthAna sRRiShTike sarvochcha agrAdhikAra deoYA uchita, emanaki yadi parivesha kiChuTA kShatigrastao haYa|",
+    "questions": [
+      "parivesha surakShA evaM arthanaitika pravRRiddhira madhye bhArasAmya samparke ApanAra matAmata kI?",
+      "Apani ki vishvAsa karena ye arthanaitika pravRRiddhira cheya়e parivesha rakShAke agrAdhikAra deoYA uchita, emanaki yadi era phale pravRRiddhi dhIra haYe yAYa evaM chAkari hArAte haYa?",
+      "ApanAra mate, parivesha surakShAra cheya়e arthanaitika pravRRiddhi evaM karmasaMsthAna sRRiShTike ki agrAdhikAra deoya়A uchita, emanaki yadi era phale pariveshagata kiChu avanatio ghaTe?",
+      "arthanaitika pravRRiddhi evaM karmasaMsthAna sRRiShTira viparIte parivesha surakShAra gurutvake Apani kIbhAve mUlyAya়na karena?"
+    ],
+    "options": [
+      "parivesha rakShAke agrAdhikAra deoya়A uchita, emanaki yadi eTi arthanaitika pravRRiddhira gati kamiya়e deya় evaM kiChu chAkari hArAya়|",
+      "arthanaitika pravRRiddhi evaM karmasaMsthAna sRRiShTike sarvochcha agrAdhikAra deoya়A uchita, emanaki pariveshera kiChuTA kShati haleo|",
+      "jAni nA"
+    ]
+  },
+  "Q112": {
+    "description": "deshe durnIti samparke dhAraNA",
+    "questions": [
+      "1 theke 10 skele, ApanAra deshe durnItira mAtrA kIbhAve mUlyAya়na karavena?",
+      "ApanAra deshe durnIti samparke ApanAra dhAraNA 1 theke 10 skela vyavahAra kare ullekha karuna|",
+      "ApanAra deshe durnIti kataTA AChe vale Apani mane karena? anugraha kare 1 theke 10 skele reTiM dina|",
+      "ApanAra deshe durnIti kataTA prachalita vale Apani mane karena? 1 theke 10 era madhye hAra|"
+    ],
+    "options": [
+      "AmAra deshe kona durnIti nei|",
+      "AmAra deshe prachura durnIti AChe|"
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "ghuSha deoYA vA neoYAra janya dAYavaddha haoYAra jhu.Nki",
+    "questions": [
+      "1 theke 10 skele, ghuSha deoYA vA neoYAra janya dAYavaddha hate kataTA jhu.Nki AChe vale Apani mane karena?",
+      "ghuSha deoYA vA neoYAra janya dAYavaddha haoYAra jhu.Nkira mAtrA anugraha kare 1 theke 10 paryanta nirdhAraNa karuna|",
+      "1 theke 10 paryanta, ghuSha deoYA vA neoYAra janya dAYavaddha haoYAra jhu.Nki kataTA ApanAra mane haYa?",
+      "1 theke 10 skela vyavahAra kare, ghuSha deoYA vA neoYAra janya dAYavaddha haoYAra jhu.Nki kataTA veshi vale Apani mane karena?"
+    ],
+    "options": [
+      "konao jhu.Nki nei",
+      "khuva uchcha jhu.Nki"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "ApanAra deshe abhivAsana: karmIvAhinIte darakArI chAkari pUraNa kare",
+    "questions": [
+      "ApanAra deshe abhivAsana samparke ApanAra matAmata kI? eTi ki karmIdera madhye kAryakara chAkari pUraNa kare?",
+      "Apani ki vishvAsa karena ye ApanAra deshe abhivAsana karmIvAhinIte darakArI chAkari pUraNe avadAna rAkhe?",
+      "ApanAra mate, ApanAra deshera karmIvAhinIte kAryakara chAkari pUraNe abhivAsana ki bhUmikA pAlana kare?",
+      "tumi ki valave ye tomAra deshe abhivAsana karmakShetre darakArI chAkari pUraNa kare?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "ApanAra deshe abhivAsana: sAMskRRitika vaichitryake shaktishAlI kare",
+    "questions": [
+      "Apani ki vishvAsa karena ye ApanAra deshe abhivAsana sAMskRRitika vaichitryake shaktishAlI kare?",
+      "ApanAra mate, ApanAra deshe abhivAsana ki sAMskRRitika vaichitrya vRRiddhite avadAna rAkhe?",
+      "ApanAra ki mane haya় ApanAra deshe abhivAsana sAMskRRitika vaichitryake uৎsAhita kare?",
+      "ApanAra ki mane haya় ye ApanAra deshe abhivAsIdera upasthiti ekaTi shaktishAlI sAMskRRitika vaichitryera dike parichAlita kare?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "ApanAra deshe abhivAsana: aparAdhera hAra vRRiddhi kare",
+    "questions": [
+      "ApanAra deshe abhivAsana ki aparAdhera hAra vADa়Aya়?",
+      "ApanAra deshe abhivAsanera phale aparAdhera hAra vRRiddhi pAya় kinA tA nirdhAraNa karA ki kaThina?",
+      "ApanAra deshe abhivAsana aparAdhera hAra vRRiddhi kare, ei viShaya়e Apani ki ekamata nana?",
+      "ApanAra deshe abhivAsana aparAdhera hAra vADa়Aya় kinA tA ki Apani nishchita nana?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "ApanAra deshe abhivAsana: rAjanaitika sharaNArthIdera Ashraya় deya়",
+    "questions": [
+      "ApanAra deshe abhivAsana samparke ApanAra matAmata kI? eTi ki rAjanaitika sharaNArthIdera Ashraya় pradAna kare?",
+      "ApanAra deshe, abhivAsana nIti ki rAjanaitika sharaNArthIdera Ashraya় pradAna kare? anugraha kare ApanAra dRRiShTibha~Ngi jAnAna|",
+      "ApanAra deshe ki rAjanaitika sharaNArthIdera abhivAsana vyavasthAra mAdhyame Ashraya় deoYA haYa? anugraha kare ApanAra uttara nirvAchana karuna|",
+      "ApanAra deshe abhivAsana rAjanaitika sharaNArthIdera Ashraya় pradAna kare ei vaktavyera sAthe Apani ki ekamata nAki dvimata?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "ApanAra deshe abhivAsana: santrAsavAdera jhu.Nki vADa়Aya়",
+    "questions": [
+      "Apani ki ekamata ye ApanAra deshe abhivAsana santrAsavAdera jhu.Nki vADa়Aya়?",
+      "ApanAra mate, ApanAra deshe abhivAsana santrAsavAdera jhu.Nki vADa়Aya় kinA tA valA ki kaThina?",
+      "ApanAra deshe abhivAsana santrAsavAdera jhu.Nki vADa়Aya়, ei viShaya়e Apani ki ekamata nana?",
+      "ApanAra deshe abhivAsana santrAsavAdera jhu.Nki vADa়Aya় kinA tA nirdhAraNa karA ki ApanAra pakShe kaThina?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "ApanAra deshe abhivAsana: daridra mAnuShadera natuna jIvana pratiShThAya় sahAya়tA kare",
+    "questions": [
+      "ApanAra ki mane haya় ApanAra deshe abhivAsana daridradera natuna jIvana pratiShThAya় sahAya়tA kare?",
+      "Apani ki vishvAsa karena ye ApanAra deshe abhivAsana daridra vyaktidera natuna jIvana pratiShThAya় sahAya়tA kare?",
+      "tomAra ki mane haya় tomAra deshe abhivAsana daridra mAnuShadera natuna jIvana gaDa়te sAhAyya kare?",
+      "Apani ki ekamata ye ApanAra deshe abhivAsana daridra vyaktidera natuna kare shuru karate sahAya়tA kare?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "ApanAra deshe abhivAsana: vekAratva vRRiddhi kare",
+    "questions": [
+      "\"ApanAra deshe abhivAsana vekAratva vRRiddhi kare?\" ei vivRRiti samparke ApanAra matAmata kI?",
+      "ApanAra deshe abhivAsana vekAratva vRRiddhi kare: ei vaktavyera sAthe Apani ki ekamata nAki dvimata?",
+      "ApanAra deshe abhivAsana vekAratva vADa়Aya় kinA tA valA ki kaThina?",
+      "ApanAra deshe abhivAsana vekAratva vADa়Aya়, ei viShaya়e Apani ki ekamata vA dvimata poShaNa karavena?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "ApanAra deshe abhivAsana: sAmAjika saMghAtera dike parichAlita kare",
+    "questions": [
+      "Apani ki vishvAsa karena ye ApanAra deshe abhivAsana sAmAjika saMghAtera dike parichAlita kare?",
+      "ApanAra mate, ApanAra deshe abhivAsana ki sAmAjika saMghAtera kAraNa haya়?",
+      "tomAra ki mane haya় tomAra deshe abhivAsanera phale sAmAjika dvandva dekhA deya়?",
+      "Apani ki ekamata ye ApanAra deshe abhivAsana sAmAjika saMghAtera dike parichAlita kare?"
+    ],
+    "options": [
+      "ekamata",
+      "valA kaThina",
+      "asammati"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "udvega: chAkari hArAno athavA chAkari nA pAoYA",
+    "questions": [
+      "chAkari hArAno vA chAkari nA pAoYA niYe tumi kataTA chintita? (khuva veshi, bhAlo chukti, veshi nA, moTeo nA)",
+      "chAkari hArAnora bhaya় vA chAkari nA pAoYAra bhaYa ApanAke kataTA chintita kare? (khuva veshi, bhAlo chukti, khuva veshi naya়, moTeo naya়)",
+      "tumi ki chAkari hArAno vA chAkari nA pAoYA niYe khuva chintita? (khuva veshi, bhAlo chukti, veshi nA, moTeo nA)",
+      "khuva veshi theke ekevArei nA paryanta, chAkari hArAno vA chAkari nA pAoYA niYe Apani kataTA chintita?"
+    ],
+    "options": [
+      "khuva veshi",
+      "bhAlo chukti|",
+      "veshi nA",
+      "moTeo nA"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "udvega: santAnadera bhAlo shikShA dite nA pArA",
+    "questions": [
+      "ApanAra santAnadera bhAlo shikShA dite nA pArAra vyApAre Apani kataTA chintita?",
+      "ApanAra santAnadera bhAlo shikShA dite nA pArAra vyApAre Apani kataTA chintita?",
+      "ApanAra santAnadera bhAlo shikShA deoya়Ara kShamatA niya়e Apani kataTA chintita?",
+      "ApanAra santAnadera janya bhAlo shikShA nishchita karate nA pArAra janya Apani kataTA chintita?"
+    ],
+    "options": [
+      "khuva veshi",
+      "bhAlo chukti|",
+      "veshi nA",
+      "moTeo nA"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "vivAdI gata vaChara ekaTi aparAdhera shikAra haya়eChilena|",
+    "questions": [
+      "gata eka vaChare ki Apani kona aparAdhera shikAra haya়eChena?",
+      "gata vaChare ki ApanAra kona aparAdhera ghaTanA ghaTeChe?",
+      "gata eka vaChare, Apani ki konao aparAdhera shikAra haya়eChena?",
+      "gata eka vaChare, Apani ki konao aparAdhamUlaka kAryakalApera shikAra haya়eChena?"
+    ],
+    "options": [
+      "hA.N",
+      "nA"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "gata vaChara vivAdIra parivAra ekaTi aparAdhera shikAra haya়eChila|",
+    "questions": [
+      "gata vaChara ki ApanAra parivAra kona aparAdhera shikAra haya়eChila?",
+      "gata vaChara ApanAra parivAra ki kona aparAdhera sammukhIna haya়eChe?",
+      "gata vaChara, ApanAra parivAra ki konao aparAdhamUlaka kAryakalApera lakShyavastute pariNata haya়eChila?",
+      "gata vaChare, kona phaujadAri aparAdha ki ApanAra parivArake prabhAvita kareChe?"
+    ],
+    "options": [
+      "hA.N",
+      "nA"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "svAdhInatA evaM samatA - konaTi veshi gurutvapUrNa?",
+    "questions": [
+      "tomAra mate, svAdhInatA nAki samatA veshi gurutvapUrNa?",
+      "tumi konaTike veshi gurutvapUrNa vale mane karo: svAdhInatA nAki samatA?",
+      "gurutva mUlyAya়na karAra samaya়, konaTira mUlya veshi: svAdhInatA nAki samatA?",
+      "svAdhInatA evaM sAmyera madhye, Apani konaTike veshi gurutvapUrNa vale mane karena?"
+    ],
+    "options": [
+      "svAdhInatA",
+      "samatA"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "svAdhInatA evaM nirApattA - konaTi veshi gurutvapUrNa?",
+    "questions": [
+      "konaTi veshi gurutvapUrNa - svAdhInatA nAki nirApattA?",
+      "gurutvera kShetre, ApanAra kAChe konaTi veshi gurutvapUrNa - svAdhInatA nA nirApattA?",
+      "svAdhInatA evaM nirApattAra madhye, konaTi ApanAra kAChe veshi gurutvapUrNa?",
+      "tumi konaTAke veshi mUlya dAo: svAdhInatA nAki nirApattA?"
+    ],
+    "options": [
+      "svAdhInatA",
+      "nirApattA"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "deshera janya laDa়Ai karAra ichChA",
+    "questions": [
+      "tumi ki tomAra deshera janya laDa়Ai karate ichChuka?",
+      "tumi ki tomAra deshera janya yuddha karate ichChuka?",
+      "tomAra ki deshera janya laDa়Ai karAra ichChA AChe?",
+      "saMghAtera kShetre, Apani ki ApanAra deshera janya laDa়Ai karavena?"
+    ],
+    "options": [
+      "hA.N",
+      "nA"
+    ],
+    "scale": false
+  },
+  "Q152": {
+    "description": "Apani ki daya়A kare valavena ye era madhye konaTike Apani nijera kAChe savacheya়e gurutvapUrNa vale mane karena?",
+    "questions": [
+      "Apani ki daya়A kare valavena ye ei lakShyagulira madhye konaTike Apani savacheya়e gurutvapUrNa vale mane karena?",
+      "nimnalikhita vikalpagulira madhye, Apani vyaktigatabhAve konaTi savacheya়e gurutvapUrNa vale mane karena?",
+      "nichera tAlikA theke, kona lakShyaTi ApanAra kAChe vyaktigatabhAve savacheya়e gurutvapUrNa vale mane haya়?",
+      "pradatta vikalpaguli theke ApanAra kAChe savacheya়e gurutvapUrNa vale mane haya় emana lakShyaTi nirvAchana karuna|"
+    ],
+    "options": [
+      "uchcha starera arthanaitika pravRRiddhi",
+      "ei deshera shaktishAlI pratirakShA vAhinI nishchita karA",
+      "tAdera karmakShetre evaM tAdera sampradAya়e kIbhAve kAja karA haya় se samparke mAnuShera Arao veshi matAmata prakAshera suyoga dekhA",
+      "AmAdera shahara evaM grAmA~nchalake Arao sundara kare tolAra cheShTA karaChi",
+      "jAni nA"
+    ]
+  },
+  "Q153": {
+    "description": "Ara paravartI savacheya়e gurutvapUrNa konaTi have?",
+    "questions": [
+      "Apani ki daya়A kare valavena ye ei lakShyagulira madhye konaTike Apani dvitIya় savacheya়e gurutvapUrNa lakShya vale mane karena?",
+      "nimnalikhita vikalpagulira madhye, Apani vyaktigatabhAve konaTike dvitIya় savacheya়e gurutvapUrNa vale mane karena?",
+      "nichera tAlikA theke, kona lakShyaTi ApanAra kAChe vyaktigatabhAve dvitIya় savacheya়e gurutvapUrNa vale mane haya়?",
+      "pradatta vikalpaguli theke ApanAra mane haya় dvitIya় savacheya়e gurutvapUrNa lakShyaTi nirvAchana karuna|"
+    ],
+    "options": [
+      "uchchamAnera arthanaitika pravRRiddhi",
+      "ei deshera shaktishAlI pratirakShA vAhinI nishchita karA",
+      "tAdera karmakShetre evaM tAdera sampradAya়e kIbhAve kAja karA haya় se samparke mAnuShera Arao veshi matAmata prakAshera suyoga dekhA",
+      "AmAdera shahara evaM grAmA~nchalake Arao sundara kare tolAra cheShTA karaChi",
+      "jAni nA"
+    ]
+  },
+  "Q154": {
+    "description": "Apani ki daya়A kare valavena ye era madhye konaTike Apani nijera kAChe savacheya়e gurutvapUrNa vale mane karena?",
+    "questions": [
+      "Apani ki daya়A kare valavena ye ei lakShyagulira madhye konaTike Apani savacheya়e gurutvapUrNa vale mane karena?",
+      "nimnalikhita vikalpagulira madhye, Apani vyaktigatabhAve konaTi savacheya়e gurutvapUrNa vale mane karena?",
+      "nichera tAlikA theke, kona lakShyaTi ApanAra kAChe vyaktigatabhAve savacheya়e gurutvapUrNa vale mane haya়?",
+      "pradatta vikalpaguli theke ApanAra kAChe savacheya়e gurutvapUrNa vale mane haya় emana lakShyaTi nirvAchana karuna|"
+    ],
+    "options": [
+      "deshe shRRi~NkhalA vajAya় rAkhA",
+      "gurutvapUrNa sarakAri siddhAnte janagaNake Arao veshi matAmata pradAna karA",
+      "kramavardhamAna dAmera viruddhe laDa়Ai karA",
+      "vAkasvAdhInatA rakShA karA"
+    ]
+  },
+  "Q155": {
+    "description": "Ara paravartI savacheya়e gurutvapUrNa konaTi have?",
+    "questions": [
+      "Apani ki daya়A kare valavena ye ei lakShyagulira madhye konaTike Apani dvitIya় savacheya়e gurutvapUrNa lakShya vale mane karena?",
+      "nimnalikhita vikalpagulira madhye, Apani vyaktigatabhAve konaTike dvitIya় savacheya়e gurutvapUrNa vale mane karena?",
+      "nichera tAlikA theke, kona lakShyaTi ApanAra kAChe vyaktigatabhAve dvitIya় savacheya়e gurutvapUrNa vale mane haya়?",
+      "pradatta vikalpaguli theke ApanAra mane haya় dvitIya় savacheya়e gurutvapUrNa lakShyaTi nirvAchana karuna|"
+    ],
+    "options": [
+      "deshe shRRi~NkhalA vajAya় rAkhA",
+      "gurutvapUrNa sarakAri siddhAnte janagaNake Arao veshi matAmata pradAna karA",
+      "kramavardhamAna dAmera viruddhe laDa়Ai karA",
+      "vAkasvAdhInatA rakShA karA"
+    ]
+  },
+  "Q156": {
+    "description": "Apani ki daya়A kare valavena ye era madhye konaTike Apani nijera kAChe savacheya়e gurutvapUrNa vale mane karena?",
+    "questions": [
+      "Apani ki daya়A kare valavena ye ei lakShyagulira madhye konaTike Apani savacheya়e gurutvapUrNa vale mane karena?",
+      "nimnalikhita vikalpagulira madhye, Apani vyaktigatabhAve konaTi savacheya়e gurutvapUrNa vale mane karena?",
+      "nichera tAlikA theke, kona lakShyaTi ApanAra kAChe vyaktigatabhAve savacheya়e gurutvapUrNa vale mane haya়?",
+      "pradatta vikalpaguli theke ApanAra kAChe savacheya়e gurutvapUrNa vale mane haya় emana lakShyaTi nirvAchana karuna|"
+    ],
+    "options": [
+      "ekaTi sthitishIla arthanIti",
+      "ekaTi kama nairvyaktika evaM Arao mAnavika samAjera dike agragati",
+      "emana ekaTi samAjera dike agrasara haoYA yekhAne arthera cheya়e dhAraNAra mUlya veshi|",
+      "aparAdhera viruddhe laDa়Ai",
+      "jAni nA"
+    ]
+  },
+  "Q157": {
+    "description": "Ara paravartI savacheya়e gurutvapUrNa konaTi have?",
+    "questions": [
+      "Apani ki daya়A kare valavena ye ei lakShyagulira madhye konaTike Apani dvitIya় savacheya়e gurutvapUrNa lakShya vale mane karena?",
+      "nimnalikhita vikalpagulira madhye, Apani vyaktigatabhAve konaTike dvitIya় savacheya়e gurutvapUrNa vale mane karena?",
+      "nichera tAlikA theke, kona lakShyaTi ApanAra kAChe vyaktigatabhAve dvitIya় savacheya়e gurutvapUrNa vale mane haya়?",
+      "pradatta vikalpaguli theke ApanAra mane haya় dvitIya় savacheya়e gurutvapUrNa lakShyaTi nirvAchana karuna|"
+    ],
+    "options": [
+      "ekaTi sthitishIla arthanIti",
+      "ekaTi kama nairvyaktika evaM Arao mAnavika samAjera dike agragati",
+      "emana ekaTi samAjera dike agrasara haoYA yekhAne arthera cheya়e dhAraNAra mUlya veshi|",
+      "aparAdhera viruddhe laDa়Ai"
+    ]
+  },
+  "Q158": {
+    "description": "vij~nAna o prayukti AmAdera jIvanake svAsthyakara, sahaja evaM ArAmadAYaka kare tulaChe",
+    "questions": [
+      "1 theke 10 skele, vij~nAna o prayukti AmAdera jIvanake svAsthyakara, sahaja evaM ArAmadAYaka kare tulaChe, ei viShaYe Apani kataTA ekamata?",
+      "vij~nAna o prayukti AmAdera jIvanake svAsthyakara, sahaja evaM Arao ArAmadAYaka kare unnata karaChe: ei vivRRitiTira upara ApanAra matAmata 1 theke 10 paryanta reTiM dina|",
+      "vij~nAna o prayukti svAsthyakara, sahaja evaM ArAmadAYaka jIvanayApane avadAna rAkhe, ei viShaYe Apani kataTA ekamata? anugraha kare 1 theke 10 paryanta reTiM dina|",
+      "1 theke 10 skela vyavahAra kare, vij~nAna o prayukti AmAdera jIvanake svAsthyakara, sahaja evaM Arao ArAmadAYaka kare tulaChe ei dhAraNAra sAthe ApanAra kataTA ekamata tA nirdesha karuna|"
+    ],
+    "options": [
+      "sampUrNarUpe ekamata nai",
+      "sampUrNa ekamata|"
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "vij~nAna o prayuktira kAraNe, paravartI prajanmera janya Arao suyoga tairi have",
+    "questions": [
+      "1-10 skele, vij~nAna o prayuktira kAraNe paravartI prajanmera janya Arao suyoga tairi have vale Apani kataTA ekamata?",
+      "vij~nAna o prayukti paravartI prajanmera janya Arao suyoga tairi karave, ei viShaya়e ApanAra ekamata haoya়Ara mAtrA 1-10 skele reTa karuna|",
+      "vij~nAna o prayukti paravartI prajanmera janya suyoga vRRiddhi karave vale Apani kataTA vishvAsa karena? anugraha kare 1-10 skele reTiM dina|",
+      "vij~nAna o prayukti paravartI prajanmera janya Arao suyoga tairi karave, ei viShaya়e Apani kataTA ekamata vA dvimata poShaNa karena? anugraha kare 1 theke 10 paryanta reTiM dina|"
+    ],
+    "options": [
+      "sampUrNarUpe ekamata nai",
+      "sampUrNa ekamata|"
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "AmarA vij~nAnera upara aneka veshi nirbhara kari, vishvAsera upara yatheShTa naya়",
+    "questions": [
+      "1-10 skele, 'AmarA vij~nAnera upara aneka veshi nirbhara kari evaM vishvAsera upara yatheShTa naya়' ei vaktavyera sAthe Apani kataTA ekamata?",
+      "'AmarA vij~nAnera upara atirikta nirbhara kari evaM vishvAsake yatheShTa gurutva dii nA' ei vaktavyera sAthe ApanAra ekamatera mAtrA 1 theke 10 skela vyavahAra kare reTa karuna|",
+      "'AmarA vij~nAnera upara atyadhika AsthA rAkhi evaM vishvAsake avahelA kari' ei vaktavyera sAthe Apani kataTA ekamata vA dvimata poShaNa karena? ApanAra uttaraTi 1 theke 10 skele reTa karuna|",
+      "1-10 skela vyavahAra kare, 'AmarA vij~nAnera upara atirikta nirbharashIla evaM vishvAsake upekShA kari' ei vivRRitira sAthe ApanAra kataTA ekamata tA nirdesha karuna|"
+    ],
+    "options": [
+      "sampUrNarUpe ekamata nai",
+      "sampUrNa ekamata|"
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "vij~nAnera ekaTi khArApa prabhAva hala eTi mAnuShera saThika evaM bhulera dhAraNA bhe~Ne deya়|",
+    "questions": [
+      "vij~nAnera ekaTi khArApa prabhAva hala eTi mAnuShera saThika evaM bhulera dhAraNA bhe~Ne deya়| Apani ei vaktavyera sAthe kataTA dvimata vA ekamata? (1 = sampUrNa asammata, 10 = sampUrNa ekamata)",
+      "1 theke 10 skele, vij~nAna mAnuShera saThika evaM bhulera dhAraNA bhe~Ne deya় ei dhAraNAra sAthe Apani kataTA ekamata vA dvimata poShaNa karena?",
+      "\"vij~nAna mAnuShera saThika evaM bhula dhAraNAra upara netivAchaka prabhAva phele:\" ei vivRRitiTira sAthe ApanAra ekamata vA dvimatera mAtrA reTa karuna| (1 = sampUrNa asammata, 10 = sampUrNa ekamata)",
+      "vij~nAna mAnuShera saThika evaM bhula dhAraNA kataTA durvala kare vale ApanAra mane haya়? anugraha kare 1 theke 10 paryanta reTiM dina, 1Ti 'sampUrNa asammati' evaM 10Ti 'sampUrNa ekamata' upasthApana kare|"
+    ],
+    "options": [
+      "sampUrNarUpe ekamata nai",
+      "sampUrNa ekamata|"
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "AmAra dainandina jIvane vij~nAna samparke jAnA AmAra janya gurutvapUrNa naya়|",
+    "questions": [
+      "1 theke 10 skele, 'AmAra dainandina jIvane vij~nAna samparke jAnA AmAra janya gurutvapUrNa naya়' ei vaktavyera sAthe Apani kataTA ekamata vA dvimata poShaNa karena?",
+      "'AmAra dainandina jIvane vij~nAna samparke jAnA AmAra janya gurutvapUrNa naya়' ei vivRRitiTira sAthe ApanAra ekamata vA dvimatera mAtrA 1 theke 10 skele reTa karuna|",
+      "'AmAra dainandina jIvane vij~nAna samparke jAnA AmAra janya gurutvapUrNa naya়' ei uktira sAthe Apani kataTA ekamata vA dvimata poShaNa karena? 1 theke 10 era skela vyavahAra karuna|",
+      "'AmAra dainandina jIvane vij~nAna samparke jAnA AmAra janya gurutvapUrNa naya়' ei vivRRitiTira upara ApanAra matAmata 1 theke 10 skele reTiM kare jAnAna|"
+    ],
+    "options": [
+      "sampUrNarUpe ekamata nai",
+      "sampUrNa ekamata|"
+    ],
+    "scale": true
+  },
+  "Q163": {
+    "description": "tumi ki valave ye vij~nAna o prayuktira kAraNe pRRithivI bhAlo, nAki khArApa?",
+    "questions": [
+      "1 theke 10 skele, vij~nAna o prayukti vishvake kataTA unnata kareChe vale ApanAra mane haya়?",
+      "vij~nAna o prayukti samAjera upara kataTA itivAchaka prabhAva pheleChe vale Apani vishvAsa karena?",
+      "vishve vij~nAna o prayuktira sAmagrika prabhAvake Apani kIbhAve mUlyAya়na karavena?",
+      "tomAra mate, vij~nAna o prayuktira kAraNe ki pRRithivI unnata?"
+    ],
+    "options": [
+      "aneka khArApa avasthA|",
+      "aneka bhAlo|"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "Ishvarera gurutva",
+    "questions": [
+      "1 theke 10 skele, Ishvara ApanAra kAChe kataTA gurutvapUrNa?",
+      "tomAra jIvane Ishvarake tumi kataTA gurutva dAo? anugraha kare 1 theke 10 era skela vyavahAra karo|",
+      "tomAra dainandina kAje Ishvarake tumi kataTA gurutvapUrNa vale mane karo? anugraha kare 1 theke 10 skela vyavahAra kare reTiM dAo|",
+      "ApanAra vishvAsa vyavasthAya় Ishvarake Apani kataTA gurutva dena tA daya়A kare ullekha karuna| 1 theke 10 skele reTa dina|"
+    ],
+    "options": [
+      "moTeo gurutvapUrNa naya়",
+      "khuvai gurutvapUrNa"
+    ],
+    "scale": true
+  },
+  "Q165": {
+    "description": "Ishvare vishvAsa",
+    "questions": [
+      "tumi ki Ishvare vishvAsa karo?",
+      "tumi ki valave ye tumi Ishvarera astitve vishvAsa karo?",
+      "Apani ki vyaktigatabhAve vishvAsa karena ye Ishvara AChena?",
+      "Apani Ishvare vishvAsa karena kinA tA daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "hA.N",
+      "nA"
+    ],
+    "scale": false
+  },
+  "Q166": {
+    "description": "vishvAsa karuna: mRRityura parera jIvane",
+    "questions": [
+      "tumi ki mRRityura parera jIvane vishvAsa karo?",
+      "mRRityura pare ki jIvana AChe?",
+      "tumi ki mane karo mRRityura pareo kona astitva AChe?",
+      "tomAra ki vishvAsa ye mRRityura pareo jIvana AChe?"
+    ],
+    "options": [
+      "hA.N",
+      "nA"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "vishvAsa karo: naraka",
+    "questions": [
+      "tumi ki narake vishvAsa karo?",
+      "narake ki tomAra vishvAsa dRRiDha়?",
+      "tumi ki valave ye tomAra narake vishvAsa AChe?",
+      "narakera dhAraNA ki tumi vishvAsa karo?"
+    ],
+    "options": [
+      "hA.N",
+      "nA"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "vishvAsa karuna: svarga",
+    "questions": [
+      "tumi ki svarge vishvAsa karo?",
+      "tumi ki svarge vishvAsI?",
+      "tumi ki mane karo svargera astitva AChe?",
+      "svargera dhAraNA ki tumi vishvAsa karo?"
+    ],
+    "options": [
+      "hA.N",
+      "nA"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "yakhanai vij~nAna evaM dharmera madhye saMgharSha haya়, dharma sarvadA saThika|",
+    "questions": [
+      "tumi ki vishvAsa karo ye yakhanai vij~nAna evaM dharmera madhye saMgharSha haya়, dharma sarvadA saThika?",
+      "tomAra mate, vij~nAna evaM dharmera madhye yakhana dvandva thAke takhana ki dharma savasamaya় saThika?",
+      "Apani ki ekamata ye dharma yakhana vij~nAnera virodhitA kare takhana tA sarvadA saThika?",
+      "tumi ki mane karo dharma sava paristhititei saThika yekhAne tA vij~nAnera sAthe sAMgharShika?"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata",
+      "ekamata",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ],
+    "scale": false
+  },
+  "Q170": {
+    "description": "dharmIya় ekacheTiya়AtAra prati manobhAva",
+    "questions": [
+      "'AmAra dharmai ekamAtra grahaNayogya dharma' ei vaktavyera sAthe Apani ki ekamata nAki dvimata?",
+      "tumi ki valave ye tumi dRRiDha়bhAve ekamata, ekamata, dvimata, athavA dRRiDha়bhAve dvimata ye shudhumAtra tomAra dharmai grahaNayogya?",
+      "ApanAra dharmai ekamAtra grahaNayogya ei vishvAsera sAthe Apani kataTA ekamata vA dvimata poShaNa karena?",
+      "shudhumAtra ApanAra dharmai grahaNayogya ei vaktavyera sAthe Apani kataTA ekamata, daya়A kare jAnAna|"
+    ],
+    "options": [
+      "dRRiDha়bhAve ekamata",
+      "ekamata",
+      "asammati",
+      "dRRiDha়bhAve ekamata nai"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "Apani kata ghana ghana dharmIya় anuShThAne yoga dena?",
+    "questions": [
+      "Apani kata ghana ghana dharmIya় anuShThAne yoga dena?",
+      "Apani katavAra dharmIya় anuShThAne yAna?",
+      "Apani kata ghana ghana dharmIya় anuShThAne aMshagrahaNa karena?",
+      "Apani kata ghana ghana dharmIya় anuShThAne yAna?"
+    ],
+    "options": [
+      "saptAhe ekavArera veshi",
+      "saptAhe ekavAra",
+      "mAse ekavAra",
+      "shudhumAtra visheSha pavitra dinagulite",
+      "vaChare ekavAra",
+      "kama ghana ghana",
+      "kakhanoi nA, kAryata kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q172": {
+    "description": "prArthanAra phrikoya়ensi",
+    "questions": [
+      "vivAha evaM jAnAjA ChADa়Ao, Apani katavAra prArthanA karena?",
+      "Apani kata ghana ghana prArthanA vA dharmIya় bhaktite niyukta hana?",
+      "ApanAra dainandina jIvane Apani katavAra prArthanA karena daya়A kare tA ullekha karuna|",
+      "dharmIya় anuShThAna evaM anuShThAna vAda diya়e Apani katavAra vyaktigatabhAve prArthanA karena?"
+    ],
+    "options": [
+      "dine vesha kaya়ekavAra",
+      "dine ekavAra",
+      "prati saptAhe vesha kaya়ekavAra",
+      "shudhumAtra dharmIya় anuShThAne yogadAnera samaya়",
+      "shudhumAtra visheSha pavitra dinagulite",
+      "vaChare ekavAra",
+      "kama ghana ghana",
+      "kakhanoi nA, kAryata kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q173": {
+    "description": "dharmIya়tAra sva-parichaya়",
+    "questions": [
+      "Apani dharmIya় anuShThAne yoga dina vA nA dina, Apani ki valavena ye Apani ekajana dhArmika vyakti, dhArmika vyakti nana, nAki nAstika?",
+      "vyaktigata dharmIya়tAra dika theke Apani nijeke kIbhAve varNanA karavena?",
+      "tumi ki nijeke dhArmika, adhArmika, nAki nAstika mane karo?",
+      "tomAra dharmIya়tAra starake tumi kibhAve shreNIvaddha karave?"
+    ],
+    "options": [
+      "ekajana dhArmika vyakti",
+      "dhArmika vyakti nana|",
+      "ekajana nAstika"
+    ],
+    "scale": false
+  },
+  "Q174": {
+    "description": "dharmera artha: naitika vanAma AnuShThAnika manoyoga",
+    "questions": [
+      "nichera kona vaktavyera sAthe Apani savacheya়e veshi ekamata? dharmera mUla artha hala:",
+      "nichera konaTi ApanAra kAChe dharmera gurutvake savacheya়e bhAlobhAve upasthApana kare?",
+      "tomAra mate, dharmera mUla uddeshya vA sArAMsha kI?",
+      "dharma samparke ApanAra dRRiShTibha~Ngi kona vivRRitite savacheya়e bhAlobhAve phuTe oThe, daya়A kare tA ullekha karuna|"
+    ],
+    "options": [
+      "dharmIya় rItinIti evaM AchAra-anuShThAna mene chalA",
+      "anyadera bhAlo karA"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "dharmera artha: mRRityura parera jIvanake vojhAno vanAma ei pRRithivIte jIvanera artha vojhAno",
+    "questions": [
+      "dharmera uddeshya kI? (ekaTi nirvAchana karuna)",
+      "dharma samparke ApanAra dRRiShTibha~Ngira sAthe kona vivRRitiTi veshi sAdRRishyapUrNa? (ekaTi veChe nina)",
+      "ApanAra mate, dharmera pradhAna kAja ki mRRityura parera jIvana vojhA, nAki ei pRRithivIra jIvana vojhA? (ekaTi nirvAchana karuna)",
+      "dharmera kathA vivechanA karAra samaya়, jIvanera kona dikaTi mUlata vyAkhyA karAra cheShTA kare vale Apani mane karena? (ekaTi veChe nina)"
+    ],
+    "options": [
+      "mRRityura parera jIvanake vojhAnora janya",
+      "ei pRRithivIte jIvanera artha vojhAra janya"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "sammatira mAtrA: AjakAla prAya়shai kona naitika niya়maguli anusaraNa karA saThika tA nirdhAraNa karate samasyA haya়|",
+    "questions": [
+      "1 theke 10 era skele, Apani ei vivRRitiTira sAthe kataTA ekamata: AjakAla prAya়shai kona naitika niya়maguli anusaraNa karA saThika tA nirdhAraNa karate samasyA haya়? (1 = sampUrNa ekamata, 10 = sampUrNa asammata)",
+      "ei vivRRitira sAthe ApanAra ekamata kinA tA reTa karuna: AjakAla 1 theke 10 skele kona naitika niya়maguli anusaraNa karA saThika tA nirdhAraNa karate prAya়shai samasyA haya়| (1 = sampUrNa ekamata, 10 = sampUrNa asammata)",
+      "ei vivRRitira sAthe ApanAra ekamatera mAtrA nirdesha karuna: AjakAla prAya়shai 1 theke 10 skela vyavahAra kare kona naitika niya়maguli anusaraNa karA saThika tA nirdhAraNa karate samasyA haya়| (1 = sampUrNa ekamata, 10 = sampUrNa asammata)",
+      "nichera vaktavyera sAthe Apani kataTA ekamata? AjakAla prAya়shai kona naitika niya়maguli anusaraNa karA saThika tA nirdhAraNa karate samasyA haya়| anugraha kare 1 theke 10 skele reTa dina, yekhAne 1 mAne Apani sampUrNarUpe ekamata, evaM 10 mAne Apani sampUrNarUpe ekamata nana|"
+    ],
+    "options": [
+      "sampUrNa ekamata|",
+      "sampUrNarUpe ekamata nai"
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "yuktisa~Ngata: emana sarakAri suvidhA dAvi karA yA ApanAra prApya naya়",
+    "questions": [
+      "kona paristhitite, yadi thAke, tAhale Apani ki mane karena ye emana sarakAri suvidhA dAvi karA nyAyya yA Apani pAoya়Ara yogya nana?",
+      "kona kona paristhitite, yadi thAke, tAhale Apani ki mane karena ye emana sarakAri suvidhA dAvi karA nyAyya yA Apani pAoya়Ara yogya nana?",
+      "Apani ki mane karena ye kiChu paristhitite ApanAra adhikAra nei emana sarakAri suvidhA dAvi karA nyAyya? yadi tAi haya়, tAhale kakhana?",
+      "ApanAra mate, emana kona paristhiti AChe yekhAne Apani ye sarakAri suvidhAgulira adhikArI nana tA dAvi karA yuktisa~Ngata?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q178": {
+    "description": "yuktisa~Ngata: gaNaparivahane bhADa়A eDa়Ano",
+    "questions": [
+      "gaNaparivahane bhADa়A eDa়iya়e chalA kataTA yuktisa~Ngata vale Apani mane karena?",
+      "gaNaparivahane bhADa়A parishodha nA karA kataTA grahaNayogya vale Apani mane karena?",
+      "ApanAra mate, kakhana gaNaparivahane bhADa়A deoya়A eDa়Ano upayukta?",
+      "gaNaparivahane bhADa়A eDa়Anora kAjaTi ApanAra kAChe kataTA yuktisa~Ngata vale mane haya়?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q179": {
+    "description": "yuktisa~Ngata: sampatti churi karA",
+    "questions": [
+      "tumi ki vishvAsa karo ye sampatti churi karA kakhanoi nyAyya naya়?",
+      "tumi ki mane karo sampatti churi karA savasamaya় nyAyya?",
+      "tomAra mate, sampatti churi ki kakhanoi nyAyya naya়?",
+      "tomAra ki vishvAsa ye sampatti churi karA savasamaya়i nyAyya?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q180": {
+    "description": "yuktisa~Ngata: kara pratAraNA",
+    "questions": [
+      "tumi ki vishvAsa karo ye kara phA.Nki deoya়A kakhanoi nyAyya?",
+      "tomAra mate, kara phA.Nki deoya়A ki savasamaya় bhula?",
+      "ApanAra ki mane haya় emana kona paristhiti AChe yekhAne kara phA.Nki deoya়A nyAyya hate pAre?",
+      "tomAra ki vishvAsa ye kara phA.Nki deoya়A kakhanai grahaNayogya vale vivechita have nA?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q181": {
+    "description": "yuktisa~Ngata: keu tAdera kartavya pAlanera samaya় ghuSha grahaNa karaChe",
+    "questions": [
+      "kartavya pAlanera samaya় keu ghuSha grahaNera nyAyyatA samparke ApanAra matAmata kI?",
+      "kartavya pAlanera samaya় kAro pakShe ghuSha grahaNa karA kataTA nyAyya vale Apani mane karena?",
+      "ApanAra mate, kartavya pAlanera samaya় kAro pakShe ghuSha grahaNa karA ki kakhanao grahaNayogya?",
+      "ApanAra ki mane haya় ye keu tAra kartavya pAlanera samaya় ghuSha grahaNa karA sarvadA nyAyya, kakhanao nyAyya naya়, athavA era mAjhAmAjhi kothAo?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": false
+  },
+  "Q182": {
+    "description": "samakAmitAra prati manobhAva",
+    "questions": [
+      "tumi ki vishvAsa karo ye samakAmitA kakhanoi nyAyya, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "ApanAra mate, 1 (kakhanao nA) theke 10 (sarvadA) skele ki samakAmitA nyAyya?",
+      "tomAra ki mane haya় emana kona paristhitite samakAmitAke nyAyyatA deoYA yete pAre, 1 (kakhanai nA) theke 10 (sarvadA) skele?",
+      "ApanAra mate, emana kona paristhiti AChe yekhAne samakAmitAke 1 (kakhanai naya়) theke 10 (sarvadA) skele nyAyyatA deoYA yete pAre?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q183": {
+    "description": "patitAvRRittira prati manobhAva",
+    "questions": [
+      "tumi ki vishvAsa karo ye patitAvRRitti kakhanoi nyAyya, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "ApanAra mate, 1 (kakhanao nA) theke 10 (sarvadA) skele ki konao paristhititei patitAvRRitti nyAyya?",
+      "tomAra ki mane haya় emana kona paristhitite patitAvRRittike nyAyyatA deoYA yete pAre, 1 (kakhanai nA) theke 10 (sarvadA) skele?",
+      "ApanAra mate, emana kona paristhiti AChe yekhAne patitAvRRittike 1 (kakhanai naya়) theke 10 (sarvadA) skele nyAyyatA deoYA yete pAre?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q184": {
+    "description": "nyAyya: garbhapAta",
+    "questions": [
+      "tumi ki vishvAsa karo ye garbhapAta kakhanoi nyAyya, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "ApanAra mate, 1 (kakhanao nA) theke 10 (sarvadA) skele ki konao paristhititei garbhapAta nyAyya?",
+      "ApanAra ki mane haya় emana kona paristhitite garbhapAtake nyAyyatA deoYA yete pAre, 1 (kakhanai nA) theke 10 (sarvadA) skele?",
+      "ApanAra dRRiShTite ki garbhapAta savasamaya়i ayauktika, 1 (sarvadA ayauktika) theke 10 (sarvadA nyAyya) skele?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q185": {
+    "description": "yuktisa~Ngata: vivAhavichCheda",
+    "questions": [
+      "1 (kakhanai naya়) theke 10 (sarvadA) skele ki vivAhavichCheda kakhanao nyAyya?",
+      "tumi ki vishvAsa karo ye vivAhavichCheda nyAyya hate pAre, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "1 (kakhanai naya়) theke 10 (sarvadA) skele ki vivAhavichChedake nyAyya vale vivechanA karA yete pAre?",
+      "ApanAra mate, emana kona paristhiti AChe yekhAne 1 (kakhanai naya়) theke 10 (sarvadA) skele vivAhavichChedake nyAyyatA deoYA yete pAre?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q186": {
+    "description": "viya়era Age yaunatAra prati manobhAva",
+    "questions": [
+      "viya়era Age yauna samparka ki kakhano nyAyya, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "tumi ki vishvAsa karo ye viya়era Age yauna samparkake 1 (kakhanai naya়) theke 10 (sarvadA) skele nyAyyatA deoYA yete pAre?",
+      "viya়era Age yauna samparka ki 1 (kakhanai naya়) theke 10 (sarvadA) skele nyAyya vale vivechita hate pAre?",
+      "ApanAra mate, emana kona paristhiti AChe yekhAne viya়era Age yauna samparkake 1 (kakhanai naya়) theke 10 (sarvadA) skele nyAyyatA deoYA yete pAre?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q187": {
+    "description": "yuktisa~Ngata: AtmahatyA",
+    "questions": [
+      "AtmahatyAra nyAyyatA samparke ApanAra matAmata kI?",
+      "tumi ki vishvAsa karo ye AtmahatyA kakhanoi nyAyya?",
+      "yakhana AtmahatyAra kathA Ase, takhana ki ApanAra mane haya় emana kiChu paristhiti AChe yA eTike nyAyya kare tole?",
+      "AtmahatyA ki emana kiChu yA Apani konao paristhitite naitikabhAve nyAyya vale mane karena?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q188": {
+    "description": "yuktisa~Ngata: ichChAmRRityu",
+    "questions": [
+      "ichChAmRRityura nyAyyatA samparke ApanAra avasthAna kI?",
+      "Apani ki vishvAsa karena ye kiChu nirdiShTa paristhitite ichChAmRRityu nyAyya?",
+      "tomAra mate, ichChAmRRityu ki kakhano nyAyya?",
+      "nirdiShTa kiChu kShetre ki ichChAmRRityuke nyAyya vikalpa hiseve vivechanA karA uchita?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q189": {
+    "description": "yuktisa~Ngata: ekajana puruShera tAra strIke mAradhara karA",
+    "questions": [
+      "ekajana puruShera pakShe tAra strIke mAradhara karA ki nyAya়sa~Ngata?",
+      "tumi ki vishvAsa karo ye ekajana puruSha tAra strIke mAradhara karA nyAyya?",
+      "tomAra mate, ekajana puruShera pakShe tAra strIke mAradhara karA ki kakhano grahaNayogya?",
+      "tomAra ki mane haya় emana paristhiti AChe yekhAne ekajana puruShera pakShe tAra strIke mAradhara karA nyAyya?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q190": {
+    "description": "yuktisa~Ngata: vAvA-mAya়erA shishudera mAradhara kare",
+    "questions": [
+      "tumi ki mane karo vAvA-mAYerA tAdera santAnadera mAradhara karave?",
+      "vAvA-mAYera pakShe santAnadera upara shArIrika valapraYoga karA ki kakhano nyAYasa~Ngata?",
+      "tumi ki vishvAsa karo ye vAvA-mAYera tAdera santAnadera shArIrikabhAve shAsana karAra adhikAra AChe?",
+      "tomAra mate, vAvA-mAYerA ki tAdera santAnadera upara shArIrika shAsti vyavahAra karate pAre?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q191": {
+    "description": "yuktisa~Ngata: anyadera viruddhe sahiMsatA",
+    "questions": [
+      "tumi ki vishvAsa karo ye anyadera viruddhe sahiMsatA kakhanoi nyAyya?",
+      "ApanAra mate, emana kona paristhiti AChe ki yekhAne anya mAnuShera viruddhe sahiMsatA nyAyya vale vivechita hate pAre?",
+      "ApanAra ki mane haya় emana kona paristhitite anya mAnuShera viruddhe sahiMsatA nyAyya hate pAre?",
+      "anya mAnuShera viruddhe sahiMsatA ki yekono paristhititei nyAyya vale pramANita hate pAre?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q192": {
+    "description": "yuktisa~Ngata: rAjanaitika, Adarshika vA dharmIya় upAya় hiseve santrAsavAda",
+    "questions": [
+      "Apani ki vishvAsa karena ye santrAsavAdake rAjanaitika upAya় hiseve kakhanoi nyAyyatA deoYA yAYa, 1 (kakhanai nA) theke 10 (sarvadA) skele?",
+      "santrAsavAdake ki 1 (kakhanai naya়) theke 10 (sarvadA) skele Adarshika upAya় hiseve nyAyyatA deoYA sambhava?",
+      "ApanAra ki mane haya় ye santrAsavAdake dharmIya় upAya় hiseve 1 (kakhanao nA) theke 10 (sarvadA) skele nyAyya vale vivechanA karA yete pAre?",
+      "ApanAra mate, santrAsavAda ki kakhano rAjanaitika lakShya arjanera janya nyAyya upAya়, 1 (kakhanai naya়) theke 10 (sarvadA) skele?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q193": {
+    "description": "naimittika yaunatAra prati manobhAva",
+    "questions": [
+      "1 (kakhanao nA) theke 10 (sarvadA) skele ki naimittika yauna samparka kakhanoi nyAyya?",
+      "tumi ki vishvAsa karo ye naimittika yaunatA 1 (kakhanao nA) theke 10 (sarvadA) skele nyAyya hate pAre?",
+      "1 (kakhanao nA) theke 10 (sarvadA) skele ki naimittika yaunatAke nyAyya vale vivechanA karA yete pAre?",
+      "ApanAra mate, emana kona paristhiti AChe yekhAne 1 (kakhanao nA) theke 10 (sarvadA) skele naimittika yaunatAke nyAyyatA deoYA yete pAre?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q194": {
+    "description": "yuktisa~Ngata: rAjanaitika sahiMsatA",
+    "questions": [
+      "Apani ki vishvAsa karena ye rAjanaitika sahiMsatA kakhanoi nyAyya, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "ApanAra mate, emana kona paristhitite ki rAjanaitika sahiMsatAke 1 (kakhanai naya়) theke 10 (sarvadA) skele nyAyyatA deoYA yete pAre?",
+      "ApanAra ki mane haya় rAjanaitika sahiMsatA naitikabhAve kiChu nirdiShTa paristhitite, 1 (kakhanao nA) theke 10 (sarvadA) skele nyAyya hate pAre?",
+      "1 (kakhanai naya়) theke 10 (sarvadA) skele ki rAjanaitika sahiMsatAke nyAyyatA deoYA sambhava?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q195": {
+    "description": "yuktisa~Ngata: mRRityudaNDa",
+    "questions": [
+      "Apani ki vishvAsa karena ye mRRityudaNDa nyAyya, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "ApanAra mate, mRRityudaNDa ki kakhano nyAyya, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "Apani ki kiChu paristhitite mRRityudaNDake nyAyya vale mane karena, 1 (kakhanai naya়) theke 10 (sarvadA) skele?",
+      "ApanAra ki mane haya় emana kona paristhitite mRRityudaNDa nyAyya hate pAre, 1 (kakhanai naya়) theke 10 (sarvadA) skele?"
+    ],
+    "options": [
+      "kakhanoi nyAyya naya়",
+      "sarvadA nyAyya"
+    ],
+    "scale": true
+  },
+  "Q196": {
+    "description": "sarakArI sthAne bhiDio najaradAri vyavahArera adhikAra sarakArera",
+    "questions": [
+      "ApanAra ki mane haya়, sarakAra janasAdhAraNera janya janasAdhAraNera upara bhiDio najaradAri rAkhAra adhikAra rAkhe, nAki rAkhe nA?",
+      "sarakArera ki pAvalika bhiDio najaradArira mAdhyame nAgarikadera upara najaradAri karAra adhikAra thAkA uchita?",
+      "Apani ki mane karena ye kartRRipakShera pakShe janasAdhAraNera sthAne bhiDio kyAmerA vyavahAra kare mAnuShera upara najara rAkhA grahaNayogya?",
+      "janasAdhAraNera sthAne bhiDio najaradArira AotAya় mAnuShake rAkhAra adhikAra sarakArera thAkA uchita kinA tA ApanAra mane haya় daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "avashyai adhikAra thAkA uchita",
+      "sambhavata adhikAra thAkA uchita",
+      "sambhavata adhikAra thAkA uchita naya়",
+      "avashyai adhikAra thAkA uchita naya়"
+    ],
+    "scale": false
+  },
+  "Q197": {
+    "description": "analAina yogAyoga paryavekShaNera adhikAra sarakArera",
+    "questions": [
+      "ApanAra ki mane haya় sarakArera inTAraneTe AdAna-pradAna karA samasta i-meila evaM anya konao tathya paryavekShaNa karAra adhikAra thAkA uchita nAki thAkA uchita naya়?",
+      "nAgarikadera analAina yogAyoga paryavekShaNa karAra adhikAra ki sarakArera thAkA uchita?",
+      "nirApattAra svArthe kartRRipakShera inTAraneTa yogAyoga paryavekShaNa karate pArA uchita, ei viShaYe Apani ki ekamata?",
+      "ApanAra ki mane haya় sarakArera i-meila evaM analAina tathya paryavekShaNa karAra adhikAra thAkA uchita, anugraha kare tA ullekha karuna|"
+    ],
+    "options": [
+      "avashyai adhikAra thAkA uchita",
+      "sambhavata adhikAra thAkA uchita",
+      "sambhavata adhikAra thAkA uchita naya়",
+      "avashyai adhikAra thAkA uchita naya়"
+    ],
+    "scale": false
+  },
+  "Q198": {
+    "description": "gopane vyaktigata tathya saMgrahera adhikAra sarakArera",
+    "questions": [
+      "ApanAra ki mane haya়, ei deshe vasavAsakArI ye kAro ajAnte tAdera samparke tathya saMgraha karAra adhikAra sarakArera thAkA uchita nAki thAkA uchita naya়?",
+      "kartRRipakShera ki nAgarikadera samparke gopane vyaktigata tathya saMgrahera adhikAra thAkA uchita?",
+      "Apani ki mane karena ye sarakArake lokedera nA jAniya়e tathya saMgraha karAra anumati deoya়A uchita?",
+      "nAgarikadera ajAntei sarakArera vyaktigata tathya saMgrahera adhikAra thAkA uchita kinA tA ApanAra mane haya়, daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "avashyai adhikAra thAkA uchita",
+      "sambhavata adhikAra thAkA uchita",
+      "sambhavata adhikAra thAkA uchita naya়",
+      "avashyai adhikAra thAkA uchita naya়"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "rAjanItite Agraha",
+    "questions": [
+      "rAjanItite ApanAra kataTA Agraha?",
+      "rAjanItite ApanAra kataTA Agraha?",
+      "rAjanItite ApanAra Agrahera stara kI?",
+      "Apani ki nijeke rAjanItite AgrahI vale varNanA karavena?"
+    ],
+    "options": [
+      "khuva AgrahI",
+      "kiChuTA AgrahI",
+      "khuva ekaTA AgrahI nai|",
+      "moTeo AgrahI nai|"
+    ],
+    "scale": false
+  },
+  "Q200": {
+    "description": "vandhudera sAthe rAjanaitika viShaya় niya়e AlochanAra phrikoya়ensi",
+    "questions": [
+      "yakhana tumi tomAra vandhudera sAthe ekatrita hao, takhana ki tumi valave ye tumi rAjanaitika viShaya়guli ghana ghana AlochanA karo, mAjhe mAjhe, nAki kakhanoi nA?",
+      "vandhudera sAthe dekhA karAra samaya় Apani katavAra rAjanaitika viShaya় niya়e AlochanA karena?",
+      "tumi ki valave vandhudera sAthe kathA valAra samaya় rAjanaitika viShaya়guli ghana ghana, mAjhe mAjhe, athavA kakhanai Ase nA?",
+      "Apani evaM ApanAra vandhurA kata ghana ghana rAjanaitika viShaya় niya়e AlochanA karena - ghana ghana, mAjhe mAjhe, athavA kakhanai nA - daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "ghana ghana",
+      "mAjhe mAjhe",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q201": {
+    "description": "dainika saMvAdapatra theke tathya prAptira phrikoya়ensi",
+    "questions": [
+      "ei desha evaM vishve kI ghaTaChe se samparke tathya pete Apani katavAra dainika saMvAdapatra vyavahAra karena?",
+      "tumi ki dainika, sAptAhika, mAsika, mAsikera kama, nAki kakhanoi ekaTi dainika saMvAdapatra paDa়o nA?",
+      "jAtIya় vA AntarjAtika ghaTanAvalI samparke avagata thAkAra janya Apani kata ghana ghana saMvAdapatra paDa়ena?",
+      "daYA kare ullekha karuna ye Apani kata ghana ghana dainika saMvAdapatra theke khavara pAna — dainika, sAptAhika, mAsika, mAsikera kama, athavA kakhanoi nA|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q202": {
+    "description": "Tibhi saMvAda theke tathya prAptira phrikoya়ensi",
+    "questions": [
+      "ApanAra desha evaM vishve kI ghaTaChe tA jAnate Apani katavAra Tibhi saMvAda dekhena?",
+      "tumi ki Telibhishanera saMvAda pratidina, sAptAhika, mAsika, mAsikera kama, nAki kakhanoi vyavahAra karo nA?",
+      "avagata thAkAra janya Apani Telibhishane kata ghana ghana saMvAda anuShThAna dekhena?",
+      "Apani katavAra Tibhi saMvAda dekhena tA ullekha karuna — dainika, sAptAhika, mAsika, mAsera kama, athavA kakhanoi nA|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q203": {
+    "description": "reDio saMvAda theke tathya prAptira phrikoya়ensi",
+    "questions": [
+      "jAtIya় evaM vishva ghaTanAvalI samparke tathyera janya Apani kata ghana ghana reDio saMvAda shonena?",
+      "Apani ki reDio saMvAda pratidina, sAptAhika, mAsika, mAsikera kama, nAki kakhanoi vyavahAra karena nA?",
+      "sAmpratika ghaTanAvalIra sAthe tAla miliya়e chalAra janya Apani kata ghana ghana reDio samprachAra shonena?",
+      "Apani reDio theke katavAra saMvAda pAna tA ullekha karuna — dainika, sAptAhika, mAsika, mAsera kama, athavA kakhanao nA|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q204": {
+    "description": "saMvAda evaM tathyera janya movAila phona vyavahArera phrikoya়ensi",
+    "questions": [
+      "ei desha evaM vishve kI ghaTaChe se samparke khavara vA tathya pete Apani katavAra ApanAra movAila phona vyavahAra karena?",
+      "Apani ki tathya pAoya়Ara janya pratidina, sAptAhika, mAsika, mAsera kama, athavA kakhanao movAila phona vyavahAra karena nA?",
+      "khavarera ApaDeTa vA sAmpratika ghaTanAguli dekhAra janya Apani kata ghana ghana ApanAra movAila phona vyavahAra karena?",
+      "Apani katavAra ApanAra movAila phona vyavahAra karena tA ullekha karuna — dainika, sAptAhika, mAsika, mAsera kama, athavA kakhanoi nA|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q205": {
+    "description": "saMvAda evaM tathyera janya imela vyavahArera phrikoya়ensi",
+    "questions": [
+      "ei desha evaM vishve kI ghaTaChe se samparke tathya pete Apani katavAra imela vyavahAra karena?",
+      "Apani ki khavara vA ApaDeTera janya dainika, sAptAhika, mAsika, mAsikera kama, athavA kakhanao imela vyavahAra karena nA?",
+      "Apani kata ghana ghana imelera mAdhyame khavara vA ApaDeTa dekhena vA pAna?",
+      "anugraha kare ullekha karuna ye Apani katavAra imela vyavahAra karena - dainika, sAptAhika, mAsika, mAsera kama, athavA kakhanai nA|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q206": {
+    "description": "saMvAda evaM tathyera janya inTAraneTa vyavahArera phrikoya়ensi",
+    "questions": [
+      "ei desha evaM vishve kI ghaTaChe se samparke tathya pete Apani katavAra inTAraneTa vyavahAra karena?",
+      "Apani ki pratidina, sAptAhika, mAsika, mAsera kama, nAki kakhanoi analAine saMvAda vA tathya pAna?",
+      "Apani kata ghana ghana analAine khavara dekhate yAna vA sAmpratika ghaTanAvalI samparke paDa়ena?",
+      "Apani katavAra saMvAda evaM tathyera janya inTAraneTa vyavahAra karena tA ullekha karuna - dainika, sAptAhika, mAsika, mAsera kama, athavA kakhanao nA|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q207": {
+    "description": "saMvAda evaM tathyera janya sAmAjika yogAyoga mAdhyama vyavahArera phrikoya়ensi",
+    "questions": [
+      "ei desha evaM vishve kI ghaTaChe se samparke tathya pete Apani katavAra sAmAjika yogAyoga mAdhyama (yemana phesavuka, TuiTAra ityAdi) vyavahAra karena?",
+      "Apani ki soshyAla miDiya়Ara mAdhyame pratidina, sAptAhika, mAsika, mAsikera kama, nAki kakhanao khavara vA ApaDeTa pAna nA?",
+      "Apani kata ghana ghana saMvAda vA rAjanaitika ghaTanAvalI anusaraNa karAra janya soshyAla miDiya়A vyavahAra karena?",
+      "Apani katavAra saMvAdera janya soshyAla miDiya়Ara upara nirbhara karena - dainika, sAptAhika, mAsika, mAsikera kama, athavA kakhanai nA - daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q208": {
+    "description": "vandhu vA sahakarmIdera sAthe saMvAda AlochanAra phrikoya়ensi",
+    "questions": [
+      "ei desha evaM vishve kI ghaTaChe se samparke tathya pete Apani katavAra vandhu vA sahakarmIdera sAthe kathA valena?",
+      "tumi ki vandhu vA sahakarmIdera sAthe khavara vA sAmpratika ghaTanA niya়e pratidina, sAptAhika, mAsika, mAsikera kama, nAki kakhanoi AlochanA karo nA?",
+      "Apani ApanAra vandhu vA sahakarmIdera sAthe kata ghana ghana sAmpratika ghaTanAvalI samparke tathya vinimaya় karena?",
+      "Apani kata ghana ghana vandhu vA sahakarmIdera sAthe saMvAda samparke kathA valena - dainika, sAptAhika, mAsika, mAsikera kama, athavA kakhanai nA - daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "dainika",
+      "sAptAhika",
+      "mAsika",
+      "mAsikera cheya়e kama",
+      "kakhanoi nA"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "rAjanaitika padakShepa: ekaTi Avedane svAkShara karA",
+    "questions": [
+      "Apani ki kakhanao rAjanaitika padakShepera Avedane svAkShara kareChena?",
+      "bhaviShyate ki Apani rAjanaitika padakShepera Avedane svAkShara karAra kathA bhAvaChena?",
+      "Apani ki rAjanaitika padakShepera Avedane svAkShara karate ichChuka?",
+      "ApanAra ki rAjanaitika padakShepera Avedane svAkShara karAra konao ichChA AChe?"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "rAjanaitika padakShepa: vaya়kaTera sAthe yogadAna",
+    "questions": [
+      "Apani ki kakhanao rAjanaitika vaya়kaTera sAthe aMshagrahaNa kareChena?",
+      "Apani ki rAjanaitika vaya়kaTera kathA bhAvaChena?",
+      "Apani ki rAjanaitika vaya়kaTera janya unmukta thAkavena?",
+      "rAjanaitika vaYakaTera sAthe yoga deoYA ki emana kiChu yA Apani kakhanao vivechanA karavena nA?"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "rAjanaitika karmakANDa: vaidha/shAntipUrNa vikShobhe aMshagrahaNa karA",
+    "questions": [
+      "Apani ki kakhanao rAjanaitika karmakANDera janya konao vaidha/shAntipUrNa vikShobhe yoga diya়eChena?",
+      "bhaviShyate rAjanaitika karmakANDera janya Apani ki vaidha/shAntipUrNa vikShobhe yoga dite ichChuka?",
+      "Apani ki rAjanaitika karmakANDera janya ekaTi vaidha/shAntipUrNa vikShobhe yogadAnera kathA vivechanA karavena?",
+      "rAjanaitika karmakANDera janya vaidha/shAntipUrNa vikShobhe yogadAna ki emana kiChu yA Apani kakhanai karavena nA?"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "rAjanaitika padakShepa: anAnuShThAnika dharmaghaTe yogadAna",
+    "questions": [
+      "Apani ki kakhanao rAjanaitika karmakANDera janya anAnuShThAnika dharmaghaTe aMshagrahaNa kareChena?",
+      "rAjanaitika karmakANDera janya anAnuShThAnika dharmaghaTe yogadAnera sambhAvanA ki ApanAra kAChe unmukta?",
+      "rAjanaitika karmakANDera janya Apani ki anAnuShThAnika dharmaghaTe aMshagrahaNera kathA vivechanA karavena?",
+      "tumi ki dRRiDha়bhAve vishvAsa karo ye tumi kakhanoi rAjanaitika karmakANDera janya anAnuShThAnika dharmaghaTe aMsha neve nA?"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q213": {
+    "description": "konao goShThI vA prachAraNAya় anudAna pradAne aMshagrahaNa",
+    "questions": [
+      "Apani ki kakhanao konao rAjanaitika dala vA prachAraNAya় anudAna diya়eChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "tumi ki valave ye tumi kona grupa vA kyAmpeine dAna kareCho, bhaviShyate haya়to karave, nAki kakhano karave nA?",
+      "Apani ki kakhanao konao rAjanaitika dala vA prachAraNAya় Arthika avadAna rekheChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "Apani ki kona rAjanaitika saMgaThana vA prachAraNAya় dAna kareChena, dAna karate pArena, athavA kakhanao karavena nA tA ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q214": {
+    "description": "ekajana sarakAri karmakartAra sAthe yogAyoge aMshagrahaNa",
+    "questions": [
+      "Apani ki kakhanao konao rAjanaitika viShaya়e konao sarakAri karmakartAra sAthe yogAyoga kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "tumi ki valave ye tumi ekajana sarakAri karmakartAra sAthe yogAyoga kareCha, haya়to karave, athavA kakhano karave nA?",
+      "Apani ki kakhanao rAjanaitika vA janasAdhAraNera viShaya়e konao sarakAri pratinidhira sAthe yogAyoga kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "ApanAra matAmata vA udvega prakAsha karAra janya Apani ki konao sarakAri karmakartAra sAthe yogAyoga kareChena, yogAyoga karate pAravena, athavA kakhanao karavena nA tA daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q215": {
+    "description": "rAjanaitika viShaya়guli samparke padakShepa nite anyadera uৎsAhita karA",
+    "questions": [
+      "Apani ki kakhanao anyadera rAjanaitika viShaya় niya়e padakShepa nite uৎsAhita kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "tumi ki valave ye tumi anyadera rAjanaitika viShaya় niya়e padakShepa nite uৎsAhita kareCha, haya়to karave, athavA kakhano karave nA?",
+      "tumi ki kakhanao anyadera rAjanaitika viShaya়e ja.Dita hate rAji karAnora cheShTA kareCha, tumi ki tA karate pAro, nAki kakhanoi karave nA?",
+      "Apani ki anyadera rAjanaitika padakShepa nite uৎsAhita kareChena, uৎsAhita karate pAravena, nAki kakhanao karavena nA, tA ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q216": {
+    "description": "anyadera bhoTa dite uৎsAhita karA",
+    "questions": [
+      "tumi ki kakhanao anyadera bhoTa dite uৎsAhita kareCha, tumi ki eTA karate pAro, nAki kakhano karave nA?",
+      "tumi ki valave ye tumi mAnuShake bhoTa dite uৎsAhita kareCha, haya়to karave, athavA kakhano karave nA?",
+      "Apani ki kakhanao anyadera nirvAchane bhoTa deoya়Ara janya anurodha kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "Apani ki anyadera bhoTadAne aMshagrahaNa karate uৎsAhita kareChena, uৎsAhita karate pAravena, nAki kakhanao karavena nA tA ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q217": {
+    "description": "rAjanIti evaM rAjanaitika ghaTanAvalI samparke tathyera janya analAina anusandhAna",
+    "questions": [
+      "Apani ki inTAraneTa vA phesavuka vA TuiTArera mato sAmAjika yogAyoga mAdhyama vyavahAra kare rAjanIti evaM rAjanaitika ghaTanAvalI samparke tathya anusandhAna kareChena?",
+      "tumi ki valave ye tumi eTA kareCha, haya়to karave, nAki kakhano karave nA?",
+      "Apani ki kakhanao rAjanaitika viShaya় vA ghaTanA samparke tathya kho.NjAra janya inTAraneTa vA soshyAla miDiya়A vyavahAra kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "Apani analAine vA soshyAla miDiya়Aya় rAjanaitika tathya anusandhAna kareChena, anusandhAna karate pArena, athavA kakhanao anusandhAna karavena nA tA daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q218": {
+    "description": "ekaTi ilekaTranika piTishana svAkShare aMshagrahaNa",
+    "questions": [
+      "Apani ki kakhanao ilekaTranika piTishane svAkShara kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "tumi ki valave ye tumi ekaTi analAina piTishane svAkShara kareCha, haya়to karave, athavA kakhano karave nA?",
+      "Apani ki kakhanao inTAraneTe konao piTishane svAkShara karate aMshagrahaNa kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "Apani ki ilekaTranika piTishane svAkShara kareChena, svAkShara karate pAravena, nAki kakhanao svAkShara karavena nA, tA daya়A kare ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q219": {
+    "description": "sAmAjika yogAyoga mAdhyame anyadera rAjanaitika padakShepa nite uৎsAhita karA",
+    "questions": [
+      "Apani ki inTAraneTa vA soshyAla miDiya়A vyavahAra kare anyadera rAjanaitika padakShepa nite uৎsAhita kareChena?",
+      "tumi ki valave ye tumi eTA kareCha, haya়to karave, nAki kakhano karave nA?",
+      "Apani ki kakhanao anyadera rAjanaitika karmakANDe aMshagrahaNa karate uৎsAhita karAra janya soshyAla miDiya়A vyavahAra kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "Apani ki anyadera analAine rAjanaitika padakShepa nite uৎsAhita kareChena, uৎsAhita karate pArena, athavA kakhanao karavena nA tA ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q220": {
+    "description": "analAine rAjanaitika karmakANDa vA prativAda saMgaThita karA",
+    "questions": [
+      "Apani ki kakhanao inTAraneTa vA phesavuka vA TuiTArera mato sAmAjika yogAyoga mAdhyama vyavahAra kare rAjanaitika karmakANDa, anuShThAna vA prativAda saMgaThita kareChena?",
+      "tumi ki valave ye tumi ei dharanera kAryakrama Aya়ojana kareCha, haya়to karave, athavA kakhano karave nA?",
+      "Apani ki kakhanao analAina plyATapharma vyavahAra kare konao rAjanaitika anuShThAna, prachAraNA vA prativAda saMgaThita kareChena, Apani ki tA karate pArena, nAki kakhanao karavena nA?",
+      "Apani inTAraneTa vA soshyAla miDiya়Ara mAdhyame rAjanaitika karmakANDa saMgaThita kareChena, saMgaThita karate pAravena, athavA kakhanao karavena nA tA ullekha karuna|"
+    ],
+    "options": [
+      "kareChi",
+      "hate pAre",
+      "kakhanoi karavo nA"
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "nirvAchane bhoTa dina: sthAnIya় stara",
+    "questions": [
+      "sthAnIya় paryAya়era nirvAchane Apani kata ghana ghana bhoTa dena?",
+      "sthAnIya় paryAya়era nirvAchane ApanAra bhoTadAnera svAbhAvika abhyAsa kI?",
+      "Apani ki sAdhAraNata sthAnIya় paryAya়era nirvAchane bhoTa dena nAki dena nA?",
+      "sthAnIya় paryAya়era nirvAchane ki ApanAra bhoTa deoya়Ara anumati AChe?"
+    ],
+    "options": [
+      "sarvadA",
+      "sAdhAraNata",
+      "kakhanoi nA",
+      "bhoTa deoya়Ara anumati nei"
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "nirvAchane bhoTa dina: jAtIya় stare",
+    "questions": [
+      "jAtIya় paryAya়era nirvAchane Apani kata ghana ghana bhoTa dena?",
+      "jAtIya় paryAya়era nirvAchane ApanAra svAbhAvika bhoTadAnera dharaNa kemana?",
+      "tumi ki kakhanao jAtIya় paryAya়era nirvAchane aMshagrahaNa kareCha?",
+      "Apani ki jAtIya় paryAya়era nirvAchane bhoTa dite pAravena?"
+    ],
+    "options": [
+      "sarvadA",
+      "sAdhAraNata",
+      "kakhanoi nA",
+      "bhoTa deoya়Ara anumati nei"
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "deshera nirvAchane katavAra: bhoTa suShThubhAve gaNanA karA haya়",
+    "questions": [
+      "deshera nirvAchane katavAra bhoTa suShThubhAve gaNanA karA haya়?",
+      "deshera nirvAchane, kata ghana ghana bhoTa suShThubhAve gaNanA karA haya়?",
+      "deshera nirvAchane bhoTa ki veshirabhAga samaya়i suShThubhAve gaNanA karA haya়, nAki khuva kamai haya়?",
+      "deshera nirvAchane bhoTa kataTA suShThubhAve gaNanA karA haya়?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "deshera nirvAchane kata ghana ghana: virodhI prArthIdera pratidvandvitA karate vAdhA deoya়A haya়",
+    "questions": [
+      "deshera nirvAchane virodhI prArthIdera katavAra pratidvandvitA karate vAdhA deoYA haYa?",
+      "deshera nirvAchane virodhI prArthIdera kataTA pratidvandvitA karate vAdhA deoYA haYa?",
+      "niya়mitabhAve, katavAra virodhI prArthIdera deshera nirvAchane pratidvandvitA karate vAdhA deoya়A haya়?",
+      "deshera nirvAchane virodhI prArthIdera kata ghana ghana pratidvandvitA karate vAdhA deoya়A haya়?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "deshera nirvAchane kata ghana ghana: bhoTAradera ghuSha deoYA haYa",
+    "questions": [
+      "deshera nirvAchane katavAra bhoTAradera ghuSha deoYA haYa?",
+      "deshera nirvAchane bhoTArarA kata ghana ghana ghuSha grahaNa karena?",
+      "deshera nirvAchane niya়mitabhAve katavAra bhoTAradera ghuSha deoYA haYa?",
+      "deshera nirvAchane, bhoTArarA kata ghana ghana ghuShera sammukhIna hana?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "deshera nirvAchane katavAra: sAMvAdikarA nirvAchanera suShThu kabhAreja pradAna karena",
+    "questions": [
+      "ApanAra deshe sAMvAdikarA katavAra nirvAchanera suShThu kabhAreja pradAna karena?",
+      "ApanAra deshera nirvAchane sAMvAdikarA kata ghana ghana nyAyya kabhAreja pradAna karena?",
+      "ApanAra deshe sAMvAdikarA katavAra nirvAchanera suShThu kabhAreja pradAna karena vale Apani mane karena?",
+      "ApanAra deshera sAMvAdikarA ki prAya়shai nirvAchanera suShThu kabhAreja pradAna karena?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "deshera nirvAchane katavAra: nirvAchana karmakartArA nyAyya",
+    "questions": [
+      "deshera nirvAchane nirvAchana karmakartArA kata ghana ghana nirapekSha thAkena?",
+      "deshera nirvAchane nirvAchana karmakartArA kata ghana ghana nyAyyatA pradarshana karena?",
+      "deshera nirvAchane nirvAchana karmakartArA kataTA nyAyyatA pradarshana karena?",
+      "deshera nirvAchane nirvAchana karmakartArA kataTA nyAyya vale Apani mane karena?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "deshera nirvAchane kata ghana ghana: dhanI vyaktirA nirvAchana kenena",
+    "questions": [
+      "ApanAra deshe katavAra dhanI vyaktirA nirvAchana kinena vale ApanAra mane haya়?",
+      "ApanAra mate, ApanAra deshe dhanI vyaktirA kata ghana ghana nirvAchana kenena?",
+      "ApanAra deshe dhanIrA nirvAchana kine neya় vale Apani kataTA vishvAsa karena?",
+      "ApanAra deshe kata ghana ghana dhanI vyaktirA nirvAchana kinaChena vale ApanAra mane haya়?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "deshera nirvAchane kata ghana ghana: bhoTakendre bhoTAradera sahiMsatAra humaki deoya়A haya়",
+    "questions": [
+      "deshera nirvAchane bhoTakendre katavAra bhoTAradera sahiMsatAra humaki deoya়A haya়?",
+      "deshera nirvAchane, bhoTakendre bhoTAradera kata ghana ghana sahiMsatAra humaki deoya়A haya়?",
+      "deshera nirvAchanera bhoTArarA ki prAya়shai bhoTakendre sahiMsatAra humakira sammukhIna hana?",
+      "deshera nirvAchane bhoTAradera sAdhAraNata kataTA sahiMsatAra humaki deoya়A haya়?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "deshera nirvAchane kata ghana ghana: nirvAchane bhoTAradera ekaTi prakRRita paChandera suyoga deoYA haYa",
+    "questions": [
+      "deshera nirvAchane bhoTAradera kata ghana ghana prakRRita paChandera suyoga deoYA haYa?",
+      "deshera nirvAchane bhoTAradera katavAra satyikArera paChandera suyoga deoYA haYa?",
+      "deshera nirvAchane bhoTArarA katavAra prakRRita paChandera adhikArI hana?",
+      "deshera nirvAchane bhoTAradera kataTA prakRRita paChandera suyoga deoYA haYa?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "deshera nirvAchane katavAra: nArIdera aphisa parichAlanAra samAna suyoga raya়eChe",
+    "questions": [
+      "ApanAra deshera nirvAchane katavAra nArIrA samAna suyoga pAna?",
+      "ApanAra deshera nirvAchane, kata ghana ghana nArIrA nirvAchane pratidvandvitA karAra samAna suyoga pAna?",
+      "ApanAra deshera nirvAchane nArIdera pratidvandvitA karAra samAna suyoga kataTA?",
+      "ApanAra deshera nirvAchane ki nArIdera prAYai samAna suyoga thAke?"
+    ],
+    "options": [
+      "khuva prAya়i",
+      "prAya়shai",
+      "prAya়shai nA",
+      "khuva ekaTA nA|"
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "ApanAra deshera rAjanaitika vyavasthA ApanAra mato lokadera sarakArera karmakANDe aMsha neoya়Ara suyoga kataTA deve vale Apani mane karena?",
+    "questions": [
+      "ApanAra deshera rAjanaitika vyavasthA ApanAra mato lokadera sarakArera karmakANDe aMsha neoya়Ara suyoga deya় vale Apani kataTA mane karena?",
+      "ApanAra deshera rAjanaitika vyavasthAra kShamatA kataTA gurutvapUrNa ye ApanAra mato lokedera sarakAri siddhAnta prabhAvita karate deoya়A uchita?",
+      "ApanAra mate, rAjanaitika vyavasthAra mAdhyame sarakAra yA kare tAte ApanAra mato mAnuShera vaktavya rAkhA kataTA gurutvapUrNa?",
+      "ApanAra deshera rAjanaitika vyavasthA ApanAra mato vyaktidera sarakAri karmakANDe aMsha nite kataTA sakShama kare vale Apani mane karena?"
+    ],
+    "options": [
+      "khuvai gurutvapUrNa",
+      "varaM gurutvapUrNa",
+      "khuva gurutvapUrNa naya়|",
+      "moTeo gurutvapUrNa naya়"
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "rAjanaitika vyavasthA: emana ekajana shaktishAlI netA thAkA yAke saMsada evaM nirvAchana niya়e mAthA ghAmAte have nA|",
+    "questions": [
+      "emana ekaTi rAjanaitika vyavasthA samparke ApanAra matAmata kI yekhAne ekajana shaktishAlI netA thAkavena evaM tAke saMsada evaM nirvAchana niya়e mAthA ghAmAte have nA?",
+      "emana ekaTi rAjanaitika vyavasthAke Apani kIbhAve dekhena yekhAne ekajana shaktishAlI netA saMsada evaM nirvAchana parichAlanA karate vAdhya nana?",
+      "emana ekaTi rAjanaitika vyavasthA samparke ApanAra matAmata kI yekhAne saMsada evaM nirvAchane konao aMshagrahaNa ChADa়Ai ekajana shaktishAlI netA jaDa়ita?",
+      "ApanAra mate, emana ekaTi rAjanaitika vyavasthAke Apani kIbhAve mUlyAya়na karavena yekhAne ekajana shaktishAlI netA AChena yAra saMsada evaM nirvAchana niya়e chintA karAra darakAra nei?"
+    ],
+    "options": [
+      "khuva bhAlo",
+      "moTAmuTi bhAlo",
+      "moTAmuTi khArApa",
+      "khuva khArApa"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "rAjanaitika vyavasthA: sarakAra naya়, visheShaj~nadera dvArA deshera janya yA sarvottama vale mane haya় sei anuyAya়I siddhAnta neoya়A|",
+    "questions": [
+      "emana ekaTi rAjanaitika vyavasthA samparke ApanAra matAmata kI yekhAne visheShaj~narA deshera janya kI sarvottama vale mane karena tAra upara bhitti kare siddhAnta nena?",
+      "emana ekaTi rAjanaitika vyavasthA samparke ApanAra dRRiShTibha~Ngi kI yekhAne visheShaj~narA deshera janya savacheya়e bhAlo kI tA tAdera vodhagamyatA anusAre siddhAnta nena?",
+      "deshera sarvottama svArthe siddhAnta neoya়Ara janya visheShaj~nadera upara nirbhara kare emana ekaTi rAjanaitika vyavasthA samparke ApanAra kI mane haya়?",
+      "emana ekaTi rAjanaitika vyavasthA samparke ApanAra kemana lAge yekhAne visheShaj~narA deshera janya savacheya়e bhAlo kI tA nirdhAraNa kare siddhAnta nena?"
+    ],
+    "options": [
+      "khuva bhAlo",
+      "moTAmuTi bhAlo",
+      "moTAmuTi khArApa",
+      "khuva khArApa"
+    ],
+    "scale": false
+  },
+  "Q237": {
+    "description": "desha parichAlanAra ekaTi upAya় hiseve sAmarika shAsanera mUlyAya়na",
+    "questions": [
+      "tumi ki valave senAvAhinIra shAsana ei desha parichAlanAra ekaTi khuva bhAlo, moTAmuTi bhAlo, moTAmuTi khArApa, athavA khuva khArApa paddhati?",
+      "ApanAra deshera sarakAra vyavasthA hiseve sAmarika shAsanake Apani kIbhAve mUlyAya়na karavena?",
+      "tumi ki mane karo desha parichAlanAra dAYitve senAvAhinI thAkA bhAlo nA khArApa?",
+      "Apani ki senAvAhinIra shAsanake desha parichAlanAra ekaTi khuva bhAlo, moTAmuTi bhAlo, moTAmuTi khArApa, nAki khuva khArApa paddhati vale mane karena, daya়A kare tA ullekha karuna|"
+    ],
+    "options": [
+      "khuva bhAlo",
+      "moTAmuTi bhAlo",
+      "moTAmuTi khArApa",
+      "khuva khArApa"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "rAjanaitika vyavasthA: ekaTi gaNatAntrika rAjanaitika vyavasthA thAkA",
+    "questions": [
+      "gaNatAntrika rAjanaitika vyavasthA thAkAra rAjanaitika vyavasthA samparke ApanAra matAmata kI?",
+      "gaNatAntrika rAjanaitika vyavasthA thAkAra rAjanaitika vyavasthAke Apani kIbhAve mUlyAya়na karavena?",
+      "ApanAra mate, gaNatAntrika rAjanaitika vyavasthA thAkA ki bhAlo nA khArApa?",
+      "gaNatAntrika rAjanaitika vyavasthA thAkAra rAjanaitika vyavasthA samparke ApanAra mUlyAya়na kI?"
+    ],
+    "options": [
+      "khuva bhAlo",
+      "moTAmuTi bhAlo",
+      "moTAmuTi khArApa",
+      "khuva khArApa"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "rAjanaitika vyavasthA: dharmIya় Aina dvArA parichAlita emana ekaTi vyavasthA yekhAne konao rAjanaitika dala vA nirvAchana thAkave nA|",
+    "questions": [
+      "kona rAjanaitika dala vA nirvAchana ChADa়Ai dharmIya় Aina dvArA parichAlita rAjanaitika vyavasthA samparke ApanAra matAmata kI?",
+      "emana ekaTi vyavasthAke Apani kIbhAve mUlyAya়na karavena yekhAne dharmIya় Aina konao rAjanaitika dala vA nirvAchana ChADa়Ai shAsana kare?",
+      "ApanAra dRRiShTite, kona rAjanaitika dala vA nirvAchana ChADa়Ai dharmIya় Aina dvArA parichAlita ekaTi rAjanaitika vyavasthA kataTA bhAlo vA khArApa?",
+      "shudhumAtra dharmIya় Aina dvArA parichAlita, yekhAne konao rAjanaitika dala vA nirvAchana nei, sei vyavasthA samparke ApanAra dhAraNA kI?"
+    ],
+    "options": [
+      "khuva bhAlo",
+      "moTAmuTi bhAlo",
+      "moTAmuTi khArApa",
+      "khuva khArApa"
+    ],
+    "scale": false
+  },
+  "Q240": {
+    "description": "rAjanaitika vAma-DAna varNAlIte Atma-sthAna",
+    "questions": [
+      "rAjanaitika viShaya়e, mAnuSha 'vAma' evaM 'DAna' niya়e kathA vale| ei skele Apani ApanAra matAmatake 1 (vAma) theke 10 (DAna) paryanta kIbhAve rAkhavena?",
+      "1 (vAma) theke 10 (DAna) skele ApanAra rAjanaitika matAmata kothAya় rAkhavena?",
+      "1 theke 10 skele, yekhAne 1 mAne 'vAma' evaM 10 mAne 'DAna', sekhAne Apani nijeke rAjanaitikabhAve kothAya় dekhena?",
+      "vAma (1) theke DAna (10) paryanta vistRRita skele ApanAra rAjanaitika dRRiShTibha~Ngi kIbhAve varNanA karavena?"
+    ],
+    "options": [
+      "vAma",
+      "Thika"
+    ],
+    "scale": true
+  },
+  "Q241": {
+    "description": "gaNatantra: sarakAra dhanIdera upara kara Aropa kare evaM daridradera bhartuki deya়",
+    "questions": [
+      "dhanIdera upara kara Aropa evaM daridradera bhartuki deoya়A gaNatantrera ekaTi aparihArya vaishiShTya vale Apani kataTA vishvAsa karena?",
+      "1 theke 10 skele, gaNatantrera janya dhanIdera upara kara Aropa karA evaM daridradera bhartuki pradAna karA kataTA gurutvapUrNa vale Apani mane karena?",
+      "gaNatantre dhanIdera upara kara Aropa karA evaM daridradera bhartuki deoya়A uchita, ei viShaya়e Apani kataTA ekamata vA dvimata poShaNa karena? anugraha kare ApanAra uttaraTi 1 theke 10 skele reTa karuna|",
+      "1 theke 10 skela vyavahAra kare dhanIdera upara kara Aropa evaM daridradera bhartuki deoya়A gaNatantrera ekaTi maulika dika vale Apani kataTA vishvAsa karena tA mUlyAya়na karuna|"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya়",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "gaNatantra: dharmIya় kartRRipakSha Aina vyAkhyA kare",
+    "questions": [
+      "1 theke 10 skele, dharmIya় kartRRipakShera Aina vyAkhyA karA gaNatantrera janya kataTA aparihArya vale Apani mane karena?",
+      "gaNatantrera janya dharmIya় kartRRipakShera Aina vyAkhyA karAra praYojana vale Apani kataTA vishvAsa karena, anugraha kare 1 theke 10 skele reTa dina|",
+      "gaNatantrera janya dharmIya় kartRRipakShera Aina vyAkhyA karAra kShamatA thAkA kataTA jaruri vale Apani mane karena? anugraha kare 1 theke 10 paryanta reTiM dina|",
+      "gaNatantrera janya dharmIya় kartRRipakShera Aina vyAkhyA karA kataTA gurutvapUrNa vale Apani mane karena? anugraha kare 1 theke 10 skele ApanAra matAmata jAnAna|"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya়",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q243": {
+    "description": "gaNatantrera vaishiShTya hiseve avAdha nirvAchanera gurutva anudhAvana karA haya়eChe",
+    "questions": [
+      "1 theke 10 skele avAdha nirvAchane janagaNa tAdera netA nirvAchana karA gaNatantrera janya kataTA aparihArya vale Apani mane karena?",
+      "1 theke 10 era skele, yekhAne 1 era artha 'moTeo aparihArya naya়' evaM 10 era artha 'avashyai aparihArya', gaNatantrera janya avAdha nirvAchana kataTA gurutvapUrNa?",
+      "1 theke 10 skele Apani kataTA avAdha nirvAchanake gaNatantrera ekaTi aparihArya vaishiShTya vale mane karena?",
+      "gaNatantrera ekaTi gurutvapUrNa vaishiShTya hiseve avAdha nirvAchana kataTA gurutvapUrNa, anugraha kare 1 theke 10 paryanta reTa dina|"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya় moTeo",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "gaNatantra: vekAratvera janya janagaNa rAShTrIya় sahAya়tA pAya়",
+    "questions": [
+      "gaNatantra: vekAratvera janya mAnuSha rAShTrIya় sAhAyya pAya়?",
+      "vekAratvera janya rAShTrIya় sahAya়tA grahaNakArI vyaktirA gaNatantrera ekaTi aparihArya vaishiShTya vale Apani kataTA vishvAsa karena? (1 theke 10 paryanta hAra)",
+      "1 theke 10 skele, gaNatantre vekAratvera janya rAShTrIya় sahAya়tAra vidhAna kataTA aparihArya vale Apani mane karena?",
+      "vekAratvera janya rAShTrIya় sAhAyyera vyavasthA gaNatantrera aparihArya vaishiShTyagulite kataTA avadAna rAkhe vale Apani mane karena? (1 theke 10 paryanta hAra)"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya়",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q245": {
+    "description": "sarakAra ayogya hale senAvAhinIra hastakShepera gurutva gaNatantrera vaishiShTya hiseve anubhUta haya়eChe|",
+    "questions": [
+      "1 theke 10 skele sarakAra yakhana ayogya takhana senAvAhinIra kShamatA grahaNa karA gaNatantrera janya kataTA aparihArya vale Apani mane karena?",
+      "1 theke 10 skele, sarakAre senAvAhinIra hastakShepa gaNatantrera ekaTi aparihArya vaishiShTya vale Apani kataTA mane karena tA mUlyAya়na karuna|",
+      "sarakAra vyartha hale senAvAhinIra kShamatA grahaNa karA 1 theke 10 skele gaNatantrera sAthe kataTA sAma~njasyapUrNa vale Apani mane karena?",
+      "1 theke 10 skele anugraha kare ullekha karuna ye, gaNatantrera janya senAvAhinIra dvArA ekaTi ayogya sarakArake sariya়e neoya়A kataTA gurutvapUrNa vale Apani mane karena|"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya় moTeo",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q246": {
+    "description": "gaNatantrera vaishiShTya hiseve rAShTrIya় nipIDa়na theke janagaNake rakShA karAra janya nAgarika adhikArera gurutva anudhAvana karA haya়eChe|",
+    "questions": [
+      "1 theke 10 skele rAShTrIya় nipIDa়na theke nAgarika adhikAra janagaNake rakShA karA gaNatantrera janya kataTA aparihArya vale Apani mane karena?",
+      "1 theke 10 skele, yekhAne 1 mAne 'ekevArei aparihArya naya়' evaM 10 mAne 'avashyai aparihArya', gaNatantrera janya nAgarika adhikAra surakShA kataTA gurutvapUrNa?",
+      "1 theke 10 skele, sarakAri nipIDa়na theke vyaktidera rakShA kare emana nAgarika adhikAra gaNatantrera ekaTi aparihArya vaishiShTya vale Apani kataTA vishvAsa karena?",
+      "gaNatantrera janya nAgarika adhikAra kataTA aparihArya vale Apani mane karena, anugraha kare 1-10 skele ullekha karuna|"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya় moTeo",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "gaNatantra: rAShTra janagaNera Aya় samAna kare|",
+    "questions": [
+      "gaNatantra: rAShTra janagaNera Aya় samAna kare tole",
+      "gaNatantra: janagaNera Aya় samAna karAra kShetre rAShTrera bhUmikA ki?",
+      "gaNatantrera madhye rAShTrera janagaNera Aya় samAna karAra viShaya়Ti kataTA jaDa়ita vale Apani vishvAsa karena?",
+      "1 theke 10 skele, gaNatantrera janya janagaNera Aya় samAna kare rAShTrake antarbhukta karA kataTA aparihArya vale Apani mane karena?"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya়",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "gaNatantra: janagaNa tAdera shAsakadera Anugatya kare",
+    "questions": [
+      "gaNatantra: janagaNa tAdera shAsakadera Anugatya karA gaNatantrera aparihArya vaishiShTya naya়| (1-10 skele hAra)",
+      "janagaNa tAdera shAsakadera Anugatya karAke gaNatantrera ekaTi aparihArya vaishiShTya hiseve kataTA vivechanA karena? (1-10 skele hAra)",
+      "ApanAra mate, gaNatantrera janya janagaNa tAdera shAsakadera Anugatya karA kataTA gurutvapUrNa? (1-10 skele reTiM)",
+      "janagaNa tAdera shAsakadera Anugatya karA gaNatantrera ekaTi maulika dika, ei viShaya়e Apani kataTA ekamata? (1-10 skele reTiM)"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya়",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q249": {
+    "description": "gaNatantrera vaishiShTya hiseve li~Nga samatAra gurutva anudhAvana karA haya়eChe",
+    "questions": [
+      "gaNatantrera janya 1 theke 10 skele puruShadera samAna adhikAra thAkA kataTA aparihArya vale Apani mane karena?",
+      "1 theke 10 skele, gaNatantrera janya li~Nga samatA kataTA gurutvapUrNa vale Apani mane karena?",
+      "1 theke 10 skele gaNatantrera ekaTi aparihArya vaishiShTya hiseve nArI o puruShera samAna adhikArake Apani kataTA dekhena?",
+      "gaNatAntrika vyavasthAra janya li~Nga samatA kataTA aparihArya, anugraha kare 1-10 skele ullekha karuna|"
+    ],
+    "options": [
+      "gaNatantrera aparihArya vaishiShTya naya় moTeo",
+      "gaNatantrera ekaTi aparihArya vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "gaNatantrera gurutva",
+    "questions": [
+      "1 theke 10 skele, gaNatantrake Apani kataTA gurutvapUrNa vale mane karena?",
+      "1 theke 10 skele gaNatantrera gurutvake Apani kIbhAve mUlyAya়na karavena?",
+      "gaNatantra kataTA gurutvapUrNa vale Apani mane karena? anugraha kare 1 theke 10 skele reTiM dina|",
+      "1 theke 10 skele gaNatantrera prati ApanAra gurutvera mAtrA ullekha karuna|"
+    ],
+    "options": [
+      "moTeo gurutvapUrNa naya়",
+      "ekevAre gurutvapUrNa"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "Aja ei desha kataTA gaNatAntrikabhAve parichAlita hachChe?",
+    "questions": [
+      "ApanAra mate, Aja ei desha kataTA gaNatAntrikabhAve parichAlita hachChe? (1-10 skele)",
+      "1 theke 10 skele, Ajakera ei deshera sarakAra kataTA gaNatAntrika vale Apani mane karena?",
+      "ei deshaTi kataTA gaNatAntrikabhAve parichAlita haya় vale ApanAra mane haya়? anugraha kare 1 theke 10 skele reTiM dina|",
+      "1 theke 10 skele Apani ei deshe gaNatantrera vartamAna starake kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "moTeo gaNatAntrika naya়",
+      "sampUrNa gaNatAntrika"
+    ],
+    "scale": true
+  },
+  "Q252": {
+    "description": "rAjanaitika vyavasthAra kAryakAritAya় santuShTi",
+    "questions": [
+      "1 theke 10 skele, AjakAla ApanAra deshe rAjanaitika vyavasthA kIbhAve kAja karaChe tAte Apani kataTA santuShTa?",
+      "ApanAra deshe vartamAne ye rAjanaitika vyavasthA chalaChe tAte Apani kataTA santuShTa? anugraha kare 1 (ekadama santuShTa nana) theke 10 (sampUrNa santuShTa) paryanta reTiM dina|",
+      "sAmagrikabhAve, ApanAra deshera rAjanaitika vyavasthAra kAryakAritAra prati ApanAra santuShTike 1 theke 10 skele kIbhAve mUlyAya়na karavena?",
+      "ApanAra deshera rAjanaitika vyavasthA Aja kIbhAve kAja kare tAte Apani kataTA santuShTa, anugraha kare 1 (ekadama santuShTa nana) theke 10 (sampUrNa santuShTa) skele ullekha karuna|"
+    ],
+    "options": [
+      "moTeo santuShTa nai|",
+      "sampUrNa santuShTa"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "AjakAla vyakti mAnavAdhikArera prati shraddhA",
+    "questions": [
+      "AjakAla vyaktigata mAnavAdhikArera prati shraddhAra starake Apani kIbhAve varNanA karavena?",
+      "Ajakera samAje vyaktigata mAnavAdhikAra kataTA sammAnita vale Apani mane karena?",
+      "ApanAra mate, AjakAla vyakti mAnavAdhikArera prati kataTA sammAna dekhAno haya়?",
+      "yakhana vyaktigata mAnavAdhikArera kathA Ase, takhana vartamAne sammAnera staraTi Apani kIbhAve mUlyAya়na karavena?"
+    ],
+    "options": [
+      "vyaktigata mAnavAdhikArera prati prachura sammAna",
+      "vesha shraddhA|",
+      "jAni nA",
+      "khuva ekaTA sammAna nei|",
+      "moTeo sammAna nei"
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "jAtIya় garva",
+    "questions": [
+      "tumi tomAra jAtIya়tA niya়e kataTA garvita?",
+      "1 theke 4 skele, ApanAra jAtIya়tA niya়e Apani kataTA garvita?",
+      "jAtIya় garvera dika theke, Apani ki nijeke khuva garvita vA ekevArei garvita nA haoya়Ara kAChAkAChi mane karavena?",
+      "tumi ki tomAra jAtIya় garvera mAtrAke vesha garvita, khuva garvita naya়, athavA era mAjhAmAjhi kothAo varNanA karave?"
+    ],
+    "options": [
+      "khuva garvita",
+      "vesha garvita",
+      "khuva garvita nai|",
+      "moTeo garvita nai|"
+    ],
+    "scale": false
+  }
+}

@@ -1,0 +1,3163 @@
+{
+  "Q1": {
+    "description": "jIvitaMlo mukhyamainadi: kuTuMbaM",
+    "questions": [
+      "mI jIvitaMlo kuTuMbaM yòkka prAmukhyatanu mIru èlA reT chestAru?",
+      "mI jIvitaMlo kuTuMbaM èMta mukhyamainadigA mIru bhAvistAru?",
+      "mI jIvitaMlo kuTuMbAniki chAlA prAmukhyata uMdani mIru chèbutArA?",
+      "mI jIvitaMlo kuTuMbaM mukhyamainadani mIru bhAvistunnArA?"
+    ],
+    "options": [
+      "chAlA mukhyamainadi",
+      "chAlA mukhyamainadi",
+      "tèliyadu",
+      "aMta mukhyamainadi kAdu",
+      "assalu mukhyaM kAdu"
+    ]
+  },
+  "Q2": {
+    "description": "jIvitaMlo mukhyamainadi: snehitulu",
+    "questions": [
+      "jIvitaMlo snehitulu èMta mukhyamo?",
+      "mI abhiprAyaM prakAraM, jIvitaMlo snehitulu èMta mukhyamainavAru?",
+      "jIvitaMlo snehitulanu mIru èMtavaraku mukhyamainavArani bhAvistAru?",
+      "jIvitaMlo snehitulu chAlA mukhyamainavArani mIru nammutArA?"
+    ],
+    "options": [
+      "chAlA mukhyamainadi",
+      "chAlA mukhyamainadi",
+      "tèliyadu",
+      "aMta mukhyamainadi kAdu",
+      "assalu mukhyaM kAdu"
+    ]
+  },
+  "Q3": {
+    "description": "jIvitaMlo mukhyamainadi: vishrAMti samayaM",
+    "questions": [
+      "mI jIvitaMlo vishrAMti samayaM èMta mukhyamainadi?",
+      "mIku vishrAMti samayaM èMta mukhyamainadi?",
+      "mI jIvitaMlo vishrAMti samayAnni mukhyamainadigA bhAvistArA?",
+      "prAmukhyata dRRiShTyA, mIru mI jIvitaMlo vishrAMti samayAnni èkkaDa uMchutAru?"
+    ],
+    "options": [
+      "chAlA mukhyamainadi",
+      "chAlA mukhyamainadi",
+      "tèliyadu",
+      "aMta mukhyamainadi kAdu",
+      "assalu mukhyaM kAdu"
+    ]
+  },
+  "Q4": {
+    "description": "jIvitaMlo mukhyamainadi: rAjakIyAlu",
+    "questions": [
+      "jIvitaMlo rAjakIyAla prAmukhyatanu mIru èlA reT chestAru?",
+      "jIvitaMlo rAjakIyAlu èMta mukhyamainavani mIru bhAvistAru?",
+      "mI abhiprAyaM prakAraM, jIvitaMlo rAjakIyAlu èMta mukhyamainavi?",
+      "jIvitaMlo rAjakIyAlu èMta mukhyamainavani mIru anukuMTunnAru?"
+    ],
+    "options": [
+      "chAlA mukhyamainadi",
+      "chAlA mukhyamainadi",
+      "tèliyadu",
+      "aMta mukhyamainadi kAdu",
+      "assalu mukhyaM kAdu"
+    ]
+  },
+  "Q5": {
+    "description": "jIvitaMlo mukhyamainadi: pani",
+    "questions": [
+      "mI jIvitaMlo pani èMta mukhyamainadi?",
+      "mI jIvitaMlo pani mukhyamani mIru chèbutArA?",
+      "jIvitaMlo panini mIru èMtavaraku mukhyamainadigA bhAvistAru?",
+      "mIru panini jIvitaMlo òka mukhyamaina aMshaMgA bhAvistArA?"
+    ],
+    "options": [
+      "chAlA mukhyamainadi",
+      "chAlA mukhyamainadi",
+      "tèliyadu",
+      "aMta mukhyamainadi kAdu",
+      "assalu mukhyaM kAdu"
+    ]
+  },
+  "Q6": {
+    "description": "jIvitaMlo mukhyamainadi: mataM",
+    "questions": [
+      "mI jIvitaMlo mataM èMta mukhyamainadi?",
+      "mI jIvitaMlo mataM èMta mukhyamainadigA mIru bhAvistAru?",
+      "mI jIvitaMlo mataM mukhyamani mIru chèbutArA?",
+      "mI jIvitaMlo matAniki mIru e sthAyilo prAmukhyata istAru?"
+    ],
+    "options": [
+      "chAlA mukhyamainadi",
+      "chAlA mukhyamainadi",
+      "tèliyadu",
+      "aMta mukhyamainadi kAdu",
+      "assalu mukhyaM kAdu"
+    ]
+  },
+  "Q7": {
+    "description": "mukhyamaina pillala lakShaNAlu: maMchi maryAda",
+    "questions": [
+      "pillalalo maMchi maryAda yòkka prAmukhyatapai mI abhiprAyaM emiTi?",
+      "pillalaku maMchi maryAda òka mukhyamaina guNamA?",
+      "pillallo maMchi maryAdalanu nòkki chèppAlani mIru nammutArA?",
+      "pillalalo maMchi maryAda òka mukhyamaina lakShaNaMgA mIru bhAvistArA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q8": {
+    "description": "mukhyamaina pillala lakShaNAlu: svAtaMtryaM",
+    "questions": [
+      "pillalalo svAtaMtryaM èMta mukhyamainadi?",
+      "pillalalo svAtaMtryaM òka mukhyamaina lakShaNaMgA prastAviMchabaDiMdA?",
+      "pillalalo svAtaMtryaM òka mukhyamaina guNaM ani mIru anukuMTunnArA?",
+      "pillalalo svAtaMtryaM òka mukhyamaina lakShaNaMgA parigaNiMchabaDutuMdo ledo mIku tèlusA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q9": {
+    "description": "mukhyamaina pillala lakShaNAlu: kaShTapaDi panicheyaDaM",
+    "questions": [
+      "pillalalo kaShTapaDi panicheyaDaM òka mukhyamaina guNaM ani mIru bhAvistunnArA?",
+      "pillalaki kaShTapaDi panicheyaDaM mukhyamani mIru bhAviMche guNamA?",
+      "pillalaki kaShTapaDi panicheyaDaM òka mukhyamaina lakShaNaM ani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, kaShTapaDi panicheyaDaM pillalaki mukhyamaina guNamA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q10": {
+    "description": "mukhyamaina pillala lakShaNAlu: bAdhyatAyuta bhAvana",
+    "questions": [
+      "bAdhyatAyuta bhAvananu pillala mukhyamaina lakShaNaMgA mIru bhAvistunnArA?",
+      "bAdhyatAyuta bhAvana òka mukhyamaina pillala lakShaNaMgA perkònabaDiMdA?",
+      "bAdhyatAyuta bhAvana anedi pillalaki mukhyamaina lakShaNaM ani mIku tèlusA?",
+      "pillalaku bAdhyatAyuta bhAvana mukhyamainadigA parigaNiMchabaDutuMdo ledo mIku tèlusA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q11": {
+    "description": "mukhyamaina pillala lakShaNAlu: Uha",
+    "questions": [
+      "pillalalo Uha yòkka prAmukhyata guriMchi mIru emanukuMTunnAru?",
+      "pillalaki Uha òka mukhyamaina guNamA?",
+      "pillalaki Uha òka mukhyamaina lakShaNaM ani mIru nammutArA?",
+      "pillala abhivRRiddhilo Uha kIlaka pAtra poShistuMdani mI abhiprAyaM?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q12": {
+    "description": "mukhyamaina pillala lakShaNAlu: sahanaM mariyu itarula paTla gauravaM",
+    "questions": [
+      "pillalaku itarula paTla sahanaM mariyu gauravaM uMDaTaM mukhyamani mIru anukuMTunnArA?",
+      "pillalaku sahanaM mariyu itarula paTla gauravaM mukhyamaina lakShaNAlu ani mIru nammutArA?",
+      "pillalu kaligi uMDavalasina mukhyamaina lakShaNAlalo sahanaM mariyu itarula paTla gauravaM unnAyA?",
+      "pillala viShayAniki vaste itarula paTla sahanaM mariyu gauravaM mukhyamainavigA mIru bhAvistunnArA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q13": {
+    "description": "pillala mukhyamaina lakShaNAlu: pòdupu, Dabbu mariyu vastuvulanu AdA cheyaDaM",
+    "questions": [
+      "pillalalo pòdupu, Dabbu mariyu vastuvulanu AdA cheyaDaM èMta mukhyamani mIru bhAvistAru?",
+      "pillalalo pòdupu, Dabbu mariyu vastuvulanu AdA cheyaDaM mukhyamaina lakShaNAlu ani mIru anukuMTunnArA?",
+      "pòdupu, Dabbu AdA cheyaDaM vaMTi lakShaNAlu pillalaku mukhyamainavi ani mIru anukuMTunnArA?",
+      "pòdupu, Dabbu AdA cheyaDaM, vastuvulu vaMTivi chinnappuDu uMDAlsina mukhyamaina lakShaNAlu ani mIru aMTArA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q14": {
+    "description": "pillalalo mukhyamaina lakShaNAlu: saMkalpaM, paTTudala",
+    "questions": [
+      "pillalalo dRRiDha saMkalpaM mariyu paTTudala èMta mukhyamainadi?",
+      "pillalalo dRRiDha saMkalpaM mariyu paTTudala ane lakShaNAlu prastAviMchabaDAlA?",
+      "pillalalo dRRiDha saMkalpaM mariyu paTTudala mukhyamaina lakShaNAlu ani mIru nammutArA?",
+      "dRRiDha saMkalpaM mariyu paTTudala anevi pillalalo tèliyani lakShaNAlu ani mIru aMTArA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q15": {
+    "description": "mukhyamaina pillala lakShaNAlu: mata vishvAsaM",
+    "questions": [
+      "pillalalo mata vishvAsaM èMta mukhyamainadi?",
+      "pillalaku mata vishvAsaM òka mukhyamaina guNamA?",
+      "pillala abhivRRiddhilo mata vishvAsaM mukhyamaina pAtra poShistuMdA?",
+      "pillalalo mata vishvAsaM òka mukhyamaina lakShaNaMgA mIru bhAvistunnArA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q16": {
+    "description": "mukhyamaina pillala lakShaNAlu: nisvArthata",
+    "questions": [
+      "pillalalo nisvArthata yòkka prAmukhyata guriMchi mIru emanukuMTunnAru?",
+      "mI abhiprAyaM prakAraM, nisvArthata anedi pillalu kaligi uMDavalasina mukhyamaina guNamA?",
+      "pillallo nisvArthataku viluva ivvAlA?",
+      "pillala lakShaNAlanu parigaNanaloki tIsukuneTappuDu, nisvArthata mukhyamainadani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q17": {
+    "description": "mukhyamaina pillala lakShaNAlu: vidheyata",
+    "questions": [
+      "pillalalo vidheyata yòkka prAmukhyata guriMchi mI abhiprAyaM emiTi?",
+      "pillalalo vidheyata òka mukhyamaina guNaM ani mIru bhAvistunnArA?",
+      "pillallo vidheyata anedi nòkki chèppAlsina lakShaNamA?",
+      "mI dRRikkoNaMlo, pillala abhivRRiddhi viShayAniki vaste vidheyata èMta mukhyamainadi?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q18": {
+    "description": "pòruguvAru: mAdakadravyAla bAnisalu",
+    "questions": [
+      "mI pòruguvAru mAdakadravyAla bAnisalugA uMDaTaM guriMchi mIru emanukuMTunnAru?",
+      "mI pòruguvAru mAdakadravyAla bAnisalu kAvaDaM èMta mukhyamani mIru bhAvistAru?",
+      "mI pòruguvAru mAdakadravyAla bAnisalu ani mIku AMdoLana kaligistuMdA?",
+      "mI pòruguvAru mAdakadravyAla bAnisalu ani mIku tèlusA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q19": {
+    "description": "pòruguvAru: vere jAtiki chèMdinavAru",
+    "questions": [
+      "vere jAtiki chèMdina pòruguvAru uMDaTaM mukhyamani mIru anukuMTunnArA?",
+      "mI parisarAllo vere jAtiki chèMdina pòruguvAri uniki guriMchi prastAviMchabaDaledA?",
+      "mIku vere jAtiki chèMdina pòruguvAru unnAro ledo mIku khachchitaMgA tèliyadA?",
+      "mIku tèliyani vere jAtiki chèMdina pòruguvAru unnArA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q20": {
+    "description": "pòruguvAru: èyiDs unnavAru",
+    "questions": [
+      "èyiDs unna pòruguvAriki maddatu sevalu aMdiMchaDaM èMta mukhyamani mIru anukuMTunnAru?",
+      "èyiDs unna pòruguvAri guriMchi samAjaMlo èMtavaraku bahiraMgaMgA charchiMchAlani mIru nammutAru?",
+      "èyiDs unna pòruguvAriki aMdubATulo unna vanarulu mariyu sahAyaM guriMchi mIku tèlusA?",
+      "èyiDs unna pòruguvAru èdurkòMTunna nirdiShTa savALlu mariyu avasarAla guriMchi mIku èMta tèlusu?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q21": {
+    "description": "pòruguvAru: valasadArulu/videshI kArmikulu",
+    "questions": [
+      "valasadArulu/videshI kArmikulu ayina pòruguvAru uMDaTaM èMta mukhyamani mIru anukuMTunnAru?",
+      "mI abhiprAyaM prakAraM, mI pòruguvAru valasadArulu/videshI kArmikulu kAdA ani prastAviMchabaDiMdA?",
+      "mI pòruguvAru valasadArulu/videshI kArmikulu ani mIku tèlusA?",
+      "mI pòruguvAri valasadAru/videshI kArmikuDi sthiti mIku prastAviMchabaDaledA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q22": {
+    "description": "pòruguvAru: svaliMga saMparkulu",
+    "questions": [
+      "mI pòruguvArilo svaliMga saMparkulugA unnavAri guriMchi mI abhiprAyaM emiTi?",
+      "svaliMga saMparkulaina pòruguvArini kaligi uMDaTaM guriMchi mIku èlA anipistuMdi?",
+      "mI pòruguvAri laiMgika dhoraNi guriMchi prastAviMchaDaM mukhyamani mIru anukuMTunnArA?",
+      "mI pòruguvAri laiMgika dhoraNi mIku tèlusA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q23": {
+    "description": "pòruguvAru: vere matAniki chèMdina vyaktulu",
+    "questions": [
+      "vere matAnni AchariMche pòruguvAru uMDaTaM guriMchi mI abhiprAyaM emiTi?",
+      "mI abhiprAyaM prakAraM, mI pòruguvAri mataparamaina anubaMdhaM mukhyamaina pAtra poShistuMdA?",
+      "pòruguvAru tama mata vishvAsAlanu vèllaDiMchaDaM mukhyamani mIru anukuMTunnArA?",
+      "mI pòruguvAri mataparamaina nepathyaM guriMchi mIku tèlusA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q24": {
+    "description": "pòruguvAru: viparItaMgA tAgevAru",
+    "questions": [
+      "mI pòruguvAru viparItaMgA tAgubotulA?",
+      "mI pòruguvArini atigA tAgevArugA mIru bhAvistunnArA?",
+      "mI pòruguvAru viparItaMgA tAgutArani mIru chèbutArA?",
+      "pòruguvAri atigA tAge alavATlu mIku mukhyamA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q25": {
+    "description": "pòruguvAru: kalisi nivasistunna avivAhita jaMTalu",
+    "questions": [
+      "pòruguvArito kalisi nivasiMche pèLlikAni jaMTala guriMchi mI abhiprAyaM emiTi?",
+      "pèLlikAni jaMTalu pòruguvArigA uMDaTaM guriMchi mIru èlA bhAvistAru?",
+      "mI pòruguvAri saMbaMdha sthitini prastAviMchaDaM mukhyamani mIru anukuMTunnArA?",
+      "mI pòruguvAri saMbaMdhAla sthiti mIku tèlusA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q26": {
+    "description": "pòruguvAru: vere bhASha mATlADe vyaktulu",
+    "questions": [
+      "pòruguvAru vere bhASha mATlADaTaM mIku èMta mukhyamainadi?",
+      "pòruguvAru vere bhASha mATlADAlani mIku chèppabaDiMdA?",
+      "vere bhASha mATlADe pòruguvAru uMDaTaM mukhyamo mIku tèlusA?",
+      "vere bhASha mATlADe pòruguvAri prastAvana uMTe mIku tèlusA?"
+    ],
+    "options": [
+      "mukhyamainadi",
+      "tèliyadu",
+      "mukhyaM kAdu"
+    ]
+  },
+  "Q27": {
+    "description": "jIvitaMloni pradhAna lakShyAlalo òkaTi nA tallidaMDrulanu garvapaDelA cheyaDaM.",
+    "questions": [
+      "nA jIvitaMlo nA pradhAna lakShyAlalo nA tallidaMDrulanu garvapaDelA cheyaDaM èMtavaraku òkaTi?",
+      "nA tallidaMDrulanu jIvitaMlo garvapaDelA cheyaDAniki nenu èMtagA prayatnistAnu?",
+      "nA tallidaMDrulanu jIvitaMlo èMtavaraku garvapaDelA cheyAlani nenu lakShyaMgA pèTTukunnAnu?",
+      "nA tallidaMDrulanu garvapaDelA cheyaDaM nA jIvita lakShyAlalo òkaTigA nenu bhAvistunnAnA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q28": {
+    "description": "pani chese tallito prIskUl pillavADu bAdhapaDutunnADu",
+    "questions": [
+      "talli udyogaM cheste prIskUl vèLLe pillavADu bAdhapaDatADu aMTe mIru nammutArA?",
+      "udyogaM chese talli tana prIskUl pillalapai pratikUla prabhAvAnni chUputuMdani mI abhiprAyaM?",
+      "talli udyogaM kAraNaMgA prIskUl pillavADu ibbaMdulu èdurkòMTADani mIru aMgIkaristArA?",
+      "udyogaM chese talli tana prIskUl pillalapai hAnikaramaina prabhAvAnni chUputuMdani mIru nammutunnArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q29": {
+    "description": "strIla kaMTe puruShulu maMchi rAjakIya nAyakulanu tayAru chestAru",
+    "questions": [
+      "mIru gaTTigA ekIbhavistunnArA, ekIbhavistunnArA, vibhedistunnArA, tIvraMgA vibhedistunnArA, ledA puruShulu strIla kaMTe maMchi rAjakIya nAyakulanu chestAro ledo tèliyadA?",
+      "puruShulu strIla kaMTe maMchi rAjakIya nAyakulu avutArane prakaTanato mIru gaTTigA ekIbhavistunnArA, ekIbhavistunnArA, vibhedistunnArA, tIvraMgA vibhedistunnArA ledA tèliyadA?",
+      "mI abhiprAyaM prakAraM, mIru gaTTigA ekIbhavistunnArA, ekIbhavistunnArA, vibhedistunnArA, tIvraMgA vibhedistunnArA, ledA puruShulu strIla kaMTe maMchi rAjakIya nAyakulanu chestArani mIku tèliyadA?",
+      "puruShulu strIla kaMTe mèrugaina rAjakIya nAyakulanu tayAru cheyaDaM viShayAniki vaste mI vaikhari balaMgA ekIbhavistunnadA, ekIbhavistunnadA, vibhedistunnadA, tIvraMgA vibhedistunnadA ledA tèliyadA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q30": {
+    "description": "ammAyi kaMTe abbAyiki vishvavidyAlayaM chAlA mukhyaM.",
+    "questions": [
+      "ammAyi kaMTe abbAyiki vishvavidyAlayaM mukhyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, ammAyi kaMTe abbAyiki vishvavidyAlayaM mukhyamA?",
+      "vishvavidyAlayaM ammAyi kaMTe abbAyiki èkkuva prAmukhyatanistuMdani mIru aMgIkaristArA?",
+      "ammAyi kaMTe abbAyiki vishvavidyAlayaM mukhyamani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q31": {
+    "description": "puruShulu mahiLala kaMTe mèrugaina vyApAra kAryanirvAhakulanu chestAru",
+    "questions": [
+      "puruShule mahiLala kaMTe mèrugaina vyApAra kAryanirvAhakulu ani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, mahiLalato poliste puruShulu vyApAra kAryanirvAhakulugA èkkuvagA rANistArA?",
+      "puruShule mahiLala kaMTe mèrugaina vyApAra kAryanirvAhakulu ane prakaTanato mIru ekIbhavistArA?",
+      "puruShulato poliste mahiLalu vyApAra kAryanirvAhakulugA takkuva prabhAvavaMtaMgA unnArani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q32": {
+    "description": "gRRihiNigA uMDaTaM kUDA aMte saMtRRiptikaraMgA uMTuMdi",
+    "questions": [
+      "gRRihiNigA uMDaTaM kèrIr kaligi uMDaTaM lAMTi saMtRRiptinistuMdA?",
+      "gRRihiNigA uMDaTaM kèrIr unnaMta saMtRRiptinistuMdani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, gRRihiNigA uMDaTaM kèrIr‌to samAnaMgA saMtRRiptinistuMdA?",
+      "gRRihiNigA uMDaTaM kèrIr unnaMta saMtRRiptinistuMdani mIru aMgIkaristArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q33": {
+    "description": "udyogAlu takkuva: puruShulaku mahiLala kaMTe udyoga hakku èkkuvagA uMDAli",
+    "questions": [
+      "puruShulu mariyu strIlu iddarikI udyogAlu takkuvagA uMDAlane dAnito mIru balaMgA ekIbhavistArA ledA vibhedistArA?",
+      "strIla kaMTe puruShulake udyoga hakku èkkuvagA uMDAlani mIru aMgIkaristArA ledA vibhedistArA?",
+      "mI abhiprAyaM prakAraM, puruShulu mariyu strIlaku udyogAlu takkuvagA uMDAlani mIru aMgIkariMchaDaM ledA vibhediMchaDaM ledA?",
+      "puruShula kaMTe mahiLala kaMTe udyoga hakku èkkuvagA uMDAlA vaddA ane dAnito mIru tIvraMgA vibhedistunnArA ledA tèliyadA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q34": {
+    "description": "udyogAlu kòrata: yajamAnulu valasadArula kaMTe (desha) prajalaku prAdhAnyata ivvAli",
+    "questions": [
+      "udyogAla kòrata kAraNaMgA yajamAnulu valasadArula kaMTe (desha) prajalaku prAdhAnyata ivvAlA?",
+      "udyogAlu takkuvagA unnappuDu yajamAnulu valasadArula kaMTe (desha) prajalaku prAdhAnyata ivvAlani mIru aMgIkaristArA?",
+      "udyoga kòrata samayaMlo yajamAnulu valasadArulaku badulugA (deshaM) prajalaku prAdhAnyata ivvaDaM nyAyamenA?",
+      "udyoga kòrata unna samayaMlo yajamAnulu valasadArula kaMTe (desha) vyaktulake prAdhAnyata ivvAlani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q35": {
+    "description": "strIlaku bharta kaMTe èkkuva AdAyaM uMTe samasya",
+    "questions": [
+      "strIlaku bharta kaMTe èkkuva AdAyaM uMTe samasyapai mI abhiprAyaM emiTi?",
+      "òka strI tana bharta kaMTe èkkuva Dabbu saMpAdiMche paristhiti guriMchi mIku èlA anipistuMdi?",
+      "bhArya AdAyaM bharta AdAyaM kaMTe èkkuvagA unnappuDu samasya uMTuMdani mIru nammutArA?",
+      "bharta kaMTe èkkuva AdAyaM saMpAdiMche strIla viShayaMlo mI vaikhari emiTi?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q37": {
+    "description": "pillalanu kanaDaM samAjaM paTla bAdhyata",
+    "questions": [
+      "pillalanu kanaDaM samAjaM paTla bAdhyatagA uMdA?",
+      "pillalu puTTaDaM samAjaM paTla òka bAdhyata ani mIru nammutArA?",
+      "pillalu puTTaDaM anedi samAjaM paTla vyaktulaku òka bAdhyata ani mIru anukuMTunnArA?",
+      "pillalu kanaDaM samAjaM paTla òka bAdhyatagA prajalu bhAviMchAlA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q38": {
+    "description": "anArogyaMto unna tallidaMDrulanu chUsukovaDaM pillala vidhi",
+    "questions": [
+      "anArogyaMto unna tallidaMDrulanu chUsukovaDaM pillala bAdhyata ani mIru nammutArA?",
+      "anArogyaMto unna tallidaMDrulanu chUsukovaDaM pillala bAdhyatanA?",
+      "anArogyaMto unna tallidaMDrulanu chUsukovaDaM pillala bAdhyata ani mIru aMgIkaristArA?",
+      "anArogyaMto unna tallidaMDrulanu chUsukovaDaM pillala bAdhyatanA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q39": {
+    "description": "pani cheyani vyaktulu somaripotAru",
+    "questions": [
+      "pani cheyani vALLu somaripotAru aMTe mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, pani cheyani vyaktulu somaritanaM chèMdutArani mIru anukuMTunnArA?",
+      "pani cheyani vyaktulu tarachugA somaripotArani mIru nammutunnArA?",
+      "pani cheyani vyaktulu somaripotAru ane prakaTanato mIru ekIbhavistArA ledA vibhedistArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q40": {
+    "description": "pani samAjaM paTla òka vidhi.",
+    "questions": [
+      "pani samAjaM paTla òka vidhi ani mIru nammutArA?",
+      "samAjaM paTla pani òka bAdhyatagA parigaNiMchabaDutuMdA?",
+      "samAjaM paTla pani òka vidhi ani mIru èMtavaraku aMgIkaristAru?",
+      "panini samAjaM paTla òka vidhigA chUDAlani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q41": {
+    "description": "takkuva khALI samayaM unnappaTikI pani èllappuDU muMduMDAli.",
+    "questions": [
+      "khALI samayaM takkuvagA unnA kUDA pani èllappuDU muMduMDAlA?",
+      "khALI samayaM kaMTe paniki èllappuDU prAdhAnyata ivvAlani mIru nammutArA?",
+      "khALI samayaMlo kaMTe paniki prAdhAnyata ivvaDaM AmodayogyamenA?",
+      "anni paristhitulalonU pani kosaM khALI samayAnni tyAgaM cheyaDaM avasaramani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "gaTTigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchanu, vibhediMchanu",
+      "tèliyadu",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ]
+  },
+  "Q42": {
+    "description": "samAjaM paTla prAthamika rakAla vaikharulu",
+    "questions": [
+      "mana samAjaM mòttaM mIda èlA vyavasthIkRRitamai uMdo mI Alochanalu emiTi?",
+      "mana samAjaM èlA mèrugupaDutuMdani mIru nammutAru?",
+      "mana prastuta samAjAnni vidhvaMsaka shaktula nuMDi rakShiMchaDaMpai mI vaikhari emiTi?",
+      "mana samAjaM èlAMTi vaikharulanu avalaMbiMchAlo mIku spaShTamaina abhiprAyaM uMdA?"
+    ],
+    "options": [
+      "mana samAjaM vyavasthIkRRitamai unna mòttaM vidhAnAnni viplavAtmaka charya dvArA samUlaMgA mArchAli.",
+      "saMskaraNala dvArA mana samAjaM kramaMgA mèrugupaDAli.",
+      "mana prastuta samAjAnni anni vidhvaMsaka shaktula nuMDi dhairyaMgA rakShiMchukovAli.",
+      "tèliyadu"
+    ]
+  },
+  "Q43": {
+    "description": "bhaviShyat mArpulu: paniki takkuva prAmukhyata ivvabaDutuMdi.",
+    "questions": [
+      "bhaviShyattu mArpulapai mI abhiprAyaM emiTi: paniki takkuva prAmukhyata ivvaDaM?",
+      "panipai takkuva prAmukhyata ivvaDaM valla bhaviShyattulo vachche mArpulanu mIru èlA chUstAru?",
+      "bhaviShyattulo paniki takkuva prAmukhyata ichche dhoraNi guriMchi mI Alochanalu emiTi?",
+      "bhaviShyattulo panipai taggutunna prAdhAnyatapai mI dRRikpathaM emiTi?"
+    ],
+    "options": [
+      "maMchi viShayaM",
+      "paTTiMchukokaMDi",
+      "tèliyadu",
+      "chèDDa viShayaM"
+    ]
+  },
+  "Q44": {
+    "description": "bhaviShyat mArpulu: sAMketikatapai èkkuva prAdhAnyata",
+    "questions": [
+      "TèknAlajIki èkkuva prAdhAnyata ivvaDaM dvArA bhaviShyattulo mArpulapai mI Alochanalu emiTi?",
+      "bhaviShyattulo TèknAlajIki èkkuva prAdhAnyata ichche avakAshaM guriMchi mIru èlA bhAvistunnAru?",
+      "rAboye mArpulalo TèknAlajIpai pèrigina dRRiShTi guriMchi mI abhiprAyaM emiTi?",
+      "TèknAlajIpai èkkuva prAdhAnyatanistU rAboye mArpulapai mI vaikhari emiTi?"
+    ],
+    "options": [
+      "maMchi viShayaM",
+      "paTTiMchukokaMDi",
+      "tèliyadu",
+      "chèDDa viShayaM"
+    ]
+  },
+  "Q45": {
+    "description": "bhaviShyat mArpulu: adhikAraM paTla gòppa gauravaM",
+    "questions": [
+      "adhikAraM paTla gauravaM pèMchaDaM guriMchi bhaviShyattulo jarige mArpulapai mI Alochanalu emiTi?",
+      "bhaviShyattulo adhikAraM paTla gauravaM pèrige avakAshaM uMdani mIru èlA bhAvistunnAru?",
+      "rAboye saMvatsarAllo adhikAraM paTla gauravaM pèrugutuMdani mIru emanukuMTunnAru?",
+      "adhikAraM paTla gauravaM pèMchaDaM vaipu bhaviShyattulo jarige mArpu guriMchi mI bhAvAlu emiTi?"
+    ],
+    "options": [
+      "maMchi viShayaM",
+      "paTTiMchukokaMDi",
+      "tèliyadu",
+      "chèDDa viShayaM"
+    ]
+  },
+  "Q46": {
+    "description": "AnaMdaM yòkka bhAvana.",
+    "questions": [
+      "mI AnaMda bhAvananu mIru èlA reT chestAru?",
+      "1 nuMDi 5 skel‌lo, 1 assalu saMtoShaMgA leDani mariyu 5 chAlA saMtoShaMgA unnaTlayite, mIru mI AnaMda sthAyini èlA reT chestAru?",
+      "mimmalni mIru saMtoShaMgA unna vyaktigA bhAvistunnArA?",
+      "mIru rojU èMtavaraku saMtoShaMgA uMTAru?"
+    ],
+    "options": [
+      "chAlA saMtoShaMgA uMdi",
+      "chAlA saMtoShaMgA uMdi",
+      "tèliyadu",
+      "aMta saMtoShaMgA lenu.",
+      "assalu saMtoShaMgA ledu"
+    ]
+  },
+  "Q47": {
+    "description": "Arogya sthiti (AtmAshraya)",
+    "questions": [
+      "mI prastuta Arogya sthitini mIru èlA vivaristAru?",
+      "dayachesi mI Arogya sthitini vyaktigataMgA reT cheyaMDi.",
+      "chAlA maMchidi nuMDi chAlA pelavamainadi varaku skel‌lo, mIru mI ArogyAnni èlA reTiMg chestAru?",
+      "mI mòttaM shreyassu paraMgA, mIru mI ArogyAnni èlA aMchanA vestAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "maMchidi",
+      "nyAyamaina",
+      "peda",
+      "chAlA pelavaMgA uMdi"
+    ]
+  },
+  "Q51": {
+    "description": "mIru/kuTuMbaM tarachugA (gata 12 nèlalu): tinaDAniki taginaMta AhAraM lekuMDA poyiMdi.",
+    "questions": [
+      "gata 12 nèlallo mIru ledA mI kuTuMbaM ènnisArlu tinaDAniki taginaMta AhAraM lekuMDA unnAru?",
+      "gata saMvatsaraMlo, mIru ledA mI kuTuMbaM èMta tarachugA tinaDAniki taginaMta AhAraM lekapovaDAnni èdurkònnAru?",
+      "mIru ledA mI kuTuMbaM gata 12 nèlallo kònnisArlu tinaDAniki taginaMta AhAraM lekuMDA poyArA?",
+      "gata 12 nèlallo, mIru ledA mI kuTuMbaM èMta tarachugA tinaDAniki taginaMta AhAraM leni paristhitini èdurkònnAru?"
+    ],
+    "options": [
+      "tarachugA",
+      "kònnisArlu",
+      "tèliyadu",
+      "arudugA",
+      "èppuDU"
+    ]
+  },
+  "Q52": {
+    "description": "mIru/kuTuMbaM (gata 12 nèlalu) tarachugA saMdarshiMchaDaM: mI iMTlo jarige nerAla valla surakShitaMgA lenaTlu anipiMchiMdi.",
+    "questions": [
+      "mI iMTlo nerAlu jaragaDaM valla mIru surakShitaMgA lerani mIru èppuDainA bhAviMchArA?",
+      "mI iMTlo nerAla valla mIru èMta tarachugA asurakShitaMgA bhAviMchAru?",
+      "gata 12 nèlallo, mI iMTlo nerAla valla mIru èMta tarachugA asurakShitaMgA bhAviMchAru?",
+      "gata saMvatsaraMlo mI iMTlo tarachugA, kònnisArlu, arudugA, ledA èppuDU jaraganaMtagA nerAla valla mIru surakShitaMgA lerani bhAviMchArA?"
+    ],
+    "options": [
+      "tarachugA",
+      "kònnisArlu",
+      "tèliyadu",
+      "arudugA",
+      "èppuDU"
+    ]
+  },
+  "Q53": {
+    "description": "mIru/kuTuMbaM (gata 12 nèlalu): mIku avasaramaina maMdulu ledA chikitsa lekuMDA poyiMdi.",
+    "questions": [
+      "gata 12 nèlallo mIru ledA mI kuTuMbaM ènnisArlu mIku avasaramaina maMdulu ledA chikitsa lekuMDA poyAru?",
+      "gata 12 nèlallo mIru ledA mI kuTuMbaM mIku avasaramaina maMdulu ledA chikitsa lekuMDA ènnisArlu vèLlAru?",
+      "gata 12 nèlallo, mIru ledA mI kuTuMbaM mIku avasaramaina maMdulu ledA chikitsa lekuMDA èMta tarachugA vèLLAru?",
+      "gata 12 nèlallo mIru ledA mI kuTuMbaM arudugA, kònnisArlu, ledA tarachugA mIku avasaramaina maMdulu ledA chikitsa lekuMDA poyArA?"
+    ],
+    "options": [
+      "tarachugA",
+      "kònnisArlu",
+      "tèliyadu",
+      "arudugA",
+      "èppuDU"
+    ]
+  },
+  "Q54": {
+    "description": "mIru/kuTuMbaM saMdarshiMche tarachudanaM (gata 12 nèlalu): nagadu AdAyaM lekuMDA poyiMdi.",
+    "questions": [
+      "mIru/kuTuMbaM (gata 12 nèlalu) saMdarshiMche tarachudanaM: nagadu AdAyaM lekuMDA poyArA?",
+      "gata 12 nèlallo mIru ledA mI kuTuMbaM èMta tarachugA nagadu AdAyaM lekuMDA poyAru?",
+      "gata saMvatsaraMlo, mIru ledA mI kuTuMbaM èMta tarachugA nagadu AdAyaM leni kAlAnni anubhaviMchAru?",
+      "mIru ledA mI kuTuMbaM gata 12 nèlallo nagadu AdAya kòratanu èdurkònnArA? alA ayite, èMta tarachugA?"
+    ],
+    "options": [
+      "tarachugA",
+      "kònnisArlu",
+      "tèliyadu",
+      "arudugA",
+      "èppuDU"
+    ]
+  },
+  "Q55": {
+    "description": "gata 12 nèlallo, mIru ledA mI kuTuMbaM ènnisArlu: mI talapai surakShitamaina AshrayaM lekuMDA poyAru?",
+    "questions": [
+      "gata 12 nèlallo, mIru ledA mI kuTuMbaM ènnisArlu surakShitamaina talapai AshrayaM lekuMDA poyAru?",
+      "gata saMvatsaraMlo, mIru ledA mI kuTuMbaM èMta tarachugA surakShitamaina gRRihAla kòratanu èdurkònnAru?",
+      "gata 12 nèlallo, mIru ledA mI kuTuMbaM èMta tarachugA surakShitamaina AshrayAnni pòMdalekapoyAru?",
+      "gata saMvatsaraMlo mIku ledA mI kuTuMbAniki surakShitamaina AshrayaM lekuMDA RRitusrAvaM jarigiMdA? avunu ayite, èMta tarachugA?"
+    ],
+    "options": [
+      "tarachugA",
+      "kònnisArlu",
+      "tèliyadu",
+      "arudugA",
+      "èppuDU"
+    ]
+  },
+  "Q57": {
+    "description": "chAlA maMdini nammavachchu",
+    "questions": [
+      "chAlA maMdini nammavachchani mIru nammutunnArA?",
+      "mI abhiprAyaM prakAraM, chAlA maMdini nammavachchA?",
+      "chAlA maMdini nammavachchani mIru nammutunnArA?",
+      "chAlA maMdini nammavachchani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "chAlA maMdini nammavachchu",
+      "chAlA jAgrattagA uMDAli"
+    ],
+    "scale": false
+  },
+  "Q58": {
+    "description": "nammakaM: mI kuTuMbaM",
+    "questions": [
+      "mI kuTuMbAnni mIru èMtagA nammutAru?",
+      "mI kuTuMbaMpai gaNanIyamaina sthAyilo nammakaM uMdA?",
+      "mIru mI kuTuMbAnni èMtavaraku nammutAru?",
+      "sAdhAraNaMgA, mI kuTuMbaMpai mIku èMta nammakaM uMdi?"
+    ],
+    "options": [
+      "pUrtigA nammaMDi",
+      "kòMtavaraku nammaMDi.",
+      "tèliyadu",
+      "pèddagA nammaku.",
+      "assalu nammavaddu."
+    ]
+  },
+  "Q59": {
+    "description": "nammakaM: mI parisara prAMtaM",
+    "questions": [
+      "mI pòrugu prAMtAnni mIru èMtagA nammutAru?",
+      "mI parisarAlapai mIru èMtavaraku nammakAnni uMchutAru?",
+      "mI parisara prAMtaM paTla mIku unna vishvasanIyata sthAyini mIru èlA reT chestAru?",
+      "mI parisarAlapai mIku unnata sthAyi nammakaM uMdA?"
+    ],
+    "options": [
+      "pUrtigA nammaMDi",
+      "kòMtavaraku nammaMDi.",
+      "tèliyadu",
+      "pèddagA nammaku.",
+      "assalu nammavaddu."
+    ]
+  },
+  "Q60": {
+    "description": "nammakaM: mIku vyaktigataMgA tèlisina vyaktulu",
+    "questions": [
+      "mIku vyaktigataMgA tèlisina vyaktulanu mIru èMtagA nammutAru?",
+      "mIku vyaktigataMgA tèlisina vyaktulanu mIru èMtavaraku nammutAru?",
+      "mIku vyaktigataMgA tèlisina vyaktulanu mIru vishvasistArA?",
+      "mIku vyaktigataMgA tèlisina vyaktula paTla mIkunna nammakaM èkkuva ledA takkuva ani mIru chèbutArA?"
+    ],
+    "options": [
+      "pUrtigA nammaMDi",
+      "kòMtavaraku nammaMDi.",
+      "tèliyadu",
+      "pèddagA nammaku.",
+      "assalu nammavaddu."
+    ]
+  },
+  "Q61": {
+    "description": "nammakaM: mIru mòdaTisAri kalise vyaktulu",
+    "questions": [
+      "mIru mòdaTisAri kalise vyaktulanu èMtagA nammutAru?",
+      "mIru mòdaTisAri kalise vyaktulanu èMtavaraku vishvasistAru?",
+      "mIru mòdaTisAri kalise vyaktula paTla mIku e sthAyilo nammakaM uMdi?",
+      "mIru vyaktulanu mòdaTisAri kalisinappuDu vAripai mIkunna nammaka sthAyini èlA reT chestAru?"
+    ],
+    "options": [
+      "pUrtigA nammaMDi",
+      "kòMtavaraku nammaMDi.",
+      "tèliyadu",
+      "pèddagA nammaku.",
+      "assalu nammavaddu."
+    ]
+  },
+  "Q62": {
+    "description": "nammakaM: vere matAniki chèMdina vyaktulu",
+    "questions": [
+      "vere matasthulanu mIru èMtagA nammutAru?",
+      "vere matAniki chèMdina vArini mIru èMtavaraku nammutAru?",
+      "mIru vere matAniki chèMdina vyaktulanu nammutArani chèbutArA?",
+      "vere matAniki chèMdina vyaktulapai mIku nammakaM uMdA?"
+    ],
+    "options": [
+      "pUrtigA nammaMDi",
+      "kòMtavaraku nammaMDi.",
+      "tèliyadu",
+      "pèddagA nammaku.",
+      "assalu nammavaddu."
+    ]
+  },
+  "Q63": {
+    "description": "nammakaM: vere deshasthulu",
+    "questions": [
+      "vere deshasthulanu mIru èMtagA nammutAru?",
+      "vere jAtIyataku chèMdina vyaktulanu mIru èMtavaraku nammutAru?",
+      "vere deshAniki chèMdina vAripai mIku èMta nammakaM uMdi?",
+      "mIru vere deshAniki chèMdina vyaktulanu vishvasistArA?"
+    ],
+    "options": [
+      "pUrtigA nammaMDi",
+      "kòMtavaraku nammaMDi.",
+      "tèliyadu",
+      "pèddagA nammaku.",
+      "assalu nammavaddu."
+    ]
+  },
+  "Q64": {
+    "description": "vishvAsaM: charchilu",
+    "questions": [
+      "mIku charchila paTla èMta nammakaM uMdi?",
+      "mIru charchilanu èMtavaraku nammutAru?",
+      "charchilapai mIkunna vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku charchilapai èkkuva nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q65": {
+    "description": "vishvAsaM: sAyudha daLAlu",
+    "questions": [
+      "mIku sAyudha daLAlapai èMta nammakaM uMdi?",
+      "mIru sAyudha daLAlanu èMtavaraku nammutAru?",
+      "sAyudha daLAlapai mIkunna vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku sAyudha daLAlapai aMta nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q66": {
+    "description": "kAnphiDèns: di près",
+    "questions": [
+      "mIku patrikalapai èMta nammakaM uMdi?",
+      "mIku patrikA raMgaMpai aMta nammakaM uMdA?",
+      "mIku patrikalapai èMta nammakaM uMdi?",
+      "mIku patrikalapai chAlA nammakaM uMdani chèbutArA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q67": {
+    "description": "vishvAsaM: Tèlivijan",
+    "questions": [
+      "Tèlivijan pai mIku èMta nammakaM uMdi?",
+      "mIru Tèlivijan‌nu èMtavaraku nammutAru?",
+      "mIru Tèlivijan‌pai èMta saukaryaMgA AdhArapaDutunnAru?",
+      "Tèlivijan viShayaMlo mI nishchayata sthAyi emiTi?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q68": {
+    "description": "vishvAsaM: kArmika saMghAlu",
+    "questions": [
+      "kArmika saMghAlapai mIku èMta nammakaM uMdi?",
+      "mIru kArmika saMghAlanu èMtavaraku nammutAru?",
+      "kArmika saMghAlapai mIku e sthAyilo nammakaM uMdi?",
+      "mIku kArmika saMghAlapai nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q69": {
+    "description": "AtmavishvAsaM: polIsulu",
+    "questions": [
+      "polIsulapai mIku èMta nammakaM uMdi?",
+      "mIru polIsulanu èMtavaraku nammutAru?",
+      "polIsulapai mIkunna vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku polIsulapai nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q70": {
+    "description": "vishvAsaM: korTulu",
+    "questions": [
+      "korTula mIda mIku èMta nammakaM uMdi?",
+      "mIru korTulanu èMtavaraku nammutAru?",
+      "korTulapai mIkunna vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku korTulapai nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q71": {
+    "description": "vishvAsaM: prabhutvaM",
+    "questions": [
+      "mIku prabhutvaMpai èMta nammakaM uMdi?",
+      "mIru prabhutvAnni èMtavaraku nammutAru?",
+      "prabhutvaMpai mIkunna vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku prabhutvaMpai nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q72": {
+    "description": "vishvAsaM: rAjakIya pArTIlu",
+    "questions": [
+      "rAjakIya pArTIlapai mIku èMta nammakaM uMdi?",
+      "mIru rAjakIya pArTIlanu èMtavaraku nammutAru?",
+      "rAjakIya pArTIlapai mIkunna vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku rAjakIya pArTIlapai èkkuva ledA takkuva sthAyilo nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q73": {
+    "description": "vishvAsaM: pArlamèMT",
+    "questions": [
+      "pArlamèMTulo mIku èMta nammakaM uMdi?",
+      "pArlamèMTupai mIku èMtavaraku nammakaM uMdi?",
+      "pArlamèMTupai mIku e sthAyilo vishvAsaM uMdi?",
+      "vishvAsaM paraMgA, mIru pArlamèMTunu èlA reT chestAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q74": {
+    "description": "vishvAsaM: sivil sarvIsès",
+    "questions": [
+      "sivil sarvIsès pai mIku èMta nammakaM uMdi?",
+      "sivil sarvIsès pai mIku èMta nammakaM uMdi?",
+      "sivil sarvIsès pai mI vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku sivil sarvIsès pai nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q75": {
+    "description": "vishvAsaM: vishvavidyAlayAlu (praiveT)",
+    "questions": [
+      "dayachesi vishvavidyAlayAlapai (praiveT) mI vishvAsAnni reT cheyaMDi:",
+      "1-5 skel‌lo, vishvavidyAlayAla (praiveT) paTla mIku èMta nammakaM uMdi?",
+      "mIku vishvavidyAlayAla (praiveT) paTla èMta nammakaM uMdi?",
+      "vishvavidyAlayAla (praiveT) viShayAnikòste, mIru èMta nammakaMgA unnAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q77": {
+    "description": "vishvAsaM: pradhAna kaMpènIlu",
+    "questions": [
+      "pradhAna kaMpènIlapai mIku èMta nammakaM uMdi?",
+      "1 nuMDi 5 skel‌lo, pradhAna kaMpènIlapai mIku èMta nammakaM uMdi?",
+      "pradhAna kaMpènIlu mI vishvAsAniki arhulani mIru bhAvistunnArA?",
+      "sAdhAraNaMgA, pradhAna kaMpènIlapai mI vishvAsAnni mIru èlA reTiMg istAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q78": {
+    "description": "vishvAsaM: praiveT byAMkulu",
+    "questions": [
+      "dayachesi praiveT byAMkulalo mI vishvAsa sthAyini reT cheyaMDi.",
+      "1 nuMDi 5 skel‌lo, praiveT byAMkulapai mIku èMta nammakaM uMdi?",
+      "praiveT byAMkulapai mIkunna vishvAsa sthAyini mIru èlA vivaristAru?",
+      "mIru praiveT byAMkulanu èMtavaraku nammutAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q79": {
+    "description": "vishvAsaM: paryAvaraNa parirakShaNa udyamaM",
+    "questions": [
+      "paryAvaraNa parirakShaNa udyamaMpai mIku èMta nammakaM uMdi?",
+      "paryAvaraNa parirakShaNa udyamAnni mIru èMtavaraku nammutAru?",
+      "paryAvaraNa parirakShaNa udyamaMpai mIku èMta nammakaM uMdi?",
+      "paryAvaraNa parirakShaNa udyamaMpai mIku èMta nammakaM uMdi?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q80": {
+    "description": "AtmavishvAsaM: mahiLA udyamaM",
+    "questions": [
+      "'kAnphiDèns: di umèns mUv‌mèMT' pai mIku èMta nammakaM uMdi?",
+      "1 nuMDi 5 skel‌lo, 'kAnphiDèns: di umèns mUv‌mèMT' pai mIku èMta nammakaM uMdi?",
+      "'kAnphiDèns: di umèns mUv‌mèMT' nu mIru èMtavaraku nammutAru?",
+      "'kAnphiDèns: di umèns mUv‌mèMT' pai mI vishvAsAnni mIru èlA reT chestAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q81": {
+    "description": "vishvAsaM: dAtRRitva ledA mAnavatA saMsthalu",
+    "questions": [
+      "mIku dAtRRitva ledA mAnavatA saMsthalapai èMta nammakaM uMdi?",
+      "dAtRRitva ledA mAnavatA saMsthalapai mIku èMtavaraku nammakaM uMdi?",
+      "dAtRRitva ledA mAnavatA saMsthalapai mIkunna vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku dAtRRitva ledA mAnavatA saMsthalapai nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q82": {
+    "description": "vishvAsaM: pradhAna prAMtIya saMstha (desha-nirdiShTa nuMDi kalipi)",
+    "questions": [
+      "pradhAna prAMtIya saMstha (desha-nirdiShTa nuMDi kalipi) pai mIku èMta nammakaM uMdi?",
+      "pradhAna prAMtIya saMsthanu (desha-nirdiShTa nuMDi kalipi) mIru èMtavaraku vishvasistAru?",
+      "pradhAna prAMtIya saMstha (desha-nirdiShTa nuMDi kalipi) paTla mI vishvAsa sthAyini mIru èlA reT chestAru?",
+      "pradhAna prAMtIya saMstha (desha-nirdiShTa nuMDi kalipi)pai AdhArapaDaTaM mIku èMta saukaryaMgA uMdi?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q83": {
+    "description": "vishvAsaM: aikyarAjyasamiti (UN)",
+    "questions": [
+      "aikyarAjyasamiti (UN) pai mIku èMta nammakaM uMdi?",
+      "mIru aikyarAjyasamiti (UN) ni èMtavaraku nammutAru?",
+      "mI abhiprAyaM prakAraM, aikyarAjyasamiti (UN) pai mIku èMta nammakaM uMdi?",
+      "aikyarAjyasamiti (UN) pai mI vishvAsa sthAyini mIru èlA reT chestAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q84": {
+    "description": "vishvAsaM: aMtarjAtIya dravya nidhi (IMF)",
+    "questions": [
+      "aMtarjAtIya dravya nidhi (IMF) pai mIku èMta nammakaM uMdi?",
+      "mIru aMtarjAtIya dravya nidhi (IMF) ni èMtavaraku nammutAru?",
+      "aMtarjAtIya dravya nidhi (IMF) pai mI vishvAsa sthAyini mIru èlA reT chestAru?",
+      "aMtarjAtIya dravya nidhi (IMF) guriMchi mIku sAnukUla abhiprAyaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q85": {
+    "description": "kAnphiDèns: iMTarneShanal kriminal korT (ICC)",
+    "questions": [
+      "aMtarjAtIya kriminal korTu (ICC) pai mIku e sthAyilo nammakaM uMdi?",
+      "aMtarjAtIya kriminal korTu (ICC) pai mIku èMta nammakaM uMdi?",
+      "aMtarjAtIya kriminal korTu (ICC) ni mIru èMtavaraku vishvasistAru?",
+      "aMtarjAtIya kriminal korTu (ICC) prabhAvaMpai mIru èMta balaMgA nammutAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q86": {
+    "description": "vishvAsaM: nArt aTlAMTik TrITI ArganaijeShan (NATO)",
+    "questions": [
+      "nArt aTlAMTik TrITI ArganaijeShan (NATO) pai mIku èMta nammakaM uMdi?",
+      "mIru nArt aTlAMTik TrITI ArganaijeShan (NATO) ni èMtavaraku nammutAru?",
+      "nArt aTlAMTik TrITI ArganaijeShan (NATO) pai mIku e sthAyilo nammakaM uMdi?",
+      "mI abhiprAyaM prakAraM, nArt aTlAMTik TrITI ArganaijeShan (NATO) pai mIku èMta nammakaM uMdi?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q87": {
+    "description": "vishvAsaM: prapaMcha byAMku (WB)",
+    "questions": [
+      "prapaMcha byAMku (WB) pai mIku èMta nammakaM uMdi?",
+      "prapaMcha byAMku (WB) ni mIru èMtavaraku nammutAru?",
+      "prapaMcha byAMku (WB) pai mI vishvAsa sthAyini mIru èlA reT chestAru?",
+      "mIku prapaMcha byAMku (WB) pai unnata sthAyi nammakaM uMdA?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q88": {
+    "description": "vishvAsaM: prapaMcha Arogya saMstha (WHO)",
+    "questions": [
+      "prapaMcha Arogya saMstha (WHO) pai mIku èMta nammakaM uMdi?",
+      "prapaMcha Arogya saMstha (WHO) ni mIru èMtavaraku nammutAru?",
+      "sAdhAraNaMgA, prapaMcha Arogya saMstha (WHO) pai mIku èMta nammakaM uMdi?",
+      "prapaMcha Arogya saMstha (WHO) vishvasanIyatanu mIru èMtagA nammutAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q89": {
+    "description": "vishvAsaM: prapaMcha vANijya saMstha (WTO)",
+    "questions": [
+      "prapaMcha vANijya saMstha (WTO) pai mIku èMta nammakaM uMdi?",
+      "prapaMcha vANijya saMstha (WTO) pai mIku e sthAyilo nammakaM uMdi?",
+      "prapaMcha vANijya saMstha (WTO) ni mIru èMtavaraku nammutAru?",
+      "prapaMcha vANijya saMstha (WTO) pai mI vishvAsaM èMta?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA èkkuva",
+      "tèliyadu",
+      "aMtagA kAdu",
+      "assalu kAdu"
+    ]
+  },
+  "Q90": {
+    "description": "aMtarjAtIya saMsthalu: prabhAvavaMtaMgA uMDaTaM vs prajAsvAmyabaddhaMgA uMDaTaM",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, aMtarjAtIya saMsthalu prajAsvAmyaMgA uMDaTaM kaMTe prabhAvavaMtaMgA uMDaTaM yòkka prAmukhyatanu mIru èlA reTiMg chestAru?",
+      "dayachesi mI abhiprAyAnni 1 nuMDi 10 skel‌lo sUchiMchaMDi, 1 aMtarjAtIya saMsthalu prabhAvavaMtaMgA uMDaTaM yòkka prAmukhyatanu sUchistuMdi mariyu 10 prajAsvAmyaMgA uMDaTaM yòkka prAmukhyatanu sUchistuMdi.",
+      "aMtarjAtIya saMsthala paraMgA, prajAsvAmyaM kaMTe prabhAvAniki prAdhAnyata ivvaDaM (1) viShayaMlo mI sthAnaM emiTi (10)?",
+      "aMtarjAtIya saMsthalalo prabhAvaM mariyu prajAsvAmyaM madhya samatulyatanu 1 nuMDi 10 skel‌lo mIru èlA reT chestAru?"
+    ],
+    "options": [
+      "prabhAvavaMtaMgA uMDaTaM",
+      "prajAsvAmyabaddhaMgA uMDaTaM"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "AdAyAlu mariMta samAnaMgA uMDAli vs vyaktigata prayatnAniki èkkuva protsAhakAlu uMDAli.",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, 'AdAyAlu mariMta samAnaMgA uMDAli' ane prakaTanato mIru èMtavaraku ekIbhavistAru?",
+      "'vyaktigata prayatnAniki èkkuva protsAhakAlu uMDAli' ane Alochanaku mI maddatu sthAyini 1 nuMDi 10 skel‌pai reT cheyaMDi.",
+      "'AdAyAlu mariMta samAnaMgA uMDAli' ani mIru èMtavaraku nammutAru? mI abhiprAyAnni 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "'vyaktigata prayatnAniki èkkuva protsAhakAlu uMDAli' ane bhAvanato mIru èMtavaraku ekIbhavistAru? dayachesi 1 nuMDi 10 skel‌pai reT cheyaMDi."
+    ],
+    "options": [
+      "AdAyAlu mariMta samAnaMgA uMDAli",
+      "vyaktigata prayatnAniki èkkuva protsAhakAlu uMDAli."
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "vyApAraMlo praiveT vs rAShTra yAjamAnyaM",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, “1” aMTe “vyApAraM mariyu parishrama yòkka praiveT yAjamAnyAnni pèMchAli” mariyu “10” aMTe “vyApAraM mariyu parishrama yòkka prabhutva yAjamAnyAnni pèMchAli” ani arthaM, dayachesi mI prAdhAnyatanu sUchiMchaMDi.",
+      "dayachesi vyApAraM mariyu parishramala praiveT vs rAShTra yAjamAnyaMpai mI vaikharini 1 nuMDi 10 skel upayogiMchi reT cheyaMDi, ikkaDa \"1\" pèrigina praiveT yAjamAnyAniki prAdhAnyatanu sUchistuMdi mariyu \"10\" pèrigina prabhutva yAjamAnyAniki prAdhAnyatanu sUchistuMdi.",
+      "1 nuMDi 10 skel upayogiMchi, \"1\" vyApAraM mariyu parishramapai praiveT yAjamAnyAnni pèMchAlane korikanu sUchistuMdi mariyu \"10\" prabhutva yAjamAnyAnni pèMchAlane korikanu sUchistuMdi, dayachesi mI abhiprAyAnni tèliyajeyaMDi.",
+      "vyApAraM mariyu parishramala praiveT vs rAShTra yAjamAnyAniki saMbaMdhiMchi mI prAdhAnyatanu 1 nuMDi 10 skel‌lo sUchiMchaMDi. \"1\" anedi pèrigina praiveT yAjamAnyAniki prAdhAnyatanu sUchistuMdi, ayite \"10\" anedi pèrigina prabhutva yAjamAnyAniki prAdhAnyatanu sUchistuMdi."
+    ],
+    "options": [
+      "vyApAraM mariyu parishramalalo praiveT yAjamAnyAnni pèMchAli.",
+      "vyApAraM mariyu parishramalapai prabhutva yAjamAnyAnni pèMchAli"
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "prabhutvaM vs vyakti bAdhyata",
+    "questions": [
+      "aMdarikI saukaryAlu kalpiMchelA prabhutvaM èMtavaraku bAdhyata vahiMchAlani mIru vishvasistAru?",
+      "aMdarikI sadupAyAlu kalpiMchaDaMlo prabhutvAniki èMta bAdhyata uMDAlani mIru anukuMTunnAru?",
+      "1 nuMDi 10 skel‌lo, 1 aMTe prabhutvaM èkkuva bAdhyata tIsukovAli mariyu 10 aMTe prajalu èkkuva bAdhyata tIsukovAli, mI abhiprAyaM emiTi?",
+      "bAdhyata paraMgA, 1 nuMDi 10 skel‌lo mIru prabhutvAniki mariyu vyaktulaku e ryAMk istAru?"
+    ],
+    "options": [
+      "aMdarikI saukaryAlu kalpiMchelA prabhutvaM mariMta bAdhyata tIsukovAli.",
+      "prajalu tamanu tAmu samakUrchukovaDAniki mariMta bAdhyata tIsukovAli."
+    ],
+    "scale": true
+  },
+  "Q109": {
+    "description": "poTI maMchidi vs poTI hAnikaraM",
+    "questions": [
+      "poTI samAjAniki èMtavaraku prayojanakaraMgA uMTuMdani mIru nammutunnAru?",
+      "poTI AviShkaraNa mariyu purogatini èMtavaraku naDipistuMdani mIru anukuMTunnAru?",
+      "1 nuMDi 10 skel‌lo, 1 aMTe poTI èkkuvagA hAnikaraM mariyu 10 aMTe adi èkkuvagA prayojanakaraMgA uMTuMdi, mI abhiprAyaM emiTi?",
+      "poTI paraMgA, 1 nuMDi 10 skel‌lo samAjaMpai dAni prabhAvAlanu mIru èkkaDa ryAMk chestAru?"
+    ],
+    "options": [
+      "poTI èkkuvagA samAjAniki prayojanakaraMgA uMTuMdi.",
+      "poTI èkkuvagA samAjAniki hAnikaraM."
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "vijayaM: kRRiShi vs adRRiShTaM",
+    "questions": [
+      "1-10 skel‌lo, 1 aMTe 'dIrghakAlaMlo, kaShTapaDi panicheyaDaM sAdhAraNaMgA mèrugaina jIvitAnni tèstuMdi' mariyu 10 aMTe 'kaShTapaDi panicheyaDaM sAdhAraNaMgA vijayAnni tIsukurAdu—idi adRRiShTaM mariyu saMbaMdhAlaku saMbaMdhiMchina viShayaM' ani arthaM, vijayAnni sAdhiMchaDaMlo adRRiShTaM pAtrapai mI abhiprAyaM emiTi?",
+      "1-10 skel‌lo kaShTapaDi panicheyaDaM vijayAniki èMtavaraku dohadapaDutuMdani mIru nammutAru, 1 aMTe 'dIrghakAlaMlo, kaShTapaDi panicheyaDaM sAdhAraNaMgA mèrugaina jIvitAnni tèstuMdi' mariyu 10 aMTe 'kaShTapaDi panicheyaDaM sAdhAraNaMgA vijayAnni tIsukurAdu - idi adRRiShTaM mariyu saMbaMdhAla viShayaM'?",
+      "adRRiShTaM mariyu saMbaMdhAlato poliste vijayaM èMtavaraku kaShTapaDi panicheyaDaM valla vastuMdani mIru anukuMTunnAru? dayachesi 1-10 skel‌lo reT cheyaMDi, 1 'dIrghakAlaMlo, kaShTapaDi panicheyaDaM sAdhAraNaMgA mèrugaina jIvitAnni tèstuMdi' mariyu 10 'kaShTapaDi panicheyaDaM sAdhAraNaMgA vijayAnni tIsukurAdu - idi adRRiShTaM mariyu saMbaMdhAla viShayaM'.",
+      "adRRiShTaM mariyu kRRiShi vijayaMpai prabhAvaM chUputAyani mI nammakAnni 1-10 skel upayogiMchi reT cheyaMDi, 1 'dIrghakAlaMlo, kaShTapaDi panicheyaDaM sAdhAraNaMgA mèrugaina jIvitAnni tèstuMdi' ani sUchistuMdi mariyu 10 'kaShTapaDi panicheyaDaM sAdhAraNaMgA vijayAnni tIsukurAdu - idi adRRiShTaM mariyu saMbaMdhAla viShayaM' ani sUchistuMdi."
+    ],
+    "options": [
+      "dIrghakAlaMlo, kaShTapaDi panicheyaDaM sAdhAraNaMgA mèrugaina jIvitAnni tèstuMdi.",
+      "kaShTapaDi panicheyaDaM sAdhAraNaMgA vijayAnni tIsukurAdu—idi adRRiShTaM mariyu saMbaMdhAla viShayaM."
+    ],
+    "scale": true
+  },
+  "Q111": {
+    "description": "Arthika vRRiddhi maMdagiMchinA, kòMta udyogAlu kolpoyinA, paryAvaraNa parirakShaNaku prAdhAnyata ivvAli vs. paryAvaraNaM kòMtavaraku dèbbatinnA, Arthika vRRiddhi mariyu udyogAla sRRiShTiki atyaMta prAdhAnyata ivvAli.",
+    "questions": [
+      "paryAvaraNa parirakShaNa mariyu Arthika vRRiddhi madhya samatulyatapai mI abhiprAyaM emiTi?",
+      "vRRiddhi maMdagiMchi, udyoga naShTAlaku dAritIsinappaTikI, paryAvaraNa parirakShaNa Arthika vRRiddhi kaMTe prAdhAnyatanivvAlani mIru nammutunnArA?",
+      "mI abhiprAyaM prakAraM, paryAvaraNa parirakShaNa kaMTe Arthika vRRiddhi mariyu udyoga sRRiShTiki prAdhAnyata ivvAlA, adi kòMta paryAvaraNa kShINatanu sUchistunnappaTikI?",
+      "Arthika vRRiddhi mariyu udyoga sRRiShTi kaMTe paryAvaraNa parirakShaNa yòkka prAmukhyatanu mIru èlA aMchanA vestAru?"
+    ],
+    "options": [
+      "Arthika vRRiddhi maMdagiMchaDAniki, kòMta udyogAlu kolpovaDAniki kAraNamainappaTikI, paryAvaraNa parirakShaNaku prAdhAnyata ivvAli.",
+      "paryAvaraNaM kòMtavaraku dèbbatinnappaTikI, Arthika vRRiddhi mariyu udyogAla sRRiShTi atyaMta prAdhAnyatagA uMDAli.",
+      "tèliyadu"
+    ]
+  },
+  "Q112": {
+    "description": "deshaMlo avinItipai abhiprAyAlu",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, mI deshaMlo avinIti sthAyini mIru èlA reTiMg chestAru?",
+      "mI deshaMlo avinIti paTla mI avagAhananu 1 nuMDi 10 skel upayogiMchi sUchiMchaMDi.",
+      "mI deshaMlo avinIti èMtavaraku uMdani mIru nammutAru? dayachesi 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "mI deshaMlo avinIti èMta prabalaMgA uMdani mIru bhAvistunnAru? 1 nuMDi 10 varaku reT cheyaMDi."
+    ],
+    "options": [
+      "nA deshaMlo avinIti ledu.",
+      "nA deshaMlo avinIti viparItaMgA uMdi."
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "laMchaM ivvaDaM ledA svIkariMchaDaM valla javAbudArIgA uMDAlsina pramAdaM",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, laMchaM ivvaDaM ledA svIkariMchaDaM paTla javAbudArIgA uMDaTAniki èMta pramAdaM uMdani mIru anukuMTunnAru?",
+      "laMchaM ichchinA ledA svIkariMchinA javAbudArIgA uMchabaDe pramAda sthAyini dayachesi 1 nuMDi 10 varaku reT cheyaMDi.",
+      "1 nuMDi 10 varaku, laMchaM ichchinaMduku ledA svIkariMchinaMduku javAbudArIgA uMDe pramAdAnni mIru èMtavaraku grahistAru?",
+      "1 nuMDi 10 skel upayogiMchi, laMchaM ivvaDaM ledA svIkariMchaDaM paTla javAbudArIgA uMDe pramAdaM èMta èkkuvagA uMTuMdani mIru anukuMTunnAru?"
+    ],
+    "options": [
+      "assalu pramAdaM ledu",
+      "chAlA èkkuva pramAdaM"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "mI deshaMlo valasalu: shrAmika shaktilo upayogakaramaina udyogAlanu niMputAyi.",
+    "questions": [
+      "mI deshaMlo valasalapai mI abhiprAyaM emiTi? idi shrAmika shaktilo upayogakaramaina udyogAlanu bhartI chestuMdA?",
+      "mI deshaMlo valasalu shrAmika shaktilo upayogakaramaina udyogAlanu bhartI cheyaDAniki dohadapaDatAyani mIru nammutunnArA?",
+      "mI abhiprAyaM prakAraM, mI deshaMloni shrAmika shaktilo upayogakaramaina udyogAlanu bhartI cheyaDaMlo valasalu pAtra poShistAyA?",
+      "mI deshaMlo valasalu shrAmika shaktilo upayogakaramaina udyogAlanu niMputAyani mIru chèbutArA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "mI deshaMlo valasalu: sAMskRRitika vaividhyAnni balopetaM chestAyi.",
+    "questions": [
+      "mI deshaMlo valasalu sAMskRRitika vaividhyAnni balaparustAyani mIru nammutunnArA?",
+      "mI abhiprAyaM prakAraM, mI deshaMlo valasalu sAMskRRitika vaividhyAnni pèMpòMdiMchaDAniki dohadapaDatAyA?",
+      "mI deshaMlo valasalu sAMskRRitika vaividhyAnni protsahistAyani mIru bhAvistunnArA?",
+      "mI deshaMlo valasadArulu uMDaTaM valla balamaina sAMskRRitika vaividhyaM vastuMdani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "mI deshaMlo valasalu: nerAla reTunu pèMchutAyi.",
+    "questions": [
+      "mI deshaMlo valasalu nerAla reTunu pèMchutAyA?",
+      "mI deshaMlo valasalu nerAla reTunu pèMchutAyo ledo nirdhAriMchaDaM kaShTamA?",
+      "mI deshaMlo valasalu nerAla reTunu pèMchutAyane dAnito mIru vibhedistArA?",
+      "mI deshaMlo valasalu nerAla reTunu pèMchutAyo ledo mIku anishchitaMgA uMdA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "mI deshaMlo valasalu: rAjakIya sharaNArthulaku AshrayaM istuMdi.",
+    "questions": [
+      "mI deshaMlo valasalapai mI abhiprAyaM emiTi? adi rAjakIya sharaNArthulaku AshrayaM kalpistuMdA?",
+      "mI deshaMlo, valasa vidhAnaM rAjakIya sharaNArthulaku AshrayaM kalpistuMdA? dayachesi mI abhiprAyAnni sUchiMchaMDi.",
+      "mI deshaMlo rAjakIya sharaNArthulaku dAni valasa vyavastha dvArA AshrayaM labhistuMdA? dayachesi mI pratispaMdananu èMchukoMDi.",
+      "mI deshaMlo valasalu rAjakIya sharaNArthulaku AshrayaM kalpistAyane prakaTanato mIru ekIbhavistunnArA ledA vibhedistunnArA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "mI deshaMlo valasalu: ugravAda pramAdAlanu pèMchutAyi",
+    "questions": [
+      "mI deshaMlo valasalu ugravAda pramAdAlanu pèMchutAyani mIru aMgIkaristArA?",
+      "mI abhiprAyaM prakAraM, mI deshaMlo valasalu ugravAda pramAdAlanu pèMchutAyo ledo chèppaDaM kaShTamenA?",
+      "mI deshaMlo valasalu ugravAda pramAdAlanu pèMchutAyani mIru vibhedistArA?",
+      "mI deshaMlo valasalu ugravAda pramAdAlanu pèMchutAyo ledo nirdhAriMchaDaM mIku kaShTamenA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "mI deshaMlo valasalu: peda prajalu kòtta jIvitAlanu sthApiMchaDaMlo sahAyapaDutuMdi.",
+    "questions": [
+      "mI deshaMlo valasalu peda prajalu kòtta jIvitAlanu sthApiMchukovaDAniki sahAyapaDatAyani mIru anukuMTunnArA?",
+      "mI deshaMlo valasalu peda vyaktulu kòtta jIvitAlanu sthApiMchaDaMlo sahAyapaDatAyani mIru nammutunnArA?",
+      "mI deshaMlo valasalu peda prajalu kòtta jIvitAlanu nirmiMchukovaDaMlo sahAyapaDatAyani mIru anukuMTunnArA?",
+      "mI deshaMlo valasalu peda vyaktulu kòttagA prAraMbhiMchaDaMlo sahAyapaDatAyani mIru aMgIkaristArA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "mI deshaMlo valasalu: nirudyogAnni pèMchutAyi.",
+    "questions": [
+      "mI deshaMlo valasalu nirudyogAnni pèMchutAyA ane prakaTanapai mI abhiprAyaM emiTi?",
+      "mI deshaMlo valasalu nirudyogAnni pèMchutAyA? ane prakaTanato mIru ekIbhavistArA ledA vibhedistArA?",
+      "mI deshaMlo valasalu nirudyogAnni pèMchutAyo ledo chèppaDaM kaShTamenA?",
+      "mI deshaMlo valasalu nirudyogAnni pèMchutAyani mIru aMgIkariMchaledA ledA vibhedistArA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "mI deshaMlo valasalu: sAmAjika saMgharShaNaku dAritIstAyi",
+    "questions": [
+      "mI deshaMlo valasalu sAmAjika saMgharShaNaku dAritIstAyani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, mI deshaMlo valasalu sAmAjika saMgharShaNaku kAraNamavutAyA?",
+      "mI deshaMlo valasalu sAmAjika saMgharShaNaku dAritIstAyani mIru bhAvistunnArA?",
+      "mI deshaMlo valasalu sAmAjika saMgharShaNaku dAritIstAyani mIru aMgIkaristArA?"
+    ],
+    "options": [
+      "aMgIkaristunnAru",
+      "chèppaDaM kaShTaM",
+      "aMgIkariMchaledu"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "chiMtalu: udyogaM kolpovaDaM ledA udyogaM dòrakakapovaDaM",
+    "questions": [
+      "mI udyogaM potuMdani ledA udyogaM dòrakadani mIru èMta AMdoLana chèMdutunnAru? (chAlA, maMchi òppaMdaM, èkkuva kAdu, assalu kAdu)",
+      "mI udyogaM potuMdane bhayaM ledA udyogaM dòrakadane bhayaM mimmalni èMtavaraku AMdoLanaku gurichestuMdi? (chAlA, maMchi òppaMdaM, èkkuva kAdu, assalu kAdu)",
+      "mIru mI udyogAnni kolpotArani ledA udyogaM dòrakadani tIvraMgA AMdoLana chèMdutunnArA? (chAlA, maMchi òppaMdaM, èkkuva kAdu, assalu kAdu)",
+      "chAlA varaku kAdu ane skel‌lo, mI udyogaM povaDaM ledA udyogaM dòrakakapovaDaM guriMchi mIru èMta AMdoLana chèMdutAru?"
+    ],
+    "options": [
+      "chAlA èkkuva",
+      "maMchi DIl",
+      "èkkuva kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "chiMtalu: pillalaku maMchi vidyanu aMdiMchalekapovaDaM",
+    "questions": [
+      "mI pillalaku maMchi vidyanu aMdiMchalekapotunnAmani mIru èMtavaraku AMdoLana chèMdutunnAru?",
+      "mI pillalaku maMchi vidyanu aMdiMchalekapovaDaM paTla mIru èMtagA AMdoLana chèMdutunnAru?",
+      "mI pillalaku maMchi vidyanu aMdiMchagala mI sAmarthyaM guriMchi mIru èMtavaraku AMdoLana chèMdutunnAru?",
+      "mI pillalaku maMchi vidyanu aMdiMchalekapovaDaM guriMchi mIru èMtagA bAdhapaDutunnAru?"
+    ],
+    "options": [
+      "chAlA èkkuva",
+      "maMchi DIl",
+      "èkkuva kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "prativAdi gata saMvatsaraMlo òka nerAniki gurayyADu.",
+    "questions": [
+      "gata saMvatsaraMlo mIru edainA nerAniki gurayyArA?",
+      "gata saMvatsaraMlo mIru evainA nera saMghaTanalanu èdurkònnArA?",
+      "gata saMvatsaraMlo, mIru edainA nerAniki gurayyArA?",
+      "gata saMvatsaraMlo, mIru evainA nera kAryakalApAlato bAdhapaDDArA?"
+    ],
+    "options": [
+      "avunu",
+      "ledu"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "gata saMvatsaraM prativAdi kuTuMbaM òka nerAniki guraiMdi.",
+    "questions": [
+      "gata saMvatsaraM mI kuTuMbaM edainA nerAniki guraiMdA?",
+      "gata saMvatsaraMlo mI kuTuMbaM evainA nera saMghaTanalanu èdurkònnArA?",
+      "gata saMvatsaraM mI kuTuMbaM edainA nera kAryakalApAlaku guri ayiMdA?",
+      "gata saMvatsaraMlo, mI kuTuMbAnni evainA kriminal nerAlu prabhAvitaM cheshAyA?"
+    ],
+    "options": [
+      "avunu",
+      "ledu"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "svechCha mariyu samAnatvaM - edi èkkuva mukhyamainadi?",
+    "questions": [
+      "mI abhiprAyaM prakAraM, svechCha ledA samAnatvaM mariMta mukhyamA?",
+      "mIru denini èkkuva mukhyamainadigA bhAvistAru: svechCha ledA samAnatvaM?",
+      "prAmukhyatanu aMchanA veseTappuDu, edi èkkuva viluvanu kaligi uMTuMdi: svechCha ledA samAnatvaM?",
+      "svechCha mariyu samAnatvaM madhya, rèMDiMTilo edi èkkuva kIlakamani mIru nammutAru?"
+    ],
+    "options": [
+      "svechCha",
+      "samAnatvaM"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "svechCha mariyu bhadrata - edi èkkuva mukhyamainadi?",
+    "questions": [
+      "edi mukhyamainadi - svechCha ledA bhadrata?",
+      "prAmukhyata viShayAniki vaste, mIku edi èkkuva ryAMk istuMdi - svechCha ledA bhadrata?",
+      "svechCha mariyu bhadrata madhya, mIku edi èkkuva prAmukhyatanistuMdi?",
+      "mIru deniki èkkuva viluva istAru: svechCha ledA bhadrata?"
+    ],
+    "options": [
+      "svechCha",
+      "bhadrata"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "deshaM kosaM porADAlane saMkalpaM",
+    "questions": [
+      "mIru mI deshaM kosaM porADaTAniki siddhaMgA unnArA?",
+      "mIru mI deshaM kosaM porADaTAniki siddhaMgA unnArA?",
+      "mI deshaM kosaM porADaTAniki mIku sumukhata uMdA?",
+      "vivAdaM talèttite, mIru mI deshaM kosaM porADatArA?"
+    ],
+    "options": [
+      "avunu",
+      "ledu"
+    ],
+    "scale": false
+  },
+  "Q152": {
+    "description": "vITilo mIru, mIre, edi atyaMta mukhyamainadani bhAvistAro dayachesi chèbutArA?",
+    "questions": [
+      "I lakShyAlalo edi mIku atyaMta mukhyamainadigA anipistuMdo dayachesi nAku chèbutArA?",
+      "kiMdi èMpikalalo, mIru vyaktigataMgA edi atyaMta mukhyamainadani nammutAru?",
+      "kriMda ivvabaDina jAbitA nuMDi, mIku vyaktigataMgA e lakShyaM atyaMta mukhyamainadani mIru anukuMTunnAru?",
+      "dayachesi aMdiMchina èMpikala nuMDi mIru atyaMta mukhyamainadigA bhAviMche lakShyAnni èMchukoMDi."
+    ],
+    "options": [
+      "adhika sthAyi Arthika vRRiddhi",
+      "I deshaMlo balamaina rakShaNa daLAlu unnAyani nirdhAriMchukovaDaM",
+      "prajalu tama udyogAlalo mariyu vAri samAjAlalo panulu èlA jarugutAyo èkkuvagA chèppagalarani chUDaTaM",
+      "mana nagarAlanu mariyu grAmINa prAMtAlanu mariMta aMdaMgA tIrchididdaDAniki prayatnistunnAmu.",
+      "tèliyadu"
+    ]
+  },
+  "Q153": {
+    "description": "mariyu taruvAta edi mukhyamainadi?",
+    "questions": [
+      "I lakShyAlalo rèMDava ati mukhyamaina lakShyaM edi ani mIru anukuMTunnAro dayachesi nAku chèbutArA?",
+      "kiMdi èMpikalalo, mIru vyaktigataMgA edi rèMDava ati mukhyamainadani nammutAru?",
+      "kriMda ivvabaDina jAbitA nuMDi, mIku vyaktigataMgA rèMDava ati mukhyamaina lakShyaM edi ani mIru anukuMTunnAru?",
+      "dayachesi aMdiMchina èMpikala nuMDi rèMDava ati mukhyamainadigA mIru bhAviMche lakShyAnni èMchukoMDi."
+    ],
+    "options": [
+      "adhika sthAyi Arthika vRRiddhi",
+      "I deshaMlo balamaina rakShaNa daLAlu unnAyani nirdhAriMchukovaDaM",
+      "prajalu tama udyogAlalo mariyu vAri samAjAlalo panulu èlA jarugutAyo èkkuvagA chèppagalarani chUDaTaM",
+      "mana nagarAlanu mariyu grAmINa prAMtAlanu mariMta aMdaMgA tIrchididdaDAniki prayatnistunnAmu.",
+      "tèliyadu"
+    ]
+  },
+  "Q154": {
+    "description": "vITilo mIru, mIre, edi atyaMta mukhyamainadigA bhAvistAro dayachesi chèbutArA?",
+    "questions": [
+      "I lakShyAlalo edi mIku atyaMta mukhyamainadigA anipistuMdo dayachesi nAku chèbutArA?",
+      "kiMdi èMpikalalo, mIru vyaktigataMgA edi atyaMta mukhyamainadani nammutAru?",
+      "kriMda ivvabaDina jAbitA nuMDi, mIku vyaktigataMgA e lakShyaM atyaMta mukhyamainadani mIru anukuMTunnAru?",
+      "dayachesi aMdiMchina èMpikala nuMDi mIru atyaMta mukhyamainadigA bhAviMche lakShyAnni èMchukoMDi."
+    ],
+    "options": [
+      "deshaMlo kramAnni nirvahiMchaDaM",
+      "mukhyamaina prabhutva nirNayAlalo prajalaku èkkuva prAdhAnyata ivvaDaM",
+      "pèrugutunna dharalapai porATaM",
+      "vAk svAtaMtyrAnni kApADaTaM"
+    ]
+  },
+  "Q155": {
+    "description": "mariyu taruvAta edi mukhyamainadi?",
+    "questions": [
+      "I lakShyAlalo rèMDava ati mukhyamaina lakShyaM edi ani mIru anukuMTunnAro dayachesi nAku chèbutArA?",
+      "kiMdi èMpikalalo, mIru vyaktigataMgA edi rèMDava ati mukhyamainadani nammutAru?",
+      "kriMda ivvabaDina jAbitA nuMDi, mIku vyaktigataMgA rèMDava ati mukhyamaina lakShyaM edi ani mIru anukuMTunnAru?",
+      "dayachesi aMdiMchina èMpikala nuMDi rèMDava ati mukhyamainadigA mIru bhAviMche lakShyAnni èMchukoMDi."
+    ],
+    "options": [
+      "deshaMlo kramAnni nirvahiMchaDaM",
+      "mukhyamaina prabhutva nirNayAlalo prajalaku èkkuva prAdhAnyata ivvaDaM",
+      "pèrugutunna dharalapai porATaM",
+      "vAk svAtaMtyrAnni kApADaTaM"
+    ]
+  },
+  "Q156": {
+    "description": "vITilo mIru, mIre, edi atyaMta mukhyamainadigA bhAvistAro dayachesi chèbutArA?",
+    "questions": [
+      "I lakShyAlalo edi mIku atyaMta mukhyamainadigA anipistuMdo dayachesi nAku chèbutArA?",
+      "kiMdi èMpikalalo, mIru vyaktigataMgA edi atyaMta mukhyamainadani nammutAru?",
+      "kriMda ivvabaDina jAbitA nuMDi, mIku vyaktigataMgA e lakShyaM atyaMta mukhyamainadani mIru anukuMTunnAru?",
+      "dayachesi aMdiMchina èMpikala nuMDi mIru atyaMta mukhyamainadigA bhAviMche lakShyAnni èMchukoMDi."
+    ],
+    "options": [
+      "sthiramaina Arthika vyavastha",
+      "takkuva vyaktitvaM leni mariyu mariMta mAnavIya samAjaM vaipu purogati",
+      "Dabbu kaMTe Alochanale mukhyamani bhAviMche samAjaM vaipu purogati",
+      "nerAlaku vyatirekaMgA porATaM",
+      "tèliyadu"
+    ]
+  },
+  "Q157": {
+    "description": "mariyu taruvAta edi mukhyamainadi?",
+    "questions": [
+      "I lakShyAlalo rèMDava ati mukhyamaina lakShyaM edi ani mIru anukuMTunnAro dayachesi nAku chèbutArA?",
+      "kiMdi èMpikalalo, mIru vyaktigataMgA edi rèMDava ati mukhyamainadani nammutAru?",
+      "kriMda ivvabaDina jAbitA nuMDi, mIku vyaktigataMgA rèMDava ati mukhyamaina lakShyaM edi ani mIru anukuMTunnAru?",
+      "dayachesi aMdiMchina èMpikala nuMDi rèMDava ati mukhyamainadigA mIru bhAviMche lakShyAnni èMchukoMDi."
+    ],
+    "options": [
+      "sthiramaina Arthika vyavastha",
+      "takkuva vyaktitvaM leni mariyu mariMta mAnavIya samAjaM vaipu purogati",
+      "Dabbu kaMTe Alochanale mukhyamani bhAviMche samAjaM vaipu purogati",
+      "nerAlaku vyatirekaMgA porATaM"
+    ]
+  },
+  "Q158": {
+    "description": "sains mariyu TèknAlajI mana jIvitAlanu ArogyakaraMgA, sulabhataraMgA mariyu mariMta saukaryavaMtaMgA mArustunnAyi.",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, sains mariyu TèknAlajI mana jIvitAlanu ArogyakaraMgA, sulabhataraMgA mariyu mariMta saukaryavaMtaMgA mArustunnAyani mIru èMtavaraku aMgIkaristAru?",
+      "dayachesi I prakaTanapai mI abhiprAyAnni 1 nuMDi 10 varaku reT cheyaMDi: sains mariyu TèknAlajI mana jIvitAlanu ArogyakaraMgA, sulabhaMgA mariyu mariMta saukaryavaMtaMgA mArchaDaM dvArA mèruguparustunnAyi.",
+      "Arogyakaramaina, sulabhamaina mariyu mariMta saukaryavaMtamaina jIvitAniki sains mariyu TèknAlajI èMtavaraku dohadapaDatAyane dAnito mIru ekIbhavistAru? dayachesi 1 nuMDi 10 varaku reT cheyaMDi.",
+      "sains mariyu TèknAlajI mana jIvitAlanu ArogyakaraMgA, sulabhataraMgA mariyu mariMta saukaryavaMtaMgA mArustunnAyane Alochanato mIru ekIbhavistunnAro 1 nuMDi 10 skel‌ni upayogiMchi sUchiMchaMDi."
+    ],
+    "options": [
+      "pUrtigA vibhedistunnAnu",
+      "pUrtigA aMgIkaristunnAnu"
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "sains aMD TèknAlajI kAraNaMgA, tadupari tarAniki marinni avakAshAlu labhistAyi.",
+    "questions": [
+      "1-10 skel‌lo, sains mariyu TèknAlajI valla taruvAti tarAniki èkkuva avakAshAlu uMTAyani mIru èMtavaraku aMgIkaristAru?",
+      "sains mariyu TèknAlajI tadupari tarAniki marinni avakAshAlanu sRRiShTistAyani mIru e sthAyilo aMgIkaristunnAro dayachesi 1-10 skel‌lo reT cheyaMDi.",
+      "shAstra, sAMketika parij~nAnaM tadupari tarAniki èMtavaraku avakAshAlanu pèMchutuMdani mIru vishvasistAru? dayachesi 1-10 skel‌pai reT cheyaMDi.",
+      "shAstra, sAMketika parij~nAnaM tadupari tarAniki marinni avakAshAlanu aMdistuMdani mIru èMtavaraku aMgIkaristunnAru ledA vibhedistunnAru? dayachesi 1 nuMDi 10 varaku reTiMg ivvaMDi."
+    ],
+    "options": [
+      "pUrtigA vibhedistunnAnu",
+      "pUrtigA aMgIkaristunnAnu"
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "manaM sains mIda èkkuvagA AdhArapaDatAM kAnI vishvAsaM mIda taginaMta AdhArapaDaTaM ledu.",
+    "questions": [
+      "1-10 skel‌lo, 'manaM sains‌pai èkkuvagA AdhArapaDatAmu mariyu vishvAsaMpai taginaMtagA AdhArapaDamu' ane prakaTanato mIru èMtavaraku ekIbhavistAru?",
+      "'memu sains‌pai atigA AdhArapaDatAmu mariyu vishvAsAniki taginaMta prAmukhyata ivvamu' ane prakaTanato mIru ekIbhaviMche sthAyini 1 nuMDi 10 skel‌ni upayogiMchi reT cheyaMDi.",
+      "'manaM sains‌pai èkkuva nammakaM uMchutAmu mariyu vishvAsAnni vismaristAmu' ane vAdanato mIru èMtavaraku ekIbhavistAru ledA vibhedistAru? mI pratispaMdananu 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "1-10 skel upayogiMchi, 'manaM sains pai atigA AdhArapaDatAmu mariyu vishvAsAnni vismaristAmu' ane prakaTanato mIku èMtavaraku ekIbhavistunnAro sUchiMchaMDi."
+    ],
+    "options": [
+      "pUrtigA vibhedistunnAnu",
+      "pUrtigA aMgIkaristunnAnu"
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "sains yòkka chèDu prabhAvAlalo òkaTi, adi sarainadi mariyu tappu ane prajala Alochanalanu vichChinnaM chestuMdi.",
+    "questions": [
+      "sains yòkka chèDu prabhAvAlalo òkaTi, adi prajala maMchi, chèDu Alochanalanu vichChinnaM chestuMdi. I prakaTanato mIru èMtavaraku vibhedistAru ledA aMgIkaristAru? (1 = pUrtigA vibhedistunnAru, 10 = pUrtigA aMgIkaristunnAru)",
+      "1 nuMDi 10 skel‌lo, sains prajala maMchi, chèDu Alochanalanu vichChinnaM chestuMdane Alochanato mIru èMtavaraku ekIbhavistAru ledA vibhedistAru?",
+      "dayachesi I prakaTanato mI ekIbhAvaM ledA asammati sthAyini reT cheyaMDi: sains prajala maMchi mariyu tappu Alochanalapai pratikUla prabhAvAnni chUputuMdi. (1 = pUrtigA vibhedistunnAnu, 10 = pUrtigA aMgIkaristunnAnu)",
+      "prajala saraina, tappu bhAvanalanu sains èMtavaraku dèbbatIstuMdani mIru anukuMTunnAru? dayachesi 1 nuMDi 10 varaku reT cheyaMDi, 1 'pUrtigA vibhedistunnAnu' ani mariyu 10 'pUrtigA aMgIkaristunnAnu' ani sUchistuMdi."
+    ],
+    "options": [
+      "pUrtigA vibhedistunnAnu",
+      "pUrtigA aMgIkaristunnAnu"
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "nA dainaMdina jIvitaMlo sains guriMchi tèlusukovaDaM nAku mukhyaM kAdu.",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, 'nA dainaMdina jIvitaMlo sains guriMchi tèlusukovaDaM nAku mukhyaM kAdu' ane prakaTanato mIru èMtavaraku ekIbhavistAru ledA vibhedistAru?",
+      "'nA dainaMdina jIvitaMlo sains guriMchi tèlusukovaDaM nAku mukhyaM kAdu' ane prakaTanato mI ekIbhAvaM ledA asammati sthAyini 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "'nA dainaMdina jIvitaMlo sains guriMchi tèlusukovaDaM nAku mukhyaM kAdu' ane prakaTanato mIru èMtavaraku ekIbhavistAru ledA vibhedistAru? 1 nuMDi 10 varaku skel‌ni upayogiMchaMDi.",
+      "'nA dainaMdina jIvitaMlo sains guriMchi tèlusukovaDaM nAku mukhyaM kAdu' ane prakaTanapai mI abhiprAyAnni 1 nuMDi 10 skel‌lo reTiMg ivvaDaM dvArA tèliyajeyaMDi."
+    ],
+    "options": [
+      "pUrtigA vibhedistunnAnu",
+      "pUrtigA aMgIkaristunnAnu"
+    ],
+    "scale": true
+  },
+  "Q163": {
+    "description": "sains mariyu TèknAlajI valla prapaMchaM mèruggA uMdani ledA adhvAnnaMgA uMdani mIru chèbutArA?",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, sains mariyu TèknAlajI prapaMchAnni èMta mèruguparichAyani mIru anukuMTunnAru?",
+      "sains mariyu TèknAlajI samAjaMpai èMtavaraku sAnukUla prabhAvAnni chUpAyani mIru nammutunnAru?",
+      "prapaMchaMpai sains mariyu TèknAlajI yòkka mòttaM prabhAvAlanu mIru èlA reT chestAru?",
+      "mI abhiprAyaM prakAraM, sains aMD TèknAlajI valla prapaMchaM mèruggA uMdA?"
+    ],
+    "options": [
+      "chAlA dAruNaMgA uMdi",
+      "chAlA bAguMdi"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "devuni prAmukhyata",
+    "questions": [
+      "1 nuMDi 10 skelulo, devuDu mIku èMta mukhyamainavADu?",
+      "mI jIvitaMlo devuniki mIru èMta prAmukhyata istAru? dayachesi 1 nuMDi 10 varaku skel upayogiMchaMDi.",
+      "mI rojuvArI kAryakalApAlalo devuDu èMta mukhyamainavADu ani mIru bhAvistAru? dayachesi 1 nuMDi 10 skel upayogiMchi reT cheyaMDi.",
+      "mI vishvAsa vyavasthalo devuniki mIru èMta prAmukhyatanu ApAdistunnAro dayachesi sUchiMchaMDi. 1 nuMDi 10 skelupai reT cheyaMDi."
+    ],
+    "options": [
+      "assalu mukhyaM kAdu",
+      "chAlA mukhyamainadi"
+    ],
+    "scale": true
+  },
+  "Q165": {
+    "description": "devunipai nammakaM",
+    "questions": [
+      "mIru devuDini nammutArA?",
+      "mIru devuni unikini nammutArani chèbutArA?",
+      "devuDu unnADani mIru vyaktigataMgA nammutArA?",
+      "mIru devuDini nammutAro ledo dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "avunu",
+      "ledu"
+    ],
+    "scale": false
+  },
+  "Q166": {
+    "description": "nammakaM: maraNaM tarvAta jIvitaM",
+    "questions": [
+      "mIru maraNAnaMtara jIvitAnni nammutArA?",
+      "maraNaM tarvAta jIvitaM uMdA?",
+      "maraNaM tarvAta uniki uMdani mIru anukuMTunnArA?",
+      "maraNaM taruvAta jIvitaM uMdani mIru nammutunnArA?"
+    ],
+    "options": [
+      "avunu",
+      "ledu"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "nammaMDi: narakaM",
+    "questions": [
+      "mIru narakAnni nammutArA?",
+      "narakaM paTla mIku balamaina nammakaM uMdA?",
+      "mIku narakaM mIda nammakaM uMdani mIru chèbutArA?",
+      "narakaM ane bhAvana mIru nammedenA?"
+    ],
+    "options": [
+      "avunu",
+      "ledu"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "nammakaM: svargaM",
+    "questions": [
+      "mIru svargAnni nammutArA?",
+      "mIru svargAnni nammevArA?",
+      "svargaM uMdani mIru anukuMTunnArA?",
+      "svargaM ane bhAvana mIru nammedenA?"
+    ],
+    "options": [
+      "avunu",
+      "ledu"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "sains mariyu mataM gharShaNa paDinappuDallA, mataM èllappuDU sarainade.",
+    "questions": [
+      "sains mariyu mataM gharShaNa paDinappuDallA, mataM èllappuDU sarainadenani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, sains mariyu mataM madhya saMgharShaNa unnappuDu mataM èllappuDU sarainadenA?",
+      "mataM sains ku viruddhaMgA unnappuDu adi èllappuDU sarainadenani mIru aMgIkaristArA?",
+      "mataM shAstrAniki viruddhaMgA unna anni paristhitulalo adi sarainadani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "pUrtigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ],
+    "scale": false
+  },
+  "Q170": {
+    "description": "mataparamaina pratyekata paTla vaikhari",
+    "questions": [
+      "'Amodayogyamaina ekaika mataM nA mataM' ane prakaTanato mIru ekIbhavistArA ledA vibhedistArA?",
+      "mI mataM mAtrame Amodayogyamainadani mIru gaTTigA aMgIkaristunnArani, aMgIkaristunnArani, vibhedistunnArani ledA tIvraMgA vibhedistunnArani chèbutArA?",
+      "mI mataM mAtrame Amodayogyamainadane nammakaMto mIru èMtavaraku ekIbhavistAru ledA vibhedistAru?",
+      "mI mataM mAtrame Amodayogyamainadane prakaTanato mIru èMtavaraku ekIbhavistunnAro dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "pUrtigA aMgIkaristunnAnu",
+      "aMgIkaristunnAru",
+      "aMgIkariMchaledu",
+      "tIvraMgA vibhedistunnAnu"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "mIru èMta tarachugA mataparamaina sevalaku hAjaravutAru?",
+    "questions": [
+      "mIru èMta tarachugA mataparamaina sevalaku hAjaravutAru?",
+      "mIru èMta tarachugA mataparamaina sevalaku vèLatAru?",
+      "mIru èMta tarachugA mataparamaina sevalalo pAlgòMTAru?",
+      "mIru èMta tarachugA mataparamaina sevalanu saMdarshistAru?"
+    ],
+    "options": [
+      "vArAniki òkaTi kaMTe èkkuvasArlu",
+      "vArAniki òkasAri",
+      "nèlaku òkasAri",
+      "pratyeka pavitra dinAlalo mAtrame",
+      "saMvatsarAniki òkasAri",
+      "takkuva tarachugA",
+      "èppuDU, AcharaNAtmakaMgA èppuDU"
+    ],
+    "scale": false
+  },
+  "Q172": {
+    "description": "prArthana yòkka tarachudanaM",
+    "questions": [
+      "vivAhAlu mariyu aMtyakriyalu kAkuMDA, mIru èMta tarachugA prArthistAru?",
+      "mIru èMta tarachugA prArthana ledA mataparamaina bhaktilo pAlgòMTAru?",
+      "mI dainaMdina jIvitaMlo mIru èMta tarachugA prArthistAro dayachesi sUchiMchaMDi.",
+      "mataparamaina sevalu mariyu veDukalu minahAyiMchi, mIru èMta tarachugA vyaktigataMgA prArthistAru?"
+    ],
+    "options": [
+      "rojuku aneka sArlu",
+      "rojuku òkasAri",
+      "prati vAraM aneka sArlu",
+      "mataparamaina sevalaku hAjarainappuDu mAtrame",
+      "pratyeka pavitra dinAlalo mAtrame",
+      "saMvatsarAniki òkasAri",
+      "takkuva tarachugA",
+      "èppuDU, AcharaNAtmakaMgA èppuDU"
+    ],
+    "scale": false
+  },
+  "Q173": {
+    "description": "matatatvaM yòkka svIya-gurtiMpu",
+    "questions": [
+      "mIru mataparamaina sevalaku hAjaravutunnArA ledA ane dAnito saMbaMdhaM lekuMDA, mIru mataparamaina vyakti ani, mataparamaina vyakti kAdani ledA nAstikuDani chèbutArA?",
+      "vyaktigata matatatvaM paraMgA mimmalni mIru èlA varNiMchukuMTAru?",
+      "mimmalni mIru mataparamainavADigA, mataM lenivADigA ledA nAstikuDigA bhAvistunnArA?",
+      "mI matatatva sthAyini mIru èlA vargIkaristAru?"
+    ],
+    "options": [
+      "mataparamaina vyakti.",
+      "mataparamaina vyakti kAdu",
+      "nAstikuDu"
+    ],
+    "scale": false
+  },
+  "Q174": {
+    "description": "mataM yòkka arthaM: naitika vs AchAra dRRiShTi",
+    "questions": [
+      "I kriMdi prakaTanalalo denito mIru èkkuvagA ekIbhavistAru? mataM yòkka prAthamika arthaM:",
+      "kiMdi vATilo edi mIku mataM aMTe emiTo bAgA sUchistuMdi?",
+      "mI abhiprAyaM prakAraM, mataM yòkka mukhya uddeshyaM ledA sArAMshaM emiTi?",
+      "mataM deni guriMchi ane dAnipai mI abhiprAyAnni e prakaTana bAgA saMgrahistuMdo dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "mataparamaina nibaMdhanalu mariyu AchArAlanu pATiMchaDaM",
+      "itarulaku maMchi cheyaDAniki"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "mataM yòkka arthaM: maraNAnaMtara jIvitAnni arthaM chesukovaDaM vs I prapaMchaMlo jIvitAnni arthaM chesukovaDaM",
+    "questions": [
+      "mataM yòkka uddeshyaM emiTi? (òkaTi èMchukoMDi)",
+      "mataM paTla mI dRRikpathAniki e prakaTana daggaragA saripotuMdi? (òkadAnni èMchukoMDi)",
+      "mI abhiprAyaM prakAraM, mataM yòkka prAthamika vidhi maraNAnaMtara jIvitAnni arthaM chesukovaDamA ledA I lokaMlo jIvitAnni arthaM chesukovaDamA? (òkadAnni èMchukoMDi)",
+      "matAnni parishIlistunnappuDu, jIvitaMloni e aMshAnni adi pradhAnaMgA vivariMchaDAniki prayatnistuMdani mIru nammutAru? (òkadAnni èMchukoMDi)"
+    ],
+    "options": [
+      "maraNAnaMtara jIvitAnni arthaM chesukovaDAniki",
+      "I prapaMchaMlo jIvitAnni arthaM chesukovaDAniki"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "aMgIkAra sthAyi: I rojullo e naitika niyamAlu sarainavo nirNayiMchukovaDaMlo tarachugA ibbaMdi paDutuMTAru.",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, mIru I prakaTanato èMtavaraku ekIbhavistAru: I rojullo e naitika niyamAlanu pATiMchAlo nirNayiMchukovaDaMlo tarachugA ibbaMdi paDutuMTAru? (1 = pUrtigA aMgIkaristunnAru, 10 = pUrtigA vibhedistunnAru)",
+      "dayachesi I prakaTanato mI ekIbhAvAnni reT cheyaMDi: I rojullo 1 nuMDi 10 skel‌lo e naitika niyamAlu sarainavo nirNayiMchaDaMlo òkaru tarachugA ibbaMdi paDutunnAru. (1 = pUrtigA aMgIkaristunnAru, 10 = pUrtigA vibhedistunnAru)",
+      "I prakaTanato mI ekIbhaviMche sthAyini sUchiMchaMDi: I rojullo 1 nuMDi 10 skel‌ni upayogiMchi e naitika niyamAlanu pATiMchAlo sarainadi ani nirNayiMchaDaMlo tarachugA ibbaMdi paDutuMTAru. (1 = pUrtigA aMgIkaristunnAru, 10 = pUrtigA vibhedistunnAru)",
+      "I kriMdi prakaTanato mIru èMtavaraku ekIbhavistAru? I rojullo e naitika niyamAlanu pATiMchAlo nirNayiMchukovaDaMlo tarachugA ibbaMdi paDutuMTAru. dayachesi 1 nuMDi 10 skel‌lo reT cheyaMDi, ikkaDa 1 aMTe mIru pUrtigA aMgIkaristunnAru mariyu 10 aMTe mIru pUrtigA vibhedistunnAru."
+    ],
+    "options": [
+      "pUrtigA aMgIkaristunnAnu",
+      "pUrtigA vibhedistunnAnu"
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "samarthanIyamainadi: mIku arhata leni prabhutva prayojanAlanu klèyim cheyaDaM",
+    "questions": [
+      "mIku arhata leni prabhutva prayojanAlanu pòMdaDaM e paristhitulalo samarthanIyamani mIru anukuMTunnAru?",
+      "mIku arhata leni prabhutva prayojanAlanu klèyim cheyaDaM samarthanIyamani mIru nammutunnaTlayite, e paristhitulalo?",
+      "kònni saMdarbhAllo mIku arhata leni prabhutva prayojanAlanu pòMdaDaM samarthanIyamani mIru bhAvistunnArA? alA ayite, èppuDu?",
+      "mI abhiprAyaM prakAraM, mIku arhata leni prabhutva prayojanAlanu klèyim cheyaDaM samarthanIyamaina saMdarbhAlu emainA unnAyA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q178": {
+    "description": "samarthanIyaM: prajA ravANAlo ChArjIlanu nivAriMchaDaM",
+    "questions": [
+      "prajA ravANAlo ChArjIlanu nivAriMchaDaM èMta tarachugA samarthanIyamani mIru nammutAru?",
+      "prajA ravANAlo ChArjIlu chèlliMchakuMDA uMDaTaM èMtavaraku Amodayogyamani mIru bhAvistAru?",
+      "mI abhiprAyaM prakAraM, prajA ravANAlo ChArjIlu chèlliMchakuMDA uMDaTaM èppuDu samuchitaM?",
+      "prajA ravANAlo ChArjIlanu tappiMchaDaM èMtavaraku samarthanIyamani mIru bhAvistAru?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q179": {
+    "description": "samarthanIyaM: Astini dòMgiliMchaDaM",
+    "questions": [
+      "Astini dòMgiliMchaDaM èppaTikI samarthanIyaM kAdani mIru nammutArA?",
+      "Astini dòMgiliMchaDaM èllappuDU samarthanIyamani mIru anukuMTunnArA?",
+      "mI abhiprAyaM prakAraM, Astini dòMgiliMchaDaM èppaTikI samarthanIyaM kAdA?",
+      "Astini dòMgiliMchaDaM èllappuDU samarthanIyamenani mIru nammutunnArA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q180": {
+    "description": "samarthanIyaM: pannulanu mosaM cheyaDaM",
+    "questions": [
+      "pannulanu mosaM cheyaDaM èppuDainA samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, pannulanu mosaM cheyaDaM èllappuDU tappenA?",
+      "pannulanu mosaM cheyaDaM samarthiMchadagina paristhitulu evainA unnAyani mIru anukuMTunnArA?",
+      "pannulanu mosaM cheyaDaM èppaTikI AmodayogyaM kAdani mIru nammutunnArA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q181": {
+    "description": "samarthanIyamainadi: tama vidhula nirvahaNalo laMchaM svIkariMche vyakti.",
+    "questions": [
+      "èvarainA tama vidhula nirvahaNalo laMchaM tIsukovaDaM samarthanIyamA ani mI abhiprAyaM emiTi?",
+      "èvarainA tama vidhula nirvahaNalo laMchaM tIsukovaDaM èMtavaraku samarthanIyamani mIru nammutAru?",
+      "mI abhiprAyaM prakAraM, èvarainA tama vidhula nirvahaNalo laMchaM tIsukovaDaM èppuDainA AmodayogyamenA?",
+      "èvarainA tama vidhula nirvahaNalo laMchaM tIsukovaDaM èllappuDU samarthanIyamani, èppuDU samarthanIyaM kAdani ledA madhyalo èkkaDo òkachoTa adi nyAyabaddhamainadani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": false
+  },
+  "Q182": {
+    "description": "svaliMga saMparkaM paTla vaikhari",
+    "questions": [
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo svaliMga saMparkaM èppuDainA samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, e paristhitulalonainA, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo svaliMga saMparkaM samarthanIyamenA?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo svaliMga saMparkAnni samarthiMchagala paristhitulu emainA unnAyani mIru anukuMTunnArA?",
+      "mI abhiprAyaM prakAraM, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo svaliMga saMparkAnni samarthiMchagala paristhiti edainA uMdA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q183": {
+    "description": "vyabhichAraM paTla vaikhari",
+    "questions": [
+      "vyabhichAraM 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo èppuDainA samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, e paristhitullonainA vyabhichAraM samarthanIyamenA, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo vyabhichAraM samarthiMchabaDe paristhitulu emainA unnAyani mIru anukuMTunnArA?",
+      "mI abhiprAyaM prakAraM, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo vyabhichAraM samarthiMchabaDe paristhiti edainA uMdA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q184": {
+    "description": "samarthanIyamainadi: garbhasrAvaM",
+    "questions": [
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo garbhasrAvaM èppuDainA samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, e paristhitulalonainA, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo garbhasrAvaM samarthanIyamenA?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo garbhasrAvaM samarthiMchabaDe paristhitulu evainA unnAyani mIru anukuMTunnArA?",
+      "mI dRRiShTilo garbhasrAvaM èllappuDU samarthanIyaM kAdA, 1 (èllappuDU samarthanIyaM kAdu) nuMDi 10 (èllappuDU samarthanIyaM) skelupai?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q185": {
+    "description": "samarthanIyamainadi: viDAkulu",
+    "questions": [
+      "viDAkulu èppuDainA samarthiMchabaDatAyA, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai?",
+      "viDAkulu 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai samarthiMchabaDatAyani mIru nammutArA?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai viDAkulanu samarthanIyaMgA parigaNiMchavachchA?",
+      "mI abhiprAyaM prakAraM, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai viDAkulanu samarthiMchagala paristhiti edainA uMdA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q186": {
+    "description": "vivAhAniki muMdu sèks paTla vaikhari",
+    "questions": [
+      "vivAhAniki muMdu sèks 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo èppuDainA samarthiMchabaDutuMdA?",
+      "vivAhAniki muMdu sèks‌nu 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skel‌lo samarthiMchavachchani mIru nammutArA?",
+      "vivAhAniki muMdu sèks‌nu 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skel‌lo samarthanIyaMgA parigaNiMchavachchA?",
+      "mI abhiprAyaM prakAraM, vivAhAniki muMdu sèks‌nu 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skel‌lo samarthiMchagala paristhiti edainA uMdA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q187": {
+    "description": "samarthanIyamainadi: Atmahatya",
+    "questions": [
+      "Atmahatya samarthanIyatapai mI abhiprAyAlu emiTi?",
+      "Atmahatya èppuDainA samarthanIyamani mIru nammutArA?",
+      "Atmahatya viShayAniki vaste, dAnini samarthiMchadagina paristhitulu unnAyani mIru anukuMTunnArA?",
+      "e paristhitullonainA Atmahatya naitikaMgA samarthanIyamani mIru bhAvistunnArA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q188": {
+    "description": "samarthanIyamainadi: yuthaneShiyA",
+    "questions": [
+      "kAruNya maraNaM yòkka samarthanIyatapai mI vaikhari emiTi?",
+      "kònni paristhitulalo kAruNya maraNaM samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, kAruNya maraNaM èppuDainA samarthanIyamenA?",
+      "nirdiShTa saMdarbhAlalo kAruNya maraNAnni samarthanIyamaina èMpikagA parigaNiMchAlA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q189": {
+    "description": "samarthanIyaM: òka puruShuDu tana bhAryanu kòTTaDaM",
+    "questions": [
+      "òka puruShuDu tana bhAryanu kòTTaDaM samarthanIyamA?",
+      "òka vyakti tana bhAryanu kòTTaDaM samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, òka puruShuDu tana bhAryanu kòTTaDaM èppuDainA AmodayogyamenA?",
+      "òka puruShuDu tana bhAryanu kòTTaDaM samarthanIyamaina paristhitulu unnAyani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q190": {
+    "description": "samarthanIyaM: tallidaMDrulu pillalanu kòTTaDaM",
+    "questions": [
+      "tallidaMDrulu tama pillalanu kòTTaDaM samarthanIyamani mIru bhAvistunnArA?",
+      "tallidaMDrulu tama pillalapai shArIraka balavaMtaM cheyaDaM èppuDainA samarthanIyamenA?",
+      "tallidaMDrulaku tama pillalanu shArIrakaMgA kramashikShaNalo pèTTe hakku uMdani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, tallidaMDrulu tama pillalapai shArIraka shikSha vidhiMchaDaM AmodayogyamenA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q191": {
+    "description": "samarthanIyaM: itara vyaktulapai hiMsa",
+    "questions": [
+      "itarulapai hiMsa èppuDU samarthanIyamenani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, itarulapai hiMsanu samarthiMchadagina paristhiti edainA uMdA?",
+      "itarulapai hiMsanu samarthiMchagala paristhitulu emainA unnAyani mIru anukuMTunnArA?",
+      "e saMdarbhaMlonainA itarulapai hiMsanu samarthiMchaDaM sAdhyamenA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q192": {
+    "description": "samarthanIyamainadi: rAjakIya, saiddhAMtika ledA mataparamaina mArgaMgA ugravAdaM",
+    "questions": [
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo, ugravAdaM rAjakIya mArgaMgA èppuDainA samarthiMchabaDutuMdani mIru nammutArA?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai, ugravAdAnni saiddhAMtika mArgaMgA samarthiMchaDaM sAdhyamenA?",
+      "ugravAdAnni mataparamaina mArgaMgA 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skel‌lo samarthanIyaMgA parigaNiMchavachchani mIru anukuMTunnArA?",
+      "mI abhiprAyaM prakAraM, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai rAjakIya lakShyAlanu sAdhiMchaDAniki ugravAdaM èppuDainA samarthanIyamaina mArgamA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q193": {
+    "description": "sAdhAraNa sèks paTla vaikhari",
+    "questions": [
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo, yAdRRichChika laiMgika saMbaMdhaM èppuDainA samarthiMchabaDutuMdA?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo yAdRRichChika laiMgika saMparkAnni samarthiMchavachchani mIru nammutArA?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo yAdRRichChika laiMgika saMparkAnni samarthanIyaMgA parigaNiMchavachchA?",
+      "mI abhiprAyaM prakAraM, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo yAdRRichChika laiMgika saMparkAnni samarthiMchagala paristhiti edainA uMdA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q194": {
+    "description": "samarthanIyaM: rAjakIya hiMsa",
+    "questions": [
+      "rAjakIya hiMsa 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo èppuDainA samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai rAjakIya hiMsanu samarthiMchagala paristhiti edainA uMdA?",
+      "rAjakIya hiMsanu kònni paristhitulalo, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelulo naitikaMgA samarthiMchavachchani mIru anukuMTunnArA?",
+      "rAjakIya hiMsanu 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai samarthiMchaDaM sAdhyamenA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q195": {
+    "description": "samarthanIyamainadi: maraNashikSha",
+    "questions": [
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai maraNashikSha samarthanIyamani mIru nammutArA?",
+      "mI abhiprAyaM prakAraM, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai maraNashikSha èppuDainA samarthanIyamenA?",
+      "kònni saMdarbhAllo, 1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai maraNashikShanu samarthanIyamani mIru bhAvistArA?",
+      "1 (èppuDU kAdu) nuMDi 10 (èllappuDU) skelupai maraNashikShanu samarthiMchagala paristhitulu emainA unnAyani mIru anukuMTunnArA?"
+    ],
+    "options": [
+      "èppaTikI samarthanIyaM kAdu",
+      "èllappuDU samarthanIyaM"
+    ],
+    "scale": true
+  },
+  "Q196": {
+    "description": "prabhutva prAMtAlalo vIDiyo nighAnu upayogiMchukune hakku",
+    "questions": [
+      "prabhutva prAMtAlalo prajalanu vIDiyo nighAlo uMche hakku prabhutvAniki uMDAlA vaddA ani mIru anukuMTunnArA?",
+      "prabhutva vIDiyo nighA dvArA paurulanu paryavekShiMche hakku prabhutvAniki uMDAlA?",
+      "bahiraMga pradeshAllo prajalanu gamaniMchaDAniki adhikArulu vIDiyo kèmèrAlanu upayogiMchaDaM Amodayogyamani mIru nammutArA?",
+      "prabhutva sthalAllo prajalanu vIDiyo nighAlo uMche hakku prabhutvAniki uMDAlani mIru anukuMTunnAro ledo dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "khachchitaMgA hakku uMDAli",
+      "bahushA hakku uMDAli",
+      "bahushA hakku uMDakUDadu",
+      "khachchitaMgA hakku uMDakUDadu"
+    ],
+    "scale": false
+  },
+  "Q197": {
+    "description": "An‌lain kamyUnikeShan‌nu paryavekShiMche prabhutva hakku",
+    "questions": [
+      "prabhutvAniki iMTarnèT‌lo mArpiDi ayye anni I-mèyils mariyu itara samAchArAnni paryavekShiMche hakku uMDAlA vaddA ani mIru anukuMTunnArA?",
+      "paurula An‌lain kamyUnikeShan‌lanu paryavekShiMche hakku prabhutvAniki uMDAlA?",
+      "bhadratA prayojanAla dRRiShTyA adhikArulu iMTarnèT kamyUnikeShan‌lanu paryavekShiMchagalarani mIru aMgIkaristArA?",
+      "prabhutvAniki I-mèyils mariyu An‌lain samAchArAnni paryavekShiMche hakku uMDAlani mIru anukuMTunnAro ledo dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "khachchitaMgA hakku uMDAli",
+      "bahushA hakku uMDAli",
+      "bahushA hakku uMDakUDadu",
+      "khachchitaMgA hakku uMDakUDadu"
+    ],
+    "scale": false
+  },
+  "Q198": {
+    "description": "prabhutva vyaktigata samAchArAnni rahasyaMgA sekariMche hakku",
+    "questions": [
+      "I deshaMlo nivasistunna èvari guriMchainA vAriki tèliyakuMDA vAri guriMchi samAchArAnni sekariMche hakku prabhutvAniki uMDAlA vaddA ani mIru anukuMTunnArA?",
+      "paurula guriMchi vyaktigata samAchArAnni rahasyaMgA sekariMche hakku adhikArulaku uMDAlA?",
+      "prajalaku samAchAraM ivvakuMDAne vAri guriMchi samAchArAnni sekariMchaDAniki prabhutvAniki anumati ivvAlani mIru nammutunnArA?",
+      "paurulaku tèliyakuMDAne vyaktigata DeTAnu sekariMche hakku prabhutvAniki uMDAlani mIru anukuMTunnAro ledo dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "khachchitaMgA hakku uMDAli",
+      "bahushA hakku uMDAli",
+      "bahushA hakku uMDakUDadu",
+      "khachchitaMgA hakku uMDakUDadu"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "rAjakIyAlapai Asakti",
+    "questions": [
+      "mIku rAjakIyAlapai èMta Asakti uMdi?",
+      "mIku rAjakIyAlapai èMta Asakti uMdi?",
+      "rAjakIyAlapai mIku Asakti e sthAyilo uMdi?",
+      "mIru rAjakIyAlapai Asakti kaligi unnArani chèbutArA?"
+    ],
+    "options": [
+      "chAlA AsaktigA uMdi",
+      "kòMtavaraku AsaktigA uMdi",
+      "aMtagA Asakti ledu",
+      "assalu Asakti ledu"
+    ],
+    "scale": false
+  },
+  "Q200": {
+    "description": "snehitulato rAjakIya viShayAlanu tarachugA charchiMchaDaM",
+    "questions": [
+      "mIru mI snehitulato kalisinappuDu, mIru tarachugA, appuDappuDu, ledA èppuDU rAjakIya viShayAlanu charchistArani chèbutArA?",
+      "mIru mI snehitulato kalisinappuDu èMta tarachugA rAjakIya viShayAlanu charchistAru?",
+      "mIru snehitulato mATlADeTappuDu rAjakIya viShayAlu tarachugA, appuDappuDu, ledA èppuDU prastAvanaku rAvani mIru chèbutArA?",
+      "dayachesi mIru mariyu mI snehitulu èMta tarachugA rAjakIya aMshAlanu charchistAro sUchiMchaMDi - tarachugA, appuDappuDu, ledA èppuDU."
+    ],
+    "options": [
+      "tarachugA",
+      "appuDappuDu",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q201": {
+    "description": "dinapatrikala nuMDi samAchArAnni pòMde tarachudanaM",
+    "questions": [
+      "I deshaMlo mariyu prapaMchaMlo emi jarugutuMdo tèlusukovaDAniki mIru èMta tarachugA dinapatrikalanu upayogistAru?",
+      "mIru dinapatrikanu rojU, vArAniko, nèlako, nèlako, takkuva nèlako, ledA èppuDU chadavaDaM ledA?",
+      "jAtIya ledA aMtarjAtIya saMghaTanala guriMchi tèlusukovaDAniki mIru èMta tarachugA vArtApatrikalu chaduvutAru?",
+      "dayachesi mIru rojuvArI vArtApatrikala nuMDi èMta tarachugA vArtalanu pòMdutAro sUchiMchaMDi - rojuvArI, vAra, nèlavArI, nèlavArI kaMTe takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q202": {
+    "description": "TIvI vArtala nuMDi samAchArAnni pòMde tarachudanaM",
+    "questions": [
+      "mI deshaMlo mariyu prapaMchaMlo emi jarugutuMdo tèlusukovaDAniki mIru èMta tarachugA TIvI vArtalu chUstAru?",
+      "mIru Tèlivijan vArtalanu rojU, vArAniko, nèlako, nèlako, ledA èppuDU upayogiMchaledA?",
+      "samAchAraM pòMdaDAniki mIru èMta tarachugA Tèlivijan‌lo vArtA kAryakramAlanu chUstAru?",
+      "dayachesi mIru èMta tarachugA TIvI vArtalu chUstAro sUchiMchaMDi — rojuvArI, vAra, nèlavArI, nèlaku takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q203": {
+    "description": "reDiyo vArtala nuMDi samAchArAnni pòMde phrIkvènsI",
+    "questions": [
+      "jAtIya mariyu prapaMcha saMghaTanala guriMchi samAchAraM kosaM mIru èMta tarachugA reDiyo vArtalanu viMTAru?",
+      "mIru reDiyo vArtalanu rojU, vArAniko, nèlako, nèlako, ledA èppuDU upayogiMcharu kadA?",
+      "prastuta viShayAlanu tèlusukovaDAniki mIru èMta tarachugA reDiyo prasArAlanu viMTAru?",
+      "dayachesi mIru reDiyo nuMDi èMta tarachugA vArtalanu pòMdutunnAro sUchiMchaMDi — rojuvArI, vAra, nèlavArI, nèla kaMTe takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q204": {
+    "description": "vArtalu mariyu samAchAraM kosaM mòbail phon‌nu tarachugA upayogiMchaDaM",
+    "questions": [
+      "I deshaMlo mariyu prapaMchaMlo emi jarugutuMdo dAni guriMchi vArtalu ledA samAchArAnni pòMdaDAniki mIru mI mòbail phon‌nu èMta tarachugA upayogistAru?",
+      "mIru mòbail phon‌nu pratirojU, vArAnikosAri, nèlakosAri, nèlaku takkuva samayaMlo ledA èppuDU samAchAraM pòMdaDAniki upayogistunnArA?",
+      "vArtala navIkaraNalu ledA prastuta saMghaTanalanu tanikhI cheyaDAniki mIru mI mòbail phon‌nu èMta tarachugA upayogistAru?",
+      "vArtala kosaM mIru mI mòbail phon‌nu èMta tarachugA upayogistunnAro dayachesi sUchiMchaMDi — rojuvArI, vAra, nèlavArI, nèlaku takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q205": {
+    "description": "vArtalu mariyu samAchAraM kosaM imèyil‌nu tarachugA upayogiMchaDaM",
+    "questions": [
+      "I deshaMlo mariyu prapaMchaMlo emi jarugutuMdo dAni guriMchi samAchAraM pòMdaDAniki mIru èMta tarachugA imèyil‌nu upayogistAru?",
+      "mIru Imèyil‌nu pratirojU, vArAnikosAri, nèlavArIgA, nèlaku takkuva samayaMlo ledA èppuDU vArtalu ledA navIkaraNala kosaM upayogistArA?",
+      "mIru èMta tarachugA imèyil dvArA vArtalu ledA navIkaraNalanu tanikhI chestAru ledA svIkaristAru?",
+      "samAchAraM pòMdaDAniki mIru èMta tarachugA imèyil‌nu upayogistAro dayachesi sUchiMchaMDi - rojuvArI, vAra, nèlavArI, nèlavArI kaMTe takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q206": {
+    "description": "vArtalu mariyu samAchAraM kosaM iMTarnèT‌nu tarachugA upayogiMchaDaM",
+    "questions": [
+      "I deshaMlo mariyu prapaMchaMlo emi jarugutuMdo tèlusukovaDAniki mIru èMta tarachugA iMTarnèT‌nu upayogistAru?",
+      "mIru An‌lain‌lo vArtalu ledA samAchArAnni pratirojU, vArAnikòkasAri, nèlavArIgA, nèlaku takkuva samayaMlo ledA èppuDU yAksès cheyaledA?",
+      "vArtalanu tanikhI cheyaDAniki ledA prastuta saMghaTanala guriMchi chadavaDAniki mIru èMta tarachugA An‌lain‌loki vèLatAru?",
+      "vArtalu mariyu samAchAraM kosaM mIru iMTarnèT‌nu èMta tarachugA upayogistunnAro dayachesi sUchiMchaMDi - rojuvArI, vAra, nèlavArI, nèlaku takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q207": {
+    "description": "vArtalu mariyu samAchAraM kosaM soShal mIDiyAnu tarachugA upayogiMchaDaM",
+    "questions": [
+      "I deshaMlo mariyu prapaMchaMlo emi jarugutuMdo tèlusukovaDAniki mIru èMta tarachugA soShal mIDiyAnu (phes‌buk, TviTTar mòdalainavi) upayogistunnAru?",
+      "mIru soShal mIDiyA dvArA vArtalu ledA navIkaraNalanu pratirojU, vArAniko, nèlako, nèlako, ledA èppuDU pòMdutArA?",
+      "vArtalu ledA rAjakIya pariNAmAlanu anusariMchaDAniki mIru èMta tarachugA soShal mIDiyAnu upayogistAru?",
+      "vArtala kosaM mIru èMta tarachugA soShal mIDiyApai AdhArapaDatAro dayachesi sUchiMchaMDi - rojuvArI, vAra, nèlavArI, nèlavArI kaMTe takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q208": {
+    "description": "snehitulu ledA sahodyogulato vArtalanu tarachugA charchiMchaDaM",
+    "questions": [
+      "I deshaMlo mariyu prapaMchaMlo emi jarugutuMdo tèlusukovaDAniki mIru èMta tarachugA snehitulato ledA sahodyogulato mATlADutAru?",
+      "mIru snehitulu ledA sahodyogulato vArtalu ledA prastuta saMghaTanalanu pratirojU, vArAnikosAri, nèlakosAri, nèlakosAri ledA èppuDU charchiMchaledA?",
+      "mIru mI snehitulato ledA sahodyogulato èMta tarachugA prastuta vyavahArAla guriMchi samAchArAnni mArpiDi chesukuMTAru?",
+      "dayachesi mIru snehitulu ledA sahodyogulato vArtala guriMchi èMta tarachugA mATlADatAro sUchiMchaMDi - rojuvArI, vAra, nèlavArI, nèla kaMTe takkuva, ledA èppuDU."
+    ],
+    "options": [
+      "pratiroju",
+      "vIklI",
+      "nèlasari",
+      "nèlavArI kaMTe takkuva",
+      "èppuDU"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "rAjakIya charya: piTiShan‌pai saMtakaM cheyaDaM",
+    "questions": [
+      "mIru èppuDainA rAjakIya yAkShan piTiShan‌pai saMtakaM cheshArA?",
+      "bhaviShyattulo rAjakIya yAkShan piTiShan‌pai saMtakaM cheyAlani mIru AlochistunnArA?",
+      "mIru rAjakIya charya piTiShan‌pai saMtakaM cheyaDAniki siddhaMgA unnArA?",
+      "mIku rAjakIya yAkShan piTiShan‌pai saMtakaM chese uddeshyaM uMdA?"
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "rAjakIya charya: bahiShkaraNalalo cheraDaM",
+    "questions": [
+      "mIru èppuDainA rAjakIya bahiShkaraNalo pAlgònnArA?",
+      "mIru rAjakIya bahiShkaraNalo pAlgònAlani AlochistunnArA?",
+      "rAjakIya bahiShkaraNalo pAlgònaDAniki mIru siddhaMgA uMTArA?",
+      "rAjakIya bahiShkaraNalo cheraDaM mIru èppaTikI parigaNiMchani viShayamA?"
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "rAjakIya charya: chaTTabaddhamaina/shAMtiyuta pradarshanalaku hAjaru kAvaDaM",
+    "questions": [
+      "rAjakIya charya kosaM chaTTabaddhamaina/shAMtiyuta pradarshanaku mIru èppuDainA hAjarayyArA?",
+      "bhaviShyattulo rAjakIya charya kosaM chaTTabaddhamaina/shAMtiyuta pradarshanalaku hAjaru kAvaDAniki mIru siddhaMgA unnArA?",
+      "rAjakIya charya kosaM chaTTabaddhamaina/shAMtiyuta pradarshanaku hAjaru kAvaDAnni mIru parishIlistArA?",
+      "rAjakIya charya kosaM chaTTabaddhamaina/shAMtiyuta pradarshanalaku hAjaru kAvaDaM mIru èppaTikI cheyani paninA?"
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "rAjakIya charya: anadhikArika sammèlalo cheraDaM",
+    "questions": [
+      "rAjakIya kAryakalApAla kosaM mIru èppuDainA anadhikArika sammèlalo pAlgònnArA?",
+      "rAjakIya charya kosaM anadhikArika sammèlalo cheraDAniki mIru siddhaMgA unnArA?",
+      "rAjakIya charya kosaM anadhikArika sammèlalo pAlgònaDAnni mIru parishIlistArA?",
+      "rAjakIya charya kosaM anadhikArika sammèlalo mIru èppaTikI pAlgònarani mIru gaTTigA nammutunnArA?"
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q213": {
+    "description": "òka samUhaM ledA prachArAniki virALaM ivvaDaMlo pAlgònaDaM",
+    "questions": [
+      "mIru èppuDainA òka rAjakIya samUhAniki ledA prachArAniki virALaM ichchArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "mIru òka grUpu ledA prachArAniki virALaM ichchArani, bhaviShyattulo alA chese avakAshaM uMdani, ledA èppaTikI cheyarani chèbutArA?",
+      "mIru èppuDainA òka rAjakIya samUhAniki ledA prachArAniki Arthika sahAyaM cheshArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "dayachesi mIru edainA rAjakIya saMstha ledA prachArAniki virALaM ichchArA, virALaM ivvavachchA ledA èppaTikI virALaM ivvaro sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q214": {
+    "description": "prabhutva adhikArini saMpradiMchaDaMlo pAlgònaDaM",
+    "questions": [
+      "mIru èppuDainA òka rAjakIya viShayaM guriMchi prabhutva adhikArini saMpradiMchArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "mIru òka prabhutva adhikArini saMpradiMchArani, bahushA alA chestArA ledA èppaTikI cheyarani chèbutArA?",
+      "mIru èppuDainA rAjakIya ledA prajA viShayAla guriMchi prabhutva pratinidhini saMpradiMchArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "mI abhiprAyAlanu ledA AMdoLanalanu vyaktIkariMchaDAniki mIru prabhutva adhikArini saMpradiMchArA, saMpradiMchavachchA ledA èppaTikI saMpradiMchaledA ani dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q215": {
+    "description": "rAjakIya aMshAlapai charya tIsukunelA itarulanu protsahiMchaDaM",
+    "questions": [
+      "rAjakIya samasyalapai charya tIsukovAlani mIru èppuDainA itarulanu protsahiMchArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "rAjakIya samasyalapai charya tIsukovaDAniki mIru itarulanu protsahiMchArani, alA chestArani, ledA èppaTikI cheyarani mIru chèbutArA?",
+      "mIru èppuDainA itarulanu rAjakIya viShayAllo pAlgònamani òppiMchaDAniki prayatniMchArA, mIru alA chestArA, ledA èppaTikI cheyarA?",
+      "mIru itarulanu rAjakIya charya tIsukovaDAniki protsahiMchArA, protsahiMchavachchA ledA èppaTikI protsahiMcharA anedi dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q216": {
+    "description": "itarulanu oTu veyamani protsahiMchaDaM",
+    "questions": [
+      "mIru èppuDainA itarulanu oTu veyamani protsahiMchArA, mIru alA chestArA, ledA èppaTikI cheyarA?",
+      "mIru prajalanu oTu veyamani protsahiMchArani, bahushA chestArani ledA èppaTikI cheyarani chèbutArA?",
+      "mIru èppuDainA ènnikallo oTu veyamani itarulanu korArA, mIru alA chestArA, ledA èppaTikI cheyarA?",
+      "dayachesi mIru itarulanu oTiMg‌lo pAlgònamani protsahiMchArA, protsahiMchavachchA ledA èppaTikI protsahiMchaledA ani sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q217": {
+    "description": "rAjakIyAlu mariyu rAjakIya saMghaTanala guriMchi samAchAraM kosaM An‌lain shodhana",
+    "questions": [
+      "mIru iMTarnèT ledA phes‌buk ledA TviTTar vaMTi soShal mIDiyA sAdhanAlanu upayogiMchi rAjakIyAlu mariyu rAjakIya saMghaTanala guriMchi samAchAraM kosaM shodhiMchArA?",
+      "nuvvu idi cheshAvani, chestAnani, ledA èppaTikI cheyanani chèbutAvA?",
+      "rAjakIya samasyalu ledA saMghaTanala guriMchi samAchArAnni vètakaDAniki mIru èppuDainA iMTarnèT ledA soShal mIDiyAnu upayogiMchArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "dayachesi mIru An‌lain‌lo ledA soShal mIDiyAlo rAjakIya samAchAraM kosaM shodhiMchArA, shodhiMchavachchA ledA èppaTikI shodhiMchaledA ani sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q218": {
+    "description": "èlakTrAnik piTiShan‌pai saMtakaM cheyaDaMlo pAlgònaDaM",
+    "questions": [
+      "mIru èppuDainA èlakTrAnik piTiShan‌pai saMtakaM cheshArA, chestArA ledA èppaTikI cheyarA?",
+      "mIru òka An‌lain piTiShan‌pai saMtakaM cheshArani, bahushA chestArA ledA èppaTikI cheyarani chèbutArA?",
+      "mIru èppuDainA iMTarnèT‌lo piTiShan‌pai saMtakaM cheyaDaMlo pAlgònnArA, mIru alA chestArA, ledA èppaTikI cheyarA?",
+      "dayachesi mIru èlakTrAnik piTiShan‌pai saMtakaM cheshArA, saMtakaM cheyavachchA ledA èppaTikI saMtakaM cheyaledA ani sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q219": {
+    "description": "soShal mIDiyA dvArA rAjakIya charyalu tIsukunelA itarulanu protsahiMchaDaM",
+    "questions": [
+      "iMTarnèT ledA soShal mIDiyAnu upayogiMchi itara vyaktulu edainA rAjakIya charya tIsukomani mIru protsahiMchArA?",
+      "nuvvu idi cheshAvani, chestAnani, ledA èppaTikI cheyanani chèbutAvA?",
+      "mIru èppuDainA soShal mIDiyAnu upayogiMchi itarulanu rAjakIya kAryakalApAllo pAlgònamani protsahiMchArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "dayachesi mIru itarulanu An‌lain‌lo rAjakIya charya tIsukovaDAniki protsahiMchArA, protsahiMchavachchA ledA èppaTikI protsahiMchaledA ani sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q220": {
+    "description": "An‌lain‌lo rAjakIya kAryakalApAlu ledA nirasanalanu nirvahiMchaDaM",
+    "questions": [
+      "mIru èppuDainA iMTarnèT ledA phes‌buk ledA TviTTar vaMTi soShal mIDiyA sAdhanAlanu upayogiMchi rAjakIya kAryakalApAlu, kAryakramAlu ledA nirasanalu nirvahiMchArA?",
+      "mIru alAMTi kAryakalApAlanu nirvahiMchArani, bahushA chestArani ledA èppaTikI cheyarani chèbutArA?",
+      "mIru èppuDainA rAjakIya kAryakramaM, prachAraM ledA nirasana nirvahiMchaDAniki An‌lain plAT‌phAm‌lanu upayogiMchArA, mIru alA chestArA ledA èppaTikI cheyarA?",
+      "dayachesi mIru iMTarnèT ledA soShal mIDiyA dvArA rAjakIya kAryakalApAlanu nirvahiMchArA, nirvahiMchavachchA ledA èppaTikI nirvahiMcharu ani sUchiMchaMDi."
+    ],
+    "options": [
+      "chesAru",
+      "cheyavachchu",
+      "èppaTikI cheyanu"
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "ènnikallo oTu veyaMDi: sthAnika sthAyi",
+    "questions": [
+      "sthAnika sthAyi ènnikallo mIru èMta tarachugA oTu vestAru?",
+      "sthAnika sthAyi ènnikalalo oTu veyaDaMlo mI sAdhAraNa paddhati emiTi?",
+      "mIru sAdhAraNaMgA sthAnika sthAyi ènnikalalo oTu vestArA ledA?",
+      "sthAnika sthAyi ènnikalalo oTu veyaDAniki mIku anumati uMdA?"
+    ],
+    "options": [
+      "èllappuDU",
+      "sAdhAraNaMgA",
+      "èppuDU",
+      "oTu veyaDAniki anumati ledu"
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "ènnikallo oTu veyaMDi: jAtIya sthAyi",
+    "questions": [
+      "jAtIya sthAyi ènnikalalo mIru èMta tarachugA oTu vestAru?",
+      "jAtIya sthAyi ènnikalalo mI sAdhAraNa oTiMg saraLi emiTi?",
+      "mIru èppuDainA jAtIya sthAyi ènnikalalo pAlgòMTArA?",
+      "mIru jAtIya sthAyi ènnikalalo oTu veyagalarA?"
+    ],
+    "options": [
+      "èllappuDU",
+      "sAdhAraNaMgA",
+      "èppuDU",
+      "oTu veyaDAniki anumati ledu"
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "desha ènnikalalo èMta tarachugA: oTlu niShpAkShikaMgA lèkkiMchabaDatAyi",
+    "questions": [
+      "desha ènnikalalo oTlanu èMta tarachugA niShpAkShikaMgA lèkkiMchAru?",
+      "desha ènnikalalo, oTlanu èMta tarachugA niShpAkShikaMgA lèkkiMchAru?",
+      "desha ènnikalalo oTlu chAlA tarachugA lèkkiMchabaDatAyA ledA tarachugA lèkkiMchabaDaledA?",
+      "desha ènnikalalo oTlu èMtavaraku niShpAkShikaMgA lèkkiMchabaDatAyi?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "desha ènnikalalo èMta tarachugA: pratipakSha abhyarthulu poTI cheyakuMDA nirodhiMchabaDatAru",
+    "questions": [
+      "desha ènnikallo pratipakSha abhyarthulu poTI cheyakuMDA èMta tarachugA nirodhiMchabaDutunnAru?",
+      "desha ènnikallo pratipakSha abhyarthulu poTI cheyakuMDA èMtavaraku nirodhiMchabaDDAru?",
+      "desha ènnikalalo pratipakSha abhyarthulu poTI cheyakuMDA èMta tarachugA nirodhiMchabaDutunnAru?",
+      "desha ènnikalalo pratipakSha abhyarthulu poTI cheyakuMDA èMta tarachugA nirodhiMchabaDutunnAru?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "desha ènnikalalo èMta tarachugA: oTarlaku laMchaM istAru",
+    "questions": [
+      "desha ènnikalalo oTarlaku èMta tarachugA laMchaM istAru?",
+      "desha ènnikallo oTarlu èMta tarachugA laMchAlu aMdukuMTAru?",
+      "desha ènnikalalo oTarlaku kramaM tappakuMDA èMta tarachugA laMchaM ivvabaDutuMdi?",
+      "desha ènnikalalo, oTarlu èMta tarachugA laMchagòMDitanAnni èdurkòMTAru?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "desha ènnikalalo èMta tarachugA: jarnalisTulu ènnikalaku nyAyamaina kavarejIni aMdistAru",
+    "questions": [
+      "mI deshaMlo ènnikalaku jarnalisTulu èMta tarachugA nyAyamaina kavarejIni aMdistAru?",
+      "mI desha ènnikalalo, jarnalisTulu èMta tarachugA nyAyamaina kavarejIni aMdistAru?",
+      "mI deshaMlo ènnikalaku jarnalisTulu èMta tarachugA nyAyamaina kavarej aMdistArani mIru chèbutAru?",
+      "mI deshaMloni jarnalisTulu tarachugA ènnikalaku nyAyamaina kavarej aMdistArA?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "desha ènnikalalo èMta tarachugA: ènnikala adhikArulu nyAyaMgA uMTAru",
+    "questions": [
+      "desha ènnikalalo ènnikala adhikArulu èMta tarachugA nyAyaMgA vyavaharistAru?",
+      "desha ènnikalalo ènnikala adhikArulu èMta tarachugA niShpAkShikaMgA vyavaharistAru?",
+      "desha ènnikalalo ènnikala adhikArulu èMtavaraku niShpAkShikatanu pradarshistAru?",
+      "desha ènnikalalo ènnikala adhikArulu èMta tarachugA nyAyaMgA vyavaharistArani mIru bhAvistunnAru?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "desha ènnikalalo èMta tarachugA: dhanavaMtulu ènnikalanu kònugolu chestAru",
+    "questions": [
+      "mI deshaMlo dhanavaMtulu èMta tarachugA ènnikalanu kònugolu chestArani mIru anukuMTunnAru?",
+      "mI abhiprAyaM prakAraM, mI deshaMlo dhanavaMtulu èMta tarachugA ènnikalanu kònugolu chestAru?",
+      "mI deshaMlo dhanavaMtulu ènnikalanu èMtavaraku kòMTArani mIru nammutAru?",
+      "mI deshaMlo dhanavaMtulu ènnikalanu kònugolu chestunnArani mIru èMta tarachugA grahistAru?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "desha ènnikalalo èMta tarachugA: ènnikalalo oTarlu hiMsato bèdiriMchabaDDAru",
+    "questions": [
+      "desha ènnikalalo ènnikala keMdrAlalo oTarlu èMta tarachugA hiMsato bèdiriMchabaDutunnAru?",
+      "desha ènnikalalo, poliMg keMdrAla vadda oTarlu èMta tarachugA hiMsAtmaka bèdiriMpulaku guravutAru?",
+      "desha ènnikalalo oTarlu tarachugA ènnikalalo hiMsa bèdiriMpulanu èdurkòMTunnArA?",
+      "desha ènnikalalo oTarlu sAdhAraNaMgA ènnikala keMdrAlalo èMtavaraku hiMsAtmaka bèdiriMpulaku guravutAru?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "desha ènnikalalo èMta tarachugA: oTarlaku ènnikalalo nijamaina èMpika ivvabaDutuMdi.",
+    "questions": [
+      "desha ènnikalalo oTarlaku èMta tarachugA nijamaina èMpika ivvabaDutuMdi?",
+      "desha ènnikalalo oTarlaku nijamaina èMpika èMta tarachugA aMdiMchabaDutuMdi?",
+      "desha ènnikalalo oTarlaku èMta tarachugA nijamaina èMpika uMTuMdi?",
+      "desha ènnikalalo oTarlaku èMtavaraku nijamaina èMpika labhistuMdi?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "desha ènnikalalo èMta tarachugA: kAryAlayAnni naDapaDAniki mahiLalaku samAna avakAshAlu unnAyi",
+    "questions": [
+      "mI desha ènnikallo poTI cheyaDAniki mahiLalaku èMta tarachugA samAna avakAshAlu unnAyi?",
+      "mI desha ènnikalalo, mahiLalaku ènnisArlu poTI cheyaDAniki samAna avakAshAlu labhistAyi?",
+      "mI desha ènnikallo poTI cheyaDAniki mahiLalaku èMtavaraku samAna avakAshAlu unnAyi?",
+      "mI desha ènnikallo poTI cheyaDAniki mahiLalaku tarachugA samAna avakAshAlu uMTAyA?"
+    ],
+    "options": [
+      "chAlA tarachugA",
+      "chAlA tarachugA",
+      "tarachugA kAdu",
+      "assalu kAdu"
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "mI deshaMloni rAjakIya vyavastha mIlAMTi vyaktulaku prabhutvaM chese panulalo vATA kalpiMchaDAniki anumatistuMdani mIru èMtavaraku chèbutAru?",
+    "questions": [
+      "mI deshaMloni rAjakIya vyavastha mIlAMTi vyaktulaku prabhutvaM chese panulalo èMtavaraku vATA kalpiMchaDAniki anumatistuMdani mIru bhAvistunnAru?",
+      "mIlAMTi vyaktulu prabhutva nirNayAlanu prabhAvitaM cheyaDAniki mI deshaMloni rAjakIya vyavastha sAmarthyaMpai mIru èMta prAmukhyatanu istAru?",
+      "mI abhiprAyaM prakAraM, prabhutvaM rAjakIya vyavastha dvArA chese panulalo mIlAMTi vyaktulu tama abhiprAyAnni chèppagalagaDaM èMta mukhyamainadi?",
+      "mI deshaMloni rAjakIya vyavastha mIlAMTi vyaktulaku prabhutva charyalalo èMtavaraku vATAnu kalpiMchagaladani mIru anukuMTunnAru?"
+    ],
+    "options": [
+      "chAlA mukhyamainadi",
+      "chAlA mukhyamainadi",
+      "aMta mukhyamainadi kAdu",
+      "assalu mukhyaM kAdu"
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "rAjakIya vyavastha: pArlamèMT mariyu ènnikalato ibbaMdi paDAlsina avasaraM leni balamaina nAyakuDini kaligi uMDaTaM",
+    "questions": [
+      "pArlamèMTu mariyu ènnikalato ibbaMdi paDAlsina avasaraM leni balamaina nAyakuDu unna rAjakIya vyavasthapai mI abhiprAyaM emiTi?",
+      "balamaina nAyakuDu pArlamèMTu mariyu ènnikalanu èdurkovAlsina bAdhyata leni rAjakIya vyavasthanu mIru èlA chUstAru?",
+      "pArlamèMT mariyu ènnikalalo èTuvaMTi prameyaM lekuMDA balamaina nAyakuDu uMDe rAjakIya vyavastha guriMchi mI Alochanalu emiTi?",
+      "mI abhiprAyaM prakAraM, pArlamèMT mariyu ènnikala guriMchi AMdoLana chèMdAlsina avasaraM leni balamaina nAyakuDu unna rAjakIya vyavasthanu mIru èlA reT chestAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA bAguMdi",
+      "chAlA chèDDadi",
+      "chAlA bAgoledu"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "rAjakIya vyavastha: prabhutvaM kAdu, nipuNulu deshAniki edi uttamamo dAni prakAraM nirNayAlu tIsukovAli.",
+    "questions": [
+      "deshAniki edi uttamamo dAni AdhAraMgA nipuNulu nirNayAlu tIsukune rAjakIya vyavasthapai mI abhiprAyaM emiTi?",
+      "deshAniki edi uttamamo nipuNulu tama avagAhana prakAraM nirNayAlu tIsukune rAjakIya vyavasthapai mI abhiprAyaM emiTi?",
+      "desha prayojanAlaku anuguNaMgA nirNayAlu tIsukovaDAniki nipuNulapai AdhArapaDe rAjakIya vyavastha guriMchi mIru emanukuMTunnAru?",
+      "deshAniki edi uttamamo nirNayiMche nipuNulu nirNayAlu tIsukune rAjakIya vyavastha guriMchi mIru èlA bhAvistunnAru?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA bAguMdi",
+      "chAlA chèDDadi",
+      "chAlA bAgoledu"
+    ],
+    "scale": false
+  },
+  "Q237": {
+    "description": "deshAnni paripAliMche mArgaMgA sainika pAlana yòkka mUlyAMkanaM",
+    "questions": [
+      "I deshAnni paripAliMchaDAniki sainika pAlana chAlA maMchidani, chAlA maMchidani, chAlA chèDDadani ledA chAlA chèDDadani mIru chèbutArA?",
+      "mI deshAniki prabhutva vyavasthagA sainika pAlananu mIru èlA reT chestAru?",
+      "deshAnni paripAliMchaDAniki sainyAnni kaligi uMDaTaM maMchidA chèDDadA ani mIru anukuMTunnArA?",
+      "deshAnni pAliMchaDAniki sainika pAlana chAlA maMchidani, chAlA maMchidani, chAlA chèDDadani ledA chAlA chèDDadani mIru bhAvistunnAro dayachesi sUchiMchaMDi."
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA bAguMdi",
+      "chAlA chèDDadi",
+      "chAlA bAgoledu"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "rAjakIya vyavastha: prajAsvAmya rAjakIya vyavasthanu kaligi uMDaTaM",
+    "questions": [
+      "prajAsvAmya rAjakIya vyavasthanu kaligi uMDaTaM ane rAjakIya vyavasthapai mI abhiprAyaM emiTi?",
+      "prajAsvAmya rAjakIya vyavasthanu kaligi uMDaTAniki mIru rAjakIya vyavasthanu èlA reT chestAru?",
+      "mI abhiprAyaM prakAraM, prajAsvAmya rAjakIya vyavasthanu kaligi uMDaTaM maMchidA chèDDadA?",
+      "prajAsvAmya rAjakIya vyavasthanu kaligi uMDaTaM valla kalige rAjakIya vyavastha guriMchi mI aMchanA emiTi?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA bAguMdi",
+      "chAlA chèDDadi",
+      "chAlA bAgoledu"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "rAjakIya vyavastha: rAjakIya pArTIlu ledA ènnikalu leni mataparamaina chaTTaM dvArA nirvahiMchabaDe vyavasthanu kaligi uMDaTaM.",
+    "questions": [
+      "rAjakIya pArTIlu ledA ènnikalu lekuMDA mataparamaina chaTTaM dvArA nirvahiMchabaDe rAjakIya vyavasthapai mI abhiprAyaM emiTi?",
+      "rAjakIya pArTIlu ledA ènnikalu lekuMDA mataparamaina chaTTaM paripAliMche vyavasthanu mIru èlA reT chestAru?",
+      "mI dRRiShTilo, èTuvaMTi rAjakIya pArTIlu ledA ènnikalu lekuMDA mataparamaina chaTTaM dvArA nirvahiMchabaDe rAjakIya vyavastha èMta maMchidi ledA chèDu?",
+      "rAjakIya pArTIlu ledA ènnikalu lekuMDA, kevalaM mataparamaina chaTTaM dvArA nirvahiMchabaDe vyavastha guriMchi mI abhiprAyaM emiTi?"
+    ],
+    "options": [
+      "chAlA bAguMdi",
+      "chAlA bAguMdi",
+      "chAlA chèDDadi",
+      "chAlA bAgoledu"
+    ],
+    "scale": false
+  },
+  "Q240": {
+    "description": "rAjakIya èDama-kuDi varNapaTaMlo svIya sthAnaM",
+    "questions": [
+      "rAjakIya viShayAllo, prajalu 'èDama' mariyu 'kuDi' guriMchi mATlADukuMTAru. 1 (èDama) nuMDi 10 (kuDi) varaku unna I skelupai mIru mI abhiprAyAlanu èlA uMchutAru?",
+      "mI rAjakIya abhiprAyAlanu 1 (èDama) nuMDi 10 (kuDi) varaku unna skelupai mIru èkkaDa uMchutAru?",
+      "1 nuMDi 10 varaku unna skel‌lo, 1 aMTe 'èDama' mariyu 10 aMTe 'kuDi' ani arthaM, mIru rAjakIyaMgA mimmalni èlA chUstAru?",
+      "èDama (1) nuMDi kuDi (10) varaku unna skelupai mI rAjakIya abhiprAyAlanu mIru èlA vivaristAru?"
+    ],
+    "options": [
+      "èDama",
+      "kuDi"
+    ],
+    "scale": true
+  },
+  "Q241": {
+    "description": "prajAsvAmyaM: prabhutvAlu dhanavaMtulapai pannulu vidhistAyi mariyu pedalaku sabsiDIlu istAyi.",
+    "questions": [
+      "dhanavaMtulapai pannu vidhiMchaDaM mariyu pedalaku sabsiDI ivvaDaM prajAsvAmyAniki èMtavaraku mukhyamaina lakShaNaM ani mIru nammutAru?",
+      "1 nuMDi 10 skel‌lo, prajAsvAmyAlu dhanavaMtulapai pannu vidhiMchaDaM mariyu pedalaku sabsiDIlu aMdiMchaDaM èMta mukhyamani mIru anukuMTunnAru?",
+      "prajAsvAmyAlu dhanavaMtulapai pannu vidhiMchi, pedalaku sabsiDI ivvAlani mIru èMtavaraku aMgIkaristunnAru ledA vibhedistunnAru? dayachesi mI pratispaMdananu 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "dhanavaMtulapai pannu vidhiMchaDaM mariyu pedalaku sabsiDI ivvaDaM prajAsvAmyaMlo òka prAthamika aMshaM ani mIru 1 nuMDi 10 skel upayogiMchi èMtavaraku nammutunnAro reT cheyaMDi."
+    ],
+    "options": [
+      "prajAsvAmyAniki mukhyamaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "prajAsvAmyaM: mataparamaina adhikArulu chaTTAlanu arthaM chesukuMTAru.",
+    "questions": [
+      "1 nuMDi 10 skel‌lo, mataparamaina adhikArulu chaTTAlanu arthaM chesukovaDaM prajAsvAmyAniki èMta avasaramani mIru anukuMTunnAru?",
+      "prajAsvAmyaM mataparamaina adhikArulu chaTTAlanu arthaM chesukovAlani mIru èMtavaraku nammutunnAro dayachesi 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "prajAsvAmyAniki mataparamaina adhikArulaku chaTTAlanu arthaM chesukune adhikAraM èMtavaraku avasaramani mIru bhAvistunnAru? dayachesi 1 nuMDi 10 varaku reT cheyaMDi.",
+      "prajAsvAmyAniki mataparamaina adhikArulu chaTTAlanu vivariMchaDaM èMta mukhyamani mIru bhAvistunnAru? dayachesi mI abhiprAyAnni 1 nuMDi 10 skel‌lo sUchiMchaMDi."
+    ],
+    "options": [
+      "prajAsvAmyAniki mukhyamaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q243": {
+    "description": "prajAsvAmya lakShaNaMgA svechChA ènnikala prAmukhyatanu grahiMchAru.",
+    "questions": [
+      "1 nuMDi 10 skel‌lo jarige svechChA ènnikalalo prajalu tama nAyakulanu ènnukovaDaM prajAsvAmyAniki èMta avasaramani mIru anukuMTunnAru?",
+      "1 nuMDi 10 varaku unna skel‌lo, 1 aMTe 'assalu avasaraM ledu' mariyu 10 aMTe 'khachchitaMgA avasaraM' ani arthaM, prajAsvAmyAniki svechChA ènnikalu èMta mukhyamainavi?",
+      "1 nuMDi 10 skelupai svechChA ènnikalu prajAsvAmyAniki èMta mukhyamaina lakShaNaMgA mIru bhAvistAru?",
+      "prajAsvAmyAniki nirvachiMche lakShaNaMgA svechChA ènnikalu èMta mukhyamo dayachesi 1 nuMDi 10 varaku reT cheyaMDi."
+    ],
+    "options": [
+      "prajAsvAmyAniki avasaramaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "prajAsvAmyaM: nirudyogAniki prajalaku rAShTra sahAyaM labhistuMdi.",
+    "questions": [
+      "prajAsvAmyaM: nirudyogAniki prajalaku rAShTra sahAyaM aMdutuMdA?",
+      "nirudyogaM kosaM prabhutva sahAyaM pòMdutunna vyaktulu prajAsvAmyAniki èMtavaraku mukhyamaina lakShaNaM ani mIru nammutAru? (reTu 1 nuMDi 10 varaku)",
+      "1 nuMDi 10 skel‌lo, prajAsvAmyaMlo nirudyogAniki rAShTra sahAyaM aMdiMchaDaM èMta mukhyamani mIru bhAvistAru?",
+      "nirudyogAniki rAShTra sahAyaM aMdiMchaDaM prajAsvAmyaM yòkka mukhyamaina lakShaNAlaku èMtavaraku dohadapaDutuMdani mIru anukuMTunnAru? (reTu 1 nuMDi 10 varaku)"
+    ],
+    "options": [
+      "prajAsvAmyAniki mukhyamaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q245": {
+    "description": "prabhutvaM asamarthaMgA unnappuDu sainyaM jokyaM yòkka prAmukhyatanu prajAsvAmya lakShaNaMgA grahiMchAru.",
+    "questions": [
+      "1 nuMDi 10 skelupai prabhutvaM asamarthaMgA unnappuDu sainyaM bAdhyatalu chepaTTaDaM prajAsvAmyAniki èMta avasaramani mIru anukuMTunnAru?",
+      "1 nuMDi 10 varaku skel‌lo, prabhutvaMlo sainyaM jokyaM prajAsvAmyAniki èMta mukhyamaina lakShaNaM ani mIru anukuMTunnAro reT cheyaMDi.",
+      "prabhutvaM viphalamainappuDu sainyaM bAdhyatalu chepaTTaDaM 1 nuMDi 10 skelupai prajAsvAmyAniki èMtavaraku anuguNaMgA uMTuMdani mIru nammutAru?",
+      "prajAsvAmyAniki sainyaM asamartha prabhutvAnni bhartI cheyaDaM èMta mukhyamo mIru bhAvistunnAro 1 nuMDi 10 skel‌lo sUchiMchaMDi."
+    ],
+    "options": [
+      "prajAsvAmyAniki avasaramaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q246": {
+    "description": "prajAsvAmya lakShaNaMgA rAjya aNachiveta nuMDi prajalanu rakShiMche paura hakkula prAmukhyatanu grahiMchAru.",
+    "questions": [
+      "1 nuMDi 10 skelulo rAShTra aNachiveta nuMDi prajalanu paura hakkulu rakShiMchaDaM prajAsvAmyAniki èMta avasaramani mIru anukuMTunnAru?",
+      "1 nuMDi 10 varaku unna skel‌lo, 1 aMTe 'assalu avasaraM ledu' mariyu 10 aMTe 'khachchitaMgA avasaraM' ani arthaM, prajAsvAmyAniki paura hakkula rakShaNalu èMta mukhyamainavi?",
+      "prabhutva aNachiveta nuMDi vyaktulanu rakShiMche paura hakkulu 1 nuMDi 10 skelulo prajAsvAmyAniki èMtavaraku mukhyamaina lakShaNaM ani mIru vishvasistAru?",
+      "prajAsvAmyAniki paura hakkulu èMta mukhyamo mIru anukuMTunnAro 1-10 skel‌lo sUchiMchaMDi."
+    ],
+    "options": [
+      "prajAsvAmyAniki avasaramaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "prajAsvAmyaM: rAShTraM prajala AdAyAlanu samAnaMgA chestuMdi.",
+    "questions": [
+      "prajAsvAmyaM: prajala AdAyAlanu samAnaMgA chese rAShTraM",
+      "prajAsvAmyaM: prajala AdAyAlanu samAnaMgA uMchaDaMlo rAShTraM pAtra uMdA?",
+      "prajAsvAmyaM aMTe rAShTraM prajala AdAyAlanu samAnaMgA cheyaDaM ani mIru èMtavaraku nammutAru?",
+      "1 nuMDi 10 varaku skel‌lo, prajala AdAyAlanu samAnaMgA chese rAShTrAnni cherchaDaM prajAsvAmyAniki èMta avasaramani mIru anukuMTunnAru?"
+    ],
+    "options": [
+      "prajAsvAmyAniki mukhyamaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "prajAsvAmyaM: prajalu tama pAlakulaku lobaDatAru.",
+    "questions": [
+      "prajAsvAmyaM: prajalu tama pAlakulaku vidheyata chUpaDaM prajAsvAmyAniki mukhyamaina lakShaNaM kAdu. (1-10 skel‌pai reT cheyaMDi)",
+      "prajalu tama pAlakulaku vidheyata chUpaDaM prajAsvAmyaM yòkka mukhyamaina lakShaNaMgA mIru èMtavaraku bhAvistAru? (1-10 skel‌pai reT cheyaMDi)",
+      "mI abhiprAyaM prakAraM, prajalu tama pAlakulaku vidheyata chUpaDaM prajAsvAmyAniki èMta mukhyamo? (1-10 skelupai reT cheyaMDi)",
+      "prajalu tama pAlakulaku vidheyata chUpaDaM prajAsvAmyaMlo òka prAthamika aMshaM ani mIru èMtavaraku aMgIkaristAru? (1-10 skel‌pai reT cheyaMDi)"
+    ],
+    "options": [
+      "prajAsvAmyAniki mukhyamaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q249": {
+    "description": "prajAsvAmya lakShaNaMgA liMga samAnatvaM yòkka prAmukhyatanu grahiMchAru",
+    "questions": [
+      "prajAsvAmyaMlo 1 nuMDi 10 skelulo puruShulato samAna hakkulu mahiLalaku uMDaTaM èMta mukhyamani mIru anukuMTunnAru?",
+      "1 nuMDi 10 varaku skel‌lo, prajAsvAmyAniki liMga samAnatvaM èMta mukhyamani mIru bhAvistAru?",
+      "1 nuMDi 10 skelulo prajAsvAmyaMlo strI puruShula samAna hakkulanu mIru èMtavaraku òka mukhyamaina lakShaNaMgA chUstAru?",
+      "prajAsvAmya vyavasthaku liMga samAnatvaM èMta mukhyamo dayachesi 1-10 skelulo sUchiMchaMDi."
+    ],
+    "options": [
+      "prajAsvAmyAniki avasaramaina lakShaNaM kAdu",
+      "prajAsvAmyAniki mukhyamaina lakShaNaM"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "prajAsvAmyaM yòkka prAmukhyata",
+    "questions": [
+      "1 nuMDi 10 skelulo, prajAsvAmyaM èMta mukhyamainadani mIru bhAvistAru?",
+      "prajAsvAmyaM yòkka prAmukhyatanu mIru 1 nuMDi 10 skel‌lo èlA reTiMg istAru?",
+      "prajAsvAmyaM èMtavaraku mukhyamani mIru nammutAru? dayachesi 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "prajAsvAmyAniki mIru èMta prAmukhyatanu istunnAro 1 nuMDi 10 skelupai sUchiMchaMDi."
+    ],
+    "options": [
+      "assalu mukhyaM kAdu",
+      "chAlA mukhyamainadi"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "I roju I deshaM èMta prajAsvAmyabaddhaMgA paripAliMchabaDutoMdi?",
+    "questions": [
+      "I deshaM Iroju èMta prajAsvAmyabaddhaMgA paripAliMchabaDutoMdi, mI abhiprAyaM prakAraM? (1-10 skel‌lo)",
+      "1 nuMDi 10 varaku skel‌lo, I desha prabhutvaM neTi prajAsvAmyabaddhaMgA uMdani mIru nammutAru?",
+      "I deshaM èMtavaraku prajAsvAmyabaddhaMgA paripAliMchabaDutuMdani mIru bhAvistunnAru? dayachesi 1 nuMDi 10 skel‌lo reT cheyaMDi.",
+      "I deshaMlo prastuta prajAsvAmya sthAyini 1 nuMDi 10 skel‌lo mIru èlA reTiMg istAru?"
+    ],
+    "options": [
+      "assalu prajAsvAmyabaddhaMgA ledu",
+      "pUrtigA prajAsvAmyabaddhamainadi"
+    ],
+    "scale": true
+  },
+  "Q252": {
+    "description": "rAjakIya vyavastha panitIru paTla saMtRRipti",
+    "questions": [
+      "1 nuMDi 10 varaku skel‌lo, I rojullo mI deshaMlo rAjakIya vyavastha èlA panichestuMdo mIru èMtavaraku saMtRRipti chèMdAru?",
+      "mI deshaMlo prastutaM jarugutunna rAjakIya vyavastha paTla mIru èMta saMtRRipti chèMdAru? dayachesi 1 (assalu saMtRRipti chèMdaledu) nuMDi 10 (pUrtigA saMtRRipti chèMdAnu) varaku reT cheyaMDi.",
+      "mòttaM mIda, mI deshaMlo rAjakIya vyavastha panitIru paTla mI saMtRRiptini 1 nuMDi 10 varaku skel‌lo èlA reTiMg istAru?",
+      "mI deshaMlo neTi rAjakIya vyavastha èlA panichestuMdane dAnito mIru èMta saMtRRipti chèMdAro dayachesi 1 (assalu saMtRRipti chèMdaledu) nuMDi 10 (pUrtigA saMtRRipti chèMdAnu) varaku skel‌lo sUchiMchaMDi."
+    ],
+    "options": [
+      "assalu saMtRRipti chèMdaledu",
+      "pUrtigA saMtRRipti chèMdAnu"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "I rojullo vyaktigata mAnava hakkula paTla gauravaM",
+    "questions": [
+      "I rojullo vyaktigata mAnava hakkula paTla gaurava sthAyini mIru èlA vivaristAru?",
+      "neTi samAjaMlo vyaktigata mAnava hakkulu èMtavaraku gauraviMchabaDutunnAyani mIru anukuMTunnAru?",
+      "mI abhiprAyaM prakAraM, I rojullo vyaktigata mAnava hakkulaku èMta gauravaM ivvabaDutoMdi?",
+      "vyaktigata mAnava hakkula viShayAniki vaste, prastutaM gaurava sthAyini mIru èlA aMchanA vestAru?"
+    ],
+    "options": [
+      "vyaktigata mAnava hakkula paTla gòppa gauravaM",
+      "chAlA gauravaM.",
+      "tèliyadu",
+      "pèddagA gauravaM ledu",
+      "assalu gauravaM ledu"
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "jAtIya garvaM",
+    "questions": [
+      "mI jAtIyata paTla mIku èMta garvaM uMdi?",
+      "1 nuMDi 4 skel‌lo, mI jAtIyata paTla mIru èMta garvaMgA unnAru?",
+      "jAtIya garvaM viShayAnikòste, mIru chAlA garvaMgA uMDaTAniki daggaragA unnArani ledA assalu garvaMgA lerani bhAvistArA?",
+      "mI jAtIya garva sthAyini mIru chAlA garvaMgA, chAlA garvaMgA ledani ledA madhyalo èkkaDo òka choTa vivaristArA?"
+    ],
+    "options": [
+      "chAlA garvaMgA uMdi",
+      "chAlA garvaMgA uMdi",
+      "pèddagA garvaMgA ledu",
+      "assalu garvaMgA ledu"
+    ],
+    "scale": false
+  }
+}

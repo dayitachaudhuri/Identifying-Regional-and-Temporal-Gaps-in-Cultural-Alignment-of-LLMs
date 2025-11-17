@@ -1,0 +1,942 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2018,Egypt,EG-ALX Alexandria,Urban,Female,16-24,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,16-24,Arabic,Single,Middle,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,25-34,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Female,25-34,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Female,25-34,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,35-44,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,35-44,Arabic,Single,Middle,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Female,35-44,Arabic,Widowed,Middle,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,45-54,Arabic,Divorced,Lower,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,45-54,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,45-54,Arabic,Separated,Higher,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,45-54,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,55-64,Arabic,Divorced,Middle,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,55-64,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,55-64,Arabic,Widowed,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Female,55-64,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Female,65 and more years,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Female,65 and more years,Arabic,Widowed,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,16-24,Arabic,Single,Higher,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,16-24,Arabic,Single,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,16-24,Arabic,Single,Middle,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,25-34,Arabic,Married,Higher,Working class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,25-34,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,25-34,Arabic,Separated,Middle,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,25-34,Arabic,Single,Higher,Working class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,25-34,Arabic,Single,Middle,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,35-44,Arabic,Married,Middle,Lower class,3
+2018,Egypt,EG-ALX Alexandria,Urban,Male,35-44,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,45-54,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,45-54,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,45-54,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,45-54,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-ALX Alexandria,Urban,Male,55-64,Arabic,Married,Higher,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,55-64,Arabic,Separated,Higher,Lower middle class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,55-64,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,65 and more years,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-ALX Alexandria,Urban,Male,65 and more years,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-ASN Aswan,Rural,Female,16-24,Arabic,Married,Higher,Upper middle class,2
+2018,Egypt,EG-ASN Aswan,Rural,Female,16-24,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,16-24,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,25-34,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Rural,Female,25-34,Arabic,Married,Lower,Lower middle class,3
+2018,Egypt,EG-ASN Aswan,Rural,Female,25-34,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-ASN Aswan,Rural,Female,25-34,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,35-44,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,35-44,Arabic,Married,Lower,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,35-44,Arabic,Married,Lower,Working class,4
+2018,Egypt,EG-ASN Aswan,Rural,Female,35-44,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-ASN Aswan,Rural,Female,35-44,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-ASN Aswan,Rural,Female,45-54,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Rural,Female,45-54,Arabic,Married,Lower,Working class,3
+2018,Egypt,EG-ASN Aswan,Rural,Female,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,45-54,Arabic,Married,Middle,Upper middle class,2
+2018,Egypt,EG-ASN Aswan,Rural,Female,45-54,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Female,55-64,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,16-24,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,16-24,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,16-24,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,16-24,Arabic,Single,Middle,Working class,2
+2018,Egypt,EG-ASN Aswan,Rural,Male,16-24,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Rural,Male,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,25-34,Arabic,Single,Middle,Lower class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,35-44,Arabic,Married,Higher,Upper middle class,3
+2018,Egypt,EG-ASN Aswan,Rural,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-ASN Aswan,Rural,Male,35-44,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,45-54,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,45-54,Arabic,Married,Lower,Lower middle class,3
+2018,Egypt,EG-ASN Aswan,Rural,Male,45-54,Arabic,Married,Lower,Working class,4
+2018,Egypt,EG-ASN Aswan,Rural,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,55-64,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Rural,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,55-64,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,55-64,Arabic,Widowed,Higher,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Rural,Male,55-64,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,16-24,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-ASN Aswan,Urban,Female,25-34,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,35-44,Arabic,Divorced,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,45-54,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,45-54,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Urban,Female,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Female,55-64,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,16-24,Arabic,Single,Lower,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Urban,Male,16-24,Arabic,Single,Lower,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,16-24,Arabic,Single,Middle,Working class,2
+2018,Egypt,EG-ASN Aswan,Urban,Male,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,25-34,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,35-44,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-ASN Aswan,Urban,Male,35-44,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,45-54,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-ASN Aswan,Urban,Male,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,16-24,Arabic,Married,Lower,Lower class,4
+2018,Egypt,EG-AST Asyut,Rural,Female,16-24,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,16-24,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-AST Asyut,Rural,Female,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,25-34,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,25-34,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-AST Asyut,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,35-44,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,35-44,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,45-54,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-AST Asyut,Rural,Female,45-54,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Rural,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Rural,Male,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Male,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-AST Asyut,Rural,Male,25-34,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-AST Asyut,Rural,Male,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-AST Asyut,Rural,Male,25-34,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Rural,Male,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Rural,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,25-34,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,35-44,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Urban,Female,65 and more years,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Urban,Male,16-24,Arabic,Single,Middle,Working class,2
+2018,Egypt,EG-AST Asyut,Urban,Male,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Urban,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-AST Asyut,Urban,Male,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-AST Asyut,Urban,Male,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,16-24,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Female,16-24,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,16-24,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,16-24,Arabic,Single,Middle,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,25-34,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,25-34,Arabic,Married,Higher,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,25-34,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Female,25-34,Arabic,Married,Middle,Lower class,3
+2018,Egypt,EG-BH Beheira,Rural,Female,35-44,Arabic,Married,Lower,Lower class,3
+2018,Egypt,EG-BH Beheira,Rural,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,35-44,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-BH Beheira,Rural,Female,35-44,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,45-54,Arabic,Married,Lower,Lower class,6
+2018,Egypt,EG-BH Beheira,Rural,Female,45-54,Arabic,Widowed,Lower,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Female,55-64,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Female,55-64,Arabic,Widowed,Lower,Lower class,5
+2018,Egypt,EG-BH Beheira,Rural,Female,65 and more years,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,65 and more years,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Female,65 and more years,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,16-24,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,16-24,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,16-24,Arabic,Single,Middle,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Male,16-24,Arabic,Single,Middle,Working class,3
+2018,Egypt,EG-BH Beheira,Rural,Male,25-34,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Male,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,25-34,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,25-34,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,45-54,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Male,45-54,Arabic,Married,Middle,Lower class,2
+2018,Egypt,EG-BH Beheira,Rural,Male,55-64,Arabic,Married,Lower,Lower class,4
+2018,Egypt,EG-BH Beheira,Rural,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BH Beheira,Rural,Male,65 and more years,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Urban,Female,16-24,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Urban,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-BH Beheira,Urban,Female,25-34,Arabic,Married,Middle,Lower class,2
+2018,Egypt,EG-BH Beheira,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-BH Beheira,Urban,Female,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-BH Beheira,Urban,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-BH Beheira,Urban,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BH Beheira,Urban,Male,25-34,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-BH Beheira,Urban,Male,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-BH Beheira,Urban,Male,35-44,Arabic,Single,Higher,Lower class,1
+2018,Egypt,EG-BH Beheira,Urban,Male,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-BH Beheira,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BH Beheira,Urban,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-BH Beheira,Urban,Male,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,16-24,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,25-34,Arabic,Divorced,Higher,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,25-34,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Female,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,16-24,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,16-24,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,16-24,Arabic,Single,Lower,Working class,2
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,16-24,Arabic,Single,Middle,Working class,2
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,25-34,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,25-34,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,45-54,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Rural,Male,45-54,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-BNS Beni Suef,Urban,Female,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-BNS Beni Suef,Urban,Female,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Urban,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-BNS Beni Suef,Urban,Female,55-64,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Urban,Male,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Urban,Male,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-BNS Beni Suef,Urban,Male,35-44,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-BNS Beni Suef,Urban,Male,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,16-24,Arabic,Divorced,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,16-24,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,16-24,Arabic,Single,Lower,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Divorced,Higher,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Divorced,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Higher,Upper middle class,3
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Middle,Lower middle class,4
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Separated,Lower,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Female,25-34,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,3
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Middle,Lower middle class,5
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Separated,Middle,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Separated,Middle,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Female,35-44,Arabic,Widowed,Higher,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Divorced,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Divorced,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Separated,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,45-54,Arabic,Widowed,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Divorced,Middle,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Separated,Middle,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Widowed,Higher,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Female,55-64,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Single,Higher,Lower middle class,3
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Single,Lower,Lower class,2
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Single,Lower,Working class,2
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,4
+2018,Egypt,EG-C Cairo,Urban,Male,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Single,Higher,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,25-34,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Divorced,Higher,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,35-44,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Married,Higher,Working class,2
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Married,Lower,Lower middle class,3
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Separated,Middle,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,45-54,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,55-64,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Male,55-64,Arabic,Married,Higher,Upper middle class,3
+2018,Egypt,EG-C Cairo,Urban,Male,55-64,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-C Cairo,Urban,Male,55-64,Arabic,Married,Lower,Working class,3
+2018,Egypt,EG-C Cairo,Urban,Male,55-64,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-C Cairo,Urban,Male,55-64,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-C Cairo,Urban,Male,65 and more years,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,16-24,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,16-24,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,16-24,Arabic,Single,Middle,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Married,Higher,Upper middle class,2
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,4
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Married,Middle,Upper middle class,4
+2018,Egypt,EG-DK Dakahlia,Rural,Female,35-44,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,45-54,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,45-54,Arabic,Widowed,Middle,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,55-64,Arabic,Married,Lower,Upper middle class,2
+2018,Egypt,EG-DK Dakahlia,Rural,Female,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Female,55-64,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,16-24,Arabic,Single,Middle,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-DK Dakahlia,Rural,Male,25-34,Arabic,Married,Middle,Upper middle class,2
+2018,Egypt,EG-DK Dakahlia,Rural,Male,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,25-34,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,45-54,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-DK Dakahlia,Rural,Male,45-54,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,45-54,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,45-54,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-DK Dakahlia,Rural,Male,45-54,Arabic,Married,Middle,Upper middle class,2
+2018,Egypt,EG-DK Dakahlia,Rural,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,55-64,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,65 and more years,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,65 and more years,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-DK Dakahlia,Rural,Male,65 and more years,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,16-24,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,25-34,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,35-44,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,45-54,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,65 and more years,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,65 and more years,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Female,65 and more years,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,16-24,Arabic,Single,Middle,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,25-34,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,35-44,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,65 and more years,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DK Dakahlia,Urban,Male,65 and more years,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Rural,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Rural,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Rural,Female,45-54,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-DT Damietta,Rural,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Rural,Male,25-34,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Rural,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-DT Damietta,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Urban,Female,25-34,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-DT Damietta,Urban,Female,35-44,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-DT Damietta,Urban,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Urban,Female,65 and more years,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Urban,Male,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-DT Damietta,Urban,Male,45-54,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-FYM Faiyum,Rural,Female,16-24,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,16-24,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,25-34,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-FYM Faiyum,Rural,Female,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-FYM Faiyum,Rural,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,45-54,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Female,55-64,Arabic,Widowed,Lower,Lower middle class,3
+2018,Egypt,EG-FYM Faiyum,Rural,Male,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Male,25-34,Arabic,Married,Higher,Working class,3
+2018,Egypt,EG-FYM Faiyum,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-FYM Faiyum,Rural,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Male,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Male,45-54,Arabic,Married,Lower,Lower middle class,4
+2018,Egypt,EG-FYM Faiyum,Rural,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Male,55-64,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-FYM Faiyum,Rural,Male,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Female,45-54,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Male,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Male,25-34,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Male,55-64,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-FYM Faiyum,Urban,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,25-34,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,25-34,Arabic,Widowed,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,35-44,Arabic,Married,Higher,Upper middle class,3
+2018,Egypt,EG-GH Gharbia,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,35-44,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,45-54,Arabic,Widowed,Middle,Lower class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Female,55-64,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-GH Gharbia,Rural,Male,25-34,Arabic,Married,Middle,Upper middle class,2
+2018,Egypt,EG-GH Gharbia,Rural,Male,25-34,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,25-34,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,35-44,Arabic,Married,Lower,Lower middle class,3
+2018,Egypt,EG-GH Gharbia,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-GH Gharbia,Rural,Male,35-44,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,45-54,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,45-54,Arabic,Married,Lower,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,55-64,Arabic,Married,Lower,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,65 and more years,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,65 and more years,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Rural,Male,65 and more years,Arabic,Married,Lower,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,16-24,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,16-24,Arabic,Single,Lower,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,35-44,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,35-44,Arabic,Separated,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,45-54,Arabic,Divorced,Lower,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,45-54,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Female,45-54,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-GH Gharbia,Urban,Female,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,25-34,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,25-34,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,25-34,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,35-44,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,35-44,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,35-44,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,45-54,Arabic,Divorced,Higher,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,45-54,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-GH Gharbia,Urban,Male,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GH Gharbia,Urban,Male,45-54,Arabic,Widowed,Lower,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,16-24,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,16-24,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,16-24,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,25-34,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-GZ Giza,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,25-34,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-GZ Giza,Rural,Female,35-44,Arabic,Married,Lower,Working class,3
+2018,Egypt,EG-GZ Giza,Rural,Female,35-44,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,45-54,Arabic,Separated,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,45-54,Arabic,Separated,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,45-54,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,55-64,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Female,55-64,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,3
+2018,Egypt,EG-GZ Giza,Rural,Male,16-24,Arabic,Single,Middle,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-GZ Giza,Rural,Male,25-34,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,25-34,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,25-34,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,35-44,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-GZ Giza,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,35-44,Arabic,Married,Middle,Working class,3
+2018,Egypt,EG-GZ Giza,Rural,Male,45-54,Arabic,Divorced,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,45-54,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Rural,Male,55-64,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,16-24,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,16-24,Arabic,Single,Higher,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,2
+2018,Egypt,EG-GZ Giza,Urban,Female,16-24,Arabic,Single,Middle,Working class,3
+2018,Egypt,EG-GZ Giza,Urban,Female,25-34,Arabic,Divorced,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,25-34,Arabic,Divorced,Middle,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,25-34,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-GZ Giza,Urban,Female,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,25-34,Arabic,Single,Higher,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,35-44,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,35-44,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-GZ Giza,Urban,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,45-54,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,45-54,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Widowed,Higher,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Widowed,Lower,Lower class,2
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Widowed,Lower,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,55-64,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Female,65 and more years,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,16-24,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,2
+2018,Egypt,EG-GZ Giza,Urban,Male,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-GZ Giza,Urban,Male,25-34,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,25-34,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,35-44,Arabic,Married,Lower,Working class,3
+2018,Egypt,EG-GZ Giza,Urban,Male,35-44,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-GZ Giza,Urban,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,35-44,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,55-64,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,55-64,Arabic,Separated,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,65 and more years,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,65 and more years,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,65 and more years,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-GZ Giza,Urban,Male,65 and more years,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Rural,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Rural,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Rural,Female,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-IS Ismailia,Rural,Female,65 and more years,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Rural,Male,35-44,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-IS Ismailia,Rural,Male,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Rural,Male,65 and more years,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Female,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Female,25-34,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Female,45-54,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Male,16-24,Arabic,Single,Higher,Upper middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Male,55-64,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-IS Ismailia,Urban,Male,55-64,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,16-24,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,25-34,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,35-44,Arabic,Married,Higher,Working class,2
+2018,Egypt,EG-KB Qalyubia,Rural,Female,35-44,Arabic,Married,Lower,Working class,3
+2018,Egypt,EG-KB Qalyubia,Rural,Female,35-44,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-KB Qalyubia,Rural,Female,45-54,Arabic,Divorced,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,45-54,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-KB Qalyubia,Rural,Female,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,45-54,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Female,65 and more years,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,2
+2018,Egypt,EG-KB Qalyubia,Rural,Male,25-34,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-KB Qalyubia,Rural,Male,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,25-34,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,35-44,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-KB Qalyubia,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-KB Qalyubia,Rural,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,45-54,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Rural,Male,65 and more years,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,35-44,Arabic,Divorced,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,35-44,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-KB Qalyubia,Urban,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,35-44,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,35-44,Arabic,Widowed,Higher,Upper middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,35-44,Arabic,Widowed,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,45-54,Arabic,Divorced,Lower,Lower class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,45-54,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Female,45-54,Arabic,Widowed,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-KB Qalyubia,Urban,Male,35-44,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,35-44,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-KB Qalyubia,Urban,Male,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,55-64,Arabic,Separated,Middle,Lower class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,65 and more years,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KB Qalyubia,Urban,Male,65 and more years,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,16-24,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,35-44,Arabic,Married,Higher,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,35-44,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,35-44,Arabic,Married,Lower,Upper middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,16-24,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,25-34,Arabic,Married,Higher,Lower class,2
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,35-44,Arabic,Married,Higher,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,35-44,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,35-44,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,45-54,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,45-54,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,45-54,Arabic,Married,Middle,Lower class,2
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,55-64,Arabic,Married,Lower,Lower class,3
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,55-64,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Rural,Male,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Female,25-34,Arabic,Divorced,Higher,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Female,55-64,Arabic,Widowed,Middle,Lower class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KFS Kafr el-Sheikh,Urban,Male,45-54,Arabic,Separated,Higher,Lower middle class,1
+2018,Egypt,EG-KN Qena,Rural,Female,16-24,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-KN Qena,Rural,Female,16-24,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KN Qena,Rural,Female,16-24,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KN Qena,Rural,Female,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-KN Qena,Rural,Female,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KN Qena,Rural,Female,25-34,Arabic,Married,Lower,Lower middle class,2
+2018,Egypt,EG-KN Qena,Rural,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KN Qena,Rural,Female,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-KN Qena,Rural,Female,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KN Qena,Rural,Female,35-44,Arabic,Married,Lower,Working class,2
+2018,Egypt,EG-KN Qena,Rural,Female,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-KN Qena,Rural,Female,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KN Qena,Rural,Female,45-54,Arabic,Married,Lower,Working class,4
+2018,Egypt,EG-KN Qena,Rural,Male,16-24,Arabic,Single,Middle,Lower class,2
+2018,Egypt,EG-KN Qena,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-KN Qena,Rural,Male,25-34,Arabic,Married,Middle,Working class,3
+2018,Egypt,EG-KN Qena,Rural,Male,25-34,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-KN Qena,Rural,Male,25-34,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-KN Qena,Rural,Male,35-44,Arabic,Divorced,Middle,Working class,1
+2018,Egypt,EG-KN Qena,Rural,Male,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-KN Qena,Rural,Male,45-54,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-KN Qena,Rural,Male,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KN Qena,Rural,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KN Qena,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,2
+2018,Egypt,EG-KN Qena,Urban,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-KN Qena,Urban,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-KN Qena,Urban,Male,25-34,Arabic,Single,Middle,Working class,2
+2018,Egypt,EG-KN Qena,Urban,Male,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-KN Qena,Urban,Male,35-44,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-LX Luxor,Rural,Female,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-LX Luxor,Rural,Female,25-34,Arabic,Married,Lower,Upper middle class,1
+2018,Egypt,EG-LX Luxor,Rural,Female,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-LX Luxor,Rural,Female,35-44,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-LX Luxor,Rural,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-LX Luxor,Rural,Male,35-44,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-LX Luxor,Rural,Male,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-LX Luxor,Urban,Female,25-34,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-LX Luxor,Urban,Female,25-34,Arabic,Widowed,Middle,Lower class,1
+2018,Egypt,EG-LX Luxor,Urban,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-LX Luxor,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-LX Luxor,Urban,Male,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-LX Luxor,Urban,Male,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-LX Luxor,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-LX Luxor,Urban,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,16-24,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Female,16-24,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,16-24,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Female,25-34,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-MN Minya,Rural,Female,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,35-44,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,35-44,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-MN Minya,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,35-44,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-MN Minya,Rural,Female,35-44,Arabic,Widowed,Lower,Working class,2
+2018,Egypt,EG-MN Minya,Rural,Female,35-44,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Female,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Female,45-54,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Female,55-64,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-MN Minya,Rural,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Male,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,3
+2018,Egypt,EG-MN Minya,Rural,Male,16-24,Arabic,Single,Middle,Working class,2
+2018,Egypt,EG-MN Minya,Rural,Male,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MN Minya,Rural,Male,25-34,Arabic,Married,Middle,Lower class,2
+2018,Egypt,EG-MN Minya,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Male,25-34,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Male,25-34,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Male,25-34,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Rural,Male,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MN Minya,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,3
+2018,Egypt,EG-MN Minya,Rural,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Male,55-64,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-MN Minya,Rural,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Rural,Male,65 and more years,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MN Minya,Urban,Female,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-MN Minya,Urban,Female,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Urban,Female,35-44,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Urban,Female,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MN Minya,Urban,Female,55-64,Arabic,Married,Middle,Upper middle class,1
+2018,Egypt,EG-MN Minya,Urban,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-MN Minya,Urban,Male,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-MN Minya,Urban,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Urban,Male,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MN Minya,Urban,Male,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MN Minya,Urban,Male,35-44,Arabic,Divorced,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-MN Minya,Urban,Male,35-44,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-MN Minya,Urban,Male,55-64,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-MN Minya,Urban,Male,55-64,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-MN Minya,Urban,Male,65 and more years,Arabic,Divorced,Higher,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,16-24,Arabic,Single,Higher,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,16-24,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,16-24,Arabic,Single,Middle,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,25-34,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,25-34,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,25-34,Arabic,Married,Middle,Lower class,2
+2018,Egypt,EG-MNF Monufia,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,35-44,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,35-44,Arabic,Married,Middle,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,35-44,Arabic,Single,Middle,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,45-54,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,45-54,Arabic,Widowed,Middle,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,16-24,Arabic,Single,Higher,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,16-24,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,25-34,Arabic,Married,Higher,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,25-34,Arabic,Single,Higher,Working class,2
+2018,Egypt,EG-MNF Monufia,Rural,Male,25-34,Arabic,Single,Lower,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,35-44,Arabic,Married,Higher,Working class,2
+2018,Egypt,EG-MNF Monufia,Rural,Male,35-44,Arabic,Married,Middle,Lower class,4
+2018,Egypt,EG-MNF Monufia,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,35-44,Arabic,Separated,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,45-54,Arabic,Married,Higher,Lower middle class,2
+2018,Egypt,EG-MNF Monufia,Rural,Male,45-54,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-MNF Monufia,Rural,Male,55-64,Arabic,Married,Lower,Lower class,3
+2018,Egypt,EG-MNF Monufia,Rural,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-MNF Monufia,Rural,Male,55-64,Arabic,Single,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Urban,Female,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Urban,Female,35-44,Arabic,Widowed,Middle,Working class,1
+2018,Egypt,EG-MNF Monufia,Urban,Male,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Urban,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Urban,Male,35-44,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-MNF Monufia,Urban,Male,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-MNF Monufia,Urban,Male,55-64,Arabic,Married,Higher,Lower class,1
+2018,Egypt,EG-MNF Monufia,Urban,Male,55-64,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-PTS Port Said,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-PTS Port Said,Urban,Female,25-34,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-PTS Port Said,Urban,Female,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-PTS Port Said,Urban,Female,55-64,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-PTS Port Said,Urban,Male,25-34,Arabic,Divorced,Middle,Lower middle class,1
+2018,Egypt,EG-PTS Port Said,Urban,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-PTS Port Said,Urban,Male,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-PTS Port Said,Urban,Male,45-54,Arabic,Widowed,Higher,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,16-24,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,16-24,Arabic,Single,Middle,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,25-34,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,45-54,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-SHG Sohag,Rural,Female,45-54,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,45-54,Arabic,Widowed,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,55-64,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Female,65 and more years,Arabic,Widowed,Lower,Lower class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,16-24,Arabic,Single,Middle,Lower class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,25-34,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,25-34,Arabic,Married,Middle,Lower class,2
+2018,Egypt,EG-SHG Sohag,Rural,Male,25-34,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,25-34,Arabic,Married,Middle,Working class,2
+2018,Egypt,EG-SHG Sohag,Rural,Male,25-34,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,35-44,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,35-44,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,35-44,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,45-54,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,45-54,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,45-54,Arabic,Married,Lower,Working class,6
+2018,Egypt,EG-SHG Sohag,Rural,Male,45-54,Arabic,Married,Middle,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,45-54,Arabic,Married,Middle,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,55-64,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,55-64,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,55-64,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,55-64,Arabic,Married,Lower,Lower class,2
+2018,Egypt,EG-SHG Sohag,Rural,Male,55-64,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-SHG Sohag,Rural,Male,55-64,Arabic,Married,Middle,Lower middle class,2
+2018,Egypt,EG-SHG Sohag,Rural,Male,65 and more years,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-SHG Sohag,Urban,Female,25-34,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-SHG Sohag,Urban,Female,25-34,Arabic,Married,Higher,Working class,1
+2018,Egypt,EG-SHG Sohag,Urban,Female,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-SHG Sohag,Urban,Female,45-54,Arabic,Widowed,Higher,Working class,1
+2018,Egypt,EG-SHG Sohag,Urban,Male,35-44,Arabic,Married,Higher,Lower class,1
+2018,Egypt,EG-SHG Sohag,Urban,Male,45-54,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-SHG Sohag,Urban,Male,45-54,Arabic,Married,Lower,Working class,1
+2018,Egypt,EG-SHG Sohag,Urban,Male,55-64,Arabic,Married,Higher,Upper middle class,1
+2018,Egypt,EG-WAD New Valley,Urban,Female,16-24,Arabic,Single,Middle,Lower middle class,1
+2018,Egypt,EG-WAD New Valley,Urban,Female,35-44,Arabic,Divorced,Middle,Working class,1
+2018,Egypt,EG-WAD New Valley,Urban,Female,55-64,Arabic,Married,Lower,Lower class,1
+2018,Egypt,EG-WAD New Valley,Urban,Female,55-64,Arabic,Widowed,Lower,Lower middle class,1
+2018,Egypt,EG-WAD New Valley,Urban,Male,16-24,Arabic,Single,Lower,Lower middle class,1
+2018,Egypt,EG-WAD New Valley,Urban,Male,25-34,Arabic,Married,Lower,Lower middle class,1
+2018,Egypt,EG-WAD New Valley,Urban,Male,35-44,Arabic,Married,Higher,Lower middle class,1
+2018,Egypt,EG-WAD New Valley,Urban,Male,35-44,Arabic,Married,Middle,Working class,1

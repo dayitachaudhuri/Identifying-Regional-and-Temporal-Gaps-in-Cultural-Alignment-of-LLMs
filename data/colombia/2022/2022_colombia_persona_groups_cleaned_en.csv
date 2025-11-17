@@ -1,0 +1,21 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2018,Colombia,CO-ANT Antioquia,Rural,Female,45-54,Spanish; Castilian,Living together as married,Lower,Lower middle class,4
+2018,Colombia,CO-ANT Antioquia,Rural,Male,45-54,Spanish; Castilian,Living together as married,Lower,Lower class,5
+2018,Colombia,CO-ANT Antioquia,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,5
+2018,Colombia,CO-ANT Antioquia,Urban,Male,55-64,Spanish; Castilian,Married,Lower,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Higher,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Lower,Lower middle class,6
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,5
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Higher,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Lower,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Living together as married,Middle,Lower middle class,5
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Higher,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Female,25-34,Spanish; Castilian,Single,Middle,Lower middle class,4
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Higher,Lower middle class,7
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,12
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,5
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,25-34,Spanish; Castilian,Single,Higher,Lower middle class,6
+2018,Colombia,CO-DC Distrito Capital de Bogotá,Urban,Male,35-44,Spanish; Castilian,Living together as married,Higher,Lower middle class,5
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Female,16-24,Spanish; Castilian,Single,Middle,Lower middle class,7
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Lower middle class,5
+2018,Colombia,CO-VAC Valle del Cauca,Urban,Male,16-24,Spanish; Castilian,Single,Middle,Working class,4

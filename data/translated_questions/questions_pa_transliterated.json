@@ -1,0 +1,2395 @@
+{
+  "Q1": {
+    "description": "ja਼iMdagI vichcha mahattavapUrana: parivAra",
+    "questions": [
+      "tusIM ApaNI ja਼iMdagI vichcha parivAra dI mahattatA nUM kiveM darajA dioge?",
+      "tusIM ApaNI ja਼iMdagI vichcha parivAra nUM kiMnA mahattavapUrana samajhade ho?",
+      "kI tusIM kahoge ki parivAra tuhADI ja਼iMdagI vichcha bahuta mahattava rakkhadA hai?",
+      "kI tusIM ApaNe jIvana vichcha parivAra nUM mahattavapUrana samajhade ho?"
+    ],
+    "options": [
+      "bahuta mahattavapUrana",
+      "kApha਼I mahattavapUrana",
+      "bahuta mahattavapUrana nahIM",
+      "bilakula vI mahattavapUrana nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q2": {
+    "description": "ja਼iMdagI vichcha mahattavapUrana: dosata",
+    "questions": [
+      "ja਼iMdagI vichcha dosata kiMne mahattavapUrana hana?",
+      "tuhADe khiAla vichcha, ja਼iMdagI vichcha dosata kiMne mahattavapUrana hana?",
+      "tusIM ja਼iMdagI vichcha dosatAM nUM kiMnA ku mahattavapUrana samajhade ho?",
+      "kI tusIM maMnade ho ki dosatAM dI ja਼iMdagI vichcha bahuta mahattatA huMdI hai?"
+    ],
+    "options": [
+      "bahuta mahattavapUrana",
+      "kApha਼I mahattavapUrana",
+      "bahuta mahattavapUrana nahIM",
+      "bilakula vI mahattavapUrana nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q3": {
+    "description": "ja਼iMdagI vichcha mahattavapUrana: vihalA samAM",
+    "questions": [
+      "tuhADI ja਼iMdagI vichcha vihale sameM dI kiMnI mahattatA hai?",
+      "tuhADe laI vihalA samAM kiMnA mahattavapUrana hai?",
+      "kI tusIM ApaNI ja਼iMdagI vichcha vihale sameM nUM mahattavapUrana samajhoge?",
+      "mahattava de paimAne 'te, tusIM ApaNI ja਼iMdagI vichcha vihale sameM nUM kitthe rakkhoge?"
+    ],
+    "options": [
+      "bahuta mahattavapUrana",
+      "kApha਼I mahattavapUrana",
+      "bahuta mahattavapUrana nahIM",
+      "bilakula vI mahattavapUrana nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q4": {
+    "description": "ja਼iMdagI vichcha mahattavapUrana: rAjanItI",
+    "questions": [
+      "tusIM ja਼iMdagI vichcha rAjanItI dI mahattatA nUM kiveM darajA dioge?",
+      "tusIM ja਼iMdagI vichcha rAjanItI nUM kiMnA mahattavapUrana maMnade ho?",
+      "tuhADe vichAra vichcha, ja਼iMdagI vichcha rAjanItI kiMnI mahattavapUrana hai?",
+      "tusIM ja਼iMdagI vichcha rAjanItI nUM kiMnA ku mahattavapUrana samajhade ho?"
+    ],
+    "options": [
+      "bahuta mahattavapUrana",
+      "kApha਼I mahattavapUrana",
+      "bahuta mahattavapUrana nahIM",
+      "bilakula vI mahattavapUrana nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q5": {
+    "description": "ja਼iMdagI vichcha mahattavapUrana: kaMma",
+    "questions": [
+      "tuhADI ja਼iMdagI vichcha kaMma kiMnA mahattavapUrana hai?",
+      "kI tusIM kahoge ki kaMma tuhADI ja਼iMdagI vichcha mahattavapUrana hai?",
+      "tusIM ja਼iMdagI vichcha kaMma nUM kiMnA ku mahattavapUrana samajhade ho?",
+      "kI tusIM kaMma nUM ja਼iMdagI dA ikka mahattavapUrana pahilU samajhade ho?"
+    ],
+    "options": [
+      "bahuta mahattavapUrana",
+      "kApha਼I mahattavapUrana",
+      "bahuta mahattavapUrana nahIM",
+      "bilakula vI mahattavapUrana nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q6": {
+    "description": "ja਼iMdagI vichcha mahattavapUrana: dharama",
+    "questions": [
+      "tuhADe jIvana vichcha dharama kiMnA mahattavapUrana hai?",
+      "tusIM ApaNI ja਼iMdagI vichcha dharama nUM kiMnA ku mahattavapUrana samajhade ho?",
+      "kI tusIM kahoge ki dharama tuhADI ja਼iMdagI vichcha mahattavapUrana hai?",
+      "tusIM ApaNI ja਼iMdagI vichcha dharama nUM kiMnA mahattava diMde ho?"
+    ],
+    "options": [
+      "bahuta mahattavapUrana",
+      "kApha਼I mahattavapUrana",
+      "bahuta mahattavapUrana nahIM",
+      "bilakula vI mahattavapUrana nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q7": {
+    "description": "bachche de mahattavapUrana guNa: chaMge AcharaNa",
+    "questions": [
+      "bachchiAM vichcha chaMge salIke dI mahattatA bAre tuhADA kI vichAra hai?",
+      "kI bachchiAM laI chaMge salIke ikka mahattavapUrana guNa hana?",
+      "kI tusIM maMnade ho ki bachchiAM vichcha chaMge salIke 'te ja਼ora dittA jANA chAhIdA hai?",
+      "kI tusIM bachchiAM vichcha chaMge salIke nUM ikka mahattavapUrana guNa samajhoge?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q8": {
+    "description": "bachche de mahattavapUrana guNa: Aja਼AdI",
+    "questions": [
+      "bachche vichcha Aja਼AdI kiMnI mahattavapUrana hai?",
+      "kI bachche vichcha Aja਼AdI nUM ikka mahattavapUrana guNa vajoM darasAiA giA hai?",
+      "kI tuhAnUM laggadA hai ki bachche vichcha Aja਼AdI ikka mahattavapUrana guNa hai?",
+      "kI tuhAnUM patA hai ki bachche vichcha Aja਼AdI nUM ikka mahattavapUrana guNa maMniA jAMdA hai?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q9": {
+    "description": "bachche de mahattavapUrana guNa: sakha਼ta mihanata",
+    "questions": [
+      "kI tusIM ikka bachche vichcha sakha਼ta mihanata nUM ikka mahattavapUrana guNa maMnade ho?",
+      "kI sakha਼ta mihanata ikka ajihA guNa hai jo tuhAnUM laggadA hai ki bachche laI mahattavapUrana hai?",
+      "kI tusIM maMnade ho ki sakha਼ta mihanata bachche laI ikka mahattavapUrana guNa hai?",
+      "tuhADe vichAra vichcha, kI sakha਼ta mihanata bachchiAM dA ikka mahattavapUrana guNa hai?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q10": {
+    "description": "bachche de mahattavapUrana guNa: ja਼iMmevArI dI bhAvanA",
+    "questions": [
+      "kI tusIM ja਼iMmevArI dI bhAvanA nUM bachche dA ikka mahattavapUrana guNa maMnade ho?",
+      "kI ja਼iMmevArI dI bhAvanA nUM bachche de ikka mahattavapUrana guNa vajoM darasAiA giA hai?",
+      "kI tusIM ja਼iMmevArI dI bhAvanA nUM bachche de ikka mahattavapUrana guNa vajoM jANade ho?",
+      "kI tuhAnUM patA hai ki bachchiAM laI ja਼iMmevArI dI bhAvanA mahattavapUrana maMnI jAMdI hai?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q11": {
+    "description": "bachchiAM de mahattavapUrana guNa: kalapanA",
+    "questions": [
+      "bachche vichcha kalapanA dI mahattatA bAre tuhADA kI vichAra hai?",
+      "kI kalapanA ikka bachche laI ikka mahattavapUrana guNa hai?",
+      "kI tusIM maMnade ho ki kalapanA ikka bachche laI ikka mahattavapUrana guNa hai?",
+      "kI tuhADA maMnaNA hai ki kalapanA bachche de vikAsa vichcha ikka mahattavapUrana bhUmikA nibhAuMdI hai?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q12": {
+    "description": "bachche de mahattavapUrana guNa: sahiNasa਼IlatA ate dUje lokAM pratI satikAra",
+    "questions": [
+      "kI tuhAnUM laggadA hai ki bachchiAM laI dUje lokAM pratI sahiNasa਼IlatA ate satikAra rakkhaNA mahattavapUrana hai?",
+      "kI tusIM maMnade ho ki bachchiAM laI sahiNasa਼IlatA ate dUje lokAM pratI satikAra ja਼rUrI guNa hana?",
+      "kI bachchiAM vichcha sahiNasa਼IlatA ate dUje lokAM pratI satikAra mahattavapUrana guNa hoNe chAhIde hana?",
+      "kI tusIM bachchiAM de mAmale vichcha dUje lokAM pratI sahiNasa਼IlatA ate satikAra nUM mahattavapUrana samajhade ho?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q13": {
+    "description": "bachchiAM de mahattavapUrana guNa: kipha਼AitI, paise ate chIja਼AM dI bachata",
+    "questions": [
+      "tusIM ikka bachche vichcha bachchata ate paise ate chIja਼AM dI bachata nUM kiMnA mahattavapUrana samajhade ho?",
+      "kI tuhAnUM laggadA hai ki bachchata ate paise ate chIja਼AM bachAuNA ikka bachche vichcha mahattavapUrana guNa hana?",
+      "kI bachata, paise dI bachata ate uha guNa jo tusIM sochade ho, ikka bachche laI mahattavapUrana hana?",
+      "kI tusIM kahoge ki bachapana vichcha kipha਼AitI ate paise ate chIja਼AM bachAuNA mahattavapUrana guNa hana?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q14": {
+    "description": "bachchiAM de mahattavapUrana guNa: dri.DatA, lagana, dri.DatA",
+    "questions": [
+      "ikka bachche vichcha dri.DatA ate lagana kiMnI mahattavapUrana hai?",
+      "kI bachche vichcha dri.DatA ate lagana de guNAM dA ja਼ikara kItA jANA chAhIdA hai?",
+      "kI tusIM maMnade ho ki dri.DatA ate lagana ikka bachche vichcha mahattavapUrana guNa hana?",
+      "kI tusIM kahoge ki dri.DatA ate lagana ajihe guNa hana jo bachche vichcha nahIM jANe jAMde?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q15": {
+    "description": "bachche de mahattavapUrana guNa: dhAramika visa਼vAsa",
+    "questions": [
+      "ikka bachche vichcha dhAramika visa਼vAsa kiMnA mahattavapUrana hai?",
+      "kI dhAramika visa਼vAsa ikka bachche laI ikka mahattavapUrana guNa hai?",
+      "kI dhAramika visa਼vAsa bachche de vikAsa vichcha mahattavapUrana bhUmikA nibhAuMdA hai?",
+      "kI tusIM bachchiAM vichcha dhAramika visa਼vAsa nUM ikka mahattavapUrana guNa maMnade ho?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q16": {
+    "description": "bachchiAM de mahattavapUrana guNa: nirasuArathatA",
+    "questions": [
+      "bachche vichcha nirasuArathatA dI mahattatA bAre tuhADA kI vichAra hai?",
+      "tuhADe vichAra vichcha, kI ikka bachche vichcha nirasuAratha hoNA ikka mahattavapUrana guNa hai?",
+      "kI bachchiAM vichcha nirasuArathatA dI kadara kItI jANI chAhIdI hai?",
+      "bachchiAM de guNAM 'te vichAra karade sameM, kI tuhAnUM laggadA hai ki nirasuArathatA mahattavapUrana hai?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q17": {
+    "description": "bachchiAM de mahattavapUrana guNa: AgiAkArI",
+    "questions": [
+      "bachche vichcha AgiAkArI dI mahattatA bAre tuhADA kI vichAra hai?",
+      "kI tusIM maMnade ho ki AgiAkArI bachche vichcha ikka mahattavapUrana guNa hai?",
+      "kI bachchiAM vichcha AgiAkArI ikka ajihA guNa hai jisa utte ja਼ora dittA jANA chAhIdA hai?",
+      "tuhADe drisa਼TIkoNa vichcha, bachche de vikAsa de mAmale vichcha AgiAkArI kiMnI ku mahattavapUrana hai?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q18": {
+    "description": "guAMDhI: nasa਼e.DI",
+    "questions": [
+      "tuhADe guAMDhIAM de nasa਼e.DI hoNa bAre tuhADA kI vichAra hai?",
+      "tusIM iha kiMnA ku mahattavapUrana samajhade ho ki tuhADe guAMDhI nasa਼e.DI hana?",
+      "kI tuhADe guAMDhIAM de nasa਼e.DI hoNa dA ja਼ikara tuhADe laI chiMtA dA visa਼A hai?",
+      "kI tuhAnUM patA hai ki tuhADe guAMDhI nasa਼e.DI hana?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q19": {
+    "description": "guAMDhI: ikka vakkharI nasala de loka",
+    "questions": [
+      "kI tuhAnUM laggadA hai ki guAMDhIAM dA vakkharI nasala de hoNA ja਼rUrI hai?",
+      "kI tuhADe AMDha-guAMDha vichcha unhAM guAMDhIAM dI maujUdagI dA ja਼ikara nahIM kItA giA hai jo ikka vakkharI nasala de loka hana?",
+      "kI tuhAnUM yakIna nahIM hai ki tuhADe guAMDhI kise vakkharI nasala de hana?",
+      "kI tuhADe guAMDhI kise vakkharI nasala de hana para tuhAnUM patA nahIM?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q20": {
+    "description": "guAMDhI: eDaja਼ vAle loka",
+    "questions": [
+      "tuhADe kha਼iAla vichcha eDaja਼ vAle guAMDhIAM laI sahAitA sevAvAM dA hoNA kiMnA ku mahattavapUrana hai?",
+      "tusIM kisa hadda takka maMnade ho ki eDaja਼ toM pI.Data guAMDhIAM de visa਼e 'te bhAIchAre vichcha khullha ke charachA kItI jANI chAhIdI hai?",
+      "kI tusIM eDaja਼ vAle guAMDhIAM laI upalabadha sarotAM ate sahAitA bAre jANU ho?",
+      "tusIM eDaja਼ vAle guAMDhIAM duArA darapesa਼ khAsa chuNautIAM ate ja਼rUratAM toM kiMne jANU ho?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q21": {
+    "description": "guAMDhI: pravAsI/videsa਼I kAme",
+    "questions": [
+      "tuhADe kha਼iAla vichcha pravAsI/videsa਼I kAme guAMDhIAM dA hoNA kiMnA ku mahattavapUrana hai?",
+      "tuhADI rAe vichcha, kI iha dassiA giA hai ki kI tuhADe guAMDhI pravAsI/videsa਼I kAme hana?",
+      "kI tuhAnUM patA hai ki tuhADe guAMDhI pravAsI/videsa਼I kAme hana?",
+      "kI tuhADe guAMDhIAM de pravAsI/videsa਼I kAme de daraje bAre tuhAnUM nahIM dassiA giA?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q22": {
+    "description": "guAMDhI: samaliMgI",
+    "questions": [
+      "samaliMgI guAMDhIAM bAre tuhADI kI rAe hai?",
+      "samaliMgI guAMDhI hoNa bAre tuhAnUM kiveM laggegA?",
+      "kI tuhAnUM laggadA hai ki ApaNe guAMDhIAM de jinasI jhukAa dA ja਼ikara karanA mahattavapUrana hai?",
+      "kI tusIM ApaNe guAMDhIAM de jinasI rujhAna nUM jANade ho?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q23": {
+    "description": "guAMDhI: vakkhare dharama de loka",
+    "questions": [
+      "tuhADe guAMDhIAM de vakkhare dharama nUM maMnaNa bAre kI vichAra hai?",
+      "tuhADe vichAra vichcha, kI tuhADe guAMDhIAM dA dhAramika saMbaMdha mahattavapUrana bhUmikA nibhAuMdA hai?",
+      "kI tuhAnUM laggadA hai ki guAMDhIAM laI ApaNe dhAramika visa਼vAsAM dA khulAsA karanA mahattavapUrana hai?",
+      "kI tusIM ApaNe guAMDhIAM de dhAramika piChoka.Da toM jANU ho?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q24": {
+    "description": "guAMDhI: ja਼iAdA sa਼rAba pINa vAle",
+    "questions": [
+      "kI tuhADe guAMDhI ja਼iAdA sa਼rAba pIMde hana?",
+      "kI tusIM ApaNe guAMDhIAM nUM bahuta ja਼iAdA sa਼rAba pINa vAle samajhade ho?",
+      "kI tusIM kahoge ki tuhADe guAMDhI bahuta ja਼iAdA sa਼rAba pIMde hana?",
+      "kI tuhADe laI guAMDhIAM dIAM ja਼iAdA sa਼rAba pINa dIAM AdatAM mahattavapUrana hana?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q26": {
+    "description": "guAMDhI: uha loka jo vakkharI bhAsa਼A bolade hana",
+    "questions": [
+      "tuhADe laI iha kiMnA ku mahattavapUrana hai ki guAMDhI ikka vakkharI bhAsa਼A bolade hana?",
+      "kI tuhAnUM dassiA giA hai ki guAMDhIAM nUM vakkharI bhAsa਼A bolaNI chAhIdI hai?",
+      "kI tuhAnUM patA hai ki kI guAMDhIAM dA vakkharI bhAsa਼A bolaNA mahattavapUrana hai?",
+      "kI tuhAnUM patA hai ki jekara koI vakkharI bhAsa਼A bolaNa vAle guAMDhIAM dA ja਼ikara kItA jAMdA hai?"
+    ],
+    "options": [
+      "mahattavapUrana",
+      "ja਼ikara nahIM kItA giA",
+      "patA nahIM"
+    ]
+  },
+  "Q27": {
+    "description": "ja਼iMdagI de mukkha TIchiAM vichchoM ikka mere mApiAM nUM mANa divAuNA rihA hai|",
+    "questions": [
+      "mere mApiAM nUM mANa divAuNA ja਼iMdagI de mukkha TIchiAM vichchoM kisa hadda takka ikka hai?",
+      "maiM ja਼iMdagI vichcha ApaNe mApiAM nUM mANa divAuNa laI kiMnI kosa਼isa਼ karadA hAM?",
+      "maiM ja਼iMdagI vichcha ApaNe mApiAM nUM kisa hadda takka mANa divAuNa dA TIchA rakkhAM?",
+      "kI maiM ApaNe mApiAM nUM mANa divAuNA ApaNe jIvana de mukkha TIchiAM vichchoM ikka samajhadA hAM?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q28": {
+    "description": "kaMmakAjI mAM nAla prI-sakUla bachchA dukhI hai",
+    "questions": [
+      "kI tusIM maMnade ho ki ikka prI-sakUla bachche nUM udoM dukkha huMdA hai jadoM usadI mAM kaMma karadI hai?",
+      "kI tuhADA vichAra hai ki ikka kaMmakAjI mAM ApaNe prI-sakUla bachche 'te nakArAtamaka prabhAva pAuMdI hai?",
+      "kI tusIM isa galla nAla sahimata ho ki ikka prI-sakUla bachche nUM ApaNI mAM de ruja਼gAra kArana musa਼kalAM dA sAhamaNA karanA paiMdA hai?",
+      "kI tusIM iha maMnaNa laI tiAra ho ki ikka kaMmakAjI mAM dA ApaNe prI-sakUla bachche 'te mA.DA prabhAva paiMdA hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q29": {
+    "description": "marada auratAM nAloM bihatara rAjanItika netA baNade hana",
+    "questions": [
+      "kI tusIM pUrI tarhAM sahimata ho, sahimata ho, asahimata ho, pUrI tarhAM asahimata ho, jAM kI tuhAnUM nahIM patA ki marada auratAM nAloM bihatara rAjanItika netA baNade hana?",
+      "kI tusIM kahoge ki tusIM isa kathana nAla pUrI tarhAM sahimata ho, sahimata ho, asahimata ho, pUrI tarhAM asahimata ho, jAM isa galla nAla nahIM jANade ki marada auratAM nAloM bihatara rAjanItika netA baNade hana?",
+      "tuhADI rAe vichcha, kI tusIM pUrI tarhAM sahimata ho, sahimata ho, asahimata ho, pUrI tarhAM asahimata ho, jAM kI tuhAnUM nahIM patA ki marada auratAM nAloM bihatara rAjanItika netA baNade hana?",
+      "kI tuhADA naja਼rIA iha hai ki tusIM pUrI tarhAM sahimata ho, sahimata ho, asahimata ho, jAM jadoM marada auratAM nAloM bihatara rAjanItika netA baNAuMde hana tAM tuhAnUM patA nahIM huMdA?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q30": {
+    "description": "yUnIvarasiTI ikka muMDe laI ku.DI nAloM ja਼iAdA mahattavapUrana hai|",
+    "questions": [
+      "kI tusIM maMnade ho ki yUnIvarasiTI ikka ku.DI nAloM muMDe laI ja਼iAdA mahattavapUrana hai?",
+      "tuhADe vichAra vichcha, kI yUnIvarasiTI ikka muMDe laI ku.DI nAloM ja਼iAdA mahattavapUrana hai?",
+      "kI tusIM isa galla nAla sahimata ho ki yUnIvarasiTI ikka ku.DI nAloM muMDe laI ja਼iAdA mahattava rakkhadI hai?",
+      "kI tuhADA iha vichAra hai ki yUnIvarasiTI ikka ku.DI nAloM muMDe laI ja਼iAdA mahattavapUrana hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q31": {
+    "description": "auratAM nAloM marada bihatara kArobArI kArajakArI baNade hana",
+    "questions": [
+      "kI tusIM maMnade ho ki marada auratAM nAloM bihatara kArobArI kArajakArI baNade hana?",
+      "tuhADe vichAra vichcha, kI marada auratAM de mukAbale kArobArI kArajakArI vajoM vadhere uttama hana?",
+      "kI tusIM isa kathana nAla sahimata ho ki marada auratAM nAloM bihatara kArobArI kArajakArI huMde hana?",
+      "kI tuhAnUM laggadA hai ki auratAM kArobArI kArajakArIAM vajoM maradAM de mukAbale ghaTTa prabhAvasa਼AlI hana?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q32": {
+    "description": "ikka gharelU aurata hoNA vI onA hI saMtusa਼TIjanaka hai",
+    "questions": [
+      "kI gharelU aurata hoNA karIara baNAuNa jiMnA hI saMtusa਼TIjanaka hai?",
+      "kI tusIM maMnade ho ki gharelU aurata hoNA karIara jiMnA hI saMtusa਼TIjanaka hai?",
+      "tuhADe vichAra vichcha, kI ikka gharelU aurata hoNA ikka karIara hoNa de barAbara saMtusa਼TIjanaka hai?",
+      "kI tusIM isa galla nAla sahimata hovoge ki gharelU aurata hoNA karIara baNAuNa jiMnA hI saMtusa਼TIjanaka ho sakadA hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q33": {
+    "description": "naukarIAM dI ghATa: auratAM nAloM maradAM nUM naukarI 'te vadhere adhikAra hoNA chAhIdA hai",
+    "questions": [
+      "kI tusIM isa galla nAla pUrI tarhAM sahimata ho jAM pUrI tarhAM asahimata? naukarIAM maradAM ate auratAM dovAM laI ghaTTa hoNIAM chAhIdIAM hana?",
+      "kI tusIM isa galla nAla sahimata ho jAM asahimata ki auratAM nAloM maradAM nUM naukarI dA vadhere hakka hoNA chAhIdA hai?",
+      "tuhADe vichAra vichcha, kI tusIM nA tAM sahimata ho ate nA hI asahimata ho ki naukarIAM maradAM ate auratAM laI ghaTTa hoNIAM chAhIdIAM hana?",
+      "kI tusIM isa galla nAla bilakula asahimata ho jAM nahIM jANade ki kI maradAM nUM auratAM nAloM naukarI 'te ja਼iAdA hakka hoNA chAhIdA hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata",
+      "patA nahIM"
+    ]
+  },
+  "Q34": {
+    "description": "naukarIAM dI ghATa: mAlakAM nUM pravAsIAM nAloM (desa਼) lokAM nUM tarajIha deNI chAhIdI hai",
+    "questions": [
+      "kI naukarIAM dI ghATa kArana mAlakAM nUM pravAsIAM nAloM (desa਼) lokAM nUM tarajIha deNI chAhIdI hai?",
+      "kI tusIM isa galla nAla sahimata ho ki jadoM naukarIAM dI ghATa huMdI hai tAM mAlakAM nUM pravAsIAM nAloM (desa਼) lokAM nUM tarajIha deNI chAhIdI hai?",
+      "kI naukarIAM dI ghATa daurAna mAlakAM laI pravAsIAM dI bajAe (desa਼) lokAM nUM tarajIha deNA uchita hai?",
+      "kI tuhAnUM laggadA hai ki naukarIAM dI ghATa de sameM mAlakAM nUM pravAsIAM dI bajAe (desa਼) viakatIAM nUM tarajIha deNI chAhIdI hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q35": {
+    "description": "jekara auratAM dI Amadana patIAM nAloM vaddha hove tAM samassiA",
+    "questions": [
+      "jekara auratAM dI Amadana ApaNe patIAM nAloM vaddha hai tAM isa samassiA bAre tuhADA kI vichAra hai?",
+      "tusIM usa sathitI bAre kiveM mahisUsa karade ho jitthe ikka aurata ApaNe patI nAloM vaddha paisA kamAuMdI hai?",
+      "kI tusIM maMnade ho ki jadoM patanI dI Amadana usade patI nAloM vaddha huMdI hai tAM koI samassiA huMdI hai?",
+      "auratAM de ApaNe patIAM nAloM vaddha AmadanI de mudde 'te tuhADA kI rukha਼ hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q37": {
+    "description": "bachche paidA karanA samAja pratI pharaja਼",
+    "questions": [
+      "kI bachche paidA karanA samAja pratI koI pha਼raja਼ hai?",
+      "kI tusIM maMnade ho ki bachche paidA karanA samAja pratI ikka pharaja਼ hai?",
+      "kI tuhAnUM laggadA hai ki viakatIAM dA samAja pratI bachche paidA karana dA pharaja਼ baNadA hai?",
+      "kI lokAM nUM samAja pratI bachche paidA karana dA pha਼raja਼ mahisUsa karanA chAhIdA hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata",
+      "patA nahIM"
+    ]
+  },
+  "Q38": {
+    "description": "bimAra mApiAM dI dekhabhAla karanA bachchiAM dA pharaja਼ hai|",
+    "questions": [
+      "kI tusIM maMnade ho ki bimAra mApiAM dI dekhabhAla karanA bachchiAM dA pharaja਼ hai?",
+      "kI bachchiAM nUM bimAra mApiAM dI dekhabhAla karana dI ja਼iMmevArI laiNI chAhIdI hai?",
+      "kI tusIM isa galla nAla sahimata ho ki bimAra mApiAM dI dekhabhAla karanA bachchiAM dA pha਼raja਼ hai?",
+      "kI bachchiAM dI ja਼iMmevArI hai ki uha ApaNe bimAra mApiAM dI dekhabhAla karana?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q39": {
+    "description": "jiha.De loka kaMma nahIM karade uha AlasI ho jAMde hana|",
+    "questions": [
+      "kI tusIM maMnade ho ki jo loka kaMma nahIM karade uha AlasI ho jAMde hana?",
+      "tuhADI rAe vichcha, kI tuhAnUM laggadA hai ki jo loka kaMma nahIM karade uha AlasI ho jAMde hana?",
+      "kI tusIM isa galla 'te visa਼vAsa karade ho ki jo viakatI kaMma nahIM karade uha akasara AlasI ho jAMde hana?",
+      "kI tusIM isa kathana nAla sahimata ho jAM asahimata ki jo loka kaMma nahIM karade uha AlasI ho jAMde hana?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q40": {
+    "description": "kaMma samAja pratI ikka pharaja਼ hai|",
+    "questions": [
+      "kI tusIM maMnade ho ki kaMma samAja pratI ikka pharaja਼ hai?",
+      "kI kaMma nUM samAja pratI pharaja਼ maMniA jAMdA hai?",
+      "tusIM kisa hadda takka sahimata ho ki kaMma samAja pratI ikka pharaja਼ hai?",
+      "kI tuhAnUM laggadA hai ki kaMma nUM samAja pratI ikka pharaja਼ vajoM dekhiA jANA chAhIdA hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q41": {
+    "description": "kaMma hamesa਼A pahilAM AuNA chAhIdA hai bhAveM isadA matalaba ghaTTa vihalA samAM hove|",
+    "questions": [
+      "kI kaMma nUM hamesa਼A pahilAM rakkhaNA chAhIdA hai bhAveM isadA matalaba ghaTTa vihalA samAM hove?",
+      "kI tusIM maMnade ho ki kaMma nUM hamesa਼A khAlI sameM nAloM pahila deNI chAhIdI hai?",
+      "kI iha savIkArayoga hai ki khAlI sameM nAloM kaMma nUM tarajIha dittI jAve?",
+      "kI tuhAnUM laggadA hai ki hara hAlata vichcha kaMma laI khAlI samAM kurabAna karanA ja਼rUrI hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "nA tAM sahimata hAM ate nA hI asahimata|",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM",
+      "patA nahIM"
+    ]
+  },
+  "Q42": {
+    "description": "samAja pratI mUla kisamAM de ravaੱIe",
+    "questions": [
+      "sADe samAja de samuchche saMgaThita tarIke bAre tuhADe kI vichAra hana?",
+      "tusIM kiveM maMnade ho ki sADe samAja nUM kiveM sudhAriA jA sakadA hai?",
+      "sADe maujUdA samAja nUM vinAsa਼kArI tAkatAM toM bachAuNa bAre tuhADA kI rukha਼ hai?",
+      "kI tuhADA isa bAre koI sapassa਼Ta vichAra hai ki sADe samAja nUM kisa tarhAM de ravaੱIe apaNAuNe chAhIde hana?"
+    ],
+    "options": [
+      "sADe samAja de saMgaThita hoNa de pUre tarIke nUM inakalAbI kAravAI duArA mUla rUpa vichcha badalaNA chAhIdA hai|",
+      "sADe samAja nUM sudhArAM duArA haulI-haulI sudhAranA chAhIdA hai|",
+      "sADe maujUdA samAja nUM sArIAM vinAsa਼kArI tAkatAM toM bahAdarI nAla bachAuNA chAhIdA hai|",
+      "patA nahIM"
+    ]
+  },
+  "Q43": {
+    "description": "bhavikkha vichcha badalAa: kaMma nUM ghaTTa mahattava dittA jAvegA",
+    "questions": [
+      "bhavikkha vichcha hoNa vAle badalAvAM bAre tuhADI kI rAe hai: kaMma nUM ghaTTa mahattava dittA jANA?",
+      "kaMma nUM ghaTTa mahattava deNa saMbaMdhI bhavikkha vichcha hoNa vAle badalAvAM nUM tusIM kiveM dekhade ho?",
+      "kaMma nUM ghaTTa mahattava deNa de bhavikkha de rujhAna bAre tuhADe kI vichAra hana?",
+      "bhavikkha vichcha kaMma 'te ghaTTa rahe ja਼ora bAre tuhADA kI drisa਼TIkoNa hai?"
+    ],
+    "options": [
+      "chaMgI galla hai",
+      "mA.DI galla",
+      "koI galla nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q44": {
+    "description": "bhavikkha de badalAa: takanAlojI 'te vadhere ja਼ora",
+    "questions": [
+      "bhavikkha vichcha takanAlojI 'te vadhere ja਼ora deNa vAle badalAvAM bAre tuhADe kI vichAra hana?",
+      "bhavikkha vichcha takanAlojI 'te hora ja਼ora deNa dI saMbhAvanA bAre tusIM kiveM mahisUsa karade ho?",
+      "AuNa vAle badalAvAM vichcha takanAlojI 'te vadhe hoe dhiAna bAre tuhADI kI rAe hai?",
+      "takanAlojI 'te vadhere ja਼ora deNa vAlIAM AuNa vAlIAM tabadIlIAM bAre tuhADA kI rukha਼ hai?"
+    ],
+    "options": [
+      "chaMgI galla hai",
+      "mA.DI galla",
+      "koI galla nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q45": {
+    "description": "bhavikkha vichcha badalAa: adhikAra laI vadhere satikAra",
+    "questions": [
+      "bhavikkha vichcha adhikAra pratI vadhere satikAra saMbaMdhI tabadIlIAM bAre tuhADe kI vichAra hana?",
+      "bhavikkha vichcha adhikAra pratI satikAra vichcha saMbhAvI vAdhe bAre tusIM kiveM mahisUsa karade ho?",
+      "AuNa vAle sAlAM vichcha adhikAra de satikAra vichcha saMbhAvita vAdhe bAre tuhADI kI rAe hai?",
+      "bhavikkha vichcha adhikAra pratI vadhere satikAra valla vadhaNa bAre tuhADIAM kI bhAvanAvAM hana?"
+    ],
+    "options": [
+      "chaMgI galla hai",
+      "mA.DI galla",
+      "koI galla nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q46": {
+    "description": "khusa਼I dI bhAvanA",
+    "questions": [
+      "tusIM ApaNI khusa਼I dI bhAvanA nUM kiveM darajA dioge?",
+      "1 toM 5 de paimAne 'te, jitthe 1 bilakula vI khusa਼ nahIM hai ate 5 bahuta khusa਼ hana, tusIM ApaNI khusa਼I de paddhara nUM kiveM darajA dioge?",
+      "kI tusIM ApaNe Apa nUM ikka khusa਼ viakatI samajhade ho?",
+      "tusIM roja਼AnA de AdhAra 'te kisa hadda takka khusa਼ mahisUsa karade ho?"
+    ],
+    "options": [
+      "bahuta khusa਼",
+      "kApha਼I khusa਼",
+      "bahuta khusa਼ nahIM|",
+      "bilakula vI khusa਼ nahIM|",
+      "patA nahIM"
+    ]
+  },
+  "Q47": {
+    "description": "sihata dI sathitI (viakatIgata)",
+    "questions": [
+      "tusIM ApaNI maujUdA sihata sathitI dA varaNana kiveM karoge?",
+      "kirapA karake ApaNI viakatIgata sihata sathitI nUM darajA dio|",
+      "bahuta vadhIA toM bahuta mA.DI de paimAne 'te, tusIM ApaNI sihata nUM kiveM darajA dioge?",
+      "tuhADI samuchchI taMdarusatI de saMdarabha vichcha, tusIM ApaNI sihata dA mulAMkaNa kiveM karoge?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "chaMgA",
+      "melA",
+      "mA.DA",
+      "bahuta mA.DA"
+    ]
+  },
+  "Q51": {
+    "description": "tusIM/parivAra (piChale 12 mahIne): khANa laI kApha਼I bhojana toM binAM rahiNA",
+    "questions": [
+      "piChale 12 mahIniAM vichcha kiMnI vAra tusIM jAM tuhADA parivAra binAM khANa de gae ho?",
+      "piChale sAla, tusIM jAM tuhADe parivAra nUM kiMnI vAra khANa laI kApha਼I bhojana nA milaNa dA anubhava hoiA hai?",
+      "kI tusIM jAM tuhADA parivAra piChale 12 mahIniAM vichcha kade-kade khANa laI kApha਼I bhojana toM binAM giA hai?",
+      "piChale 12 mahIniAM daurAna, tusIM jAM tuhADe parivAra nUM kiMnI vAra khANa laI kApha਼I bhojana nA milaNa dI sathitI dA sAhamaNA karanA piA hai?"
+    ],
+    "options": [
+      "akasara",
+      "kaI vAra",
+      "bahuta ghaTTa",
+      "kade nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q52": {
+    "description": "tusIM/parivAra dI bAraMbAratA (piChale 12 mahIne): ApaNe ghara vichcha aparAdha toM asurakkhiata mahisUsa kItA",
+    "questions": [
+      "tusIM ApaNe ghara vichcha aparAdha toM kiMnI vAra asurakkhiata mahisUsa kItA?",
+      "tusIM ApaNe ghara vichcha aparAdha toM kiMnI vAra asurakkhiata mahisUsa kItA?",
+      "piChale 12 mahIniAM vichcha, tusIM ApaNe ghara vichcha aparAdha toM kiMnI vAra asurakkhiata mahisUsa kItA hai?",
+      "kI tusIM piChale sAla ApaNe ghara vichcha akasara, kade-kade, bahuta ghaTTa, jAM kade vI aparAdha toM asurakkhiata mahisUsa kItA?"
+    ],
+    "options": [
+      "akasara",
+      "kaI vAra",
+      "bahuta ghaTTa",
+      "kade nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q53": {
+    "description": "tusIM/parivAra dI bAraMbAratA (piChale 12 mahIne): lo.DIMdI davAI jAM ilAja toM binAM chale jANA jisadI tuhAnUM lo.Da sI|",
+    "questions": [
+      "piChale 12 mahIniAM vichcha tusIM jAM tuhADA parivAra kiMnI vAra binAM kise davAI jAM ilAja de gae ho jisadI tuhAnUM lo.Da sI?",
+      "piChale 12 mahIniAM vichcha tusIM jAM tuhADA parivAra kiMnI vAra binAM lo.DIMdI davAI jAM ilAja de gae ho?",
+      "piChale 12 mahIniAM vichcha, tusIM jAM tuhADA parivAra kiMnI vAra davAI jAM ilAja toM binAM gae ho jisadI tuhAnUM lo.Da sI?",
+      "kI tusIM jAM tuhADA parivAra piChale 12 mahIniAM vichcha bahuta ghaTTa, kade-kade, jAM akasara lo.DIMdI davAI jAM ilAja toM binAM giA hai?"
+    ],
+    "options": [
+      "akasara",
+      "kaI vAra",
+      "bahuta ghaTTa",
+      "kade nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q54": {
+    "description": "tusIM/parivAra dI bAraMbAratA (piChale 12 mahIne): nakada Amadana toM binAM chale gae",
+    "questions": [
+      "tusIM/parivAra dI bAraMbAratA (piChale 12 mahIne): nakada Amadana toM binAM chale gae ho?",
+      "piChale 12 mahIniAM vichcha tusIM jAM tuhADA parivAra kiMnI vAra nakada Amadana toM binAM rahe ho?",
+      "piChale sAla, tuhAnUM jAM tuhADe parivAra nUM kiMnI vAra binAM kise nakada Amadana de mAhavArI dA anubhava hoiA?",
+      "kI tuhAnUM jAM tuhADe parivAra nUM piChale 12 mahIniAM vichcha nakadI Amadana dI ghATa dA sAhamaNA karanA piA hai? je hAM, tAM kiMnI vAra?"
+    ],
+    "options": [
+      "akasara",
+      "kaI vAra",
+      "bahuta ghaTTa",
+      "kade nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q55": {
+    "description": "piChale 12 mahIniAM vichcha, tusIM jAM tuhADA parivAra kiMnI vAra ajihA hoiA hai: tuhADe sira utte surakkhiata AsarA toM binAM guja਼riA hove?",
+    "questions": [
+      "piChale 12 mahIniAM vichcha, tusIM jAM tuhADA parivAra kiMnI vAra ApaNe sira utte surakkhiata AsarA toM binAM gae ho?",
+      "piChale sAla daurAna, tusIM jAM tuhADe parivAra nUM kiMnI vAra surakkhiata rihAisa਼ dI ghATa dA sAhamaNA karanA piA hai?",
+      "piChale 12 mahIniAM vichcha, kiMnI vAra tuhAnUM jAM tuhADe parivAra nUM surakkhiata AsarA nahIM miliA?",
+      "kI tuhAnUM jAM tuhADe parivAra nUM piChale sAla surakkhiata AsarA toM binAM mAhavArI AI hai? je hAM, tAM kiMnI vAra?"
+    ],
+    "options": [
+      "akasara",
+      "kaI vAra",
+      "bahuta ghaTTa",
+      "kade nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q58": {
+    "description": "bharosA: tuhADA parivAra",
+    "questions": [
+      "tusIM ApaNe parivAra 'te kiMnA bharosA karade ho?",
+      "kI tuhADe parivAra vichcha visa਼vAsa dA ikka mahattavapUrana paddhara hai?",
+      "tusIM ApaNe parivAra 'te kiMnA ku bharosA karade ho?",
+      "Ama taura 'te, tuhAnUM ApaNe parivAra 'te kiMnA bharosA hai?"
+    ],
+    "options": [
+      "pUrA bharosA karo",
+      "kujha hadda takka bharosA karo",
+      "bahutA bharosA nA karo|",
+      "bilakula vI bharosA nA karo|",
+      "patA nahIM"
+    ]
+  },
+  "Q59": {
+    "description": "bharosA: tuhADA AMDha-guAMDha",
+    "questions": [
+      "tusIM ApaNe AMDha-guAMDha 'te kiMnA ku bharosA karade ho?",
+      "tusIM ApaNe AMDha-guAMDha vichcha kiMnA ku bharosA karade ho?",
+      "tusIM ApaNe AMDha-guAMDha laI ApaNe bharose de paddhara nUM kiveM darajA dioge?",
+      "kI tuhADe AMDha-guAMDha vichcha tuhADA visa਼vAsa bahuta uchchA hai?"
+    ],
+    "options": [
+      "pUrA bharosA karo",
+      "kujha hadda takka bharosA karo",
+      "bahutA bharosA nA karo|",
+      "bilakula vI bharosA nA karo|",
+      "patA nahIM"
+    ]
+  },
+  "Q60": {
+    "description": "bharosA: uha loka jinhAM nUM tusIM nijjI taura 'te jANade ho",
+    "questions": [
+      "tusIM unhAM lokAM 'te kiMnA bharosA karade ho jinhAM nUM tusIM nijjI taura 'te jANade ho?",
+      "tusIM unhAM lokAM 'te kiMnA ku bharosA karade ho jinhAM nUM tusIM nijjI taura 'te jANade ho?",
+      "kI tusIM unhAM lokAM 'te bharosA karade ho jinhAM nUM tusIM nijjI taura 'te jANade ho?",
+      "kI tusIM kahoge ki jinhAM lokAM nUM tusIM nijjI taura 'te jANade ho, unhAM pratI tuhADe visa਼vAsa dA paddhara uchchA hai jAM ghaTTa?"
+    ],
+    "options": [
+      "pUrA bharosA karo",
+      "kujha hadda takka bharosA karo",
+      "bahutA bharosA nA karo|",
+      "bilakula vI bharosA nA karo|",
+      "patA nahIM"
+    ]
+  },
+  "Q61": {
+    "description": "bharosA: uha loka jinhAM nUM tusIM pahilI vAra milade ho",
+    "questions": [
+      "tusIM pahilI vAra milaNa vAle lokAM 'te kiMnA bharosA karade ho?",
+      "tusIM pahilI vAra milaNa vAle viakatIAM 'te kiMnA bharosA karade ho?",
+      "jinhAM lokAM nUM tusIM pahilI vAra milade ho, unhAM pratI tuhADA visa਼vAsa kisa paddhara dA huMdA hai?",
+      "jadoM tusIM pahilI vAra kise viakatI nUM milade ho tAM tusIM unhAM vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?"
+    ],
+    "options": [
+      "pUrA bharosA karo",
+      "kujha hadda takka bharosA karo",
+      "bahutA bharosA nA karo|",
+      "bilakula vI bharosA nA karo|",
+      "patA nahIM"
+    ]
+  },
+  "Q62": {
+    "description": "visa਼vAsa: dUje dharama de loka",
+    "questions": [
+      "tusIM dUje dharama de lokAM 'te kiMnA ku bharosA karade ho?",
+      "tusIM kise vakkhare dharama de lokAM 'te kiMnA ku bharosA karade ho?",
+      "kI tusIM kahoge ki tusIM kise hora dharama de viakatIAM 'te bharosA karade ho?",
+      "kI tuhAnUM kise vakkhare dharama de viakatIAM 'te bharosA hai?"
+    ],
+    "options": [
+      "pUrA bharosA karo",
+      "kujha hadda takka bharosA karo",
+      "bahutA bharosA nA karo|",
+      "bilakula vI bharosA nA karo|",
+      "patA nahIM"
+    ]
+  },
+  "Q63": {
+    "description": "TarassaTa: kise hora kaumIata de loka",
+    "questions": [
+      "tusIM kise hora kaumIata de lokAM 'te kiMnA bharosA karade ho?",
+      "tusIM kise vakkharI kaumIata de viakatIAM 'te kiMnA bharosA karade ho?",
+      "tuhAnUM kise hora kaumIata de lokAM 'te kiMnA bharosA hai?",
+      "kI tusIM kise hora kaumIata de viakatIAM 'te bharosA karade ho?"
+    ],
+    "options": [
+      "pUrA bharosA karo",
+      "kujha hadda takka bharosA karo",
+      "bahutA bharosA nA karo|",
+      "bilakula vI bharosA nA karo|",
+      "patA nahIM"
+    ]
+  },
+  "Q64": {
+    "description": "visa਼vAsa: characha",
+    "questions": [
+      "tuhAnUM girajAgharAM vichcha kiMnA ku bharosA hai?",
+      "tusIM charachAM 'te kiMnA bharosA karade ho?",
+      "tusIM girajAgharAM vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?",
+      "kI tuhAnUM girajAgharAM vichcha bahuta bharosA hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q66": {
+    "description": "visa਼vAsa: praisa",
+    "questions": [
+      "tuhAnUM praisa 'te kiMnA bharosA hai?",
+      "kI tuhAnUM praisa 'te bahuta bharosA hai?",
+      "tuhAnUM praisa 'te kiMnA bharosA hai?",
+      "kI tusIM kahoge ki tuhAnUM praisa 'te kApha਼I bharosA hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q67": {
+    "description": "visa਼vAsa: TailIvija਼na",
+    "questions": [
+      "tuhAnUM TailIvija਼na 'te kiMnA bharosA hai?",
+      "tusIM TailIvija਼na 'te kiMnA bharosA karade ho?",
+      "tusIM TailIvija਼na 'te kiMnA ku bharosA kara rahe ho?",
+      "TailIvija਼na vichcha tuhADI nisa਼chatatA dA paddhara kI hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q68": {
+    "description": "visa਼vAsa: maja਼dUra yUnIanAM",
+    "questions": [
+      "tuhAnUM maja਼dUra yUnIanAM vichcha kiMnA ku bharosA hai?",
+      "tusIM maja਼dUra yUnIanAM 'te kiMnA bharosA karade ho?",
+      "tusIM maja਼dUra yUnIanAM vichcha kisa paddhara dA visa਼vAsa rakkhade ho?",
+      "kI tuhAnUM maja਼dUra yUnIanAM vichcha visa਼vAsa hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q72": {
+    "description": "visa਼vAsa: rAjanItika pAraTIAM",
+    "questions": [
+      "tuhAnUM rAjanItika pAraTIAM vichcha kiMnA bharosA hai?",
+      "tusIM rAjanItika pAraTIAM 'te kiMnA bharosA karade ho?",
+      "tusIM rAjanItika pAraTIAM vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?",
+      "kI tuhAnUM rAjanItika pAraTIAM vichcha visa਼vAsa dA paddhara uchchA hai jAM ghaTTa?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q73": {
+    "description": "visa਼vAsa: saMsada",
+    "questions": [
+      "tuhAnUM saMsada vichcha kiMnA ku bharosA hai?",
+      "tuhAnUM saMsada 'te kiMnA bharosA hai?",
+      "saMsada vichcha tuhADA kiMnA visa਼vAsa hai?",
+      "visa਼vAsa de mAmale vichcha, tusIM saMsada nUM kiveM darajA dioge?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q74": {
+    "description": "visa਼vAsa: sivala sevAvAM",
+    "questions": [
+      "tuhAnUM sivala sevAvAM vichcha kiMnA ku bharosA hai?",
+      "tuhAnUM sivala sevAvAM vichcha kiMnA ku bharosA hai?",
+      "tusIM sivala sevAvAM vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?",
+      "kI tuhAnUM sivala sevAvAM vichcha bharosA hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q75": {
+    "description": "visa਼vAsa: yUnIvarasiTIAM (nijjI)",
+    "questions": [
+      "kirapA karake yUnIvarasiTIAM (nijjI) vichcha ApaNe visa਼vAsa nUM darajA dio:",
+      "1-5 de paimAne 'te, tusIM yUnIvarasiTIAM (prAIveTa) vichcha kiMnA ku visa਼vAsa rakkhade ho?",
+      "tuhAnUM yUnIvarasiTIAM (prAIveTa) vichcha kiMnA ku bharosA hai?",
+      "yUnIvarasiTIAM (prAIveTa) de saMbaMdha vichcha, tusIM kiMne bharosemaMda ho?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q77": {
+    "description": "visa਼vAsa: pramukkha kaMpanIAM",
+    "questions": [
+      "tuhAnUM vaDDIAM kaMpanIAM vichcha kiMnA bharosA hai?",
+      "1 toM 5 de paimAne 'te, tusIM vaDDIAM kaMpanIAM vichcha kiMnA ku visa਼vAsa rakkhade ho?",
+      "kI tuhAnUM laggadA hai ki vaDDIAM kaMpanIAM tuhADe bharose de hakkadAra hana?",
+      "Ama taura 'te, tusIM vaDDIAM kaMpanIAM vichcha ApaNe visa਼vAsa nUM kiveM darajA dioge?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q78": {
+    "description": "visa਼vAsa: nijjI baiMka",
+    "questions": [
+      "kirapA karake nijjI baiMkAM vichcha ApaNe visa਼vAsa de paddhara nUM darajA dio|",
+      "1 toM 5 de paimAne 'te, tuhAnUM nijjI baiMkAM vichcha kiMnA bharosA hai?",
+      "tusIM nijjI baiMkAM vichcha ApaNe visa਼vAsa de paddhara nUM kiveM biAna karoge?",
+      "tusIM nijjI baiMkAM 'te kiMnA bharosA karade ho?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q79": {
+    "description": "visa਼vAsa: vAtAvaraNa surakkhiA lahira",
+    "questions": [
+      "tuhAnUM vAtAvaraNa surakkhiA aMdolana vichcha kiMnA ku visa਼vAsa hai?",
+      "tusIM vAtAvaraNa surakkhiA aMdolana 'te kiMnA bharosA karade ho?",
+      "tuhAnUM vAtAvaraNa surakkhiA aMdolana vichcha kiMnA visa਼vAsa hai?",
+      "tusIM vAtAvaraNa surakkhiA aMdolana vichcha kiMnA ku visa਼vAsa rakkhade ho?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q80": {
+    "description": "Atamavisa਼vAsa: auratAM dI lahira",
+    "questions": [
+      "tuhAnUM 'Confidence: The Women's Movement' vichcha kiMnA ku bharosA hai?",
+      "1 toM 5 de paimAne 'te, tuhAnUM 'Confidence: The Women's Movement' vichcha kiMnA bharosA hai?",
+      "tusIM 'Confidence: The Women's Movement' 'te kiMnA ku bharosA karade ho?",
+      "tusIM 'Confidence: The Women's Movement' vichcha ApaNe visa਼vAsa nUM kiveM darajA dioge?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q81": {
+    "description": "visa਼vAsa: chairITebala jAM mAnavatAvAdI saMsathAvAM",
+    "questions": [
+      "tuhAnUM chairITebala jAM mAnavatAvAdI saMsathAvAM vichcha kiMnA bharosA hai?",
+      "tuhAnUM chairITebala jAM mAnavatAvAdI saMgaThanAM vichcha kiMnA bharosA hai?",
+      "tusIM chairITebala jAM mAnavatAvAdI saMgaThanAM vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?",
+      "kI tuhAnUM chairITebala jAM mAnavatAvAdI saMsathAvAM vichcha bharosA hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q82": {
+    "description": "visa਼vAsa: pramukkha khetarI saMgaThana (desa਼-visa਼esa਼ toM milA ke)",
+    "questions": [
+      "tuhAnUM mukkha khetarI saMgaThana (desa਼-visa਼esa਼ toM milA ke) vichcha kiMnA bharosA hai?",
+      "tusIM kisa hadda takka pramukkha khetarI saMgaThana (desa਼-visa਼esa਼ toM milA ke) 'te bharosA karade ho?",
+      "tusIM pramukkha khetarI saMgaThana (desa਼-visa਼esa਼ toM milA ke) vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?",
+      "tusIM mukkha khetarI saMgaThana (desa਼-visa਼esa਼ toM milA ke) 'te nirabhara karana vichcha kiMnA ku ArAmadAika ho?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q83": {
+    "description": "visa਼vAsa: saMyukata rAsa਼Tara (UN)",
+    "questions": [
+      "tuhAnUM saMyukata rAsa਼Tara (UN) vichcha kiMnA bharosA hai?",
+      "tusIM saMyukata rAsa਼Tara (UN) 'te kiMnA bharosA karade ho?",
+      "tuhADe vichAra vichcha, saMyukata rAsa਼Tara (UN) vichcha tuhADA visa਼vAsa kiMnA ku maja਼bUta hai?",
+      "tusIM saMyukata rAsa਼Tara (UN) vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q84": {
+    "description": "visa਼vAsa: aMtararAsa਼TarI mudarA miliA (IMF)",
+    "questions": [
+      "tuhAnUM iMTaranaisa਼nala mauneTarI phAUMDa (IMF) vichcha kiMnA bharosA hai?",
+      "tusIM iMTaranaisa਼nala mauneTarI phAUMDa (IMF) 'te kiMnA bharosA karade ho?",
+      "tusIM aMtararAsa਼TarI mudarA phaMDa (IMF) vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?",
+      "kI tuhADA iMTaranaisa਼nala mauneTarI phAUMDa (IMF) bAre koI sakArAtamaka rAe hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q85": {
+    "description": "visa਼vAsa: aMtararAsa਼TarI aparAdhika adAlata (ICC)",
+    "questions": [
+      "aMtararAsa਼TarI aparAdhika adAlata (ICC) vichcha tuhADA kiMnA visa਼vAsa hai?",
+      "tusIM aMtararAsa਼TarI aparAdhika adAlata (ICC) vichcha kiMnA bharosA rakkhade ho?",
+      "tusIM aMtararAsa਼TarI aparAdhika adAlata (ICC) 'te kiMnA bharosA karade ho?",
+      "tusIM aMtararAsa਼TarI aparAdhika adAlata (ICC) dI prabhAvasa਼IlatA vichcha kiMnA ku visa਼vAsa karade ho?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q86": {
+    "description": "visa਼vAsa: uttarI aTalAMTika saMdhI saMgaThana (nATo)",
+    "questions": [
+      "tuhAnUM uttarI aTalAMTika saMdhI saMgaThana (nATo) vichcha kiMnA bharosA hai?",
+      "tusIM uttarI aTalAMTika saMdhI saMgaThana (nATo) 'te kiMnA bharosA karade ho?",
+      "uttarI aTalAMTika saMdhI saMgaThana (nATo) vichcha tuhADA kI visa਼vAsa hai?",
+      "tuhADe vichAra vichcha, tuhAnUM uttarI aTalAMTika saMdhI saMgaThana (nATo) vichcha kiMnA visa਼vAsa hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q87": {
+    "description": "visa਼vAsa: visa਼va baiMka (WB)",
+    "questions": [
+      "tuhAnUM visa਼va baiMka (WB) vichcha kiMnA bharosA hai?",
+      "tusIM visa਼va baiMka (WB) 'te kiMnA bharosA karade ho?",
+      "tusIM visa਼va baiMka (WB) vichcha ApaNe visa਼vAsa de paddhara nUM kiveM darajA dioge?",
+      "kI tuhAnUM visa਼va baiMka (WB) vichcha bahuta ja਼iAdA visa਼vAsa hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q88": {
+    "description": "visa਼vAsa: visa਼va sihata saMgaThana (WHO)",
+    "questions": [
+      "tuhAnUM visa਼va sihata saMgaThana (WHO) vichcha kiMnA bharosA hai?",
+      "tusIM visa਼va sihata saMgaThana (WHO) 'te kiMnA bharosA karade ho?",
+      "Ama taura 'te, tuhAnUM visa਼va sihata saMgaThana (WHO) vichcha kiMnA visa਼vAsa hai?",
+      "tusIM visa਼va sihata saMgaThana (WHO) dI bharoseyogatA vichcha kiMnA ku visa਼vAsa rakkhade ho?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q89": {
+    "description": "visa਼vAsa: visa਼va vapAra saMgaThana (WTO)",
+    "questions": [
+      "tuhAnUM visa਼va vapAra saMgaThana (WTO) vichcha kiMnA bharosA hai?",
+      "tuhAnUM visa਼va vapAra saMgaThana (WTO) vichcha kisa paddhara dA visa਼vAsa hai?",
+      "tusIM visa਼va vapAra saMgaThana (WTO) 'te kiMnA bharosA karade ho?",
+      "visa਼va vapAra saMgaThana (WTO) vichcha tuhADA visa਼vAsa kI hai?"
+    ],
+    "options": [
+      "bahuta vadhIA",
+      "kApha਼I ja਼iAdA",
+      "bahuta ja਼iAdA nahIM",
+      "bilakula vI nahIM",
+      "patA nahIM"
+    ]
+  },
+  "Q90": {
+    "description": "aMtararAsa਼TarI saMgaThana: prabhAvasa਼AlI hoNA banAma lokataMtarI hoNA",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM aMtararAsa਼TarI saMgaThanAM de prabhAvasa਼AlI hoNa banAma lokataMtarI hoNa dI mahattatA nUM kiveM darajA dioge?",
+      "kirapA karake 1 toM 10 de paimAne 'te ApaNI rAe dio, jisa vichcha 1 aMtararAsa਼TarI saMgaThanAM de prabhAvasa਼AlI hoNa dI mahattatA nUM darasAuMdA hai ate 10 lokataMtarI hoNa dI mahattatA nUM darasAuMdA hai|",
+      "aMtararAsa਼TarI saMgaThanAM de saMdarabha vichcha, lokataMtara (10) nAloM prabhAvasa਼IlatA (1) nUM tarajIha deNa de sapaikaTrama vichcha tusIM kitthe kha.Dhe ho?",
+      "tusIM aMtararAsa਼TarI saMgaThanAM vichcha prabhAvasa਼IlatA ate lokataMtara vichakAra saMtulana nUM 1 toM 10 de paimAne 'te kiveM darajA dioge?"
+    ],
+    "options": [
+      "prabhAvasa਼AlI hoNA",
+      "lokataMtarI hoNA"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "Amadana nUM hora barAbara baNAiA jANA chAhIdA hai banAma viakatIgata yatanAM laI vadhere protasAhana hoNe chAhIde hana|",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM 'Amadana nUM hora barAbara kItA jANA chAhIdA hai' de kathana nAla kiMne ku sahimata ho?",
+      "kirapA karake isa vichAra laI ApaNe samarathana de paddhara nUM 1 toM 10 de paimAne 'te darajA dio ki 'viakatIgata yatanAM laI vadhere protasAhana hoNe chAhIde hana'|",
+      "tusIM kisa hadda takka maMnade ho ki 'Amadana nUM hora barAbara baNAiA jANA chAhIdA hai'? ApaNI rAe nUM 1 toM 10 de paimAne 'te darajA dio|",
+      "tusIM isa vichAra nAla kiMne sahimata ho ki 'viakatIgata yatanAM laI vadhere protasAhana hoNe chAhIde hana'? kirapA karake 1 toM 10 de paimAne 'te darajA dio|"
+    ],
+    "options": [
+      "Amadana nUM hora barAbara baNAiA jANA chAhIdA hai",
+      "viakatIgata yatanAM laI vadhere protasAhana hoNe chAhIde hana|"
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "kArobAra dI nijjI mAlakI banAma rAja dI mAlakI",
+    "questions": [
+      "1 toM 10 de paimAne 'te, jitthe \"1\" dA aratha hai \"kArobAra ate udayoga dI nijjI mAlakI vadhAI jANI chAhIdI hai\" ate \"10\" dA aratha hai \"kArobAra ate udayoga dI sarakArI mAlakI vadhAI jANI chAhIdI hai,\" kirapA karake ApaNI pasaMda dasso|",
+      "kirapA karake 1 toM 10 de paimAne dI varatoM karake kArobAra ate udayoga dI nijjI banAma rAja mAlakI bAre ApaNe rukha਼ nUM darajA dio, jitthe \"1\" vadhI hoI nijjI mAlakI laI tarajIha nUM darasAuMdA hai ate \"10\" vadhI hoI sarakArI mAlakI laI tarajIha nUM darasAuMdA hai|",
+      "1 toM 10 de paimAne dI varatoM karade hoe, jitthe \"1\" kArobAra ate udayoga dI nijjI mAlakI vadhAuNa dI ichChA nUM darasAuMdA hai ate \"10\" sarakArI mAlakI vadhAuNa dI ichChA nUM darasAuMdA hai, kirapA karake ApaNI rAe dio|",
+      "1 toM 10 de paimAne 'te kArobAra ate udayoga dI nijjI banAma rAja mAlakI saMbaMdhI ApaNI tarajIha darasAo| \"1\" vadhI hoI nijjI mAlakI laI tarajIha nUM darasAuMdA hai, jadoM ki \"10\" vadhI hoI sarakArI mAlakI laI tarajIha nUM darasAuMdA hai|"
+    ],
+    "options": [
+      "kArobAra ate udayoga dI nijjI mAlakI vadhAI jANI chAhIdI hai|",
+      "kArobAra ate udayoga dI sarakArI mAlakI vadhAI jANI chAhIdI hai|"
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "sarakAra banAma viakatI dI ja਼iMmevArI",
+    "questions": [
+      "tusIM kisa hadda takka maMnade ho ki sarakAra nUM iha yakInI baNAuNa laI vadhere ja਼iMmevArI laiNI chAhIdI hai ki sAriAM nUM sahUlatAM mila sakaNa?",
+      "tuhADe kha਼iAla vichcha sarakAra dI kiMnI ja਼iMmevArI hoNI chAhIdI hai ki uha iha yakInI baNAve ki sAriAM nUM sahUlatAM milaNa?",
+      "1 toM 10 de paimAne 'te, jitthe 1 dA matalaba hai ki sarakAra nUM vadhere ja਼iMmevArI laiNI chAhIdI hai ate 10 dA matalaba hai ki lokAM nUM vadhere ja਼iMmevArI laiNI chAhIdI hai, tuhADI kI rAe hai?",
+      "ja਼iMmevArI de mAmale vichcha, tusIM sarakAra ate viakatIAM nUM 1 toM 10 de paimAne 'te kitthe darajA dioge?"
+    ],
+    "options": [
+      "sarakAra nUM iha yakInI baNAuNa laI vadhere ja਼iMmevArI laiNI chAhIdI hai ki sAriAM nUM sahUlatAM pradAna kItIAM jANa",
+      "lokAM nUM ApaNe Apa nUM saMbhAlaNa laI vadhere ja਼iMmevArI laiNI chAhIdI hai"
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "saphalatA: sakha਼ta mihanata banAma kisamata",
+    "questions": [
+      "1-10 de paimAne 'te, 1 dA aratha hai 'laMbe sameM vichcha, sakha਼ta mihanata Ama taura 'te ikka bihatara ja਼iMdagI liAuMdI hai' ate 10 dA aratha hai 'sakha਼ta mihanata Ama taura 'te saphalatA nahIM liAuMdI - iha kisamata ate sabaMdhAM dA mAmalA hai', saphalatA prApata karana vichcha kisamata dI bhUmikA bAre tuhADI kI rAe hai?",
+      "tusIM kI maMnade ho ki sakha਼ta mihanata 1-10 de paimAne 'te saphalatA vichcha kiMnA yogadAna pAuMdI hai, 1 dA aratha hai 'laMbe sameM vichcha, sakha਼ta mihanata Ama taura 'te ikka bihatara ja਼iMdagI liAuMdI hai' ate 10 dA aratha hai 'sakha਼ta mihanata Ama taura 'te saphalatA nahIM liAuMdI - iha kisamata ate sabaMdhAM dI galla hai'?",
+      "tuhAnUM kI laggadA hai ki kisamata ate sabaMdhAM de mukAbale saphalatA kiMnI ku mihanata nAla miladI hai? kirapA karake 1-10 de paimAne 'te reTa karo, jisa vichcha 1 'laMbe sameM vichcha, sakha਼ta mihanata Ama taura 'te bihatara ja਼iMdagI liAuMdI hai' ate 10 'sakha਼ta mihanata Ama taura 'te saphalatA nahIM liAuMdI - iha kisamata ate sabaMdhAM dI galla hai'|",
+      "kirapA karake 1-10 de paimAne dI varatoM karake kisamata ate sakha਼ta mihanata de saphalatA 'te prabhAva vichcha ApaNe visa਼vAsa nUM darajA dio, 1 'laMbe sameM vichcha, sakha਼ta mihanata Ama taura 'te bihatara ja਼iMdagI liAuMdI hai' nUM darasAuMdA hai ate 10 'sakha਼ta mihanata Ama taura 'te saphalatA nahIM liAuMdI - iha kisamata ate sabaMdhAM dA mAmalA hai' nUM darasAuMdA hai|"
+    ],
+    "options": [
+      "laMbe sameM vichcha, sakha਼ta mihanata Ama taura 'te ikka bihatara ja਼iMdagI liAuMdI hai|",
+      "sakha਼ta mihanata Ama taura 'te saphalatA nahIM liAuMdI - iha kisamata ate sabaMdhAM dI galla hai|"
+    ],
+    "scale": true
+  },
+  "Q112": {
+    "description": "desa਼ vichcha bhrisa਼TAchAra dIAM dhAranAvAM",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM ApaNe desa਼ vichcha bhrisa਼TAchAra de paddhara nUM kiveM darajA dioge?",
+      "kirapA karake 1 toM 10 de paimAne dI varatoM karake ApaNe desa਼ vichcha bhrisa਼TAchAra bAre ApaNI dhAranA dasso|",
+      "tuhAnUM kI laggadA hai ki tuhADe desa਼ vichcha bhrisa਼TAchAra kiMnA ku hai? kirapA karake 1 toM 10 de paimAne 'te reTa karo|",
+      "tuhADe anusAra tuhADe desa਼ vichcha bhrisa਼TAchAra kiMnA ku prachalita hai? 1 toM 10 takka dI dara|"
+    ],
+    "options": [
+      "mere desa਼ vichcha koI bhrisa਼TAchAra nahIM hai|",
+      "mere desa਼ vichcha bahuta bhrisa਼TAchAra hai|"
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "risa਼vata deNa jAM laiNa laI javAbadeha ThahirAe jANa dA jokhama",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tuhAnUM kI laggadA hai ki risa਼vata deNa jAM laiNa laI javAbadeha ThahirAuNa vichcha kiMnA jokhama hai?",
+      "risa਼vata deNa jAM laiNa laI javAbadeha ThahirAe jANa de jokhama de paddhara nUM kirapA karake 1 toM 10 takka darajA dio|",
+      "1 toM 10 takka, tusIM risa਼vata deNa jAM laiNa laI javAbadeha ThahirAe jANa de jokhama nUM kiMnI saMbhAvanA samajhade ho?",
+      "1 toM 10 de paimAne dI varatoM karade hoe, tuhAnUM kI laggadA hai ki risa਼vata deNa jAM laiNa laI javAbadeha ThahirAe jANa dA jokhama kiMnA uchchA hai?"
+    ],
+    "options": [
+      "koI jokhama nahIM",
+      "bahuta ja਼iAdA jokhama"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "tuhADe desa਼ vichcha imIgresa਼na: kArajabala vichcha lAbhadAika naukarIAM bharadA hai",
+    "questions": [
+      "tuhADe desa਼ vichcha imIgresa਼na bAre tuhADI kI rAe hai? kI iha kArajabala vichcha lAbhadAika naukarIAM nUM bharadA hai?",
+      "kI tusIM maMnade ho ki tuhADe desa਼ vichcha imIgresa਼na kArajabala vichcha lAbhadAika naukarIAM bharana vichcha yogadAna pAuMdA hai?",
+      "tuhADI rAe vichcha, kI imIgresa਼na tuhADe desa਼ de kArajabala vichcha lAbhadAika naukarIAM bharana vichcha bhUmikA nibhAuMdA hai?",
+      "kI tusIM kahoge ki tuhADe desa਼ vichcha imIgresa਼na kArajabala vichcha lAbhadAika naukarIAM bharadA hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "tuhADe desa਼ vichcha paravAsa: sabbhiAchAraka vibhiMnatA nUM maja਼bUta karadA hai",
+    "questions": [
+      "kI tusIM maMnade ho ki tuhADe desa਼ vichcha paravAsa sabbhiAchAraka vibhiMnatA nUM maja਼bUta karadA hai?",
+      "tuhADI rAe vichcha, kI tuhADe desa਼ vichcha imIgresa਼na sabbhiAchAraka vibhiMnatA nUM vadhAuNa vichcha yogadAna pAuMdA hai?",
+      "kI tuhADA iha vichAra hai ki tuhADe desa਼ vichcha paravAsa sabbhiAchAraka vibhiMnatA nUM utasa਼Ahita karadA hai?",
+      "kI tuhAnUM laggadA hai ki tuhADe desa਼ vichcha pravAsIAM dI maujUdagI ikka maja਼bUta sabbhiAchAraka vibhiMnatA valla lai jAMdI hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "tuhADe desa਼ vichcha imIgresa਼na: aparAdha dara vadhAuMdA hai",
+    "questions": [
+      "kI tuhADe desa਼ vichcha imIgresa਼na aparAdha dara nUM vadhAuMdA hai?",
+      "kI iha niradhArata karanA musa਼kala hai ki kI tuhADe desa਼ vichcha imIgresa਼na aparAdha dara nUM vadhAuMdA hai?",
+      "kI tusIM isa galla nAla asahimata ho ki tuhADe desa਼ vichcha imIgresa਼na aparAdha dara nUM vadhAuMdA hai?",
+      "kI tuhAnUM yakIna nahIM hai ki tuhADe desa਼ vichcha imIgresa਼na aparAdha dara nUM vadhAuMdA hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "tuhADe desa਼ vichcha imIgresa਼na: rAjanItika sa਼ranArathIAM nUM sa਼rana diMdA hai",
+    "questions": [
+      "tuhADe desa਼ vichcha imIgresa਼na bAre tuhADI kI rAe hai? kI iha rAjanItika sa਼ranArathIAM nUM sa਼raNa pradAna karadA hai?",
+      "tuhADe desa਼ vichcha, kI imIgresa਼na nItI rAjanItika sa਼ranArathIAM nUM sa਼raNa diMdI hai? kirapA karake ApaNA drisa਼TIkoNa dasso|",
+      "kI tuhADe desa਼ vichcha rAjanItika sa਼ranArathIAM nUM isade imIgresa਼na sisaTama rAhIM sa਼raNa dittI jAMdI hai? kirapA karake ApaNA javAba chuNo|",
+      "kI tusIM isa kathana nAla sahimata ho jAM asahimata ki tuhADe desa਼ vichcha imIgresa਼na rAjanItika sa਼ranArathIAM nUM sa਼raNa pradAna karadA hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "tuhADe desa਼ vichcha imIgresa਼na: attavAda de jokhamAM nUM vadhAuMdA hai",
+    "questions": [
+      "kI tusIM isa galla nAla sahimata ho ki tuhADe desa਼ vichcha imIgresa਼na attavAda de jokhama nUM vadhAuMdA hai?",
+      "tuhADI rAe vichcha, kI iha kahiNA aukhA hai ki kI tuhADe desa਼ vichcha imIgresa਼na attavAda de jokhama nUM vadhAuMdA hai?",
+      "kI tusIM isa galla nAla asahimata ho ki tuhADe desa਼ vichcha paravAsa attavAda de jokhama nUM vadhAuMdA hai?",
+      "kI tuhADe laI iha niradhArata karanA musa਼kala hai ki kI tuhADe desa਼ vichcha imIgresa਼na attavAda de jokhama nUM vadhAuMdA hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "tuhADe desa਼ vichcha imIgresa਼na: garIba lokAM nUM navIM ja਼iMdagI sathApata karana vichcha madada karadA hai",
+    "questions": [
+      "kI tuhAnUM laggadA hai ki tuhADe desa਼ vichcha imIgresa਼na garIba lokAM nUM navIM ja਼iMdagI sathApata karana vichcha madada karadA hai?",
+      "kI tusIM maMnade ho ki tuhADe desa਼ vichcha imIgresa਼na garIba viakatIAM nUM navIM ja਼iMdagI sathApata karana vichcha sahAitA karadA hai?",
+      "kI tuhADA iha vichAra hai ki tuhADe desa਼ vichcha imIgresa਼na garIba lokAM nUM navIM ja਼iMdagI baNAuNa vichcha sahAitA karadA hai?",
+      "kI tusIM isa galla nAla sahimata ho ki tuhADe desa਼ vichcha imIgresa਼na garIba viakatIAM nUM navIM sa਼urUAta karana vichcha sahAitA karadA hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "tuhADe desa਼ vichcha imIgresa਼na: beruja਼gArI vadhAuMdI hai",
+    "questions": [
+      "isa biAna bAre tuhADI kI rAe hai: tuhADe desa਼ vichcha imIgresa਼na beruja਼gArI vadhAuMdA hai?",
+      "kI tusIM isa kathana nAla sahimata ho jAM asahimata: tuhADe desa਼ vichcha imIgresa਼na beruja਼gArI vadhAuMdA hai?",
+      "kI iha kahiNA aukhA hai ki kI tuhADe desa਼ vichcha imIgresa਼na beruja਼gArI vadhAuMdA hai?",
+      "kI tusIM isa galla nAla asahimata jAM sahimata hovoge ki tuhADe desa਼ vichcha imIgresa਼na beruja਼gArI vadhAuMdA hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "tuhADe desa਼ vichcha imIgresa਼na: samAjika TakarAa valla lai jAMdA hai",
+    "questions": [
+      "kI tusIM maMnade ho ki tuhADe desa਼ vichcha paravAsa samAjika TakarAa valla lai jAMdA hai?",
+      "tuhADI rAe vichcha, kI tuhADe desa਼ vichcha imIgresa਼na samAjika TakarAa dA kArana baNadA hai?",
+      "kI tuhADA iha vichAra hai ki tuhADe desa਼ vichcha paravAsa samAjika TakarAa dA kArana baNadA hai?",
+      "kI tusIM isa galla nAla sahimata ho ki tuhADe desa਼ vichcha paravAsa samAjika TakarAa valla lai jAMdA hai?"
+    ],
+    "options": [
+      "sahimata",
+      "kahiNA aukhA hai|",
+      "asahimata"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "chiMtAvAM: naukarI guAuNA jAM naukarI nA milaNA",
+    "questions": [
+      "tusIM ApaNI naukarI guAuNa jAM naukarI nA milaNa bAre kiMne chiMtata ho? (bahuta ja਼iAdA, ikka chaMgA saudA, ja਼iAdA nahIM, bilakula nahIM)",
+      "naukarI guAuNa jAM naukarI nA milaNa dA Dara tuhAnUM kisa hadda takka chiMtata karadA hai? (bahuta ja਼iAdA, chaMgA saudA, ja਼iAdA nahIM, bilakula nahIM)",
+      "kI tusIM ApaNI naukarI guAuNa jAM naukarI nA milaNa bAre bahuta chiMtata ho? (bahuta ja਼iAdA, ikka chaMgA saudA, ja਼iAdA nahIM, bilakula nahIM)",
+      "bahuta ja਼iAdA toM lai ke bilakula nahIM takka de paimAne 'te, tusIM ApaNI naukarI guAuNa jAM naukarI nA milaNa bAre kiMnI chiMtA karade ho?"
+    ],
+    "options": [
+      "bahuta",
+      "ikka vadhIA saudA",
+      "jiAdA nahI",
+      "bilakula nahIM"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "chiMtAvAM: ApaNe bachchiAM nUM chaMgI sikkhiA nA de sakaNA",
+    "questions": [
+      "tusIM ApaNe bachchiAM nUM chaMgI sikkhiA nA de sakaNa bAre kisa hadda takka chiMtata ho?",
+      "tusIM ApaNe bachchiAM nUM chaMgI sikkhiA nA de sakaNa bAre kiMne chiMtata ho?",
+      "tusIM ApaNe bachchiAM nUM chaMgI sikkhiA deNa dI ApaNI yogatA bAre kisa hadda takka chiMtata ho?",
+      "tusIM ApaNe bachchiAM laI chaMgI sikkhiA yakInI nA baNA sakaNa bAre kiMnI chiMtA karade ho?"
+    ],
+    "options": [
+      "bahuta",
+      "ikka vadhIA saudA",
+      "jiAdA nahI",
+      "bilakula nahIM"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "pratIvAdI piChale sAla daurAna kise aparAdha dA sa਼ikAra hoiA sI|",
+    "questions": [
+      "kI tusIM piChale sAla kise aparAdha dA sa਼ikAra hoe ho?",
+      "kI tusIM piChale sAla koI aparAdhika ghaTanA dA anubhava kItA hai?",
+      "piChale sAla daurAna, kI tusIM kise aparAdha dA sa਼ikAra hoe sI?",
+      "piChale sAla, kI tusIM kise aparAdhika gatIvidhIAM toM pI.Data sI?"
+    ],
+    "options": [
+      "hAM",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "uttaradAtA dA parivAra piChale sAla daurAna ikka aparAdha dA sa਼ikAra hoiA sI|",
+    "questions": [
+      "kI tuhADA parivAra piChale sAla kise aparAdha dA sa਼ikAra hoiA sI?",
+      "kI tuhADe parivAra ne piChale sAla koI aparAdhika ghaTanA dA anubhava kItA?",
+      "piChale sAla daurAna, kI tuhADe parivAra nUM kise aparAdhika gatIvidhI dA nisa਼AnA baNAiA giA sI?",
+      "piChale sAla, kI kise aparAdhika aparAdha ne tuhADe parivAra nUM prabhAvita kItA?"
+    ],
+    "options": [
+      "hAM",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "Aja਼AdI ate samAnatA - kiha.DA ja਼iAdA mahattavapUrana hai?",
+    "questions": [
+      "tuhADe vichAra vichcha, kI Aja਼AdI ja਼iAdA mahattavapUrana hai jAM samAnatA?",
+      "tusIM kisa nUM ja਼iAdA mahattavapUrana samajhade ho: Aja਼AdI jAM samAnatA?",
+      "mahattava dA mulAMkaNa karade sameM, kisadI kImata ja਼iAdA hai: Aja਼AdI jAM samAnatA?",
+      "Aja਼AdI ate samAnatA vichchoM, tuhADe vichAra vichcha dovAM vichchoM kiha.DA ja਼iAdA mahattavapUrana hai?"
+    ],
+    "options": [
+      "Aja਼AdI",
+      "samAnatA"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "Aja਼AdI ate surakkhiA - kiha.DA ja਼iAdA mahattavapUrana hai?",
+    "questions": [
+      "kiha.DA ja਼iAdA mahattavapUrana hai - Aja਼AdI jAM surakkhiA?",
+      "jadoM mahattava dI galla AuMdI hai, tAM tuhADe laI kiha.DA uchchA darajA rakkhadA hai - Aja਼AdI jAM surakkhiA?",
+      "Aja਼AdI ate surakkhiA vichchoM, tuhADe laI kiha.DA ja਼iAdA mahattava rakkhadA hai?",
+      "tusIM kisadI ja਼iAdA kadara karade ho: Aja਼AdI jAM surakkhiA?"
+    ],
+    "options": [
+      "Aja਼AdI",
+      "surakkhiA"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "desa਼ laI la.Dana dI ichChA|",
+    "questions": [
+      "kI tusIM ApaNe desa਼ laI la.Dana laI tiAra ho?",
+      "kI tusIM ApaNe desa਼ laI la.Dana laI tiAra hovoge?",
+      "kI tuhADe vichcha ApaNe desa਼ laI la.Dana dI ichChA hai?",
+      "TakarAa dI sathitI vichcha, kI tusIM ApaNe desa਼ laI la.Doge?"
+    ],
+    "options": [
+      "hAM",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q158": {
+    "description": "vigiAna ate takanAlojI sADe jIvana nUM sihatamaMda, AsAna ate vadhere ArAmadAika baNA rahe hana|",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM isa galla nAla kiMne sahimata ho ki vigiAna ate takanAlojI sADI ja਼iMdagI nUM sihatamaMda, AsAna ate vadhere ArAmadAika baNA rahe hana?",
+      "kirapA karake isa kathana 'te ApaNI rAe 1 toM 10 takka darajA dio: vigiAna ate takanAlojI sADe jIvana nUM sihatamaMda, AsAna ate vadhere ArAmadAika baNA ke bihatara baNA rahe hana|",
+      "tusIM isa galla nAla kiMnA ku sahimata ho ki vigiAna ate takanAlojI ikka sihatamaMda, AsAna ate vadhere ArAmadAika jIvana vichcha yogadAna pAuMdI hai? kirapA karake 1 toM 10 takka darajA dio|",
+      "1 toM 10 de paimAne dI varatoM karade hoe, kirapA karake isa vichAra nAla ApaNI sahimatI dA paddhara dasso ki vigiAna ate takanAlojI sADI ja਼iMdagI nUM sihatamaMda, AsAna ate vadhere ArAmadAika baNA rahe hana|"
+    ],
+    "options": [
+      "pUrI tarhAM asahimata",
+      "pUrI tarhAM sahimata hAM"
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "vigiAna ate takanAlojI de kArana, agalI pI.DhI laI hora mauke hoNage|",
+    "questions": [
+      "1-10 de paimAne 'te, tusIM kisa hadda takka sahimata ho ki vigiAna ate takanAlojI de kArana agalI pI.DhI laI hora mauke hoNage?",
+      "kirapA karake ApaNI sahimatI de paddhara nUM 1-10 de paimAne 'te darajA dio ki vigiAna ate takanAlojI agalI pI.DhI laI vadhere mauke paidA karegI|",
+      "tusIM kisa hadda takka maMnade ho ki vigiAna ate takanAlojI agalI pI.DhI laI vadhe hoe mauke pradAna karegI? kirapA karake 1-10 de paimAne 'te reTa karo|",
+      "tusIM isa galla nAla kiMnI ku sahimata jAM asahimata ho ki vigiAna ate takanAlojI agalI pI.DhI laI hora mauke pradAna karegI? kirapA karake 1 toM 10 takka darajA dio|"
+    ],
+    "options": [
+      "pUrI tarhAM asahimata",
+      "pUrI tarhAM sahimata hAM"
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "asIM vigiAna 'te bahuta ja਼iAdA nirabhara karade hAM ate visa਼vAsa 'te kApha਼I nahIM",
+    "questions": [
+      "1-10 de paimAne 'te, tusIM isa kathana nAla kiMnA ku sahimata ho 'asIM vigiAna 'te bahuta ja਼iAdA nirabhara karade hAM ate visa਼vAsa 'te kApha਼I nahIM'?",
+      "kirapA karake 1 toM 10 de paimAne dI varatoM karake 'asIM vigiAna 'te bahuta ja਼iAdA bharosA karade hAM ate visa਼vAsa nUM kApha਼I mahattava nahIM diMde' vAle kathana nAla ApaNe sahimatI de paddhara nUM darajA dio|",
+      "tusIM isa dAave nAla kisa hadda takka sahimata jAM asahimata ho ki 'asIM vigiAna vichcha bahuta ja਼iAdA bharosA karade hAM ate visa਼vAsa nUM naja਼raaMdAja਼ karade hAM'? ApaNe javAba nUM 1 toM 10 de paimAne 'te darajA dio|",
+      "1-10 de paimAne dI varatoM karade hoe, 'asIM vigiAna 'te bahuta ja਼iAdA nirabhara karade hAM ate visa਼vAsa dI aNadekhI karade hAM' isa kathana nAla tuhADI sahimatI dA paddhara darasAo|"
+    ],
+    "options": [
+      "pUrI tarhAM asahimata",
+      "pUrI tarhAM sahimata hAM"
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "vigiAna de mA.De prabhAvAM vichchoM ikka iha hai ki iha lokAM de sahI ate galata de vichArAM nUM to.Da diMdA hai|",
+    "questions": [
+      "vigiAna de mA.De prabhAvAM vichchoM ikka iha hai ki iha lokAM de sahI ate galata de vichArAM nUM to.DadA hai| tusIM isa kathana nAla kisa hadda takka asahimata jAM sahimata ho? (1 = pUrI tarhAM asahimata, 10 = pUrI tarhAM sahimata)",
+      "1 toM 10 de paimAne 'te, tusIM isa vichAra nAla kiMnA ku sahimata jAM asahimata ho ki vigiAna lokAM de sahI ate galata de vichArAM nUM to.DadA hai?",
+      "kirapA karake isa kathana nAla ApaNI sahimatI jAM asahimatI de paddhara nUM darajA dio: vigiAna dA lokAM de sahI ate galata de vichArAM 'te nakArAtamaka prabhAva paiMdA hai| (1 = pUrI tarhAM asahimata, 10 = pUrI tarhAM sahimata)",
+      "tuhAnUM kisa hadda takka laggadA hai ki vigiAna lokAM de sahI ate galata de vichArAM nUM kamaja਼ora karadA hai? kirapA karake 1 toM 10 takka darajA dio, 1 'pUrI tarhAM asahimata' nUM darasAuMdA hai ate 10 'pUrI tarhAM sahimata' nUM darasAuMdA hai|"
+    ],
+    "options": [
+      "pUrI tarhAM asahimata",
+      "pUrI tarhAM sahimata hAM"
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "mere laI ApaNI roja਼AnA ja਼iMdagI vichcha vigiAna bAre jANanA mahattavapUrana nahIM hai|",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM isa kathana nAla kiMnA ku sahimata jAM asahimata ho: 'mere laI ApaNI roja਼AnA ja਼iMdagI vichcha vigiAna bAre jANanA mahattavapUrana nahIM hai'?",
+      "kirapA karake isa kathana nAla ApaNI sahimatI jAM asahimatI de paddhara nUM 1 toM 10 de paimAne 'te darajA dio: 'mere laI ApaNI roja਼AnA ja਼iMdagI vichcha vigiAna bAre jANanA mahattavapUrana nahIM hai'|",
+      "tusIM isa kathana nAla kiMnA ku sahimata jAM asahimata ho: 'mere laI ApaNI roja਼AnA ja਼iMdagI vichcha vigiAna bAre jANanA mahattavapUrana nahIM hai'? 1 toM 10 de paimAne dI varatoM karo|",
+      "'mere laI ApaNI roja਼AnA ja਼iMdagI vichcha vigiAna bAre jANanA mahattavapUrana nahIM hai' isa kathana nUM 1 toM 10 de paimAne 'te darajA de ke ApaNI rAe dasso|"
+    ],
+    "options": [
+      "pUrI tarhAM asahimata",
+      "pUrI tarhAM sahimata hAM"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "paramAtamA dI mahattatA",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tuhADe laI paramAtamA kiMnA mahattavapUrana hai?",
+      "tusIM ApaNI ja਼iMdagI vichcha paramAtamA nUM kiMnA mahattava diMde ho? kirapA karake 1 toM 10 de paimAne dI varatoM karo|",
+      "tusIM ApaNe roja਼AnA de kaMmAM vichcha paramAtamA nUM kisa hadda takka mahattavapUrana maMnade ho? kirapA karake 1 toM 10 de paimAne dI varatoM karake darajA dio|",
+      "kirapA karake dasso ki tusIM ApaNe visa਼vAsa praNAlI vichcha paramAtamA nUM kiMnA mahattava diMde ho| 1 toM 10 de paimAne 'te darajA dio|"
+    ],
+    "options": [
+      "bilakula vI mahattavapUrana nahIM",
+      "bahuta mahattavapUrana"
+    ],
+    "scale": true
+  },
+  "Q166": {
+    "description": "mauta toM bAada de jIvana vichcha visa਼vAsa karo",
+    "questions": [
+      "kI tusIM mauta toM bAada de jIvana vichcha visa਼vAsa karade ho?",
+      "kI mauta toM bAada jIvana hai?",
+      "kI tuhAnUM laggadA hai ki mauta toM bAada koI hoMda hai?",
+      "kI tuhADA iha visa਼vAsa hai ki mauta toM bAada jIvana hai?"
+    ],
+    "options": [
+      "hAM",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "naraka vichcha visa਼vAsa karo",
+    "questions": [
+      "kI tusIM naraka vichcha visa਼vAsa karade ho?",
+      "kI tuhADA naraka vichcha visa਼vAsa maja਼bUta hai?",
+      "kI tusIM kahoge ki tuhADA naraka vichcha visa਼vAsa hai?",
+      "kI tusIM naraka dI dhAranA vichcha visa਼vAsa karade ho?"
+    ],
+    "options": [
+      "hAM",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "savaraga vichcha visa਼vAsa karo",
+    "questions": [
+      "kI tusIM savaraga vichcha visa਼vAsa karade ho?",
+      "kI tusIM savaraga vichcha visa਼vAsI ho?",
+      "kI tuhAnUM laggadA hai ki savaraga maujUda hai?",
+      "kI tusIM savaraga dI dhAranA vichcha visa਼vAsa karade ho?"
+    ],
+    "options": [
+      "hAM",
+      "nahIM"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "jadoM vI vigiAna ate dharama TakarAuMde hana, dharama hamesa਼A sahI huMdA hai|",
+    "questions": [
+      "kI tusIM maMnade ho ki jadoM vI vigiAna ate dharama TakarAuMde hana, dharama hamesa਼A sahI huMdA hai?",
+      "tuhADe vichAra vichcha, kI dharama hamesa਼A sahI huMdA hai jadoM vigiAna ate dharama vichakAra TakarAa huMdA hai?",
+      "kI tusIM isa galla nAla sahimata ho ki dharama hamesa਼A sahI huMdA hai jadoM iha vigiAna de ulaTa huMdA hai?",
+      "kI tuhAnUM laggadA hai ki dharama unhAM sArIAM sathitIAM vichcha sahI hai jitthe iha vigiAna de ulaTa hai?"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "sahimata",
+      "asahimata",
+      "pUrI tarhAM asahimata hAM"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "tusIM kiMnI vAra dhAramika sevAvAM vichcha jAMde ho?",
+    "questions": [
+      "tusIM dhAramika sevAvAM vichcha kiMnI vAra jAMde ho?",
+      "tusIM kiMnI vAra dhAramika sevAvAM vichcha jAMde ho?",
+      "tusIM dhAramika sevAvAM vichcha kiMnI vAra hissA laiMde ho?",
+      "tusIM kiMnI vAra dhAramika sevAvAM 'te jAMde ho?"
+    ],
+    "options": [
+      "hapha਼te vichcha ikka toM vaddha vAra",
+      "hapha਼te vichcha ikka vAra",
+      "mahIne vichcha ikka vAra",
+      "sirapha਼ khAsa pavittara dinAM 'te",
+      "sAla vichcha ikka vAra",
+      "ghaTTa akasara",
+      "kade nahIM, lagabhaga kade nahIM"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "dharama dA aratha: mauta toM bAada de jIvana nUM samajhaNA banAma isa saMsAra vichcha jIvana nUM samajhaNA",
+    "questions": [
+      "dharama dA udesa਼ kI hai? (ikka chuNo)",
+      "kiha.DA biAna dharama pratI tuhADe naja਼rIe nAla vadhere mela khAMdA hai? (ikka chuNo)",
+      "tuhADe vichAra vichcha, dharama dA mukkha kaMma mauta toM bAada de jIvana nUM samajhaNA hai jAM isa saMsAra vichcha jIvana nUM samajhaNA hai? (ikka chuNo)",
+      "dharama bAre vichAra karade sameM, tusIM kI maMnade ho ki iha mukkha taura 'te jIvana de kiha.De pahilU nUM samajhAuNa dI kosa਼isa਼ karadA hai? (ikka chuNo)"
+    ],
+    "options": [
+      "mauta toM bAada de jIvana nUM samajhAuNa laI",
+      "isa dunIAM vichcha ja਼iMdagI nUM samajhAuNa laI"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "sahimatI dI DigarI: ajjakallha akasara iha phaisalA karana vichcha musa਼kala AuMdI hai ki kiha.De naitika niyamAM dI pAlaNA karanI sahI hai|",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM isa kathana nAla kiMne sahimata ho: ajjakallha akasara iha phaisalA karana vichcha musa਼kala AuMdI hai ki kiha.De naitika niyamAM dI pAlaNA karanI sahI hai? (1 = pUrI tarhAM sahimata, 10 = pUrI tarhAM asahimata)",
+      "kirapA karake isa kathana nAla ApaNI sahimatI nUM darajA dio: ajjakallha akasara iha phaisalA karana vichcha musa਼kala AuMdI hai ki 1 toM 10 de paimAne 'te kiha.De naitika niyamAM dI pAlaNA karanI sahI hai| (1 = pUrI tarhAM sahimata, 10 = pUrI tarhAM asahimata)",
+      "isa kathana nAla tuhADI sahimatI dA paddhara dasso: ajjakallha akasara iha phaisalA karana vichcha musa਼kala AuMdI hai ki 1 toM 10 de paimAne dI varatoM karake kiha.De naitika niyamAM dI pAlaNA karanI sahI hai| (1 = pUrI tarhAM sahimata, 10 = pUrI tarhAM asahimata)",
+      "tusIM heTha likhe kathana nAla kiMnA ku sahimata ho? ajjakallha akasara iha phaisalA karana vichcha musa਼kala AuMdI hai ki kiha.De naitika niyamAM dI pAlaNA karanI sahI hai| kirapA karake 1 toM 10 de paimAne 'te reTa karo, jitthe 1 dA matalaba hai ki tusIM pUrI tarhAM sahimata ho, ate 10 dA matalaba hai ki tusIM pUrI tarhAM asahimata ho|"
+    ],
+    "options": [
+      "pUrI tarhAM sahimata hAM",
+      "pUrI tarhAM asahimata"
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "jAija਼: sarakArI lAbhAM dA dAavA karanA jinhAM de tusIM hakkadAra nahIM ho|",
+    "questions": [
+      "kiha.DIAM sathitIAM vichcha, je koI hai, tAM tuhAnUM kI laggadA hai ki sarakArI lAbhAM dA dAavA karanA jAija਼ hai jinhAM de tusIM hakkadAra nahIM ho?",
+      "kiha.DIAM sa਼ratAM adhIna, je koI hana, tAM tusIM kI maMnade ho ki sarakArI lAbhAM dA dAavA karanA jAija਼ hai jinhAM de tusIM hakkadAra nahIM ho?",
+      "kI tusIM kujha khAsa sathitIAM vichcha sarakArI lAbhAM dA dAavA karanA jAija਼ samajhade ho jinhAM de tusIM hakkadAra nahIM ho? je hAM, tAM kadoM?",
+      "tuhADI rAe vichcha, kI koI ajihe hAlAta hana jitthe sarakArI lAbhAM dA dAavA karanA jAija਼ hai jinhAM de tusIM hakkadAra nahIM ho?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q178": {
+    "description": "jAija਼: janataka AvAjAI 'te kirAe toM bachaNA",
+    "questions": [
+      "tusIM kiMnI vAra maMnade ho ki janataka AvAjAI 'te kirAe toM bachaNA jAija਼ hai?",
+      "tuhAnUM janataka AvAjAI 'te kirAiA deNa toM bachaNA kisa hadda takka savIkArayoga laggadA hai?",
+      "tuhADI rAe vichcha, janataka AvAjAI 'te kirAiA deNa toM bachaNA kadoM uchita hai?",
+      "tusIM janataka AvAjAI 'te kirAe toM bachaNa de kaMma nUM kiMnA ku jAija਼ maMnade ho?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q179": {
+    "description": "jAija਼: jAidAda chorI karanA",
+    "questions": [
+      "kI tusIM maMnade ho ki jAidAda chorI karanA kade vI jAija਼ nahIM huMdA?",
+      "kI tuhAnUM laggadA hai ki jAidAda chorI karanA hamesa਼A jAija਼ huMdA hai?",
+      "tuhADe vichAra vichcha, kI jAidAda chorI karanA kade vI jAija਼ nahIM huMdA?",
+      "kI tuhADA iha maMnaNA hai ki jAidAda chorI karanA hamesa਼A jAija਼ huMdA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q180": {
+    "description": "jAija਼: TaikasAM vichcha dhokhAdha.DI",
+    "questions": [
+      "kI tusIM maMnade ho ki TaikasAM vichcha dhokhAdha.DI kade vI jAija਼ hai?",
+      "tuhADe vichAra vichcha, kI TaikasAM vichcha dhokhAdha.DI hamesa਼A galata huMdI hai?",
+      "kI tuhAnUM laggadA hai ki ajihe koI hAlAta hana jitthe TaikasAM vichcha dhokhAdha.DI nUM jAija਼ ThahirAiA jA sakadA hai?",
+      "kI tuhADA iha maMnaNA hai ki TaikasAM vichcha dhokhAdha.DI nUM kade vI savIkArayoga nahIM maMniA jANA chAhIdA?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q181": {
+    "description": "jAija਼: koI viakatI ApaNe pharaja਼AM daurAna risa਼vata laiMdA hai|",
+    "questions": [
+      "kise viakatI valloM ApaNe pharaja਼AM daurAna risa਼vata laiNa nUM jAija਼ ThahirAuNa bAre tuhADI kI rAe hai?",
+      "tusIM kisa hadda takka maMnade ho ki kise viakatI laI ApaNe pharaja਼AM daurAna risa਼vata laiNA jAija਼ hai?",
+      "tuhADe vichAra vichcha, kI kise laI ApaNe pharaja਼AM dI pUratI daurAna risa਼vata laiNA kade savIkArayoga hai?",
+      "kI tuhAnUM laggadA hai ki kise viakatI valloM ApaNe pharaja਼ nibhAuMde hoe risa਼vata laiNA hamesa਼A jAija਼ huMdA hai, kade vI jAija਼ nahIM huMdA, jAM kite nA kite vichakAra huMdA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q184": {
+    "description": "jAija਼: garabhapAta",
+    "questions": [
+      "kI tusIM maMnade ho ki garabhapAta kade vI jAija਼ hai?",
+      "tuhADI rAe vichcha, kI kise vI hAlAta vichcha garabhapAta jAija਼ hai?",
+      "kI tuhAnUM laggadA hai ki ajihIAM koI sathitIAM hana jinhAM vichcha garabhapAta nUM jAija਼ ThahirAiA jA sakadA hai?",
+      "kI tuhADe vichAra vichcha garabhapAta hamesa਼A jAija਼ nahIM huMdA?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q185": {
+    "description": "jAija਼: talAka",
+    "questions": [
+      "kI talAka kade jAija਼ hai?",
+      "kI tusIM maMnade ho ki talAka nUM jAija਼ ThahirAiA jA sakadA hai?",
+      "kI talAka nUM jAija਼ maMniA jA sakadA hai?",
+      "tuhADe vichAra vichcha, kI koI ajihI sathitI hai jitthe talAka nUM jAija਼ ThahirAiA jA sakadA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q187": {
+    "description": "jAija਼: khudakusa਼I",
+    "questions": [
+      "khudakusa਼I dI jAija਼tA bAre tuhADe kI vichAra hana?",
+      "kI tusIM maMnade ho ki khudakusa਼I kade vI jAija਼ hai?",
+      "jadoM khudakusa਼I dI galla AuMdI hai, tAM kI tuhAnUM laggadA hai ki kujha hAlAta isa nUM jAija਼ ThahirAuMde hana?",
+      "kI khudakusa਼I ajihI chIja਼ hai jisanUM tusIM kise vI sathitI vichcha naitika taura 'te jAija਼ samajhade ho?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q188": {
+    "description": "jAija਼: ichChA mauta",
+    "questions": [
+      "ichChA mauta dI jAija਼tA bAre tuhADA kI saTaiMDa hai?",
+      "kI tusIM maMnade ho ki kujha khAsa hAlAtAM vichcha ichChA mauta jAija਼ hai?",
+      "tuhADe vichAra vichcha, kI ichChA mauta kade vI jAija਼ hai?",
+      "kI khAsa mAmaliAM vichcha ichChA mauta nUM ikka jAija਼ vikalapa maMniA jANA chAhIdA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q189": {
+    "description": "jAija਼: ikka AdamI valloM ApaNI patanI nUM kuTTaNA",
+    "questions": [
+      "kI ikka AdamI laI ApaNI patanI nUM kuTTaNA jAija਼ hai?",
+      "kI tusIM maMnade ho ki ikka AdamI valloM ApaNI patanI nUM kuTTaNA jAija਼ hai?",
+      "tuhADe vichAra vichcha, kI iha kade vI savIkArayoga hai ki koI AdamI ApaNI patanI nUM kuTTe?",
+      "kI tuhAnUM laggadA hai ki ajihe hAlAta hana jitthe ikka AdamI laI ApaNI patanI nUM kuTTaNA jAija਼ hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q190": {
+    "description": "jAija਼: mApe bachchiAM nUM kuTTade hana|",
+    "questions": [
+      "kI tusIM mApiAM laI ApaNe bachchiAM nUM kuTTaNA jAija਼ samajhade ho?",
+      "kI mApiAM laI ApaNe bachchiAM 'te sarIraka tAkata dI varatoM karanA kade jAija਼ hai?",
+      "kI tusIM maMnade ho ki mApiAM nUM ApaNe bachchiAM nUM sarIraka taura 'te anusa਼Asana deNa dA adhikAra hai?",
+      "tuhADe vichAra vichcha, kI mApiAM laI ApaNe bachchiAM nUM sarIraka saja਼A deNA savIkArayoga hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q191": {
+    "description": "jAija਼: dUje lokAM viruddha hiMsA",
+    "questions": [
+      "kI tusIM maMnade ho ki dUje lokAM viruddha hiMsA kade vI jAija਼ hai?",
+      "tuhADI rAe vichcha, kI koI ajihI sathitI hai jitthe dUje lokAM viruddha hiMsA nUM jAija਼ maMniA jA sakadA hai?",
+      "kI tuhAnUM laggadA hai ki ajihe koI hAlAta hana jinhAM vichcha dUje lokAM viruddha hiMsA nUM jAija਼ ThahirAiA jA sakadA hai?",
+      "kI kise vI sathitI vichcha dUje lokAM viruddha hiMsA nUM jAija਼ ThahirAiA jA sakadA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q192": {
+    "description": "jAija਼: attavAda nUM ikka rAjanItika, vichAradhAraka jAM dhAramika sAdhana vajoM",
+    "questions": [
+      "kI tusIM maMnade ho ki attavAda nUM kade vI rAjanItika sAdhana vajoM jAija਼ ThahirAiA jA sakadA hai?",
+      "kI attavAda nUM vichAradhAraka sAdhana vajoM jAija਼ ThahirAuNA saMbhava hai?",
+      "kI tuhAnUM laggadA hai ki attavAda nUM dhAramika sAdhana vajoM jAija਼ maMniA jA sakadA hai?",
+      "tuhADI rAe vichcha, kI attavAda kade vI rAjanItika TIchiAM nUM prApata karana dA ikka jAija਼ tarIkA huMdA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q194": {
+    "description": "jAija਼: rAjanItika hiMsA",
+    "questions": [
+      "kI tusIM maMnade ho ki rAjanItika hiMsA kade vI jAija਼ hai?",
+      "tuhADI rAe vichcha, kI koI ajihI sathitI hai jisa vichcha rAjanItika hiMsA nUM jAija਼ ThahirAiA jA sakadA hai?",
+      "kI tuhAnUM laggadA hai ki kujha khAsa hAlatAM vichcha rAjanItika hiMsA nUM naitika taura 'te jAija਼ ThahirAiA jA sakadA hai?",
+      "kI rAjanItika hiMsA nUM jAija਼ ThahirAiA jA sakadA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q195": {
+    "description": "jAija਼: mauta dI saja਼A",
+    "questions": [
+      "kI tusIM maMnade ho ki mauta dI saja਼A jAija਼ hai?",
+      "tuhADe vichAra vichcha, kI mauta dI saja਼A kade vI jAija਼ hai?",
+      "kI tusIM kujha khAsa sathitIAM vichcha mauta dI saja਼A nUM jAija਼ maMnoge?",
+      "kI tuhAnUM laggadA hai ki ajihe koI hAlAta hana jinhAM vichcha mauta dI saja਼A nUM jAija਼ ThahirAiA jA sakadA hai?"
+    ],
+    "options": [
+      "kade vI jAija਼ nahIM",
+      "hamesa਼A jAija਼"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "rAjanItI vichcha dilachasapI",
+    "questions": [
+      "tuhAnUM rAjanItI vichcha kiMnI dilachasapI hai?",
+      "tuhAnUM rAjanItI vichcha kiMnI dilachasapI hai?",
+      "rAjanItI vichcha tuhADI dilachasapI kisa paddhara dI hai?",
+      "kI tusIM ApaNe Apa nUM rAjanItI vichcha dilachasapI rakkhaNa vAle vajoM dassoge?"
+    ],
+    "options": [
+      "bahuta dilachasapI hai",
+      "tho.DhA jihA dilachasapI hai",
+      "bahutI dilachasapI nahIM|",
+      "bilakula vI dilachasapI nahIM"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "rAjanItika kAravAI: paTIsa਼na 'te dasatakhata karanA",
+    "questions": [
+      "kI tusIM kade rAjanItika kAravAI paTIsa਼na 'te dasatakhata kIte hana?",
+      "kI tusIM bhavikkha vichcha rAjanItika kAravAI paTIsa਼na 'te dasatakhata karana bAre vichAra kara rahe ho?",
+      "kI tusIM rAjanItika kAravAI paTIsa਼na 'te dasatakhata karana laI tiAra hovoge?",
+      "kI tuhADA rAjanItika kAravAI paTIsa਼na 'te dasatakhata karana dA koI irAdA hai?"
+    ],
+    "options": [
+      "kara chukke hana|",
+      "ho sakadA hai",
+      "kade nahIM karAMgA"
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "rAjanItika kAravAI: bAIkATa vichcha sa਼Amala hoNA",
+    "questions": [
+      "kI tusIM kade kise rAjanItika bAIkATa vichcha hissA liA hai?",
+      "kI tusIM rAjanItika bAIkATa vichcha hissA laiNa bAre socha rahe ho?",
+      "kI tusIM rAjanItika bAIkATa vichcha hissA laiNa laI tiAra hovoge?",
+      "kI rAjanItika bAIkATa vichcha sa਼Amala hoNA ajihI galla hai jisa bAre tusIM kade socho vI nahIM?"
+    ],
+    "options": [
+      "kara chukke hana|",
+      "ho sakadA hai",
+      "kade nahIM karAMgA"
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "rAjanItika kAravAI: kAnUMnI/sa਼AMtamaI pradarasa਼nAM vichcha sa਼Amala hoNA",
+    "questions": [
+      "kI tusIM kade rAjanItika kAravAI laI kise kAnUMnI/sa਼AMtamaI pradarasa਼na vichcha sa਼Amala hoe ho?",
+      "kI tusIM bhavikkha vichcha rAjanItika kAravAI laI kAnUMnI/sa਼AMtamaI pradarasa਼nAM vichcha sa਼Amala hoNa laI tiAra ho?",
+      "kI tusIM rAjanItika kAravAI laI ikka kAnUMnI/sa਼AMtamaI pradarasa਼na vichcha sa਼Amala hoNa bAre vichAra karoge?",
+      "kI rAjanItika kAravAI laI kAnUMnI/sa਼AMtamaI pradarasa਼nAM vichcha sa਼Amala hoNA kujha ajihA hai jo tusIM kade nahIM karoge?"
+    ],
+    "options": [
+      "kara chukke hana|",
+      "ho sakadA hai",
+      "kade nahIM karAMgA"
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "rAjanItika kAravAI: aNaadhikArata ha.DatAlAM vichcha sa਼Amala hoNA",
+    "questions": [
+      "kI tusIM kade rAjanItika kAravAI laI aNaadhikArata ha.DatAlAM vichcha hissA liA hai?",
+      "kI tusIM rAjanItika kAravAI laI aNaadhikArata ha.DatAlAM vichcha sa਼Amala hoNa dI saMbhAvanA laI khullhe ho?",
+      "kI tusIM rAjanItika kAravAI laI aNaadhikArata ha.DatAlAM vichcha sa਼Amala hoNa bAre vichAra karoge?",
+      "kI tuhAnUM pakkA visa਼vAsa hai ki tusIM kade vI rAjanItika kAravAI laI gaira-sarakArI ha.DatAlAM vichcha hissA nahIM laoge?"
+    ],
+    "options": [
+      "kara chukke hana|",
+      "ho sakadA hai",
+      "kade nahIM karAMgA"
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "choNAM vichcha voTa pAo: sathAnaka paddhara",
+    "questions": [
+      "tusIM sathAnaka paddhara dIAM choNAM vichcha kiMnI vAra voTa pAuMde ho?",
+      "sathAnaka paddhara dIAM choNAM vichcha voTa pAuNa dA tuhADA Ama abhiAsa kI hai?",
+      "kI tusIM Ama taura 'te sathAnaka paddhara dIAM choNAM vichcha voTa pAuMde ho jAM nahIM?",
+      "kI tuhAnUM sathAnaka paddhara dIAM choNAM vichcha voTa pAuNa dI ijAja਼ta hai?"
+    ],
+    "options": [
+      "hamesa਼A",
+      "Ama taura 'te",
+      "kade nahIM",
+      "voTa pAuNa dI ijAja਼ta nahIM hai"
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "choNAM vichcha voTa pAo: rAsa਼TarI paddhara",
+    "questions": [
+      "tusIM rAsa਼TarI paddhara dIAM choNAM vichcha kiMnI vAra voTa pAuMde ho?",
+      "rAsa਼TarI paddhara dIAM choNAM vichcha tuhADA Ama voTiMga paiTarana kI hai?",
+      "kI tusIM kade rAsa਼TarI paddhara dIAM choNAM vichcha hissA liA hai?",
+      "kI tusIM rAsa਼TarI paddhara dIAM choNAM vichcha voTa pA sakade ho?"
+    ],
+    "options": [
+      "hamesa਼A",
+      "Ama taura 'te",
+      "kade nahIM",
+      "voTa pAuNa dI ijAja਼ta nahIM hai"
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: voTAM dI giNatI nirapakkha DhaMga nAla kItI jAMdI hai",
+    "questions": [
+      "desa਼ dIAM choNAM vichcha kiMnI vAra voTAM nirapakkha DhaMga nAla giNIAM jAMdIAM hana?",
+      "desa਼ dIAM choNAM vichcha, voTAM kiMnI vAra nirapakkhatA nAla giNIAM jAMdIAM hana?",
+      "kI desa਼ dIAM choNAM vichcha voTAM akasara nirapakkha DhaMga nAla giNIAM jAMdIAM hana jAM ghaTTa?",
+      "desa਼ dIAM choNAM vichcha voTAM kisa hadda takka nirapakkha DhaMga nAla giNIAM jAMdIAM hana?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: virodhI umIdavArAM nUM choNa la.Dana toM rokiA jAMdA hai",
+    "questions": [
+      "virodhI umIdavArAM nUM desa਼ dIAM choNAM vichcha kiMnI vAra hissA laiNa toM rokiA jAMdA hai?",
+      "virodhI umIdavArAM nUM desa਼ dIAM choNAM vichcha kisa hadda takka hissA laiNa toM rokiA jAMdA hai?",
+      "niyamata taura 'te, virodhI umIdavArAM nUM desa਼ dIAM choNAM vichcha kiMnI vAra hissA laiNa toM rokiA jAMdA hai?",
+      "virodhI umIdavArAM nUM desa਼ dIAM choNAM vichcha kiMnI vAra hissA laiNa toM rokiA jAMdA hai?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: voTarAM nUM risa਼vata dittI jAMdI hai",
+    "questions": [
+      "desa਼ dIAM choNAM vichcha voTarAM nUM kiMnI vAra risa਼vata dittI jAMdI hai?",
+      "desa਼ dIAM choNAM vichcha voTarAM nUM kiMnI vAra risa਼vata miladI hai?",
+      "desa਼ dIAM choNAM vichcha niyamata taura 'te kiMnI vAra voTarAM nUM risa਼vata dittI jAMdI hai?",
+      "desa਼ dIAM choNAM vichcha, voTarAM nUM kiMnI vAra risa਼vatakhorI dA sAhamaNA karanA paiMdA hai?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: pattarakAra choNAM dI nirapakkha kavareja pradAna karade hana",
+    "questions": [
+      "tuhADe desa਼ vichcha pattarakAra kiMnI vAra choNAM dI nirapakkha kavareja pradAna karade hana?",
+      "tuhADe desa਼ dIAM choNAM vichcha, pattarakAra kiMnI vAra nirapakkha kavareja diMde hana?",
+      "tusIM kiMnI vAra kahoge ki pattarakAra tuhADe desa਼ vichcha choNAM dI nirapakkha kavareja pradAna karade hana?",
+      "kI tuhADe desa਼ vichcha pattarakAra akasara choNAM dI nirapakkha kavareja pradAna karade hana?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: choNa adhikArI nirapakkha huMde hana",
+    "questions": [
+      "desa਼ dIAM choNAM vichcha choNa adhikArI kiMnI vAra nirapakkha huMde hana?",
+      "desa਼ dIAM choNAM vichcha choNa adhikArI kiMnI vAra nirapakkhatA dikhAuMde hana?",
+      "desa਼ dIAM choNAM vichcha choNa adhikArI kisa hadda takka nirapakkhatA dikhAuMde hana?",
+      "tusIM kiMnI vAra desa਼ dIAM choNAM vichcha choNa adhikArIAM nUM nirapakkha maMnade ho?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: amIra loka choNAM kharIdade hana",
+    "questions": [
+      "tuhAnUM kI laggadA hai ki tuhADe desa਼ vichcha amIra loka kiMnI vAra choNAM kharIdade hana?",
+      "tuhADe vichAra vichcha, tuhADe desa਼ vichcha amIra loka kiMnI vAra choNAM kharIdade hana?",
+      "tusIM kisa hadda takka maMnade ho ki amIra loka tuhADe desa਼ vichcha choNAM kharIdade hana?",
+      "tusIM kiMnI vAra ApaNe desa਼ vichcha amIra lokAM nUM choNAM kharIdade hoe dekhade ho?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: voTarAM nUM voTAM vele hiMsA dI dhamakI dittI jAMdI hai",
+    "questions": [
+      "desa਼ dIAM choNAM vichcha voTAM vele voTarAM nUM hiMsA dI dhamakI kiMnI vAra dittI jAMdI hai?",
+      "desa਼ dIAM choNAM vichcha, poliMga saTesa਼nAM 'te voTarAM nUM hiMsA dI dhamakI kiMnI vAra dittI jAMdI hai?",
+      "kI desa਼ dIAM choNAM vichcha voTarAM nUM akasara voTAM daurAna hiMsA de kha਼tariAM dA sAhamaNA karanA paiMdA hai?",
+      "desa਼ dIAM choNAM vichcha voTarAM nUM Ama taura 'te kisa hadda takka hiMsA dA kha਼tarA huMdA hai?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: voTarAM nUM choNAM vichcha ikka sachchI choNa dI pesa਼kasa਼ kItI jAMdI hai",
+    "questions": [
+      "desa਼ dIAM choNAM vichcha voTarAM nUM kiMnI vAra sachchI choNa dA maukA dittA jAMdA hai?",
+      "desa਼ dIAM choNAM vichcha voTarAM nUM kiMnI vAra sachchI choNa dA maukA dittA jAMdA hai?",
+      "desa਼ dIAM choNAM vichcha voTarAM kola kiMnI vAra sachchI pasaMda huMdI hai?",
+      "desa਼ dIAM choNAM vichcha voTarAM nUM kisa hadda takka sachchI choNa dA maukA dittA jAMdA hai?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "desa਼ dIAM choNAM vichcha kiMnI vAra: auratAM nUM dapha਼tara chalAuNa de barAbara mauke milade hana",
+    "questions": [
+      "tuhADe desa਼ dIAM choNAM vichcha auratAM nUM kiMnI vAra barAbara mauke milade hana?",
+      "tuhADe desa਼ dIAM choNAM vichcha, kiMnI vAra auratAM nUM ahude laI choNa la.Dana de barAbara mauke milade hana?",
+      "tuhADe desa਼ dIAM choNAM vichcha auratAM nUM choNa la.Dana de barAbara mauke kiMne ku hana?",
+      "kI tuhADe desa਼ dIAM choNAM vichcha auratAM nUM akasara barAbara mauke milade hana?"
+    ],
+    "options": [
+      "bahuta vAra",
+      "akasara",
+      "akasara nahIM",
+      "akasara nahIM|"
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "tusIM kiMnA ku kahoge ki tuhADe desa਼ dI rAjanItika praNAlI tuhADe varage lokAM nUM sarakAra de kaMmAM vichcha ApaNI rAi deNa dI ijAja਼ta diMdI hai?",
+    "questions": [
+      "tuhAnUM kisa hadda takka laggadA hai ki tuhADe desa਼ dI rAjanItika praNAlI tuhADe varage lokAM nUM sarakAra de kaMmAM vichcha ApaNI rAi deNa dI ijAja਼ta diMdI hai?",
+      "tusIM ApaNe desa਼ de rAjanItika sisaTama dI isa yogatA nUM kiMnA mahattava diMde ho ki tuhADe varage lokAM nUM sarakArI phaisaliAM nUM prabhAvita karana dittA jAve?",
+      "tuhADI rAe vichcha, tuhADe varage lokAM laI iha kiMnA ku mahattavapUrana hai ki uha rAjanItika praNAlI rAhIM sarakAra de kaMmAM vichcha ApaNI rAi de sakaNa?",
+      "tuhAnUM kisa hadda takka laggadA hai ki tuhADe desa਼ dI rAjanItika praNAlI tuhADe varage viakatIAM nUM sarakArI kAravAIAM vichcha ApaNI rAi deNa de yoga baNAuMdI hai?"
+    ],
+    "options": [
+      "bahuta mahattavapUrana",
+      "kApha਼I mahattavapUrana",
+      "bahuta mahattavapUrana nahIM",
+      "bilakula vI mahattavapUrana nahIM"
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "rAjanItika praNAlI: ikka maja਼bUta netA hoNA jisanUM saMsada ate choNAM nAla paresa਼Ana nA hoNA pave|",
+    "questions": [
+      "ikka ajihe rAjanItika sisaTama bAre tuhADA kI vichAra hai jisa vichcha ikka maja਼bUta netA hove jisanUM saMsada ate choNAM nAla koI pha਼raka nA pave?",
+      "tusIM ikka rAjanItika praNAlI nUM kiveM dekhade ho jitthe ikka maja਼bUta netA saMsada ate choNAM nAla najiTThaNa laI majabUra nahIM huMdA?",
+      "ikka ajihI rAjanItika praNAlI bAre tuhADe kI vichAra hana jisa vichcha saMsada ate choNAM vichcha binAM kise sa਼mUlIata de ikka maja਼bUta netA sa਼Amala hove?",
+      "tuhADe vichAra vichcha, tusIM ikka rAjanItika praNAlI nUM kiveM darajA dioge jisa vichcha ikka maja਼bUta netA hove jisanUM saMsada ate choNAM bAre chiMtA karana dI ja਼rUrata nA hove?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kApha਼I vadhIA",
+      "kApha਼I mA.DA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "rAjanItika praNAlI: sarakAra nahIM, sagoM mAhirAM dA hoNA, jo desa਼ laI sabha toM vadhIA sochade hana, usa anusAra phaisale laiNa|",
+    "questions": [
+      "ikka rAjanItika praNAlI bAre tuhADI kI rAe hai jisa vichcha mAhara desa਼ laI sabha toM vadhIA kI sochade hana, isa de AdhAra 'te phaisale laiMde hana?",
+      "ikka rAjanItika praNAlI bAre tuhADA kI vichAra hai jitthe mAhirAM duArA desa਼ laI sabha toM vadhIA kI hai isa bAre ApaNI samajha anusAra phaisale lae jAMde hana?",
+      "tusIM ikka ajihI rAjanItika praNAlI bAre kI sochade ho jo desa਼ de hitta vichcha phaisale laiNa laI mAhirAM 'te nirabhara karadI hai?",
+      "tusIM ikka rAjanItika praNAlI bAre kiveM mahisUsa karade ho jisa vichcha phaisale mAhirAM duArA lae jAMde hana jo iha niradhArata karade hana ki desa਼ laI kI sabha toM vadhIA hai?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kApha਼I vadhIA",
+      "kApha਼I mA.DA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "rAjanItika praNAlI: ikka lokataMtarI rAjanItika praNAlI dA hoNA",
+    "questions": [
+      "ikka lokataMtarI rAjanItika praNAlI hoNa de rAjanItika praNAlI bAre tuhADI kI rAe hai?",
+      "tusIM ikka lokataMtarI rAjanItika praNAlI hoNa dI rAjanItika praNAlI nUM kiveM darajA dioge?",
+      "tuhADe vichAra vichcha, kI ikka lokataMtarI rAjanItika praNAlI hoNa dA rAjanItika sisaTama chaMgA hai jAM mA.DA?",
+      "ikka lokataMtarI rAjanItika praNAlI hoNa de rAjanItika praNAlI bAre tuhADA kI mulAMkaNa hai?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kApha਼I vadhIA",
+      "kApha਼I mA.DA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "rAjanItika praNAlI: dhAramika kAnUMna duArA saMchAlita ikka praNAlI jisa vichcha koI rAjanItika pAraTIAM jAM choNAM nahIM huMdIAM|",
+    "questions": [
+      "dhAramika kAnUMna duArA saMchAlita rAjanItika praNAlI bAre tuhADA kI vichAra hai jitthe koI rAjanItika pAraTIAM jAM choNAM nahIM hana?",
+      "tusIM usa praNAlI nUM kiveM darajA dioge jitthe dhAramika kAnUMna binAM kise rAjanItika pAraTIAM jAM choNAM de sa਼Asana karadA hai?",
+      "tuhADe vichAra vichcha, ikka rAjanItika praNAlI kiMnI chaMgI jAM mA.DI hai jo dhAramika kAnUMna duArA niyaMtarita huMdI hai binAM kise rAjanItika pAraTIAM jAM choNAM de?",
+      "ikka ajihI praNAlI bAre tuhADI kI dhAranA hai jo sirapha਼ dhAramika kAnUMna duArA chalAI jAMdI hai, jisa vichcha koI rAjanItika pAraTIAM jAM choNAM nahIM huMdIAM?"
+    ],
+    "options": [
+      "bahuta achChA",
+      "kApha਼I vadhIA",
+      "kApha਼I mA.DA",
+      "bahuta burA"
+    ],
+    "scale": false
+  },
+  "Q57": {
+    "description": "ja਼iAdAtara lokAM 'te bharosA kItA jA sakadA hai|",
+    "questions": [
+      "kI tusIM maMnade ho ki ja਼iAdAtara lokAM 'te bharosA kItA jA sakadA hai?",
+      "tuhADe khiAla vichcha, kI ja਼iAdAtara lokAM 'te bharosA kItA jA sakadA hai?",
+      "kI iha tuhADA visa਼vAsa hai ki ja਼iAdAtara lokAM 'te bharosA kItA jA sakadA hai?",
+      "kI tuhAnUM laggadA hai ki ja਼iAdAtara lokAM 'te bharosA kItA jA sakadA hai?"
+    ],
+    "options": [
+      "ja਼iAdAtara lokAM 'te bharosA kItA jA sakadA hai|",
+      "bahuta sAvadhAna rahiNa dI lo.Da hai|"
+    ],
+    "scale": false
+  },
+  "Q241": {
+    "description": "lokataMtara: sarakArAM amIrAM 'te Taikasa lagAuMdIAM hana ate garIbAM nUM sabasiDI diMdIAM hana|",
+    "questions": [
+      "tusIM kisa hadda takka maMnade ho ki amIrAM 'te Taikasa lagAuNA ate garIbAM nUM sabasiDI deNA lokataMtara dA ikka ja਼rUrI guNa hai?",
+      "1 toM 10 de paimAne 'te, tuhADe kha਼iAla vichcha lokataMtarAM laI amIrAM 'te Taikasa lagAuNA ate garIbAM nUM sabasiDIAM pradAna karanA kiMnA mahattavapUrana hai?",
+      "tusIM isa galla nAla kiMnI ku sahimata jAM asahimata ho ki lokataMtarAM nUM amIrAM 'te Taikasa lagAuNA chAhIdA hai ate garIbAM nUM sabasiDI deNI chAhIdI hai? kirapA karake ApaNe javAba nUM 1 toM 10 de paimAne 'te darajA dio|",
+      "1 toM 10 de paimAne dI varatoM karake darajA dio ki tusIM kisa hadda takka maMnade ho ki amIrAM 'te Taikasa lagAuNA ate garIbAM nUM sabasiDI deNA lokataMtara dA ikka buniAdI pahilU hai|"
+    ],
+    "options": [
+      "lokataMtara dA ja਼rUrI guNa nahIM",
+      "lokataMtara dI ikka ja਼rUrI visa਼esa਼tA"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "lokataMtara: dhAramika adhikArI kAnUMnAM dI viAkhiA karade hana",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM kI sochade ho ki lokataMtara laI dhAramika adhikArI kAnUMnAM dI viAkhiA karana laI kiMnA ja਼rUrI hai?",
+      "kirapA karake 1 toM 10 de paimAne 'te, isa hadda takka darajA dio ki tusIM kisa hadda takka maMnade ho ki lokataMtara laI dhAramika adhikArIAM nUM kAnUMnAM dI viAkhiA karana dI lo.Da huMdI hai|",
+      "tusIM kisa hadda takka iha maMnade ho ki lokataMtara laI dhAramika adhikArIAM kola kAnUMnAM dI viAkhiA karana dI sa਼katI hoNI ja਼rUrI hai? kirapA karake 1 toM 10 takka darajA dio|",
+      "tusIM kI sochade ho ki lokataMtara laI dhAramika adhikArIAM valloM kAnUMnAM dI viAkhiA karanA kiMnA mahattavapUrana hai? kirapA karake 1 toM 10 de paimAne 'te ApaNI rAe dio|"
+    ],
+    "options": [
+      "lokataMtara dA ja਼rUrI guNa nahIM",
+      "lokataMtara dI ikka ja਼rUrI visa਼esa਼tA"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "lokataMtara: lokAM nUM beruja਼gArI laI sarakArI sahAitA miladI hai",
+    "questions": [
+      "lokataMtara: lokAM nUM beruja਼gArI laI sarakArI sahAitA miladI hai?",
+      "tusIM kisa hadda takka maMnade ho ki beruja਼gArI laI sarakArI sahAitA prApata karana vAle loka lokataMtara dI ikka ja਼rUrI visa਼esa਼tA hai? (dara 1 toM 10 takka)",
+      "1 toM 10 de paimAne 'te, tusIM lokataMtara vichcha beruja਼gArI laI rAja sahAitA dI vivasathA nUM kiMnA ja਼rUrI samajhade ho?",
+      "tuhAnUM kI laggadA hai ki beruja਼gArI laI rAja sahAitA dA prabaMdha lokataMtara de ja਼rUrI guNAM vichcha kiMnA yogadAna pAuMdA hai? (dara 1 toM 10 takka)"
+    ],
+    "options": [
+      "lokataMtara dA ja਼rUrI guNa nahIM",
+      "lokataMtara dI ikka ja਼rUrI visa਼esa਼tA"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "lokataMtara: rAja lokAM dI Amadana nUM barAbara baNAuMdA hai|",
+    "questions": [
+      "lokataMtara: lokAM dI Amadana barAbara karana vAlA rAja",
+      "lokataMtara: kI lokAM dI Amadana barAbara baNAuNa vichcha rAja dI bhUmikA hai?",
+      "tusIM kisa hadda takka maMnade ho ki lokataMtara vichcha rAja duArA lokAM dI Amadana barAbara karanA sa਼Amala hai?",
+      "1 toM 10 de paimAne 'te, tusIM kI sochade ho ki lokataMtara laI lokAM dI Amadana barAbara karana vAle rAja nUM sa਼Amala karanA kiMnA ja਼rUrI hai?"
+    ],
+    "options": [
+      "lokataMtara dA ja਼rUrI guNa nahIM",
+      "lokataMtara dI ikka ja਼rUrI visa਼esa਼tA"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "lokataMtara: loka ApaNe sa਼AsakAM dA kahiNA maMnade hana",
+    "questions": [
+      "lokataMtara: lokAM dA ApaNe sa਼AsakAM dA kahiNA maMnaNA lokataMtara dA ja਼rUrI guNa nahIM hai| (1-10 de paimAne 'te dara)",
+      "tusIM kisa hadda takka lokAM de ApaNe sa਼AsakAM dI pAlaNA karana nUM lokataMtara dI ikka ja਼rUrI visa਼esa਼tA maMnade ho? (1-10 de paimAne 'te dara)",
+      "tuhADI rAe vichcha, lokataMtara laI iha kiMnA mahattavapUrana hai ki loka ApaNe sa਼AsakAM dA kahiNA maMnaNa? (1-10 de paimAne 'te reTa)",
+      "tusIM isa galla nAla kiMnA ku sahimata ho ki lokAM dA ApaNe sa਼AsakAM dA kahiNA maMnaNA lokataMtara dA ikka buniAdI pahilU hai? (1-10 de paimAne 'te dara)"
+    ],
+    "options": [
+      "lokataMtara dA ja਼rUrI guNa nahIM",
+      "lokataMtara dI ikka ja਼rUrI visa਼esa਼tA"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "lokataMtara dI mahattatA",
+    "questions": [
+      "1 toM 10 de paimAne 'te, tusIM lokataMtara nUM kiMnA mahattavapUrana maMnade ho?",
+      "tusIM 1 toM 10 de paimAne 'te lokataMtara dI mahattatA nUM kiveM darajA dioge?",
+      "tusIM lokataMtara nUM kisa hadda takka mahattavapUrana maMnade ho? kirapA karake 1 toM 10 de paimAne 'te reTa karo|",
+      "kirapA karake 1 toM 10 de paimAne 'te lokataMtara nUM tusIM kiMnI mahattatA diMde ho, isadA paddhara dasso|"
+    ],
+    "options": [
+      "bilakula vI mahattavapUrana nahIM",
+      "bilakula mahattavapUrana"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "ajja isa desa਼ 'te kiMne lokataMtarI DhaMga nAla sa਼Asana kItA jA rihA hai?",
+    "questions": [
+      "tuhADe anusAra, ajja isa desa਼ 'te kiMne lokataMtarI DhaMga nAla sa਼Asana kItA jA rihA hai? (1-10 de paimAne 'te)",
+      "1 toM 10 de paimAne 'te, tusIM isa desa਼ dI sarakAra nUM ajja kiMnA lokataMtarI maMnade ho?",
+      "tuhAnUM kisa hadda takka laggadA hai ki isa desa਼ vichcha lokataMtarI DhaMga nAla sa਼Asana kItA jAMdA hai? kirapA karake 1 toM 10 de paimAne 'te reTa karo|",
+      "tusIM isa desa਼ vichcha lokataMtara de maujUdA paddhara nUM 1 toM 10 de paimAne 'te kiveM darajA dioge?"
+    ],
+    "options": [
+      "bilakula vI lokataMtarI nahIM",
+      "pUrI tarhAM lokataMtarI"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "ajja kallha viakatIgata manukkhI adhikArAM dA satikAra",
+    "questions": [
+      "tusIM ajjakallha viakatIgata manukkhI adhikArAM de satikAra de paddhara dA varaNana kiveM karoge?",
+      "tuhAnUM kI laggadA hai ki ajja de samAja vichcha viakatIgata manukkhI adhikArAM dA kiMnA ku satikAra kItA jAMdA hai?",
+      "tuhADe vichAra vichcha, ajjakallha viakatIgata manukkhI adhikArAM dA kiMnA satikAra kItA jAMdA hai?",
+      "jadoM viakatIgata manukkhI adhikArAM dI galla AuMdI hai, tAM tusIM varatamAna vichcha satikAra de paddhara dA mulAMkaNa kiveM karoge?"
+    ],
+    "options": [
+      "viakatIgata manukkhI adhikArAM laI bahuta satikAra",
+      "kApha਼I satikAra|",
+      "bahutA satikAra nahIM|",
+      "bilakula vI satikAra nahIM|"
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "rAsa਼TarI mANa",
+    "questions": [
+      "tuhAnUM ApaNI kaumIata 'te kiMnA mANa hai?",
+      "1 toM 4 de paimAne 'te, tuhAnUM ApaNI kaumIata 'te kiMnA mANa hai?",
+      "rAsa਼TarI mANa de mAmale vichcha, kI tusIM ApaNe Apa nUM bahuta mANamattA hoNa de ne.De samajhoge jAM bilakula vI mANamattA nahIM?",
+      "kI tusIM ApaNe rAsa਼TarI mANa de paddhara nUM kApha਼I mANamattA, bahuta mANamattA nahIM, jAM kite vichakAra dassoMge?"
+    ],
+    "options": [
+      "bahuta mANa hai",
+      "kApha਼I mANa vAlA",
+      "bahutA mANa nahIM|",
+      "bilakula vI mANa nahIM|"
+    ],
+    "scale": false
+  }
+}

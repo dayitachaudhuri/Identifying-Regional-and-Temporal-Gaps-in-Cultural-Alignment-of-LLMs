@@ -1,0 +1,3163 @@
+{
+  "Q1": {
+    "description": "jinsei de taisetsu namono : kazoku",
+    "questions": [
+      "anatano jinsei niokeru kazoku no juuyousei wodonoyouni hyouka shimasuka ?",
+      "anatano jinsei nioite , kazoku hadono teido juuyou dato omoi masuka ?",
+      "anatano jinsei nioite , kazoku ha ooki na juuyousei wo motsu teiruto ie masuka ?",
+      "anataha jinsei nioite kazoku ga juuyou dato kangae teimasuka ?"
+    ],
+    "options": [
+      "hijouni juuyou",
+      "mushiro juuyou",
+      "waka ranai",
+      "amari juuyou dehanai",
+      "mattaku juuyou dehanai"
+    ]
+  },
+  "Q2": {
+    "description": "jinsei de taisetsu namono : yuujin",
+    "questions": [
+      "jinsei nioite tomodachi hadorekurai juuyou desuka ？",
+      "anatano iken deha , jinsei nioite yuujin hadorehodo juuyou desuka ?",
+      "jinsei nioite tomodachi hadono teido juuyou dato omoi masuka ?",
+      "jinsei nioite tomodachi hatotemo juuyou dato omoi masuka ?"
+    ],
+    "options": [
+      "hijouni juuyou",
+      "mushiro juuyou",
+      "waka ranai",
+      "amari juuyou dehanai",
+      "mattaku juuyou dehanai"
+    ]
+  },
+  "Q3": {
+    "description": "jinsei de taisetsu nakoto : yoka",
+    "questions": [
+      "anatano jinsei nioite yoka no jikan hadorekurai juuyou desuka ？",
+      "anatanitotte yoka no jikan hadono teido juuyou desuka ?",
+      "yoka no jikan ha jinsei nioite juuyou dato omoi masuka ?",
+      "juuyousei no shakudo de , anatano jinsei niokeru yoka no jikan wodokoni ichi zukemasuka ?"
+    ],
+    "options": [
+      "hijouni juuyou",
+      "mushiro juuyou",
+      "waka ranai",
+      "amari juuyou dehanai",
+      "mattaku juuyou dehanai"
+    ]
+  },
+  "Q4": {
+    "description": "jinsei de taisetsu nakoto : seiji",
+    "questions": [
+      "jinsei niokeru seiji no juuyousei wodonoyouni hyouka shimasuka ?",
+      "jinsei nioite seiji hadorehodo juuyou dato omoi masuka ?",
+      "anatano iken deha , jinsei nioite seiji hadorehodo juuyou desuka ?",
+      "jinsei nioite seiji hadono teido juuyou dato omoi masuka ?"
+    ],
+    "options": [
+      "hijouni juuyou",
+      "mushiro juuyou",
+      "waka ranai",
+      "amari juuyou dehanai",
+      "mattaku juuyou dehanai"
+    ]
+  },
+  "Q5": {
+    "description": "jinsei de taisetsu nakoto : shigoto",
+    "questions": [
+      "anatano jinsei nioite shigoto hadorekurai juuyou desuka ？",
+      "anatano jinsei nioite shigoto ha juuyou dato omoi masuka ？",
+      "jinsei nioite shigoto hadono teido juuyou dato omoi masuka ?",
+      "shigoto ha jinsei nioite juuyouna youso dato kangae teimasuka ?"
+    ],
+    "options": [
+      "hijouni juuyou",
+      "mushiro juuyou",
+      "waka ranai",
+      "amari juuyou dehanai",
+      "mattaku juuyou dehanai"
+    ]
+  },
+  "Q6": {
+    "description": "jinsei de taisetsu nakoto : shuukyou",
+    "questions": [
+      "anatano jinsei nioite shuukyou hadorekurai juuyou desuka ？",
+      "anatano jinsei nioite shuukyou hadono teido juuyou dato omoi masuka ?",
+      "anatano jinsei nioite shuukyou ha juuyou dato omoi masuka ？",
+      "anatano jinsei nioite , shuukyou hadono teido juuyou desuka ？"
+    ],
+    "options": [
+      "hijouni juuyou",
+      "mushiro juuyou",
+      "waka ranai",
+      "amari juuyou dehanai",
+      "mattaku juuyou dehanai"
+    ]
+  },
+  "Q7": {
+    "description": "kodomo nitotte taisetsu na shishitsu : reigitadashi sa",
+    "questions": [
+      "kodomo no yoi manaa no juuyousei nitsuitedou omoi masuka ?",
+      "reigitadashi saha kodomo nitotte taisetsu na shishitsu deshouka ？",
+      "kodomo tachiniha reigitadashi sawo juushi subekidato omoi masuka ?",
+      "anataha , reigitadashi saga kodomo nitotte juuyouna tokuchou dearuto kangae masuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q8": {
+    "description": "kodomo ni taisetsu na shishitsu : jiritsushin",
+    "questions": [
+      "kodomo nitotte jiritsu hadorehodo juuyou desuka ？",
+      "jiritsushin ha kodomo nitotte juuyouna shishitsu dato iwa reteimasuka ?",
+      "jiritsushin ha kodomo nitotte juuyouna shishitsu dato omoi masuka ?",
+      "jiritsushin ga kodomo nitotte juuyouna shishitsu dato kangae rareteirukadoukago zonji desuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q9": {
+    "description": "kodomo ni taisetsu na shishitsu : kinben",
+    "questions": [
+      "doryoku ha kodomo nitotte juuyouna shishitsu dato kangae masuka ?",
+      "isshoukenmei hataraku kotoha kodomo nitotte taisetsu na shishitsu dato omoi masuka ?",
+      "kinben saha kodomo nitotte juuyouna tokusei dearuto shinji masuka ?",
+      "anatano iken deha , kinben saha kodomo nitotte juuyouna shishitsu desuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q10": {
+    "description": "kodomo ni taisetsu na shishitsu : sekininkan",
+    "questions": [
+      "sekininkan ha kodomo nitotte juuyouna shishitsu dato omoi masuka ?",
+      "sekininkan ha kodomo no juuyouna shishitsu toshite age raremasuka ?",
+      "sekininkan ga kodomo no taisetsu na shishitsu dearukotowogo zonji desuka ?",
+      "kodomo nitotte sekininkan ga taisetsu dato kangae rareteirukadoukago zonji desuka ？"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q11": {
+    "description": "kodomo ni taisetsu na shishitsu : souzouryoku",
+    "questions": [
+      "kodomo no souzouryoku no juuyousei nitsuitedou omoi masuka ?",
+      "souzouryoku ha kodomo nitotte juuyouna shishitsu deshouka ?",
+      "souzouryoku ha kodomo nitotte juuyouna tokusei dearuto omoi masuka ?",
+      "souzouryoku ha kodomo no hattatsu ni juuyouna yakuwari wo hata suto omoi masuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q12": {
+    "description": "kodomo nitotte taisetsu na shishitsu : tasha heno kanyou to sonchou",
+    "questions": [
+      "kodomo tachiga tanin ni taishi te kanyou sato sonkei no kimochi wo motsu kotoha taisetsu dato omoi masuka ?",
+      "tasha ni taisuru kanyou to sonkei ha kodomo nitotte fukaketsu na shishitsu dato omoi masuka ?",
+      "tasha ni taisuru kanyou to sonkei ha , kodomo tachiga motsu beki juuyouna shishitsu deshouka ?",
+      "kodomo ni kanshi teha , kanyou saya tanin heno keii ga taisetsu dato omoi masuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q13": {
+    "description": "kodomo ni taisetsu na shishitsu : kenyaku shiteo kin ya mono wo tame ru",
+    "questions": [
+      "kodomo nitotte kenyaku yao kin ya mono no chochiku hadorehodo juuyou dato omoi masuka ?",
+      "kenyaku yao kin ya mono wo tame rukotoha kodomo nitotte juuyouna shishitsu dato omoi masuka ?",
+      "kenyaku yao kin wo tame rukotoha , kodomo nitotte taisetsu na shishitsu dato omoi masuka ?",
+      "kenyaku yao kin ya mono wo tame rukotoha , kodomo toshite motsu beki juuyouna tokusei dato omoi masuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q14": {
+    "description": "kodomo nitotte juuyouna shishitsu : ketsui to nintairyoku",
+    "questions": [
+      "kodomo nitotte ketsui to nintairyoku hadorehodo juuyouna nodeshouka ?",
+      "ketsudan chikara to nintairyoku ha kodomo ni oshie rubeki shishitsu deshouka ?",
+      "ketsui to nintairyoku ha kodomo nitotte juuyouna shishitsu dato omoi masuka ?",
+      "ketsudan chikara to nintairyoku ha kodomo niha sonawa tteinai seishitsu dato ie masuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q15": {
+    "description": "kodomo nitotte juuyouna shishitsu : shuukyouteki shinkou",
+    "questions": [
+      "kodomo nitotte shuukyouteki shinkou hadorehodo juuyou desuka ？",
+      "shuukyouteki shinkou ha kodomo nitotte juuyouna shishitsu deshouka ？",
+      "shuukyouteki shinkou ha kodomo no hattatsu ni juuyouna yakuwari wo hata shimasuka ?",
+      "shuukyouteki shinkou ha kodomo nitotte juuyouna tokusei dearuto kangae masuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q16": {
+    "description": "kodomo ni taisetsu na shishitsu : mushi",
+    "questions": [
+      "kodomo no mushi muyoku no taisetsu sanitsuitedou omoi masuka ?",
+      "anatano iken deha , rita kokoroha kodomo ga motsu beki juuyouna shishitsu desuka ?",
+      "kodomo nitotte mushi muyoku ha taisetsu nisarerubekimononanodeshouka ？",
+      "kodomo no shishitsu wo kangae rutoki , rita kokoroha juuyou dato omoi masuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q17": {
+    "description": "kodomo ni taisetsu na shishitsu : juujun sa",
+    "questions": [
+      "kodomo no juujun sano juuyousei nitsuite , anatahadou omoi masuka ?",
+      "anataha juujun saga kodomo nitotte juuyouna shishitsu dearuto kangae masuka ?",
+      "juujun saha kodomo tachini kyouchou sarerubeki shishitsu deshouka ？",
+      "anatano kanten karasuruto , kodomo no hattatsu nioite juujun sahadorehodo juuyou desuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q18": {
+    "description": "rinjin : mayakuchuudoku mono",
+    "questions": [
+      "anatano rinjin ga mayakuchuudoku mono dearukotonitsuitedou omoi masuka ?",
+      "anatano rinjin ga mayakuchuudoku mono datoiukotoha , anatanitottedorehodo juudaina kotodeshouka ?",
+      "anatano rinjin ga mayakuchuudoku mono dato iwa retara , anataha shinpai shimasuka ?",
+      "anatano rinjin ga mayakuchuudoku mono dearukadouka shitte imasuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q19": {
+    "description": "rinjin : kotonaru jinshu no hitobito",
+    "questions": [
+      "kotonaru jinshu no rinjin wo motsu kotoha juuyou dato omoi masuka ?",
+      "anatano kinjo deha , kotonaru jinshu no rinjin no sonzai nitsuiteamari katara reteimasenka ?",
+      "anatano tonari ni kotonaru jinshu no nin gairukadoukawakaranaikotogaarimasuka ?",
+      "anatano tonari ni , anataga shira nai chigau jinshu no hitobito gaimasuka ？"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q20": {
+    "description": "rinjin : eizu kanja",
+    "questions": [
+      "eizu ni kansen shita kinrinjuumin notameni shien saabisu wo mouke rukotohadorehodo juuyou dato omoi masuka ?",
+      "eizu ni kansen shita rinjin no mondai ha , chiikishakai dedono teido made oopun ni giron sarerubekidatoo kangae desuka ?",
+      "eizu ni kansen shita kinrinjuumin ga riyou dekiru risoosu ya shien nitsuitego zonji desuka ?",
+      "eizu ni kansen shita kinrin no hitobito ga chokumen shiteiru tokutei no kadai ya niizu nitsuite , anatahadono teido ninshiki shiteimasuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q21": {
+    "description": "kinrinjuumin :  imin / gaikokujinroudousha",
+    "questions": [
+      "imin ya gaikokujinroudousha ga rinjin dearukotohadorehodo juuyou dato omoi masuka ?",
+      "anatano iken deha , anatano rinjin ga imin / gaikokujinroudousha dearukadoukaha genkyuu sareteimasuka ?",
+      "anatano rinjin ga imin / gaikokujinroudousha dearukadouka shitte imasuka ?",
+      "anatano rinjin ga imin / gaikokujinroudousha dearukotonitsuiteha , anataniha hanasa reteinainodesuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q22": {
+    "description": "rinjin : douseiaisha",
+    "questions": [
+      "douseiaisha no rinjin nitsuitedou omoi masuka ?",
+      "douseiaisha no rinjin gaitaradou omoi masuka ？",
+      "rinjin no seiteki shikou nitsuite genkyuu surukotoha juuyou dato omoi masuka ?",
+      "kinjo no nin no seiteki shikou wo shitte imasuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q23": {
+    "description": "rinjin : kotonaru shuukyou no hitobito",
+    "questions": [
+      "kotonaru shuukyou wo shinkou suru rinjin gairukotonitsuite , anatahadou omoi masuka ?",
+      "anatano kenkai deha , kinrinjuumin no shuukyouteki shozoku ha juuyouna yakuwari wo hata shiteiruto omoi masuka ?",
+      "rinjin ga jibuntachi no shuukyouteki shinkou wo akiraka nisurukotoha juuyou dato omoi masuka ?",
+      "anataha kinjo no hitobito no shuukyouteki haikei wo shitte imasuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q24": {
+    "description": "rinjin : oozakenomi",
+    "questions": [
+      "anatano rinjin ha oozakenomi desuka ?",
+      "anatano rinjin ha oozakenomi dato omoi masuka ?",
+      "anatano rinjin ha oozakenomi dato ie masuka ?",
+      "rinjin no oozake shuukan haanatanitotte juuyou desuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q25": {
+    "description": "rinjin : mikon no kappuru ga doukyo shiteiru",
+    "questions": [
+      "mikon no kappuru ga tonaridoushi de kura sukotonitsuitedou omoi masuka ？",
+      "mikon no kappuru ga rinjin ninatta baai , dou omoi masuka ？",
+      "rinjin no kankei joukyou nitsuite genkyuu surukotoha juuyou dato omoi masuka ?",
+      "rinjin no kankei joukyou wogo zonji desuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q26": {
+    "description": "rinjin : kotonaru gengo wo hanasu hitobito",
+    "questions": [
+      "rinjin ga kotonaru gengo wo hanasu kotohaanatanitottedorehodo juuyou desuka ?",
+      "rinjin ha chigau gengo wo hanasu bekidato iwa remashitaka ?",
+      "kotonaru gengo wo hanasu rinjin gairukotono juuyousei wogo zonji desuka ?",
+      "rinjin ga kotonaru gengo wo hanashi teirukotoga genkyuu sareteirukadoukago zonji desuka ?"
+    ],
+    "options": [
+      "juuyou",
+      "waka ranai",
+      "juuyou dehanai"
+    ]
+  },
+  "Q27": {
+    "description": "jinsei niokeru watashi no omona mokuhyou no hitotsu ha ryoushin wo hokori ni omowa serukotodesu",
+    "questions": [
+      "ryoushin wo hokori ni omowa serukotoga watashi no jinsei no omona mokuhyou no  1  tsunanodeshouka ?",
+      "jinsei nioite ryoushin wo hokori ni omowa serutameni , watashi hadoredake doryoku shiteirudarouka ？",
+      "jinsei nioite , ryoushin wodono teido hokori ni omowa serukotowo mokuhyou nishiteirudarouka ？",
+      "ryoushin wo hokori ni omowa serukotoga watashi no jinsei no omona mokuhyou no hitotsu dato kangae teimasuka ？"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q28": {
+    "description": "shuugakumae no kodomo ga hataraku hahaoya ni kurushi mu",
+    "questions": [
+      "hahaoya ga hatarai teiruto shuugakumae no kodomo ga kurushi muto omoi masuka ?",
+      "hataraku hahaoya ha shuugakumae no kodomo ni akueikyou wo atae ruto omoi masuka ?",
+      "hahaoya no shigoto noseide mishuu gaku ji ga konnan ni chokumen surutoiukotoni doui shimasuka ?",
+      "hataraku hahaoya ga shuugakumae no kodomo ni akueikyou wo atae ruto shinji masuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q29": {
+    "description": "dansei ha josei yorimo masare ta seiji shidousha tonaru",
+    "questions": [
+      "dansei ha josei yorimo masare ta seiji shidousha ninarukanitsuite , anataha tsuyoku sansei desuka , sansei desuka , hantai desuka , tsuyoku hantai desuka , soretomowakarimasenka ?",
+      "dansei ha josei yorimo masare ta seiji shidousha ninarutoiu iken ni , tsuyoku sansei , sansei , hantai , tsuyoku hantai , soretomowakaranai , to kotae masuka ?",
+      "anataha , dansei no houga josei yorimo masare ta seiji shidousha ninarutoiukotonitsuite , tsuyoku sansei desuka , sansei desuka , hantai desuka , tsuyoku hantai desuka , soretomo shira naidesuka ?",
+      "dansei ha josei yorimo masare ta seiji shidousha ninarutoiukotoni kanshi te , anatano tachiba ha , tsuyoku sansei , sansei , hantai , tsuyoku hantai , soretomowakaranai , nodoredesuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q30": {
+    "description": "daigaku ha joshi yorimo danshi nitotte juuyou dearu",
+    "questions": [
+      "daigaku ha onnanoko yorimo otokonoko nitotte juuyou dato omoi masuka ?",
+      "anatano iken deha , daigaku ha onnanoko yorimo otokonoko nitotte juuyou desuka ?",
+      "daigaku ha joshi yorimo danshi nitotte juuyouna imi wo motsu toiu iken ni sansei desuka ?",
+      "daigaku ha joshi yorimo danshi nitotte juuyou datoiunogaanatano kenkai desuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q31": {
+    "description": "dansei ha josei yorimo masare ta keiei kanbu ninaru",
+    "questions": [
+      "dansei nohouga josei yorimo keieisha toshite masare teiruto omoi masuka ?",
+      "anatano iken deha , josei ni kurabe te dansei nohouga keieisha toshite masare teiruto omoi masuka ?",
+      "dansei ha josei yorimo masare ta keieisha dearutoiu iken ni doui shimasuka ?",
+      "josei ha dansei ni kurabe te keieisha toshite nouryoku ga hikui to omoi masuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q32": {
+    "description": "shufu dearukotomo douyou ni juujitsu shiteiru",
+    "questions": [
+      "shufu dearukotoha , shigoto wo motsu kototo onaji kurai juujitsukan gaarimasuka ?",
+      "shufu dearukotoha shigoto wo motsu kototo onaji kurai juujitsu shiteiruto omoi masuka ?",
+      "anatano iken deha , shufu dearukotoha shigoto wo motsu kototo onaji kurai juujitsukan gaarimasuka ?",
+      "shufu dearukotoha , shigoto wo motsu kototo onaji kurai juujitsukan gaarutoiukotonianataha doui shimasuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q33": {
+    "description": "shigoto fusoku : dansei ha josei yorimo shigoto wo eru kenri wo motsu beki",
+    "questions": [
+      "dansei to josei no ryouhou nitotte shigoto ga fusoku surubekidatoiu iken ni , anataha tsuyoku sansei shimasuka , soretomo tsuyoku hantai shimasuka ?",
+      "dansei ha josei yorimo shigoto ni taisuru kenri wo motsu bekidatoiu kangae ni sansei desuka , hantai desuka ?",
+      "anataha , dansei to josei no shigoto ga fusoku shiteirubekidatoiu iken ni sansei demo hantai demonaidesuka ?",
+      "dansei ha josei yorimo shigoto ni taisuru kenri wo motsu bekikadoukanitsuite , anataha tsuyoku hantai desuka , soretomowakarimasenka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q34": {
+    "description": "koyou fusoku : koyou shu ha imin yorimo ( jikoku no ) hitobito wo yuusen subeki",
+    "questions": [
+      "koyou fusoku notame , koyou shu ha imin yorimo ( kokumin no ) nin wo yuusen subekideshouka ？",
+      "shigoto ga fusoku shiteirutoki , koyou shu ha imin yorimo ( sono kuni no ) hitobito wo yuusen subekidatoiu iken ni sansei shimasuka ?",
+      "koyou fusoku notokini , koyou shu ga imin dehanaku ( jikoku no ) hitobito wo yuusen surunoha kouhei deshouka ？",
+      "koyou ga fusoku shiteiru jidai ni , koyou shu ha imin yorimo ( kokumin no ) kojin wo yuusen subekidato omoi masuka ？"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q35": {
+    "description": "josei no shuunyuu ga otto yori ooi baai no mondai",
+    "questions": [
+      "josei no shuunyuu ga otto yorimo ooi baai no mondai nitsuite , anatahadou omoi masuka ?",
+      "josei ga otto yorimo ooku no shuunyuu wo ete iru joukyou nitsuitedou omoi masuka ?",
+      "tsuma no shuunyuu ga otto no shuunyuu wo uwamawaru baai , mondai gaaruto omoi masuka ?",
+      "josei ga otto yorimo ooku no shuunyuu wo ete iru mondai nitsuite , anatahadonoyouna tachiba desuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q37": {
+    "description": "kodomo wo motsu kotoha shakai ni taisuru gimu",
+    "questions": [
+      "kodomo wo umu kotoha shakai ni taisuru gimu nanodeshouka ？",
+      "kodomo wo motsu kotoha shakai ni taisuru gimu dato shinji masuka ?",
+      "kojin niha shakai ni taishi te kodomo wo motsu gimu gaaruto omoi masuka ?",
+      "hitobito ha kodomo wo motsu kotowo shakai ni taisuru gimu dato kanji rubekideshouka ？"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q38": {
+    "description": "byouki no oya no sewa wosurunoha kodomo no gimu dearu",
+    "questions": [
+      "byouki no oya no sewa wosurunoha kodomo no gimu dato omoi masuka ?",
+      "byouki no oya no sewa ha kodomo ni sekinin gaarubekideshouka ？",
+      "byouki no oya wo kaigo surunoha kodomo no gimu dearukotoni doui shimasuka ?",
+      "byouki no oya no sewa wosurunoha kodomo no sekinin deshouka ？"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q39": {
+    "description": "hataraka nai nin ha namakemono ninaru",
+    "questions": [
+      "hataraka nai nin ha namakemono ninaruto omoi masuka ？",
+      "shigoto woshinai nin ha namakemono ninaru keikou gaaruto omoi masuka ?",
+      "shigoto woshinai nin ha namakemono ninarukotoga ooi to omoi masuka ?",
+      "hataraka nai nin ha namakemono ninarutoiu iken ni sansei shimasuka , hantai shimasuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q40": {
+    "description": "shigoto ha shakai ni taisuru gimu dearu",
+    "questions": [
+      "shigoto ha shakai ni taisuru gimu dearuto shinji masuka ?",
+      "shigoto ha shakai ni taisuru gimu dato kangae rareteirunodeshouka ？",
+      "shigoto ha shakai ni taisuru gimu dearutoiu iken ni , anatahadono teido doui shimasuka ?",
+      "shigoto ha shakai ni taisuru gimu toshite torae rarerubekidato omoi masuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q41": {
+    "description": "tatoe jiyuujikan ga hetsu temo , shigoto ha tsuneni saiyuusen dearubekida",
+    "questions": [
+      "tatoe jiyuujikan ga sukunaku nattemo , shigoto wo tsuneni yuusen subekideshouka ?",
+      "shigoto ha tsuneni yoka yorimo yuusen sarerubekidato omoi masuka ?",
+      "yoka yorimo shigoto wo yuusen surukotoha kyoyou sarerunodeshouka ?",
+      "shigoto notameni yoka wo gisei nisurukotoha , donna joukyou demo hitsuyou dato omoi masuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "sansei demo hantai demonai",
+      "waka ranai",
+      "doui shinai",
+      "tsuyoku hantai"
+    ]
+  },
+  "Q42": {
+    "description": "shakai ni taisuru kihonteki na taido",
+    "questions": [
+      "watashitachi no shakai ga zentaiteki nidonoyouni soshiki sareteirukanitsuite , douo kangae desuka ?",
+      "watashitachi no shakai hadonoyouni kaizen dekiruto omoi masuka ?",
+      "genzai no shakai wo hakaiteki na seiryoku kara mamoru kotonitsuite , anatano tachiba hadonoyounamonodesuka ?",
+      "watashitachi no shakai gadonoyouna taido wotorubekikanitsuite , meikaku na iken woo mochi desuka ?"
+    ],
+    "options": [
+      "watashitachi no shakai no soshikika noari hou zentai ga kakumeiteki na koudou niyotte konponteki ni kae rarenakerebanaranai",
+      "watashitachi no shakai ha kaikaku niyotte jojo ni kaizen sarenakerebanaranai",
+      "watashitachi no genzai no shakai ha , arayuru hakaiteki na seiryoku kara yuukan ni mamora renakerebanaranai .",
+      "waka ranai"
+    ]
+  },
+  "Q43": {
+    "description": "shourai no henka : shigoto no juuyousei no teika",
+    "questions": [
+      "shigoto no juuyousei ga teika surutoiu shourai no henka nitsuite , douo kangae desuka ?",
+      "shigoto no juuyousei no teika ni kansu ru kongo no henka wodonoyounio kangae desuka ?",
+      "kongo , shigoto no juuyousei ga usure teiku keikou nitsuite , donoyounio kangae desuka ？",
+      "kongo , shigoto heno juuten ga hetsu teikukotonitsuite , donoyounio kangae desuka ？"
+    ],
+    "options": [
+      "yokatta",
+      "kini shinaide",
+      "waka ranai",
+      "warui koto"
+    ]
+  },
+  "Q44": {
+    "description": "shourai no henka : tekunorojii henosaranaru juuten",
+    "questions": [
+      "tekunorojii wo juushi shita kongo no henka nitsuite , donoyounio kangae desuka ?",
+      "kongo tekunorojii gasarani juushi sareru kanousei nitsuite , donoyounio kangae desuka ?",
+      "kongo no henka nioite tekunorojii heno juuten ga masu kotonitsuite , dou omowa remasuka ?",
+      "tekunorojii woyori juushi suru kongo no henka ni taishi te , anatano tachiba hadonoyounamonodesuka ?"
+    ],
+    "options": [
+      "yokatta",
+      "kini shinaide",
+      "waka ranai",
+      "warui koto"
+    ]
+  },
+  "Q45": {
+    "description": "shourai no henka : ken'i henoyori ooki na sonchou",
+    "questions": [
+      "ken'i heno sonchou no kyouka ni kansu ru kongo no henka nitsuite , donoyounio kangae desuka ?",
+      "kongo , ken'i ni taisuru sonkei no nen ga masu kanousei nitsuite , donoyounio kangae desuka ?",
+      "kongo suunenkan ni ken'i ni taisuru sonkei no nen ga takama ruto yosou sarerukotonitsuite , anatahadou omoi masuka ?",
+      "ken'i heno sonchou ga kongo sarani takama rukotonitsuite , anatahadouo kangae desuka ?"
+    ],
+    "options": [
+      "yokatta",
+      "kini shinaide",
+      "waka ranai",
+      "warui koto"
+    ]
+  },
+  "Q46": {
+    "description": "koufukukan",
+    "questions": [
+      "anataha jibun no koufukukan wodono teido hyouka shimasuka ?",
+      "1  gamattaku shiawase dehanai , 5  ga hijouni shiawase dearutoshite , 1  kara  5  no shakudo de , anatano koufukudo wodonoyouni hyouka shimasuka .",
+      "anataha jibun ga shiawase na ningen dato omoi masuka ?",
+      "anataha hibi , dono teido shiawase wo kanji teimasuka ？"
+    ],
+    "options": [
+      "totemo shiawase",
+      "totemo shiawase",
+      "waka ranai",
+      "amari shiawase dehanai",
+      "zenzen shiawase janai"
+    ]
+  },
+  "Q47": {
+    "description": "kenkoujoutai ( shukanteki )",
+    "questions": [
+      "anatano genzai no kenkoujoutai wodonoyouni setsumeishi masuka ?",
+      "anatano shukanteki na kenkoujoutai wo hyouka shitekudasai .",
+      "hijouni yoi kara hijouni warui madeno shakudo de , anatano kenkoujoutai wodonoyouni hyouka shimasuka ?",
+      "anatano zentaiteki na kenkoujoutai ni kanshi te , anatano kenkou wodonoyouni hyouka shimasuka ?"
+    ],
+    "options": [
+      "totemo yoi",
+      "yoi",
+      "kouhei",
+      "mazushii",
+      "hijouni hinjaku"
+    ]
+  },
+  "Q51": {
+    "description": "anata / kazoku no hindo ( kako 12 ka gekkan ) :  juubun na shokuryou wo tabe zuni gaishutsu shita",
+    "questions": [
+      "kako  12  ka gekkan ni , anatayaanatano kazoku hadonokuraino hindo de juubun na shokuryou wo era remasendeshitaka ?",
+      "kako  1  nenkan ni , anatamatahaanatano kazoku ha , tabe rumonoga tari naitoiu keiken wodonokuraino hindo de keiken shimashitaka ?",
+      "anatayaanatano kazoku ha , kako  12  ka gekkan ni juubun na tabemono wo era renakattakotogaarimasuka ?",
+      "kako  12  ka gekkan ni , anatamatahaanatano kazoku ha , tabe rumonoga tari naitoiu joukyou nidonokuraino hindo de chokumen shimashitaka ?"
+    ],
+    "options": [
+      "hinpan",
+      "tokidoki",
+      "waka ranai",
+      "mettani",
+      "ichido monai"
+    ]
+  },
+  "Q52": {
+    "description": "anata / kazoku no hindo ( kako 12 ka gekkan ) :  jitaku de hanzai ni au kiken wo kanji ta",
+    "questions": [
+      "jitaku de hanzai no kiken wo kanji ta hindo hadonokuraidesuka ?",
+      "jitaku de hanzai no kiken wo kanji takotohadonokuraiarimashitaka ?",
+      "kako  12  ka gekkan ni , jitaku de hanzai no kiken wo kanji ta hindo hadonokuraidesuka ?",
+      "kako  1  nenkan ni , jitaku de hanzai no kiken wo kanji takotoha hinpan niarimashitaka , tokidoki arimashitaka , mareniarimashitaka , aruihamattakuarimasendeshitaka ."
+    ],
+    "options": [
+      "hinpan",
+      "tokidoki",
+      "waka ranai",
+      "mettani",
+      "ichido monai"
+    ]
+  },
+  "Q53": {
+    "description": "anata / kazoku no hindo ( kako 12 ke gekkan ) :  hitsuyou na kusuri ya chiryou wo uke rarenakatta",
+    "questions": [
+      "kako  12  ka gekkan ni , anatayaanatano kazoku ha hitsuyou na kusuri ya chiryou wo uke rarenakattakotoga nankai arimashitaka ?",
+      "kako  12  ka gekkan ni , anatamatahaanatano kazoku ga hitsuyou na kusuri ya chiryou wo uke rarenakatta hindo hadonokuraidesuka ?",
+      "kako  12  ka gekkan ni , anatayago kazoku ga hitsuyou na kusuri ya chiryou wo uke rarenakatta hindo hadonokuraidesuka ?",
+      "anatayaanatano kazoku ha , kako  12  ka gekkan ni hitsuyou na kusuri ya chiryou wo uke rarenakattari , hotondo uke rarenakattari , tokidoki uke rarenakattari , hinpan ni uke rarenakattarishimashitaka ?"
+    ],
+    "options": [
+      "hinpan",
+      "tokidoki",
+      "waka ranai",
+      "mettani",
+      "ichido monai"
+    ]
+  },
+  "Q54": {
+    "description": "anata / kazoku no hindo ( kako 12 ka gekkan ) :  genkinshuunyuu ganai",
+    "questions": [
+      "anata / go kazoku no hindo ( kako  12  ka gekkan ) :  genkinshuunyuu ganakunattakotogaarimasuka ?",
+      "kako  12  ka gekkan ni , anatamatahaanatano kazoku hadonokuraino hindo de genkinshuunyuu gaarimasendeshitaka ?",
+      "kako  1  nenkan de , anatamatahago kazoku ga genkinshuunyuu nonai kikan wo keiken shita hindo hadonokuraidesuka ?",
+      "anatamatahago kazoku ha , kako 12 ke gekkan ni genkinshuunyuu no fusoku wo keiken shimashitaka ？ moshisoudeareba , donokuraino hindo de fusoku shimashitaka ？"
+    ],
+    "options": [
+      "hinpan",
+      "tokidoki",
+      "waka ranai",
+      "mettani",
+      "ichido monai"
+    ]
+  },
+  "Q55": {
+    "description": "kako 12 ke gekkan ni , anatayaanatano kazoku ha , dorekuraino hindo de anzen na hinanjo nonai joukyou ni ochiiri mashitaka ？",
+    "questions": [
+      "kako  12  ka gekkan ni , anatayaanatano kazoku ga anzen na hinanbasho nonai joutai de sugo shita kaisuu hadonokuraidesuka ?",
+      "kako  1  nenkan ni , anatamatahaanatano kazoku ga anzen na juukyo no fusoku wo keiken shita hindo hadonokuraidesuka ?",
+      "kako  12  ka gekkan ni , anatamatahaanatano kazoku ga anzen na hinanjo wo riyou dekinakatta hindo hadonokuraideshitaka ?",
+      "anatayago kazoku ha , kako 1 nenkan ni anzen na hinanbasho ganai jiki wo keiken shimashitaka ？ moshisounara , donokuraino hindo de keiken shimashitaka ？"
+    ],
+    "options": [
+      "hinpan",
+      "tokidoki",
+      "waka ranai",
+      "mettani",
+      "ichido monai"
+    ]
+  },
+  "Q57": {
+    "description": "hotondono nin ha shinrai dekiru",
+    "questions": [
+      "hotondono nin ha shinrai dekiruto omoi masuka ?",
+      "anatano iken deha , hotondono nin ha shinrai dekirudeshouka ?",
+      "hotondono nin ha shinrai dekirutoanataha shinji teimasuka ?",
+      "hotondono nin ha shinrai dekiruto omoi masuka ?"
+    ],
+    "options": [
+      "hotondono nin ha shinrai dekiru",
+      "hijouni chuui suru hitsuyou gaaru"
+    ],
+    "scale": false
+  },
+  "Q58": {
+    "description": "shinrai : anatano kazoku",
+    "questions": [
+      "anataha kazoku wodorekurai shinrai shiteimasuka ？",
+      "anatano kazoku no mani ha , kanarino reberu no shinraikankei gaarimasuka ?",
+      "anataha kazoku wodono teido shinrai shiteimasuka ？",
+      "ippanteki ni , anataha kazoku wodono teido shinrai shiteimasuka ?"
+    ],
+    "options": [
+      "kanzen ni shinrai suru",
+      "aru teido shinrai suru",
+      "waka ranai",
+      "amari shinyou shinai",
+      "mattaku shinyou shinai"
+    ]
+  },
+  "Q59": {
+    "description": "shinrai : anatano kinjo",
+    "questions": [
+      "anataha kinjo no nin tachiwodorekurai shinrai shiteimasuka ？",
+      "anataha kinjo no nin tachiwodono teido shinrai shiteimasuka ?",
+      "anatano kinjo ni taisuru shinraido hadono teido desuka ?",
+      "anataha kinjo no nin tachikara takai shinrai wo ete imasuka ?"
+    ],
+    "options": [
+      "kanzen ni shinrai suru",
+      "aru teido shinrai suru",
+      "waka ranai",
+      "amari shinyou shinai",
+      "mattaku shinyou shinai"
+    ]
+  },
+  "Q60": {
+    "description": "shinrai :  kojinteki ni shitte iru nin",
+    "questions": [
+      "anataha kojinteki ni shitte iru nin wodorekurai shinrai shimasuka ?",
+      "anataha kojinteki ni shitte iru nin wodono teido shinrai shimasuka ?",
+      "anataha kojinteki ni shitte iru nin wo shinrai shimasuka ?",
+      "anataga kojinteki ni shitte iru nin ni taisuru shinraido ha takai to omoi masuka , soretomo hikui to omoi masuka ?"
+    ],
+    "options": [
+      "kanzen ni shinrai suru",
+      "aru teido shinrai suru",
+      "waka ranai",
+      "amari shinyou shinai",
+      "mattaku shinyou shinai"
+    ]
+  },
+  "Q61": {
+    "description": "shinrai : hajimete au nin",
+    "questions": [
+      "anataha hajimete au nin wodorekurai shinrai shimasuka ？",
+      "anataha hajimete au nin wodono teido shinrai shimasuka ?",
+      "hajimete au nin ni taishi te , anatahadono teido no shinraikan wo motsu teimasuka ?",
+      "hajimete atsu ta nin ni taisuru shinraido wodono teido hyouka shimasuka ?"
+    ],
+    "options": [
+      "kanzen ni shinrai suru",
+      "aru teido shinrai suru",
+      "waka ranai",
+      "amari shinyou shinai",
+      "mattaku shinyou shinai"
+    ]
+  },
+  "Q62": {
+    "description": "shinrai :  i shuukyou no hitobito",
+    "questions": [
+      "anataha hokano shuukyou no hitobito wodono teido shinrai shimasuka ?",
+      "anataha kotonaru shuukyou no hitobito wodono teido shinrai shimasuka ?",
+      "anataha hokano shuukyou no hitobito wo shinrai suruto omoi masuka ?",
+      "anataha kotonaru shuukyou no hitobito wo shinrai shiteimasuka ?"
+    ],
+    "options": [
+      "kanzen ni shinrai suru",
+      "aru teido shinrai suru",
+      "waka ranai",
+      "amari shinyou shinai",
+      "mattaku shinyou shinai"
+    ]
+  },
+  "Q63": {
+    "description": "shinrai : takokuseki no hitobito",
+    "questions": [
+      "anataha hokano kokuseki no hitobito wodono teido shinrai shimasuka ?",
+      "anataha kokuseki no kotonaru hitobito wodono teido shinrai shimasuka ?",
+      "anataha hokano kokuseki no nin ni taishi tedono teido shinrai wo motsu teimasuka ?",
+      "anataha hokano kokuseki no nin wo shinrai shimasuka ?"
+    ],
+    "options": [
+      "kanzen ni shinrai suru",
+      "aru teido shinrai suru",
+      "waka ranai",
+      "amari shinyou shinai",
+      "mattaku shinyou shinai"
+    ]
+  },
+  "Q64": {
+    "description": "jishin : kyoukai",
+    "questions": [
+      "anataha kyoukai nidorekurai shinrai wo oi teimasuka ？",
+      "anataha kyoukai wodono teido shinrai shiteimasuka ？",
+      "anataha kyoukai ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha kyoukai nikanarino shinrai wo oi teimasuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q65": {
+    "description": "jishin : guntai",
+    "questions": [
+      "anataha guntai nidono teido no shinrai wo oi teimasuka ？",
+      "anataha guntai wodono teido shinrai shiteimasuka ?",
+      "guntai ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha guntai ni ooki na shinrai wo oi teimasuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q66": {
+    "description": "jishin : houdou",
+    "questions": [
+      "anataha masukomi wodono teido shinrai shiteimasuka ?",
+      "anataha masukomi ni ooki na shinrai wo oi teimasuka ?",
+      "anataha masukomi wodono teido shinrai shiteimasuka ?",
+      "anataha masukomi nikanari shinrai wo oi teiruto ie masuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q67": {
+    "description": "jishin : terebi",
+    "questions": [
+      "anataha terebi nidorekurai shinrai wo oi teimasuka ？",
+      "anataha terebi wodono teido shinrai shimasuka ？",
+      "anataha terebi nidorekurai tayotsu te manzoku shiteimasuka ?",
+      "terebi ni taisuru anatano kakushindo hadonokuraidesuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q68": {
+    "description": "shinrai : roudoukumiai",
+    "questions": [
+      "anataha roudoukumiai nidorekurai shinrai wo oi teimasuka ?",
+      "anataha roudoukumiai wodono teido shinrai shiteimasuka ?",
+      "anataha roudoukumiai nidono teido shinrai wo oi teimasuka ?",
+      "anataha roudoukumiai wo shinrai shiteimasuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q69": {
+    "description": "jishin : keisatsu",
+    "questions": [
+      "anataha keisatsu wodono teido shinrai shiteimasuka ？",
+      "anataha keisatsu wodono teido shinrai shiteimasuka ？",
+      "anataha keisatsu ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha keisatsu wo shinrai shiteimasuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q70": {
+    "description": "jishin : saibansho",
+    "questions": [
+      "anataha saibansho nidorekuraino shinrai wo oi teimasuka ?",
+      "anataha saibansho wodono teido shinrai shiteimasuka ?",
+      "saibansho ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha saibansho wo shinrai shiteimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q71": {
+    "description": "shinrai : seifu",
+    "questions": [
+      "anataha seifu wodono teido shinrai shiteimasuka ？",
+      "anataha seifu wodono teido shinrai shiteimasuka ？",
+      "seifu ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha seifu wo shinrai shiteimasuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q72": {
+    "description": "shinrai : seitou",
+    "questions": [
+      "anataha seitou nidono teido no shinrai wo oi teimasuka ?",
+      "anataha seitou wodono teido shinrai shiteimasuka ?",
+      "anataha seitou ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha seitou ni taishi te takai shinraikan wo motsu teimasuka , soretomo hikui shinraikan wo motsu teimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q73": {
+    "description": "shinrai : gikai",
+    "questions": [
+      "anataha gikai nidorekurai shinrai wo oi teimasuka ?",
+      "anataha gikai nidono teido shinrai wo oi teimasuka ?",
+      "anataha gikai nidono teido no shinrai wo oi teimasuka ?",
+      "shinrai toiu kanten kara , gikai wodonoyouni hyouka shimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q74": {
+    "description": "jishin : koumuin",
+    "questions": [
+      "anataha koumuin seido nidorekurai shinrai wo oi teimasuka ?",
+      "anataha koumuin seido nidono teido shinrai wo oi teimasuka ?",
+      "koumuin seido ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha koumuin seido ni shinrai wo oi teimasuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q75": {
+    "description": "shinraido : daigaku ( shiritsu )",
+    "questions": [
+      "daigaku ( shiritsu ) ni taisuru shinraido wo hyouka shitekudasai .",
+      "1  ~  5  no sukeeru de , daigaku  ( shiritsu )   ni taisuru shinraido hadonokuraidesuka .",
+      "anataha daigaku ( shiritsu ) nidorekurai shinraikan wo motsu teimasuka ？",
+      "daigaku ( shiritsu ) ni kanshi te , anatahadorekurai jishin gaarimasuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q77": {
+    "description": "shinraikan : oote kigyou",
+    "questions": [
+      "oote kigyou nidorekuraino shinraikan wo motsu teimasuka ？",
+      "1  kara  5  no sukeeru de , oote kigyou ni taisuru shinraido wodono teido o kangae desuka .",
+      "oote kigyou ha shinrai ni atai suruto omoi masuka ?",
+      "ippanteki ni , oote kigyou ni taisuru shinraido hadono teido desuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q78": {
+    "description": "shinrai : puraibeetobanku",
+    "questions": [
+      "minkan ginkou ni taisuru shinraido wo hyouka shitekudasai .",
+      "1  kara  5  no sukeeru de , puraibeeto   banku ni taisuru shinraido hadono teido desuka .",
+      "puraibeetobanku ni taisuru shinraido hadono teido desuka ?",
+      "minkan ginkou wodono teido shinrai shimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q79": {
+    "description": "jishin : kankyouhogoundou",
+    "questions": [
+      "anataha kankyouhogoundou nidorekurai shinrai wo oi teimasuka ?",
+      "anataha kankyouhogoundou wodono teido shinrai shiteimasuka ?",
+      "anataha kankyouhogoundou wodono teido shinrai shiteimasuka ?",
+      "anataha kankyouhogoundou nidorekurai shinrai wo oi teimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q80": {
+    "description": "jishin : josei undou",
+    "questions": [
+      "anataha ( Confidence: The Women's Movement ) nidorekurai shinrai wo oi teimasuka ?",
+      "1  kara  5  no sukeeru de , ( Confidence: The Women's Movement ) nidono teido shinraikan gaarimasuka ?",
+      "anataha ( Confidence: The Women's Movement ) wodono teido shinrai shimasuka ?",
+      "( jishin : josei undou ) ni taisuru anatano jishin do hadono teido desuka ？"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q81": {
+    "description": "shinrai : jizendantai mataha jindou shien dantai",
+    "questions": [
+      "anataha jizendantai ya jindou shien dantai nidono teido shinrai wo oi teimasuka ?",
+      "anataha jizendantai ya jindou shien dantai nidono teido shinrai wo oi teimasuka ?",
+      "jizendantai ya jindou shien dantai ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha jizendantai ya jindou shien dantai ni shinrai wo oi teimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q82": {
+    "description": "shinraido :  shuyouchi iki soshiki  ( kunibetsu kara kumiawase )",
+    "questions": [
+      "shuyouchi iki soshiki ( kunibetsu soshiki wo awa setamono ) nidono teido shinrai wo oi teimasuka ?",
+      "shuyou na chiiki soshiki ( kunibetsu soshiki wo awa setamono ) wodono teido shinrai shimasuka ?",
+      "shuyouchi iki soshiki ( kunibetsu tono kumiawase ) ni taisuru shinraido wodonoyouni hyouka shimasuka ?",
+      "shuyou na chiiki soshiki ( kunibetsu kara kumiawase tamono ) ni tayoru kotoni , dono teido anshinkan gaarimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q83": {
+    "description": "shinrai : kokuren ( UN )",
+    "questions": [
+      "anataha kokusairengou ( UN ) nidorekurai shinrai wo oi teimasuka ？",
+      "anataha kokusairengou ( UN ) wodono teido shinrai shiteimasuka ？",
+      "anataha , kokuren ni taisuru shinrai hadono teido tsuyoi to omoi masuka ?",
+      "kokusairengou ( UN ) ni taisuru shinraido wodono teido hyouka shimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q84": {
+    "description": "shinraikan : kokusaitsuu ka kikin ( IMF )",
+    "questions": [
+      "kokusaitsuu ka kikin ( IMF ) nidono teido shinrai wo oi teimasuka ？",
+      "anataha kokusaitsuu ka kikin ( IMF ) wodono teido shinrai shiteimasuka ?",
+      "kokusaitsuu ka kikin ( IMF ) ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "kokusaitsuu ka kikin ( IMF ) nitsuite kouteiteki na iken woo mochi desuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q85": {
+    "description": "shinrai : kokusai keiji saibansho ( ICC )",
+    "questions": [
+      "anataha kokusai keiji saibansho ( ICC ) nidono teido shinrai wo oi teimasuka ？",
+      "anataha kokusai keiji saibansho ( ICC ) nidono teido shinrai wo oi teimasuka ？",
+      "anataha kokusai keiji saibansho ( ICC ) wodono teido shinrai shiteimasuka ？",
+      "anataha kokusai keiji saibansho ( ICC ) no yuukousei wodono teido shinji masuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q86": {
+    "description": "shinrai : hokudai seiyou jouyaku kikou ( NATO )",
+    "questions": [
+      "hokudai seiyou jouyaku kikou ( NATO ) nidono teido shinrai wo oi teimasuka ？",
+      "anataha hokudai seiyou jouyaku kikou ( NATO ) wodono teido shinrai shiteimasuka ?",
+      "hokudai seiyou jouyaku kikou ( NATO ) ni taisuru anatano shinraido hadono teido desuka ?",
+      "anataha hokudai seiyou jouyaku kikou ( NATO ) nidono teido shinrai wo oi teiruto omoi masuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q87": {
+    "description": "shinrai : sekai ginkou ( WB )",
+    "questions": [
+      "sekai ginkou ( WB ) nidono teido shinrai wo oi teimasuka ?",
+      "anataha sekai ginkou ( WB ) wodono teido shinrai shiteimasuka ?",
+      "sekai ginkou ( WB ) ni taisuru shinraido wodono teido hyouka shimasuka ?",
+      "anataha sekai ginkou ( WB ) ni takai shinrai wo oi teimasuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q88": {
+    "description": "jishin : sekai hoken kikan ( WHO )",
+    "questions": [
+      "anataha sekai hoken kikan ( WHO ) wodono teido shinrai shiteimasuka ?",
+      "anataha sekai hoken kikan ( WHO ) wodono teido shinrai shiteimasuka ?",
+      "ippanteki ni , anataha sekai hoken kikan ( WHO ) wodono teido shinrai shiteimasuka ?",
+      "anataha sekai hoken kikan ( WHO ) no shinraisei wodono teido shinji masuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q89": {
+    "description": "shinrai : sekaiboueki kikan ( WTO )",
+    "questions": [
+      "anataha sekaiboueki kikan ( WTO ) nidono teido shinrai wo oi teimasuka ?",
+      "anataha sekaiboueki kikan ( WTO ) nidono teido no shinrai wo oi teimasuka ?",
+      "anataha sekaiboueki kikan ( WTO ) wodono teido shinrai shiteimasuka ?",
+      "sekaiboueki kikan ( WTO ) ni taisuru anatano shinraido hadono teido desuka ?"
+    ],
+    "options": [
+      "subarashii",
+      "kanaritakusan",
+      "waka ranai",
+      "amarinai",
+      "mattaku nai"
+    ]
+  },
+  "Q90": {
+    "description": "kokusaikikan : koukateki dearukototo minshuteki dearukoto",
+    "questions": [
+      "kokusaikikan ga koukateki dearukototo minshuteki dearukotono juuyousei wo , 1  kara  10  no sukeeru dedonoyouni hyouka shimasuka .",
+      "kokusaikikan ga koukateki dearukotono juuyousei wo  1  de arawashi , minshuteki dearukotono juuyousei wo  10  de arawashi te , 1  kara  10  no sukeeru dego iken woo shimeshi kudasai .",
+      "kokusaikikan ni kanshi te , minshushugi ( 10 ) yorimo yuukousei ( 1 ) wo yuusen surutoiu kangaekata nitsuite , anatahadono tachiba desuka ？",
+      "kokusaikikan niokeru yuukousei to minshushugi no baransu wo  1  kara  10  no shakudo dedonoyouni hyouka shimasuka ."
+    ],
+    "options": [
+      "koukateki dearukoto",
+      "minshuteki dearukoto"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "shotoku hayori byoudou nisarerubekidearu  vs  kojin no doryoku ni taisuru insenteibu woyori ookiku subekidearu",
+    "questions": [
+      "( shotoku hamotto byoudou nisarerubekidearu ) toiu iken ni , 1  kara  10  no sukeeru dedono teido doui shimasuka .",
+      "( kojin no doryoku ni taishi temotto ooki na insenteibu wo atae rubekida ) toiu kangae ni taisuru shiji reberu wo  1  kara  10  no sukeeru de hyouka shitekudasai .",
+      "( shotoku hayori byoudou ninarubekida ) toanatahadono teido o kangae desuka ？ 1  kara  10  no shakudo deanatano iken wo hyouka shitekudasai .",
+      "( kojin no doryoku ni taishi te , motto ooki na insenteibu wo atae rubekida ) toiu kangaekata ni , anatahadono teido sansei desuka ？ 1 kara 10 no shakudo de hyouka shitekudasai ."
+    ],
+    "options": [
+      "shotoku hamotto byoudou ninarubekida",
+      "kojin no doryoku ni taisuru insenteibu womotto kyouka subekida"
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "kigyou no min'eika to kokuei ka",
+    "questions": [
+      "( 1 ) ha ( kigyou oyobi sangyou no minkan shoyuuken wo fuyasu beki ) wo imi shi , ( 10 ) ha ( kigyou oyobi sangyou no seifu shoyuuken wo fuyasu beki ) wo imi surutame , 1 kara 10 no sukeeru deanatano kibou wo shimeshi tekudasai .",
+      "kigyou ya sangyou no min'eika to kokuei ka ni kansu ruanatano tachiba wo , 1  kara  10  no shakudo de hyouka shitekudasai . ( 1 ) ha min'eika no kyouka wo kibou shi , ( 10 ) ha kokuei ka no kyouka wo kibou surukotowo shimeshi masu .",
+      "1  kara  10  no sukeeru wo shiyoushi te , kigyou ya sangyou no minkan shoyuuken no kakudai no kibou wo ( 1 ) , seifu no shoyuuken no kakudai no kibou wo ( 10 ) toshite , anatano iken wo nobe tekudasai .",
+      "kigyou ya sangyou no min'eika to kokuei ka ni kansu ruanatano konomi wo  1  kara  10  no sukeeru de shimeshi tekudasai . ( 1 ) ha min'eika no zouka wo kibou surukotowo imi shi , ( 10 ) ha kokuei ka no zouka wo kibou surukotowo imi shimasu ."
+    ],
+    "options": [
+      "kigyou to sangyou no shiyuu ken wo kakudai subekidearu",
+      "seifu niyoru kigyou to sangyou no shoyuuken wo kyouka subekidearu"
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "seifu no sekinin  vs  kojin no sekinin",
+    "questions": [
+      "subeteno nin ni seikatsu no kate ga iki wataru younisurutameni , seifu hadono teido made sekinin wo ou bekidatoo kangae desuka ?",
+      "subeteno nin ni seikatsu no kate ga hoshou sareruyounisurutameni , seifu hadono teido no sekinin wo motsu bekidato omoi masuka ?",
+      "1  kara  10  no sukeeru de , 1  ha seifu gayori ooku no sekinin wo ou bekidearukotowo imi shi , 10  ha kokumin gayori ooku no sekinin wo ou bekidearukotowo imi shimasu . anatano iken ha nande suka ?",
+      "sekinin toiu kanten kara , seifu to kojin wo  1  kara  10  no sukeeru dedokoni ranku tsuke shimasuka ?"
+    ],
+    "options": [
+      "seifu ha , subeteno nin ni hoshou wo teikyou surutameni , yori ooku no sekinin wo ou bekida .",
+      "hitobito ha jikatsu surutamenimotto sekinin wo motsu bekida"
+    ],
+    "scale": true
+  },
+  "Q109": {
+    "description": "kyousou ha yoi koto  vs  kyousou ha yuugai dearu",
+    "questions": [
+      "kyousou ha shakai nitottedono teido yuueki datoo kangae desuka ?",
+      "kyousou ha inobeeshon to shinpo wodono teido sokushin suruto omoi masuka ?",
+      "1  kara  10  no sukeeru de , 1  ha kyousou gahotondo yuugai dearukotowo imi shi , 10  ha kyousou gahotondo yuueki dearukotowo imi shimasuga , anatano iken ha nande suka ?",
+      "kyousou ni kanshi te , sorega shakai ni atae ru eikyou wo 1 kara 10 no sukeeru de ranku tsuke surutoshitaradonokuraidesuka ?"
+    ],
+    "options": [
+      "kyousou ha shakai nitotte taitei yuueki dearu",
+      "kyousou ha shakai nitottehotondo yuugai dearu"
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "seikou : doryoku  vs  un",
+    "questions": [
+      "1  kara  10  no sukeeru de , 1  ha ( nagai mede mire ba , doryoku surebataiteiyori yoi seikatsu ga okure ru ) , 10  ha ( doryoku shitemo seikou ha era renaikotoga ooi . seikou hamushiro un to kone niyoru ) toiu imi desuga , seikou wo tassei suru uede un ga hata su yakuwari nitsuite , anatahadou omoi masuka .",
+      "1  wo ( nagai mede mire ba , doryoku hataiteiyori yoi seikatsu womotarasu ) , 10  wo ( doryoku ha ippanni seikou womotarasuwakedehanaku , mushiro un to kone no mondai dearu ) toshite , doryoku ha seikou nidono teido kouken suruto omoi masuka . 1  kara  10  no sukeeru de hyouka shitekudasai .",
+      "seikou ha , un ya kone to kurabe te , dono teido doryoku niyorumonodato omoi masuka ？ 1 kara 10 no shakudo de hyouka shitekudasai . 1 ha ( choukiteki niha , doryoku hayori yoi seikatsu womotarasukotoga ooi ) , 10 ha ( doryoku ha kanarazushimo seikou womotarasumonodehanaku , mushiro un to kone niyorumonoda ) desu .",
+      "seikou ni taisuru un to doryoku no eikyou nitsuitenoanatano shinnen wo , 1  kara  10  no sukeeru wo shiyoushi te hyouka shitekudasai . 1  ha ( nagai mede mire ba , doryoku surebataiteiyori yoi seikatsu gamotarasareru ) , 10  ha ( doryoku ha ippanni seikou womotarasuwakedehanaku , mushiro un to kone no mondai dearu ) wo arawashi masu ."
+    ],
+    "options": [
+      "choukiteki niha , isshoukenmei hataraku kotoha tsuujou , yori yoi seikatsu womotarasu",
+      "doryoku ha kanarazushimo seikou womotarasuwakedehanai . mushiro un to kone no mondai da"
+    ],
+    "scale": true
+  },
+  "Q111": {
+    "description": "tatoe keizaiseichou no donka ya koyou no genshou wo manei tatoshitemo , kankyouhogo wo yuusen subekidearu  vs  tatoe kankyou gaaru teido sokona waretatoshitemo , keizaiseichou to koyou no soushutsu wo saiyuusen subekidearu",
+    "questions": [
+      "kankyouhogo to keizaiseichou no baransu nitsuitedouo kangae desuka ?",
+      "tatoe keizaiseichou no donka ya koyou no soushitsu nitsunagattatoshitemo , kankyouhogo ha keizaiseichou yorimo yuusen sarerubekidatoo kangae desuka ?",
+      "tatoe kankyou ga tashou akka surutoshitemo , keizaiseichou to koyou soushutsu wo kankyouhogo yorimo yuusen subekidatoo kangae desuka ?",
+      "kankyouhogo no juuyousei to keizaiseichou oyobi koyou soushutsu no juuyousei wodonoyouni hikakukentou shimasuka ?"
+    ],
+    "options": [
+      "tatoe keizaiseichou no donka ya koyou no genshou wo maneku toshitemo , kankyouhogo wo yuusen subekidearu .",
+      "tatoe kankyou gaaru teido akka shitatoshitemo , keizaiseichou to koyou soushutsu ga saiyuusen sarerubekidearu .",
+      "waka ranai"
+    ]
+  },
+  "Q112": {
+    "description": "kokunai no oshoku ni taisuru ninshiki",
+    "questions": [
+      "anatano kuni no fuhai no reberu wo  1  kara  10  no shakudo de hyouka surutoshitara , donokuraidesuka ?",
+      "anatano kuni no fuhai nitsuiteno ninshiki wo  1  kara  10  no sukeeru de shimeshi tekudasai .",
+      "anatano kuni deha , dono teido fuhai ga man'en shiteiruto omoi masuka ？ 1 kara 10 no shakudo de hyouka shitekudasai .",
+      "anatano kuni deha oshoku gadono teido man'en shiteiruto omoi masuka ？ 1 kara 10 no kan de hyouka shitekudasai ."
+    ],
+    "options": [
+      "watashi no kuni niha fuhai hanai",
+      "watashi no kuni niha fuhai ga man'en shiteiru"
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "wairo no juju de sekinin wo towa reru risuku",
+    "questions": [
+      "wairo wo okutsu tari uketotsu tarishita baai ni sekinin wo towa reru risuku ha , 1  kara  10  no sukeeru dedono teido dato omoi masuka .",
+      "wairo no juju ni kanshi te sekinin wo towa reru risuku no reberu wo  1  kara  10  no kan de hyouka shitekudasai .",
+      "wairo no juju ni kanshi te sekinin wo towa reru risuku wo , 1  kara  10  no kan dedono teido ninshiki shimasuka .",
+      "1  kara  10  no sukeeru wo shiyoushi te , wairo no juju ni taishi te sekinin wo towa reru risuku hadono teido takai to omoi masuka ?"
+    ],
+    "options": [
+      "mattaku risuku nashi",
+      "hijouni takai risuku"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "anatano kuni heno imin : roudouryoku no naka de yuuyou na shigoto wo ume ru",
+    "questions": [
+      "anatano kuni niokeru imin nitsuitedou omoi masuka ？ imin ha roudouryoku no naka de yuuyou na shigoto ni tsuka seteimasuka ？",
+      "anatano kuni heno imin ha , roudouryoku no naka de yuuyou na shoku wo ume rukotoni kouken suruto omoi masuka ?",
+      "anatano iken deha , imin haanatano kuni no roudouryoku no naka de yuuyou na shigoto wo ume ru yakuwari wo hata shiteimasuka ?",
+      "anatano kuni deha , imin niyotte roudouryoku no naka de yuuyou na shigoto ga mita sareteiruto ie masuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "anatano kuni heno imin : bunkateki tayousei wo kyouka suru",
+    "questions": [
+      "anatano kuni deha imin ga bunkateki tayousei wo kyouka suruto omoi masuka ?",
+      "anatano iken deha , anatano kuni niokeru imin ha bunkateki tayousei no koujou ni kouken shiteimasuka ?",
+      "anatano kuni deha imin ga bunka no tayousei wo sokushin surutoo kangae desuka ?",
+      "anatano kuni ni imin ga sonzai surukotoha , yori tsuyoi bunkateki tayousei nitsunagaruto omoi masuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "anatano kuni heno imin : hanzairitsu ga joushou suru",
+    "questions": [
+      "anatano kuni deha imin niyotte hanzairitsu ga joushou shimasuka ?",
+      "anatano kuni heno imin ga hanzairitsu wo zouka saserukadoukawo handan surunoha muzukashii desuka ?",
+      "anatano kuni deha imin niyotte hanzairitsu ga joushou surutoiu iken ni hantai desuka ?",
+      "anatano kuni heno imin niyotte hanzairitsu ga joushou surukadoukawakaranaidesuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "anatano kuni no imin : seiji nanmin ni boumei wo mitome ru",
+    "questions": [
+      "anatano kuni niokeru imin seido nitsuitedou omoi masuka ？ seiji nanmin ni boumei wo mitome teimasuka ？",
+      "anatano kuni deha , imin seisaku ha seiji nanmin nimo tekiyou saremasuka ？ anatano kenkai woo kika sekudasai .",
+      "anatano kuni deha , imin seido wo tsuuji te seiji nanmin ni boumei ga mitome rareteimasuka ？   gaitou surumonowo sentakushi tekudasai .",
+      "anatano kuni no imin seido ha seiji nanmin ni higo wo atae teirutoiu iken ni sansei desuka , hantai desuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "anatano kuni heno imin : tero no risuku ga takama ru",
+    "questions": [
+      "anatano kuni deha imin niyotte tero no risuku ga takama rutoiu iken ni doui shimasuka ?",
+      "anatano iken deha , anatano kuni heno imin ga tero no risuku wo takame rukadoukawo handan surunoha muzukashii desuka ?",
+      "anatano kuni deha imin ga tero no risuku wo takame rutoiu kangae ni hantai shimasuka ?",
+      "anatano kuni heno imin ga tero no risuku wo takame rukadoukawo handan surunoha muzukashii desuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "anatano kuni heno imin : mazushii hitobito ga atarashii seikatsu wo hajime runowo tasuke ru",
+    "questions": [
+      "anatano kuni deha imin ga mazushii hitobito ga arata na seikatsu wo hajime runoni yakutatsu to omoi masuka ?",
+      "anatano kuni deha imin ga mazushii hitobito ga arata na seikatsu wo kakuritsu surunoni yakutatsu to omoi masuka ?",
+      "anatano kuni deha imin ga mazushii hitobito ga arata na seikatsu wo kizuku noni yakutatsu teiruto omoi masuka ?",
+      "anatano kuni deha imin ga mazushii hitobito no saishuppatsu wo shien surutoiu kangae ni sansei shimasuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "anatano kuni heno imin : shitsugyouritsu no zouka",
+    "questions": [
+      "( anatano kuni deha imin niyotte shitsugyou ga zouka suru ) toiu iken nitsuite , dou omoi masuka ?",
+      "( anatano kuni deha imin ga fue ruto shitsugyouritsu ga aga ru ) toiu iken ni sansei desuka , hantai desuka ?",
+      "anatano kuni deha imin niyotte shitsugyouritsu ga joushou surukadoukawo iu noha muzukashii desuka ?",
+      "anatano kuni deha imin niyotte shitsugyouritsu ga joushou surutoiu iken nianataha sansei shimasuka , soretomo hantai shimasuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "anatano kuni niokeru imin : shakai funsou nitsunagaru",
+    "questions": [
+      "anatano kuni deha imin ga shakai funsou wo hikioko suto omoi masuka ?",
+      "anatano iken deha , anatano kuni niokeru imin ha shakaiteki tairitsu wo hikioko shimasuka ?",
+      "anatano kuni deha imin ga shakaiteki na tairitsu wo hikioko sutoo kangae desuka ?",
+      "anatano kuni deha imin ga shakai funsou wo hikioko sutoiu iken ni sansei shimasuka ?"
+    ],
+    "options": [
+      "doui suru",
+      "muzukashii desune",
+      "doui shinai"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "shinpaigoto :  shigoto wo ushinau koto , aruiha shigoto ga mitsu karanaikoto",
+    "questions": [
+      "shigoto wo ushinau kotoya shigoto ga mitsu karanaikotonitsuite , dorekurai shinpai shiteimasuka ？ ( totemo shinpai , kanari shinpai , amari shinpai shiteinai , mattaku shinpai shiteinai )",
+      "shigoto wo ushinau kotoya shigoto ga mitsu karanaikotoheno fuan ha , dono teido anatawo nayama seteimasuka ？ ( hijouni , kanari , amari , mattaku )",
+      "shigoto wo ushinau kotoya shigoto ga mitsu karanaikotowokanari shinpai shiteimasuka ？ ( hijouni shinpai , kanari shinpai , amari shinpai shiteinai , mattaku shinpai shiteinai )",
+      "( hijouni ) kara ( mattaku ) madeno shakudo de , shoku wo ushinau kotoya shigoto ga mitsu karanaikotonitsuite , dono teido shinpai shiteimasuka ."
+    ],
+    "options": [
+      "totemo",
+      "yoi torihiki",
+      "amarinai",
+      "mattaku nai"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "nayami : kodomo ni yoi kyouiku wo uke saserarenaikoto",
+    "questions": [
+      "kodomo tachini yoi kyouiku wo uke saserarenaikotowodono teido shinpai shiteimasuka ?",
+      "kodomo tachini yoi kyouiku wo uke saserarenaikotowodorehodo shinpai shiteimasuka ?",
+      "anataha kodomo tachini yoi kyouiku wo atae rukotogadekirukadoukanitsuite , dono teido shinpai shiteimasuka ?",
+      "kodomo tachini yoi kyouiku wo uke saserarenainodehanaikato , dorehodo shinpai shiteimasuka ?"
+    ],
+    "options": [
+      "totemo",
+      "yoi torihiki",
+      "amarinai",
+      "mattaku nai"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "kaitousha ha kako 1 nenkan ni hanzai no higaisha deatta",
+    "questions": [
+      "kako  1  nenkan ni hanzai no higai ni ai mashitaka ?",
+      "kako  1  nenkan ni hanzai jiken ni souguu shimashitaka ?",
+      "kako  1  nenkan ni , hanzai no higai ni ai mashitaka ?",
+      "kako  1  nenkan ni , hanzaikoui ni ai mashitaka ?"
+    ],
+    "options": [
+      "hai",
+      "iie"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "kaitousha no kazoku ha sakunen hanzai no higaisha tonatta",
+    "questions": [
+      "anatano kazoku ha sakunen hanzai no higaisha ninarimashitaka ?",
+      "anatano kazoku ha sakunen nanika hanzai jiken wo keiken shimashitaka ?",
+      "kako  1  nenkan ni , anatano kazoku ha nanraka no hanzaikoui no hyouteki ninarimashitaka ?",
+      "sakunen , anatano kazoku ni eikyou wo oyobo su hanzaikoui haarimashitaka ?"
+    ],
+    "options": [
+      "hai",
+      "iie"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "jiyuu to byoudou  -  dochiragayori juuyou ka",
+    "questions": [
+      "anatano iken deha , jiyuu to byoudou nodochiragayori juuyou desuka ?",
+      "anatanitotte , jiyuu to byoudou nodochiragayori juuyou dato omoi masuka ?",
+      "juuyousei wo hyouka surutoki , jiyuu to byoudou nodochiragayori kachi gaarudeshouka ?",
+      "jiyuu to byoudou nouchi , dochiragayori juuyou dato kangae masuka ?"
+    ],
+    "options": [
+      "jiyuu",
+      "byoudou"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "jiyuu to anzen  -  dochiragayori juuyou ka",
+    "questions": [
+      "jiyuu to anzen nodochiragayori juuyou desuka ?",
+      "juuyousei ni kanshi te ie ba , anatanitotte jiyuu to anzen nodochiragayori juuyou desuka ?",
+      "anatanitotte , jiyuu to anzen nodochiragayori juuyou desuka ?",
+      "anataha jiyuu to anzen nodochirawo juushi shimasuka ?"
+    ],
+    "options": [
+      "jiyuu",
+      "anzen"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "kuni notameni tatakau ishi",
+    "questions": [
+      "anataha kuni notameni tatakau tsumoridesuka ?",
+      "anataha jibun no kuni notameni tatakau ishi gaarimasuka ?",
+      "anataha kuni notameni tatakau ishi gaarimasuka ?",
+      "funsou ga oko tta baai , anataha kuni notameni tatakai masuka ?"
+    ],
+    "options": [
+      "hai",
+      "iie"
+    ],
+    "scale": false
+  },
+  "Q152": {
+    "description": "anata jishin ga , koreranouchidorewo mottomo juuyou dato omou ka oshie tekudasai .",
+    "questions": [
+      "korerano mokuhyou nouchidorega mottomo juuyou datoo kangae ka oshie tekudasai .",
+      "tsugino sentakushi nouchi , kojinteki ni mottomo juuyou dato omou monohadoredesuka ?",
+      "ikano risuto no naka de , anatanitotte kojinteki ni mottomo juuyouna mokuhyou hadoredato omoi masuka ?",
+      "teikyou sareta opushon no naka kara , mottomo juuyou to omowa reru mokuhyou wo sentakushi tekudasai ."
+    ],
+    "options": [
+      "takai keizaiseichou",
+      "kono kuni ga kyouryoku na bouei chikara wo motsu kotowo kakujitsu nisuru",
+      "shokuba ya chiikishakai de monogoto gadonoyouni okonawa rerukanitsuite , hitobito gayori ooku no hatsugenken wo motsu kotowo meno atari nisuru",
+      "toshi to inaka woyori utsukushiku surutameni",
+      "waka ranai"
+    ]
+  },
+  "Q153": {
+    "description": "tsugini juuyouna nohadoredeshouka ?",
+    "questions": [
+      "korerano mokuhyou nouchi , dorega  2  banme ni juuyouna mokuhyou dearuto kangae rareruka oshie tekudasai .",
+      "tsugino sentakushi nouchi , kojinteki ni  2  banme ni juuyou dato omou monohadoredesuka .",
+      "ikano risuto no naka de , anatanitotte kojinteki ni  2  banme ni juuyouna mokuhyou hadoredato omoi masuka ?",
+      "teikyou sareta opushon no naka kara , 2  banme ni juuyou to omowa reru mokuhyou wo sentakushi tekudasai ."
+    ],
+    "options": [
+      "takai keizaiseichou",
+      "kono kuni ga kyouryoku na bouei chikara wo motsu kotowo kakujitsu nisuru",
+      "shokuba ya chiikishakai de monogoto gadonoyouni okonawa rerukanitsuite , hitobito gayori ooku no hatsugenken wo motsu kotowo meno atari nisuru",
+      "toshi to inaka woyori utsukushiku surutameni",
+      "waka ranai"
+    ]
+  },
+  "Q154": {
+    "description": "anata jishin ga , koreranouchidorewo mottomo juuyou dato omou ka oshie tekudasai .",
+    "questions": [
+      "korerano mokuhyou nouchidorega mottomo juuyou datoo kangae desuka ?",
+      "tsugino sentakushi nouchi , kojinteki ni mottomo juuyou dato omou monohadoredesuka ?",
+      "ikano risuto no naka de , anatanitotte kojinteki ni mottomo juuyouna mokuhyou hadoredato omoi masuka ?",
+      "teikyou sareta opushon no naka kara , mottomo juuyou to omowa reru mokuhyou wo sentakushi tekudasai ."
+    ],
+    "options": [
+      "kokka no chitsujoiji",
+      "seifu no juuyouna kettei nioite kokumin ni hatsugenken wo atae ru",
+      "kakaku joushou tono tatakai",
+      "genron no jiyuu wo mamoru"
+    ]
+  },
+  "Q155": {
+    "description": "tsugini juuyouna nohadoredeshouka ?",
+    "questions": [
+      "korerano mokuhyou nouchi , dorega  2  banme ni juuyouna mokuhyou dearuto kangae rareruka oshie tekudasai .",
+      "tsugino sentakushi nouchi , anataga kojinteki ni  2  banme ni juuyou dato omou monohadoredesuka ?",
+      "ikano risuto no naka de , anatanitotte kojinteki ni  2  banme ni juuyouna mokuhyou hadoredato omoi masuka ?",
+      "teikyou sareta opushon no naka kara , 2  banme ni juuyou to omowa reru mokuhyou wo sentakushi tekudasai ."
+    ],
+    "options": [
+      "kokka no chitsujoiji",
+      "seifu no juuyouna kettei nioite kokumin ni hatsugenken wo atae ru",
+      "kakaku joushou tono tatakai",
+      "genron no jiyuu wo mamoru"
+    ]
+  },
+  "Q156": {
+    "description": "anata jishin ga , koreranouchidorewo mottomo juuyou dato omou ka oshie tekudasai .",
+    "questions": [
+      "korerano mokuhyou nouchidorega mottomo juuyou datoo kangae desuka ?",
+      "tsugino sentakushi nouchi , kojinteki ni mottomo juuyou dato omou monohadoredesuka ?",
+      "ikano risuto no naka de , anatanitotte kojinteki ni mottomo juuyouna mokuhyou hadoredato omoi masuka ?",
+      "teikyou sareta opushon no naka kara , mottomo juuyou to omowa reru mokuhyou wo sentakushi tekudasai ."
+    ],
+    "options": [
+      "antei shita keizai",
+      "yori hiningenteki denaku , yori ningenteki na shakai heno shinpo",
+      "o kin yorimo aidea ga juushi sareru shakai heno shinpo",
+      "hanzai tono tatakai",
+      "waka ranai"
+    ]
+  },
+  "Q157": {
+    "description": "tsugini juuyouna nohadoredeshouka ?",
+    "questions": [
+      "korerano mokuhyou nouchi , dorega  2  banme ni juuyouna mokuhyou dearuto kangae rareruka oshie tekudasai .",
+      "tsugino sentakushi nouchi , anataga kojinteki ni  2  banme ni juuyou dato omou monohadoredesuka ?",
+      "ikano risuto no naka de , anatanitotte kojinteki ni  2  banme ni juuyouna mokuhyou hadoredato omoi masuka ?",
+      "teikyou sareta opushon no naka kara , 2  banme ni juuyou to omowa reru mokuhyou wo sentakushi tekudasai ."
+    ],
+    "options": [
+      "antei shita keizai",
+      "yori hiningenteki denaku , yori ningenteki na shakai heno shinpo",
+      "o kin yorimo aidea ga juushi sareru shakai heno shinpo",
+      "hanzai tono tatakai"
+    ]
+  },
+  "Q158": {
+    "description": "kagakugijutsu ha watashitachi no seikatsu woyori kenkou de , yori kantan de , yori kaiteki namononishiteimasu",
+    "questions": [
+      "kagakugijutsu niyotte watashitachi no seikatsu hayori kenkouteki , raku , kaiteki namononinatteiruto , 1  kara  10  no sukeeru dedono teido doui shimasuka .",
+      "tsugino kijutsu nitsuite , 1  kara  10  madeno iken wo hyouka shitekudasai :  kagakugijutsu ha , watashitachi no seikatsu woyori kenkouteki , yori kantan , yori kaiteki nisurukotode koujou saseteimasu .",
+      "kagakugijutsu ha , yori kenkou de , yori raku de , yori kaiteki na seikatsu ni kouken shiteiruto omoi masuka ？ 1 kara 10 no kan de hyouka shitekudasai .",
+      "kagakugijutsu niyotte watashitachi no seikatsu hayori kenkouteki , youi , kaiteki namononinatteirutoiu kangae ni , 1  kara  10  no sukeeru wo shiyoushi tedono teido doui surukawo shimeshi tekudasai ."
+    ],
+    "options": [
+      "mattaku doui shinai",
+      "kanzen ni doui shimasu"
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "kagakugijutsu nookagede , jisedai nihayori ooku no kikai ga atae rarerudarou",
+    "questions": [
+      "kagakugijutsu niyotte jisedai ni ooku no kikai gamotarasarerutoiu kangae ni , 1  kara  10  no sukeeru dedono teido doui shimasuka .",
+      "kagakugijutsu ga jisedai nisaranaru kikai womotarasutoiu iken nidono teido doui surukawo , 1  kara  10  no sukeeru de hyouka shitekudasai .",
+      "kagakugijutsu ha jisedai no kikai kakudai nidono teido kouken suruto omoi masuka ？ 1 ~ 10 dankai de hyouka shitekudasai .",
+      "kagakugijutsu ga jisedai ni ooku no kikai wo teikyou surutoiu iken ni , dono teido sansei desuka , hantai desuka . 1 kara 10 no kan de hyouka shitekudasai ."
+    ],
+    "options": [
+      "mattaku doui shinai",
+      "kanzen ni doui shimasu"
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "watashitachi ha kagaku ni tayori sugiteite , shinkou ni tayori kireteinai",
+    "questions": [
+      "( watashitachi ha kagaku ni tayori sugiteite , shinkou ni tayori kiridehanai ) toiu iken ni , 1  kara  10  no sukeeru dedono teido doui shimasuka .",
+      "( watashitachi ha kagaku ni kado ni izon shi , shinkou woamari juushi shiteimasen ) toiu kijutsu ni taisuru doui reberu wo  1  kara  10  no sukeeru de hyouka shitekudasai .",
+      "( watashitachi ha kagaku wo kado ni shinrai shi , shinkou wo keishi shiteiru ) toiu shuchou ni , anatahadono teido sansei desuka , hantai desuka ？  1  kara  10  no shakudo de hyouka shitekudasai .",
+      "( watashitachi ha kagaku ni kado ni izon shi , shinkou wo mushisu ru keikou gaaru ) toiu kijutsu ni taisuru doui reberu wo  1  kara  10  no sukeeru de shimeshi tekudasai ."
+    ],
+    "options": [
+      "mattaku doui shinai",
+      "kanzen ni doui shimasu"
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "kagaku no warui eikyou no hitotsu ha , hitobito no zen'aku no kangae wo houkai saserukotodearu",
+    "questions": [
+      "kagaku no akueikyou no hitotsu ha , hitobito no zen'aku no kannen wo houkai saserukotodesu . kono iken ni , anatahadono teido doui shimasuka , mataha hantai shimasuka ？ ( 1 =  mattaku doui shinai , 10 =  mattaku doui suru )",
+      "kagaku ga hitobito no zen'aku no kangae wo uchi yaburu toiu kangae ni , 1  kara  10  no sukeeru dedono teido sansei mataha hantai shimasuka .",
+      "( kagaku ha hitobito no zen'aku no kangaekata ni akueikyou wo oyobo shiteiru ) toiu kijutsu nitsuite , anatano doui do mataha hantai do wo hyouka shitekudasai . ( 1 =  mattaku doui shinai , 10 =  mattaku doui suru )",
+      "kagaku ha hitobito no zen'aku no gainen wodono teido yuru gashiteiruto omoi masuka ？ 1 kara 10 no kan de hyouka shitekudasai . 1 ha ( mattaku doui shinai ) , 10 ha ( mattaku doui suru ) wo arawashi masu ."
+    ],
+    "options": [
+      "mattaku doui shinai",
+      "kanzen ni doui shimasu"
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "nichijouseikatsu de kagaku nitsuite shiru kotoha watashi nitotte juuyou dehanai",
+    "questions": [
+      "( nichijouseikatsu de kagaku nitsuite shiru kotoha watashi nitotte juuyou dehanai ) toiu iken ni , 1  kara  10  no sukeeru dedono teido sansei mataha hantai shimasuka .",
+      "( nichijouseikatsu de kagaku nitsuite shiru kotoha watashi nitotte juuyou dehanai ) toiu kijutsu ni taisuru doui mataha fudoui no reberu wo  1  kara  10  no sukeeru de hyouka shitekudasai .",
+      "( nichijouseikatsu nioite kagaku nitsuite shiru kotoha watashi nitotte juuyou dehanai ) toiu iken ni , anatahadono teido sansei desuka , hantai desuka . 1  kara  10  no shakudo de hyouka shitekudasai .",
+      "( nichijouseikatsu de kagaku nitsuite shiru kotoha watashi nitotte juuyou dehanai ) toiu kijutsu nitsuite , 1  kara  10  no sukeeru de hyouka shiteanatano iken wo shimeshi tekudasai ."
+    ],
+    "options": [
+      "mattaku doui shinai",
+      "kanzen ni doui shimasu"
+    ],
+    "scale": true
+  },
+  "Q163": {
+    "description": "kagakugijutsu nookagede sekai ha yoku nattato omoi masuka , soretomo waruku nattato omoi masuka ?",
+    "questions": [
+      "1  kara  10  no sukeeru de , kagakugijutsu ha sekai wodono teido kaizen shitato omoi masuka ?",
+      "kagakugijutsu ha shakai nidono teido yoi eikyou wo atae teiruto omoi masuka ?",
+      "kagakugijutsu ga sekai ni oyobo su zentaiteki na eikyou wodonoyouni hyouka shimasuka ?",
+      "anatano iken deha , kagakugijutsu nookagede sekai hayori yoku narimashitaka ?"
+    ],
+    "options": [
+      "zutto warui joukyou",
+      "zutto yoku natta"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "kami no juuyousei",
+    "questions": [
+      "1  kara  10  no sukeeru de , anatanitotte kami hadorekurai juuyou desuka ?",
+      "anataha jinsei nioite kami wodono teido juushi shiteimasuka ？ 1 kara 10 no shakudo de hyouka shitekudasai .",
+      "hibi no katsudou nioite , kami hadono teido juuyou dato omoi masuka ？ 1 kara 10 no shakudo de hyouka shitekudasai .",
+      "anatano shinkou taikei nioite , kami wodono teido juuyoushi shiteirukawo 1 kara 10 no shakudo de hyouka shitekudasai ."
+    ],
+    "options": [
+      "mattaku juuyou dehanai",
+      "hijouni juuyou"
+    ],
+    "scale": true
+  },
+  "Q165": {
+    "description": "kami heno shinkou",
+    "questions": [
+      "anataha kami wo shinji masuka ？",
+      "anataha kami no sonzai wo shinji masuka ?",
+      "anataha kojinteki ni kami ga sonzai suruto shinji masuka ?",
+      "kami wo shinji rukadoukawo shimeshi tekudasai ."
+    ],
+    "options": [
+      "hai",
+      "iie"
+    ],
+    "scale": false
+  },
+  "Q166": {
+    "description": "shinji rumono : shigo no sekai",
+    "questions": [
+      "anataha shigo no sekai wo shinji masuka ？",
+      "shigo no sekai haarunodeshouka ？",
+      "shigo nimo nanika ga sonzai suruto omoi masuka ？",
+      "anataha shigo no sekai gaaruto shinji teimasuka ？"
+    ],
+    "options": [
+      "hai",
+      "iie"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "shinji ru : jigoku",
+    "questions": [
+      "anataha jigoku wo shinji masuka ？",
+      "anataha jigoku no sonzai wo tsuyoku shinji teimasuka ?",
+      "anataha jigoku no sonzai wo shinji teiruto omoi masuka ?",
+      "anataha jigoku toiu gainen wo shinji masuka ?"
+    ],
+    "options": [
+      "hai",
+      "iie"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "shinji ru : tengoku",
+    "questions": [
+      "anataha tengoku wo shinji masuka ？",
+      "anataha tengoku wo shinji masuka ？",
+      "tengoku ha sonzai suruto omoi masuka ？",
+      "anataha tengoku toiu gainen wo shinji masuka ?"
+    ],
+    "options": [
+      "hai",
+      "iie"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "kagaku to shuukyou ga shoutotsu surutokihaitsumo , shuukyou ga tadashii",
+    "questions": [
+      "kagaku to shuukyou ga tairitsu surutokiha tsuneni shuukyou ga tadashii to shinji masuka ?",
+      "anatano iken deha , kagaku to shuukyou ga tairitsu shiteiru baai , shuukyou ha tsuneni tadashii nodeshouka ?",
+      "shuukyou ha kagaku to mujun suru baai demo tsuneni tadashii toiukotoni doui shimasuka ?",
+      "shuukyou ha kagaku to mujun suruarayuru joukyou nioite tadashii to omoi masuka ?"
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "doui shinai",
+      "tsuyoku hantai"
+    ],
+    "scale": false
+  },
+  "Q170": {
+    "description": "shuukyouteki haita sei ni taisuru taido",
+    "questions": [
+      "( yuiitsu ukeire rareru shuukyou ha watashi no shuukyou dearu ) toiu iken ni sansei shimasuka , hantai shimasuka ?",
+      "anatano shuukyou dakega ukeire rarerukotoni , tsuyoku sansei , sansei , hantai , aruiha tsuyoku hantai nodoredesuka ?",
+      "anatano shuukyou dakega yuiitsu ukeire rareru shuukyou dearutoiu shinnen ni , anatahadono teido doui shimasuka , mataha hantai shimasuka ?",
+      "anatano shuukyou dakega ukeire rarerutoiu iken nidono teido doui surukawo shimeshi tekudasai ."
+    ],
+    "options": [
+      "tsuyoku doui suru",
+      "doui suru",
+      "doui shinai",
+      "tsuyoku hantai"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "donokuraino hindo de shuukyou gyouji ni sanka shimasuka",
+    "questions": [
+      "anatahadonokuraino hindo de shuukyouteki na gishiki ni sanka shimasuka ?",
+      "anatahadonokuraino hindo de shuukyou gyouji ni sanka shimasuka ?",
+      "anatahadonokuraino hindo de shuukyou gyouji ni sanka shimasuka ?",
+      "donokuraino hindo de shuukyou gyouji ni sanka shimasuka ?"
+    ],
+    "options": [
+      "shuu ni 1 kai ijou",
+      "shuu ni ichido",
+      "gatsu ni ichido",
+      "tokubetsu na seijitsu nomi",
+      "nen ni ichido",
+      "amari hinpan dehanai",
+      "kesshite , hotondonai"
+    ],
+    "scale": false
+  },
+  "Q172": {
+    "description": "inori no hindo",
+    "questions": [
+      "kekkonshiki yao soushiki igai deha , dorekuraino hindo de inori wo sasage masuka ？",
+      "anatahadorekuraino hindo de inori ya shuukyouteki na shinkou wo itte imasuka ?",
+      "nichijouseikatsu dedorekuraino hindo de inotsu teiruka oshie tekudasai .",
+      "shuukyouteki na reihai ya gishiki wo nozoi te , kojinteki nidorekuraino hindo de inori wo sasage masuka ?"
+    ],
+    "options": [
+      "1 nichi ni suukai",
+      "1 nichi 1 kai",
+      "shuu ni suukai",
+      "shuukyou gyouji ni sanka suru baai nomi",
+      "tokubetsu na seijitsu nomi",
+      "nen ni ichido",
+      "amari hinpan dehanai",
+      "kesshite , hotondonai"
+    ],
+    "scale": false
+  },
+  "Q173": {
+    "description": "shuukyou sei no jiko ninshiki",
+    "questions": [
+      "shuukyouteki na gishiki ni sanka surukadoukani kankei naku , anataha jibun ga shinkou fukai nin , shinkou fukaku nai nin , aruiha mushinronsha dato omoi masuka ?",
+      "kojintekina shuukyou kokoro toiu kanten kara , anata jishin wodonoyouni hyougen shimasuka ?",
+      "anataha jibunjishin wo shuukyouteki , hi shuukyouteki , aruiha mushinronsha dato omoi masuka ?",
+      "anatano shuukyou kokoro no reberu wodonoyouni bunrui shimasuka ?"
+    ],
+    "options": [
+      "shuukyouteki na nin",
+      "shuukyouteki na nin dehanai",
+      "mushinronsha"
+    ],
+    "scale": false
+  },
+  "Q174": {
+    "description": "shuukyou no imi : doutokuteki shouten to gishiki teki shouten",
+    "questions": [
+      "tsugino kijutsu nouchi , doreni mottomo doui shimasuka ？ shuukyou no kihonteki na imi ha tsugino tooridesu .",
+      "anatanitotte shuukyou ga imi surumonowo mottomo yoku arawashi teirunoha tsugino uchidoredesuka ?",
+      "anatano iken deha , shuukyou no omona mokuteki mataha honshitsu ha nande suka ?",
+      "shuukyou nitsuitenoanatano kenkai wo mottomo yoku arawashi teiru kijutsu wo sentakushi tekudasai ."
+    ],
+    "options": [
+      "shuukyouteki kihan ya gishiki ni shitagau",
+      "tanin ni zenkou wo hodokosu"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "shuukyou no imi : shigo no sekai wo rikai suru  vs  kono yono jinsei wo rikai suru",
+    "questions": [
+      "shuukyou no mokuteki ha nande suka ？ ( 1 tsu sentakushi tekudasai )",
+      "anatano shuukyou mini mottomo chikai nohadono kijutsu desuka ? (1 tsu sentakushi tekudasai )",
+      "anatano iken deha , shuukyou no omona kinou ha shigo no sekai wo rikai surukotodesuka , soretomokono yono jinsei wo rikai surukotodesuka ? ( izurekawo sentakushi tekudasai )",
+      "shuukyou wo kangae rutoki , shuukyou ha omoni jinsei nodono sokumen wo setsumeishi youtoshiteiruto omoi masuka ？ ( 1 tsu sentakushi tekudasai )"
+    ],
+    "options": [
+      "shigo no sekai wo rikai surutameni",
+      "kono sekai deno jinsei no imi wo rikai surutameni"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "doui do :  kyou deha , dono doutokuteki ruuru ni shitagau noga tadashii nokawo kime runoni kurou surukotoga ooi .",
+    "questions": [
+      "1  kara  10  no sukeeru de , tsugino iken nidono teido doui shimasuka . ( kyou deha , dono doutokuteki ruuru ni shitagau noga tadashii noka handan surunoga muzukashii kotogayokuarimasu . )  (1 =  kanzen ni doui , 10 =  kanzen ni doui shinai )",
+      "tsugino kijutsu nidono teido doui suruka , 1  kara  10  no shakudo de hyouka shitekudasai . ( kyou deha , dono doutokuteki ruuru ni shitagau noga tadashii nokawo kime runoni kurou surukotogayokuarimasu . (1 =  kanzen ni doui , 10 =  kanzen ni doui shinai ) )",
+      "tsugino kijutsu ni taisuru anatano doui reberu wo , 1  kara  10  no shakudo wo shiyoushi te shimeshi tekudasai . (1 =  kanzen ni doui , 10 =  kanzen ni doui shinai )",
+      "tsugino kijutsu nidono teido doui shimasuka ？ gendaishakai deha , dono doutoku kihan ni shitagau bekika handan ni mayou kotogayokuarimasu . 1 kara 10 no shakudo de hyouka shitekudasai . 1 ha kanzen ni doui , 10 ha kanzen ni doui shinaikotowo imi shimasu ."
+    ],
+    "options": [
+      "kanzen ni doui shimasu",
+      "mattaku doui shinai"
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "seitou na riyuu : jukyuu shikaku nonai seifu kyuufukin wo seikyuu suru",
+    "questions": [
+      "donoyouna joukyou deareba , jukyuu shikaku nonai seifu kyuufukin wo seikyuu surukotoga seitou dearuto kangae masuka ?",
+      "donoyouna jouken deareba , jukyuu shikaku nonai seifu kyuufukin wo seikyuu surukotoga seitou dearuto kangae masuka ?",
+      "tokutei no joukyou nioite , jukyuu shikaku nonai seifu kyuufukin wo seikyuu surukotoha seitou dearuto kangae masuka ？ moshisoudeareba , donoyouna baai nisou kangae masuka ？",
+      "anatano iken deha , jukyuu shikaku nonai seifu kyuufukin wo seikyuu surukotoga seitouka sareru shinario haarimasuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": false
+  },
+  "Q178": {
+    "description": "seitouka dekiru riyuu : koukyoukoutsuukikan no unchin wo sake ru",
+    "questions": [
+      "koukyoukoutsuukikan no unchin wo setsuyaku surukotoga seitouka sareru keesu hadonokuraiaruto omoi masuka ?",
+      "koukyoukoutsuukikan no unchin wo harawa naikotohadono teido made kyoyou dekiruto omoi masuka ?",
+      "koukyoukoutsuukikan de unchin wo harawa nainoga tekisetsu nanohadonoyouna baai dato omoi masuka ?",
+      "koukyoukoutsuukikan de unchin wo harawa nai koui hadono teido seitou dato omoi masuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": false
+  },
+  "Q179": {
+    "description": "seitouka dekiru koui : zaisan no settou",
+    "questions": [
+      "zaisan wo nusumu kotoha kesshite seitouka sarenaito omoi masuka ?",
+      "zaisan wo nusumu kotoha tsuneni seitouka sareruto omoi masuka ?",
+      "anatano iken deha , zaisan wo nusumu kotoha kesshite seitouka sarenainodeshouka ?",
+      "zaisan wo nusumu kotoha tsuneni seitouka sareru , toanataha shinji masuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": false
+  },
+  "Q180": {
+    "description": "seitouka dekirumono : datsuzei",
+    "questions": [
+      "datsuzei ga seitouka sarerukotogaaruto omoi masuka ?",
+      "anatano iken deha , datsuzei ha tsuneni warui kotonanodeshouka ?",
+      "datsuzei ga seitouka sareru joukyou haaruto omoi masuka ?",
+      "datsuzei ha kesshite yurusa rerubekidehanaitoo kangae desuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": false
+  },
+  "Q181": {
+    "description": "seitouka dekiru : shokumu no suikou nakani wairo wo uketoru mono",
+    "questions": [
+      "shokumu no suikou nakani wairo wo uketoru kotono seitousei nitsuite , anatano iken ha nande suka ?",
+      "shokumu no suikou nakani wairo wo uketoru kotohadono teido made seitouka sareruto omoi masuka ?",
+      "anatano kenkai deha , shokumu no katei de wairo wo uketoru kotoha kyoyou sarerunodeshouka ?",
+      "shokumu no katei de wairo wo uketoru kotoha tsuneni seitouka sareruto omoi masuka , kesshite seitouka sarenaito omoi masuka , soretomosono chuukan dato omoi masuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": false
+  },
+  "Q182": {
+    "description": "douseiai ni taisuru taido",
+    "questions": [
+      "douseiai ha seitouka sarerukotogaaruto omoi masuka ? 1 ( kesshite nai )   kara  10 ( tsuneni )   no sukeeru de hyouka shitekudasai .",
+      "anatano iken deha , douseiai haikanaru joukyouka demo seitouka dekirudeshouka . 1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de oshie tekudasai .",
+      "1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de , douseiai ga seitouka sareru joukyou haaruto omoi masuka ？",
+      "anatano iken deha , 1 ( kesshite nai ) kara 10 ( tsuneni ) no sukeeru de , douseiai ga seitouka sareru joukyou haarimasuka ？"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q183": {
+    "description": "baishun ni taisuru taido",
+    "questions": [
+      "baishun ga seitouka sarerukotogaaruto omoi masuka ? 1 ( kesshite nai )   kara  10 ( tsuneni )   no sukeeru de hyouka shitekudasai .",
+      "anatano iken deha , baishun hadonoyouna joukyou demo seitouka dekirudeshouka . 1 ( kesshite seitouka dekinai ) kara 10 ( tsuneni seitouka dekiru ) no shakudo de oshie tekudasai .",
+      "baishun ga seitouka sareru joukyou ha , 1 ( kesshite nai ) kara 10 ( itsumo ) no shakudo de kangae rebaaruto omoi masuka ？",
+      "anatano iken deha , baishun ga seitouka sareru joukyou ha , 1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de , aruto omoi masuka ？"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q184": {
+    "description": "seitouka dekirumono : chuuzetsu",
+    "questions": [
+      "chuuzetsu ha seitouka sarerukotogaaruto omoi masuka ? 1 ( kesshite nai )   kara  10 ( tsuneni )   no sukeeru de hyouka shitekudasai .",
+      "anatano iken deha , chuuzetsu haikanaru joukyou demo seitouka dekirudeshouka . 1 ( kesshite shinai ) kara 10 ( tsuneni ) no shakudo de hyouka shitekudasai .",
+      "1 ( zettai ninai ) kara 10 ( tsuneni ) no shakudo de , chuuzetsu ga seitouka sareru joukyou haaruto omoi masuka ？",
+      "1 ( tsuneni seitouka dekinai ) kara  10 ( tsuneni seitouka dekiru ) no shakudo de ie ba , anatano kenkai deha chuuzetsu ha tsuneni seitouka dekinaimononanodeshouka ."
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q185": {
+    "description": "seitou na riyuu : rikon",
+    "questions": [
+      "rikon ha seitouka sarerudeshouka ？ 1 ( kesshite nai ) kara 10 ( itsumo ) madeno shakudo de hyouka shimasu .",
+      "rikon ha seitouka dekiruto omoi masuka ? 1 ( zettai ninai )   kara  10 ( itsumo )   no shakudo de arawashi masu .",
+      "rikon ha , 1 ( zettai ninai ) kara 10 ( tsuneni ) no shakudo de seitou dearuto kangae rarerudeshouka ?",
+      "anatano iken deha , rikon ga seitouka sareru joukyou ha , 1 ( kesshite nai ) kara 10 ( tsuneni ) no sukeeru de sonzai shimasuka ？"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q186": {
+    "description": "kekkonmae no seikoui ni taisuru taido",
+    "questions": [
+      "kekkonmae no seikoui ha , 1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de seitouka dekimasuka ？",
+      "kekkonmae no seikoui ha seitouka dekiruto omoi masuka ? 1 ( zettai nishinai )   kara  10 ( itsumosuru )   no sukeeru de hyouka shitekudasai .",
+      "kekkonmae no seikoui ha , 1 ( kesshite shinai ) kara 10 ( tsuneni suru ) no shakudo de seitouka dekiruto kangae raremasuka ？",
+      "anatano iken deha , 1 ( zettai ninai ) kara 10 ( itsumo ) no sukeeru de , konzenkoushou ga seitouka sareru joukyou haarudeshouka ？"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q187": {
+    "description": "seitouka dekirumono : jisatsu",
+    "questions": [
+      "jisatsu no seitousei nitsuitedouo kangae desuka ?",
+      "jisatsu ha seitouka sarerukotogaaruto omoi masuka ?",
+      "jisatsu ni kanshi te ie ba , sorewo seitouka dekiru joukyou haaruto omoi masuka ?",
+      "donoyouna joukyou demo jisatsu ha doutokuteki ni seitouka dekiruto omoi masuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q188": {
+    "description": "seitouka kanou : anrakushi",
+    "questions": [
+      "anrakushi no seitousei nitsuite , anatano tachiba hadonoyounamonodesuka ?",
+      "tokutei no joukyouka deha anrakushi ga seitouka sareruto omoi masuka ?",
+      "anatano iken deha , anrakushi ha seitouka sarerunodeshouka ?",
+      "tokutei no keesu deha anrakushi ga seitou na sentakushi tominasarerubekideshouka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q189": {
+    "description": "seitouka dekiru : dansei ga tsuma wo naguru",
+    "questions": [
+      "dansei ga tsuma wo naguru kotoha seitouka sarerunodeshouka ？",
+      "dansei ga tsuma wo naguru kotoha seitouka sareruto omoi masuka ?",
+      "anatano iken deha , dansei ga tsuma wo naguru kotoha yurusa rerunodeshouka ?",
+      "dansei ga tsuma wo naguru kotoga seitouka sareru joukyou gaaruto omoi masuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q190": {
+    "description": "seitouka dekiru : oya ga kodomo wo naguru",
+    "questions": [
+      "oya ga kodomo wo naguru noha seitouka sareruto omoi masuka ？",
+      "oya ga kodomo ni taishi te shintaiteki na bouryoku wo furu ukotoha seitouka sarerunodeshouka ?",
+      "oya niha kodomo wo shintaiteki ni kora shimeru kenri gaaruto omoi masuka ?",
+      "anatano iken deha , oya ga kodomo ni taibatsu wo atae rukotoha kyoyou saremasuka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q191": {
+    "description": "seitouka dekirumono : tasha ni taisuru bouryoku",
+    "questions": [
+      "tanin ni taisuru bouryoku ha seitouka sarerukotogaaruto omoi masuka ?",
+      "anatano iken deha , tasha ni taisuru bouryoku ga seitouka sareruto kangae rareru joukyou haarudeshouka ?",
+      "tanin ni taisuru bouryoku ga seitouka sareru joukyou haaruto omoi masuka ?",
+      "donoyouna joukyou demo tanin ni taisuru bouryoku ga seitouka sareru kanousei haarunodeshouka ?"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q192": {
+    "description": "seitouka kanou : seijiteki , ideorogii teki , mataha shuukyouteki shudan toshiteno terorizumu",
+    "questions": [
+      "terorizumu ga seijiteki shudan toshite seitouka sarerukotogaaruto omoi masuka ? 1 ( kesshite nai )   kara  10 ( tsuneni )   no sukeeru de hyouka shitekudasai .",
+      "1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de , terorizumu ga ideorogii teki shudan toshite seitouka sareru kanousei haarudeshouka ？",
+      "terorizumu ha shuukyouteki shudan toshite seitouka dekiruto omoi masuka ? 1 ( kesshite nai )   kara  10 ( tsuneni )   no sukeeru de hyouka shitekudasai .",
+      "anatano iken deha , terorizumu ha seiji mokuteki wo tassei surutameno seitou na shudan tonarukotogaarudeshouka . 1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de oshie tekudasai ."
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q193": {
+    "description": "kajuarusekkusu ni taisuru taido",
+    "questions": [
+      "kajuarusekkusu ha , 1 ( kesshite nai ) kara 10 ( itsumo ) no shakudo de seitouka dekimasuka ？",
+      "kajuarusekkusu ha seitouka dekiruto omoi masuka ? 1 ( kesshite shinai )   kara  10 ( itsumosuru )   no shakudo de arawashi masu .",
+      "kajuarusekkusu ha , 1 ( kesshite shinai ) kara 10 ( itsumosuru ) no shakudo de seitouka dekiruto kangae rarerudeshouka ？",
+      "anatano iken deha , 1 ( kesshite nai ) kara 10 ( itsumo ) no sukeeru de , kajuarusekkusu ga seitouka sareru joukyou haarimasuka ？"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q194": {
+    "description": "seitouka dekirumono : seijiteki bouryoku",
+    "questions": [
+      "seijiteki bouryoku ha seitouka sarerukotogaaruto omoi masuka ? 1 ( kesshite nai )   kara  10 ( tsuneni )   no sukeeru de hyouka shitekudasai .",
+      "anatano iken deha , 1 ( kesshite nai ) kara 10 ( tsuneni ) no sukeeru de , seijiteki bouryoku ga seitouka sareru joukyou haarimasuka ？",
+      "seijiteki bouryoku ha , tokutei no joukyouka deha doutokuteki ni seitouka dekiruto omoi masuka ? 1 ( kesshite nai )   kara  10 ( tsuneni )   no sukeeru de hyouka shitekudasai .",
+      "seijiteki bouryoku ha , 1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de seitouka dekirudeshouka ？"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q195": {
+    "description": "seitouka dekiru : shikei",
+    "questions": [
+      "shikei ha seitouka sareruto omoi masuka ? 1 ( zettai ninai )   kara  10 ( tsuneni )   no shakudo de hyouka shitekudasai .",
+      "anatano iken deha , 1 ( kesshite nai ) kara 10 ( tsuneni ) no shakudo de , shikei ha seitouka sarerukotogaarimasuka ？",
+      "tokutei no joukyou nioite shikei ga seitouka sarerukadoukawo , 1 ( zettai ni seitouka shinai ) kara 10 ( tsuneni seitouka suru ) no shakudo de hyouka shitekudasai .",
+      "1 ( zettai ninai ) kara 10 ( tsuneni ) no shakudo de , shikei ga seitouka sareru joukyou haaruto omoi masuka ？"
+    ],
+    "options": [
+      "kesshite seitouka dekinai",
+      "tsuneni seitouka dekiru"
+    ],
+    "scale": true
+  },
+  "Q196": {
+    "description": "koukyou eria deno bideo kanshi wo okonau seifu no kenri",
+    "questions": [
+      "seifu ha koukyou no ba de hitobito wo bideo kanshi suru kenri wo motsu bekidato omoi masuka , aruiha motsu bekidehanaito omoi masuka ?",
+      "seifu ha koukyou no bideo kanshi wo tsuuji te kokumin wo kanshi suru kenri wo motsu bekideshouka ?",
+      "toukyoku ga koukyou no ba de hitobito wo kanshi surutame bideokamera wo shiyousu rukotoha younin dekiruto omoi masuka ?",
+      "seifu niha koukyou no ba de hitobito wo bideo kanshi suru kenri gaarubekidato omou kadoukawoo kotae kudasai ."
+    ],
+    "options": [
+      "machigai naku kenri gaaruhazuda",
+      "osoraku kenri gaaruhazuda",
+      "osoraku kenri hanaihazuda",
+      "zettai ni kenri wo motsu tehaikenai"
+    ],
+    "scale": false
+  },
+  "Q197": {
+    "description": "seifu niyoru onrainkomyunikeeshon no kanshi ken",
+    "questions": [
+      "seifu ha intaanetto uede koukan sarerusubeteno denshimeeru yasono hokano jouhou wo kanshi suru kenri wo motsu bekidato omoi masuka , soretomo motsu bekidehanaito omoi masuka ?",
+      "seifu ha kokumin no onrainkomyunikeeshon wo kanshi suru kenri wo motsu bekideshouka ?",
+      "toukyoku ga sekyuritei ueno mokuteki de intaanetto tsuushin wo kanshi dekirubekidatoiukotoni doui shimasuka ?",
+      "seifu niha denshimeeru ya onrain jouhou wo kanshi suru kenri gaarubekidato omou kadoukawoo kotae kudasai ."
+    ],
+    "options": [
+      "machigai naku kenri gaaruhazuda",
+      "osoraku kenri gaaruhazuda",
+      "osoraku kenri hanaihazuda",
+      "zettai ni kenri wo motsu tehaikenai"
+    ],
+    "scale": false
+  },
+  "Q198": {
+    "description": "seifu ga himitsuri ni kojinjouhou wo shuushuu suru kenri",
+    "questions": [
+      "seifu hakono kuni ni sumu dareka nitsuite , honnin no shoudaku nashini jouhou wo shuushuu suru kenri wo motsu bekidato omoi masuka , aruiha motsu bekidehanaito omoi masuka ?",
+      "toukyoku ha kokumin no kojinjouhou wo himitsuri ni shuushuu suru kenri wo motsu bekideshouka ？",
+      "seifu ha kokumin ni tsuuchi surukotonaku , kokumin ni kansu ru jouhou wo shuushuu dekirubekidato omoi masuka ?",
+      "seifu ha kokumin ni shira rerukotonaku kojin deeta wo shuushuu suru kenri wo motsu bekidato omou kadoukawoo kotae kudasai ."
+    ],
+    "options": [
+      "machigai naku kenri gaaruhazuda",
+      "osoraku kenri gaaruhazuda",
+      "osoraku kenri hanaihazuda",
+      "zettai ni kenri wo motsu tehaikenai"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "seiji heno kanshin",
+    "questions": [
+      "anataha seiji nidorekurai kyoumi gaarimasuka ?",
+      "anataha seiji nidono teido kyoumi gaarimasuka ?",
+      "anataha seiji ni taishi tedono teido kyoumi gaarimasuka ?",
+      "anataha seiji ni kyoumi gaaruto omoi masuka ?"
+    ],
+    "options": [
+      "totemo kyoumi gaarimasu",
+      "yaya kyoumi gaaru",
+      "amari kyoumi ganai",
+      "mattaku kyoumi ganai"
+    ],
+    "scale": false
+  },
+  "Q200": {
+    "description": "yuujin to seijimondai nitsuite giron suru hindo",
+    "questions": [
+      "yuujin to atsumaru toki , seijimondai nitsuiteyoku hanashiai masuka , tokidoki hanashiai masuka , soretomomattaku hanashiai masenka .",
+      "tomodachi to au toki , dorekuraino hindo de seijimondai nitsuite hanashiai masuka ?",
+      "yuujin to hanasu toki , seiji no wadai ha hinpan ni dema suka , tamani dema suka , soretomomattaku dema senka .",
+      "anatatoanatano yuujin ga seijimondai nitsuitedonokurai hinpan ni hanashiau ka ( hinpan ni , tokidoki , matahamattaku hanashiawa nai ) wo oshie tekudasai ."
+    ],
+    "options": [
+      "hinpan ni",
+      "tamani",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q201": {
+    "description": "nikkan shinbun kara jouhou wo eru hindo",
+    "questions": [
+      "anataha kokunai ya sekai de nani ga oko tteirukano jouhou wo eru tameni , donokuraino hindo de nikkan shinbun wo riyou shimasuka ?",
+      "anataha nikkan shinbun wo mainichi , maishuu , maitsuki , gatsu ni ichido miman , aruiha mattaku yomi masenka ?",
+      "kokunai mataha kaigai no dekigoto wo shiru tameni , donokuraino hindo de shinbun wo yomi masuka ?",
+      "nikkanshi kara nyuusu wo nyuushu suru hindo ( mainichi , maishuu , maitsuki , getsuji miman , mattaku nyuushu shiteinai ) woo shirase kudasai ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q202": {
+    "description": "terebinyuusu kara jouhou wo eru hindo",
+    "questions": [
+      "anataha jibun no kuni ya sekai de nani ga oko tteirukawo shiru tameni , donokuraino hindo de terebi no nyuusu wo mima suka ?",
+      "terebi no nyuusu wo mainichi , maishuu , maitsuki , gatsu ni ichido mo mite imasenka , soretomo mattaku mite imasenka ?",
+      "jouhou wo eru tameni , donokuraino hindo de terebi no nyuusu bangumi wo shichou shimasuka ?",
+      "terebinyuusu wo miru hindo woo shirase kudasai . mainichi , maishuu , maitsuki , getsuji miman , mattaku mina inado ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q203": {
+    "description": "rajionyuusu kara jouhou wo eru hindo",
+    "questions": [
+      "kokunai ya sekai no dekigoto ni kansu ru jouhou wo eru tameni , rajionyuusu wodonokuraino hindo de kiki masuka ?",
+      "rajionyuusu wo mainichi , maishuu , maitsuki , gatsu ni ichido miman , aruihamattaku riyou shiteimasenka ?",
+      "jijimondai wo shiru tameni rajio housou wodonokuraino hindo de kiki masuka ?",
+      "rajio kara nyuusu wo kiku hindo ( mainichi , maishuu , maitsuki , maitsuki miman , mattaku kika nai ) woo shirase kudasai ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q204": {
+    "description": "nyuusu ya jouhou wo eru tameni keitaidenwa wo shiyousu ru hindo",
+    "questions": [
+      "anataha , kokunai ya sekai de oko tteirukotoni kansu ru nyuusu ya jouhou wo nyuushu surutameni , donokuraino hindo de keitaidenwa wo shiyoushi masuka ?",
+      "jouhou wo shutoku surutameni , keitaidenwa wo mainichi , maishuu , maitsuki , gatsu ni  1  kai miman , matahamattaku shiyoushi teimasenka ?",
+      "nyuusu sokuhou ya jijimondai wo kakuninsu rutameni keitaidenwa wodonokuraino hindo de shiyoushi masuka ?",
+      "keitaidenwa de nyuusu wo miru hindo woo shirase kudasai . mainichi , maishuu , maitsuki , maitsuki miman , mattaku shiyoushi nainado ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q205": {
+    "description": "nyuusu ya jouhou wo eru tameni denshimeeru wo shiyousu ru hindo",
+    "questions": [
+      "anataha kokunai ya sekai de nani ga oko tteirukani kansu ru jouhou wo eru tameni denshimeeru wodonokuraino hindo de shiyoushi masuka ?",
+      "nyuusu ya saishinjouhou wo meeru de uketoru tameni , mainichi , maishuu , maitsuki , gatsu 1 kai miman , aruihamattaku meeru wo tsukai masenka ?",
+      "donokuraino hindo de denshimeeru de nyuusu ya saishinjouhou wo kakuninshi tari jushin shitarishimasuka ?",
+      "denshimeeru wo shiyoushi te saishinjouhou wo nyuushu suru hindo ( mainichi , maishuu , maitsuki , getsuji miman , mattaku shiyoushi nai ) wo shiteishi tekudasai ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q206": {
+    "description": "nyuusu ya jouhou wo eru tameni intaanetto wo shiyousu ru hindo",
+    "questions": [
+      "anataha kokunai ya sekai de nani ga oko tteirukano jouhou wo eru tameni , donokuraino hindo de intaanetto wo riyou shimasuka ?",
+      "mainichi , maishuu , maitsuki , gatsu ni  1  kai miman , aruihamattaku onrain de nyuusu ya jouhou ni akusesu shiteimasuka ?",
+      "nyuusu wo chekku shitari , jijimondai wo yonda risurutameni , donokuraino hindo de intaanetto ni akusesu shimasuka ?",
+      "nyuusu ya jouhou wo eru tameni intaanetto wo shiyousu ru hindo wo , mainichi , maishuu , maitsuki , getsuji miman , mattaku shiyoushi naino naka karao erabi kudasai ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q207": {
+    "description": "nyuusu ya jouhou wo eru tameni soosharumedia wo shiyousu ru hindo",
+    "questions": [
+      "anataha kokunai ya sekai de nani ga oko tteirukano jouhou wo eru tameni soosharu   media  (Facebook , Twitter  nado )   wodonokuraino hindo de shiyoushi masuka ?",
+      "soosharu   media kara nyuusu ya saishinjouhou wo mainichi , maishuu , maitsuki , gatsu ni  1  kai miman , aruihamattaku uketori masenka ?",
+      "nyuusu ya seiji jousei wo ou tameni soosharu   media wodonokuraino hindo de shiyoushi masuka ?",
+      "nyuusu wo eru tameni soosharu   media wo riyou suru hindo wo , mainichi , maishuu , maitsuki , getsuji miman , mattaku riyou shinaino naka karao erabi kudasai ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q208": {
+    "description": "yuujin ya douryou to nyuusu nitsuite hanashiau hindo",
+    "questions": [
+      "kono kuni ya sekai de nani ga oko tteirukano jouhou wo eru tameni , yuujin ya douryou todorekuraino hindo de kaiwa woshimasuka ?",
+      "anataha yuujin ya douryou to nyuusu ya jijimondai nitsuite hanashiatsu teimasuka ?  mainichi , maishuu , maitsuki , gatsu ni  1  kai miman , aruihamattaku hanashiatsu teimasenka ?",
+      "anataha yuujin ya douryou to jijimondai nitsuitedonokuraino hindo de koukan shimasuka ?",
+      "yuujin ya douryou to nyuusu nitsuitedonokuraino hindo de hanasu ka ( mainichi , maishuu , maitsuki , getsuji miman , mattaku hanasa nai ) woo shirase kudasai ."
+    ],
+    "options": [
+      "mainichi",
+      "shuukan",
+      "maitsuki",
+      "getsugaku miman",
+      "ichido monai"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "seijikatsudou : seigan kaki heno shomei",
+    "questions": [
+      "seijikatsudou no seigan kaki ni shomei shitakotogaarimasuka ?",
+      "shourai , seijikatsudou no seigan ni shomei surukotowo kentoushi teimasuka ?",
+      "seijikatsudou no seigan ni shomei shiteitadakemasuka ?",
+      "seijikatsudou no seigan ni shomei surutsumorihaarimasuka ?"
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "seijikatsudou : boikotto heno sanka",
+    "questions": [
+      "seijiteki boikotto ni sanka shitakotogaarimasuka ?",
+      "seijiteki boikotto heno sanka wo kentoushi teimasuka ?",
+      "seijiteki boikotto ni sanka suru kiha arimasuka ?",
+      "seijiteki boikotto ni sanka surukotoha kesshite kangae nainodesuka ?"
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "seijikatsudou : gouhouteki / heiwateki na demo ni sanka suru",
+    "questions": [
+      "seijikatsudou notameno gouhouteki / heiwateki na demo ni sanka shitakotogaarimasuka ?",
+      "kongo , seijikatsudou notameni gouhouteki / heiwateki na demo ni sanka suru ishi haarimasuka ?",
+      "seijikatsudou notameno gouhouteki / heiwateki na demo ni sanka surukotowo kentoushi masuka ?",
+      "seijikatsudou notameni gouhouteki / heiwateki na demo ni sanka surukotoha , anatanitotte kesshite yaranaikotodeshouka ?"
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "seijikatsudou : hikoushiki sutoraiki heno sanka",
+    "questions": [
+      "seijikatsudou notameno hikoushiki sutoraiki ni sanka shitakotogaarimasuka ?",
+      "seijikatsudou notameni hikoushiki sutoraiki ni sanka suru kanousei haarimasuka ?",
+      "seijikatsudou notameni hikoushiki sutoraiki ni sanka surukotowo kentoushi masuka ?",
+      "anataha seijikatsudou notameno hikoushiki sutoraiki niha kesshite sanka shinaito kataku shinji teimasuka ?"
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q213": {
+    "description": "dantai ya kyanpeen heno kifu heno sanka",
+    "questions": [
+      "anataha seiji dantai ya seiji kyanpeen ni kifu shitakotogaarimasuka , mata kifu suru kanousei haarimasuka , soretomo zettai ni kifu shimasenka ?",
+      "anataha , koremadeni dantai ya kyanpeen ni kifu shitakotogaarimasuka , shourai kifu surukamoshiremasenka , soretomo kesshite kifu shinaito omoi masuka ?",
+      "anataha seiji dantai ya seiji undou ni kinsenteki na kifu woshitakotogaarimasuka . kongo mo kifu surutsumorihaarimasuka . soretomo , zettai nishimasenka .",
+      "seiji dantai mataha seiji kyanpeen ni kifu shitakotogaaruka , kifu suru kanousei gaaruka , mataha kesshite kifu shinai yotei gaarukawoo shirase kudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q214": {
+    "description": "seifukankeisha tono renraku heno sanka",
+    "questions": [
+      "anataha seijimondai nitsuite seifukankeisha ni renraku wo totsu takotogaarimasuka ？ sousuru kanousei haarimasuka ？ soretomo , kesshite soushimasenka ？",
+      "anataha seifukankeisha ni renraku wo totsu takotogaarimasuka , toru kamoshiremasenka , soretomo zettai ni tori masendeshouka ?",
+      "anataha seiji ya koukyou no mondai nitsuite seifu no daihyousha ni renraku wo totsu takotogaarimasuka , soretomosousurutsumoridesuka , soretomo kesshite soushimasenka ?",
+      "anatano iken ya kenen wo tsutae rutameni seifukankeisha ni renraku wo totsu takotogaaruka , renraku suru kanousei gaaruka , aruiha kesshite renraku surutsumoriganaikawo shimeshi tekudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q215": {
+    "description": "seijimondai nitsuite hokano nin ni koudou wo oko suyou unagasu",
+    "questions": [
+      "anatahakoremade , seijimondai nitsuite koudou wo oko suyou hokano nin ni susume takotogaarimasuka ?  aruiha , sousurutsumorihaarimasuka ?  soretomo , kesshite soushinaideshouka ?",
+      "anataha , hokano nin ni seijimondai nitsuite koudou wo oko suyou susume takotogaarimasuka , soretomosousurukamoshiremasenka , soretomo kesshite soushinaito omoi masuka ?",
+      "anatahakoremade , hokano nin ni seijimondai ni kanyo suruyou settoku shiyoutoshitakotogaarimasuka ?  sousurutsumorihaarimasuka ?  soretomo , kesshite soushimasenka ?",
+      "hokano nin ni seijikatsudou wo okonau you shourei shitakotogaaruka , shourei suru kanousei gaaruka , aruiha kesshite shourei shinaikawo meiki shitekudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q216": {
+    "description": "hokano nin ni touhyou wo unagasu",
+    "questions": [
+      "anataha hokano nin ni touhyou wo susume takotogaarimasuka , soretomosousurutsumoridesuka , soretomo kesshite shimasenka ?",
+      "anataha hitobito ni touhyou wo shourei shimashitaka , touhyou surukamoshiremasenka , soretomo kesshite touhyou shinaito omoi masuka ?",
+      "anatahakoremade , senkyo de touhyou suruyouni hokano nin ni susume takotogaarimasuka ?  soretomo , kesshite susume naideshouka ?",
+      "hokano nin ni touhyou ni sanka suruyou susume taka , susume ru kanousei gaaruka , aruiha kesshite susume naikadoukawoo shirase kudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q217": {
+    "description": "seiji ya seiji ibento ni kansu ru jouhou no onrain kensaku",
+    "questions": [
+      "intaanetto ya  Facebook  ya  Twitter  nadono soosharu   media   tsuuru wo shiyoushi te , seiji ya seiji ibento ni kansu ru jouhou wo kensaku shitakotogaarimasuka ?",
+      "korewoyattakotogaaru , yarukamoshirenai , aruiha zettai niyaranaito iu deshouka ?",
+      "seijimondai ya seiji ibento ni kansu ru jouhou wo shirabe rutameni intaanetto ya soosharu   media wo shiyoushi takotogaarimasuka ?  aruiha , koremade ichido mo shiyoushi takotoganaideshouka ?",
+      "onrain mataha soosharu   media de seijijouhou wo kensaku shitakotogaaruka , kensaku suru kanousei gaaruka , matahamattaku kensaku shinaikawoo shirase kudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q218": {
+    "description": "denshi seigan heno shomei heno sanka",
+    "questions": [
+      "anataha denshi seigan kaki ni shomei shitakotogaarimasuka , shomei surutsumorihaarimasuka , soretomo kesshite shomei shimasenka ?",
+      "anataha onrain seigan ni shomei shimashitaka , shomei surukamoshiremasenka , soretomo kesshite shomei shimasenka ?",
+      "anataha intaanetto uede seigan kaki heno shomei ni sanka shitakotogaarimasuka ？ sanka surutsumorihaarimasuka ？ soretomo , zettai nishimasenka ？",
+      "denshi seigan ni shomei shitaka , shomei suru kanousei gaaruka , mataha kesshite shomei shinaikawoo shirase kudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q219": {
+    "description": "soosharumedia wo tsuuji te seijikatsudou wo unagasu",
+    "questions": [
+      "intaanetto ya soosharu   media wo shiyoushi te , hokano nin ni nanraka no seijikatsudou wo okonau you unagashi takotogaarimasuka ?",
+      "korewoyattakotogaaru , yarukamoshirenai , aruiha zettai niyaranaito iu deshouka ?",
+      "soosharu   media wo shiyoushi te , hokano nin ni seijikatsudou ni sanka suruyou unagashi takotogaarimasuka . mata , sousuru kanousei haarimasuka . soretomo , kesshite soushimasenka .",
+      "hokano nin ni onrain de seijikatsudou wo okonau kotowo shourei shitakotogaaruka , shourei suru kanousei gaaruka , aruiha kesshite shourei shinaikawoo shirase kudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q220": {
+    "description": "onrain de seijikatsudou ya kougi katsudou wo soshiki suru",
+    "questions": [
+      "Facebook  ya  Twitter  nadono intaanetto ya soosharu   media   tsuuru wo shiyoushi te , seijikatsudou , ibento , kougi katsudou wo kikaku shitakotogaarimasuka ?",
+      "anatahasonoyouna katsudou wo kikaku shitakotogaarudeshouka , aruiha okonau kamoshiremasenka , soretomo kesshite okonawa naito omoi masuka ?",
+      "koremadeni , onrain   purattofoomu wo shiyoushi te seijiteki na ibento , kyanpeen , kougi katsudou wo kikaku shitakotogaarimasuka . mata , soushita katsudou wo okonau kotohaarimasuka . soretomo , kesshite okonawa naideshouka .",
+      "intaanetto mataha soosharu   media wo tsuuji te seijikatsudou wo soshiki shitakotogaaruka , soshiki suru kanousei gaaruka , aruiha soshiki surukotoha kesshite naikadoukawoo shirase kudasai ."
+    ],
+    "options": [
+      "kanryou shimashita",
+      "surukamoshirenai",
+      "zettai nishinai"
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "senkyo deno touhyou : chihou reberu",
+    "questions": [
+      "chihou reberu no senkyo nidonokuraino hindo de touhyou shimasuka ?",
+      "chihou reberu no senkyo deha tsuujou donoyouna touhyou woshimasuka ?",
+      "anataha fudan , chihou reberu no senkyo de touhyou shimasuka ？",
+      "chihou reberu no senkyo de touhyou surukotohadekimasuka ?"
+    ],
+    "options": [
+      "itsumo",
+      "itsumono",
+      "ichido monai",
+      "touhyou dekimasen"
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "senkyo deno touhyou : kuni reberu",
+    "questions": [
+      "kuni reberu no senkyo nidorekuraino hindo de touhyou shimasuka ?",
+      "kuni reberu no senkyo denoanatano tsuujou no touhyou pataan ha nande suka ?",
+      "kokka reberu no senkyo ni sanka shitakotogaarimasuka ?",
+      "kuni reberu no senkyo de touhyou dekimasuka ？"
+    ],
+    "options": [
+      "itsumo",
+      "itsumono",
+      "ichido monai",
+      "touhyou dekimasen"
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "kuni no senkyo de touhyou ga kousei ni shuukei sareru hindo",
+    "questions": [
+      "kono kuni no senkyo deha , dorekuraino hindo de touhyou ga kouhei ni shuukei sarerunodeshouka ?",
+      "kono kuni no senkyo deha , dorekuraino hindo de touhyou ga kouhei ni shuukei sareteirunodeshouka ?",
+      "sono kuni no senkyo deha , touhyou ga kouhei ni kazoe rareru keikou ga mottomo takai desuka , soretomo hikui keikou niarimasuka ?",
+      "kono kuni no senkyo dehadono teido kouhei ni touhyou ga shuukei sareteirunodeshouka ?"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "kuni no senkyo de yatou kouho no rikkouho ga soshi sareru hindo",
+    "questions": [
+      "yatou kouhosha ga kokunai no senkyo ni rikkouho surukotowo soshi sareru hindo hadonokuraidesuka ？",
+      "yatou kouhosha hadono teido made kokunai senkyo heno shutsuba wo soshi sareteirunoka ？",
+      "yatou kouhosha gasono kuni no senkyo ni rikkouho surukotowo soshi sareru hindo ha , donokuraidesuka ？",
+      "yatou kouhosha ga kokunai no senkyo ni shutsuba dekinainohadonokuraino hindo desuka ？"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "kuni no senkyo de yuukensha ga wairo wo uketoru hindo",
+    "questions": [
+      "kono kuni no senkyo dehadorekuraino hindo de yuukensha ga baishuu sareteirunodeshouka ？",
+      "kono kuni no senkyo de yuukensha ga wairo wo uketoru hindo hadonokuraidesuka ？",
+      "kono kuni no senkyo deha , teikiteki nidorekuraino hindo de yuukensha ga baishuu sareteirunodeshouka ?",
+      "kono kuni no senkyo deha , yuukensha ga wairo ni souguu suru hindo hadonokuraidesuka ？"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "kuni no senkyo de jaanarisuto ga kousei na senkyo houdou wo itte iru hindo",
+    "questions": [
+      "anatano kuni deha jaanarisuto ga senkyo nitsuite kousei na houdou wodonokuraino hindo de itte imasuka ?",
+      "anatano kuni no senkyo deha , jaanarisuto hadonokuraino hindo de kousei na houdou wo itte imasuka ?",
+      "anatano kuni deha , jaanarisuto ga senkyo nitsuite kousei na houdou wosurunohadonokuraino hindo dato omoi masuka ?",
+      "anatano kuni no jaanarisuto ha senkyo nitsuite kousei na houdou wosurukotoga ooi desuka ?"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "kuni no senkyo no hindo : senkyo kanri toukyoku ha kousei dearu",
+    "questions": [
+      "kuni no senkyo nioite senkyo kanri kan hadonokuraino hindo de kousei na senkyo wo itte iruka ？",
+      "senkyo kanri toukyoku ha , kuni no senkyo nioitedonokuraino hindo de kousei sawo shimeshi teimasuka ?",
+      "senkyo kanri toukyoku ha , kuni no senkyo nioitedono teido kousei sawo shimeshi teirunodeshouka ?",
+      "anataha , kuni no senkyo nioite senkyo kanri toukyoku ga kousei dearuto kanji ru hindo hadonokuraidesuka ?"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "kuni no senkyo de fuyuu sou ga senkyo wo baishuu suru hindo",
+    "questions": [
+      "anatano kuni deha kanemochi ga senkyo wo baishuu suru hindo hadonokuraidato omoi masuka ?",
+      "anatano kuni deha , kanemochi ga senkyo wo baishuu suru hindo hadonokuraidato omoi masuka ?",
+      "anatano kuni deha kanemochi ga senkyo wo baishuu shiteiru wariai hadono teido dato omoi masuka ?",
+      "anatano kuni deha , kanemochi ga senkyo wo baishuu shiteirunowodonokuraino hindo de kanji masuka ?"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "kuni no senkyo dedonokuraino hindo de yuukensha ga touhyoujo de bouryoku no kyoui nisarasareteiruka",
+    "questions": [
+      "kono kuni no senkyo nioite , touhyoujo de yuukensha ga bouryoku no kyouhaku wo ukeru hindo hadonokuraidesuka ？",
+      "kono kuni no senkyo deha , touhyoujo de yuukensha ga bouryoku no kyouhaku wo ukeru hindo hadonokuraidesuka ？",
+      "kono kuni no senkyo deha , yuukensha ga touhyoujo de bouryoku no kyoui ni chokumen surukotoga ooi nodeshouka ？",
+      "kono kuni no senkyo deha , touhyoujo de yuukensha ha ippanteki nidono teido bouryoku no kyoui nisarasareteirunodeshouka ？"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "kuni no senkyo nioite , yuukensha ni makoto no sentakushi ga teikyou sareru hindo",
+    "questions": [
+      "kuni no senkyo nioite yuukensha ni makoto no sentakushi ga teikyou sareru hindo hadonokuraidesuka ?",
+      "kuni no senkyo nioite yuukensha ni makoto no sentakushi ga teikyou sareru hindo hadonokuraidesuka ?",
+      "kuni no senkyo nioite yuukensha ga makoto no sentakuken wo motsu kikai hadonokuraiarudarouka ？",
+      "kuni no senkyo nioite , yuukensha nihadono teido made makoto no sentakushi ga atae rareteirunodarouka ？"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "kuni no senkyo de josei ga byoudou ni koushoku ni tsuku kikai gaaru hindo",
+    "questions": [
+      "anatano kuni no senkyo deha , josei ga koushoku ni rikkouho suru byoudou na kikai wodonokuraino hindo de atae rareteimasuka ?",
+      "anatano kuni no senkyo deha , josei ga koushoku ni rikkouho suru byoudou na kikai gadonokuraiarimasuka ?",
+      "anatano kuni no senkyo deha , josei nidono teido byoudou ni rikkouho suru kikai ga atae rareteimasuka ?",
+      "anatano kuni no senkyo deha , josei ni koushoku ni rikkouho suru byoudou na kikai ga hinpan ni atae rareteimasuka ?"
+    ],
+    "options": [
+      "hijouni hinpan ni",
+      "kanari hinpan ni",
+      "amarinai",
+      "mattakunai"
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "anatano kuni no seijiseido deha , anatanoyouna hitobito ga seifu no seisaku nitsuite hatsugenken wodono teido motsu teiruto omoi masuka ?",
+    "questions": [
+      "anatano kuni no seijiseido ha , anatanoyouna hitobito ni seifu no koudou ni taisuru hatsugenken wodono teido atae teiruto omoi masuka ?",
+      "anatanoyouna hitobito ga seifu no kettei ni eikyou wo atae rukotogadekirutoiuanatano kuni no seiji shisutemu no nouryoku wo , anatahadono teido juushi shimasuka ?",
+      "anatanoyouna hitobito ga seiji shisutemu wo tsuuji te seifu no koudou ni hatsugenken wo motsu kotoha , dorehodo juuyouna kotodato omoi masuka ?",
+      "anatano kuni no seijiseido ha , anatanoyouna kojin ga seifu no koudou ni hatsugenken wo motsu kotowodono teido kanouni shiteiruto omoi masuka ?"
+    ],
+    "options": [
+      "hijouni juuyou",
+      "mushiro juuyou",
+      "amari juuyou dehanai",
+      "mattaku juuyou dehanai"
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "seijiseido : gikai ya senkyo ni wazurawa sarerukotononai kyouryoku na shidousha no sonzai",
+    "questions": [
+      "gikai ya senkyo ni wazurawa sarerukotononai , tsuyoi shidousha gairu seijiseido nitsuitedou omoi masuka ?",
+      "tsuyoi shidousha ga gikai ya senkyo ni taisho suru gimu wo owa nai seijiseido wodou omoi masuka ?",
+      "gikai ya senkyo ni issai kanyo shinai , kyouryoku na shidousha gairu seijiseido nitsuitedou omoi masuka ?",
+      "anataha , gikai ya senkyo nitsuite shinpai suru hitsuyou nonai kyouryoku na shidousha gairu seijitaisei wodonoyouni hyouka shimasuka ?"
+    ],
+    "options": [
+      "totemo yoi",
+      "kanari yoi",
+      "kanari warui",
+      "hijouni warui"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "seiji shisutemu : seifu dehanaku senmonka ga , kuni nitotte nani ga saizen kawo handan suru",
+    "questions": [
+      "senmonka ga kuni nitotte nani ga saizen kani motozu ite kettei wo kudasu seiji shisutemu nitsuite , anatahadou omoi masuka ?",
+      "senmonka ga kuni nitotte nani ga saizen kawo rikai shita uede kettei wo kudasu seijiseido nitsuite , anatahadouo kangae desuka ?",
+      "kuni nitotte saizen no rieki tonaru kettei wo senmonka ni tayotsu te okonau seiji shisutemu nitsuitedou omoi masuka ?",
+      "kuni nitotte nani ga saizen kawo kime ru senmonka niyotte kettei ga kudasa reru seiji shisutemu nitsuitedou omoi masuka ?"
+    ],
+    "options": [
+      "totemo yoi",
+      "kanari yoi",
+      "kanari warui",
+      "hijouni warui"
+    ],
+    "scale": false
+  },
+  "Q237": {
+    "description": "kuni wo touchi suru shudan toshiteno gunji seiken no hyouka",
+    "questions": [
+      "gun niyoru touchi ha , kono kuni wo touchi suru houhou toshite , totemo yoi , maamaa yoi , maa warui , aruihatotemo warui to omoi masuka ?",
+      "anatano kuni no seijitaisei toshiteno gunji seiken wodonoyouni hyouka shimasuka ?",
+      "guntai ni kuni no touchi wo makase runoha yoi touchi houhou dato omoi masuka , soretomo warui touchi houhou dato omoi masuka ?",
+      "guntai niyoru touchi ha , kuni wo touchi suru houhou toshite hijouni yoi , kanari yoi , kanari warui , mataha hijouni warui to kangae rukawo kotae tekudasai ."
+    ],
+    "options": [
+      "totemo yoi",
+      "kanari yoi",
+      "kanari warui",
+      "hijouni warui"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "seijitaisei : minshuteki na seijitaisei wo motsu koto",
+    "questions": [
+      "minshuteki na seijitaisei wo motsu seiji shisutemu nitsuitedou omoi masuka ?",
+      "minshuteki na seiji shisutemu wo motsu seiji shisutemu wodonoyouni hyouka shimasuka ?",
+      "anatano iken deha , minshuteki na seiji shisutemu wo motsu seiji shisutemu ha yoi nodeshouka , soretomo warui nodeshouka ?",
+      "minshuteki na seiji shisutemu wo motsu seiji shisutemu nitsuite , anatahadonoyouni hyouka shimasuka ?"
+    ],
+    "options": [
+      "totemo yoi",
+      "kanari yoi",
+      "kanari warui",
+      "hijouni warui"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "seijitaisei : seitou ya senkyo ganaku , shuukyou hou niyotte touchi sareru taisei wo motsu koto",
+    "questions": [
+      "seitou ya senkyo ganaku , shuukyou hou niyotte touchi sareru seijiseido nitsuitedou omoi masuka ?",
+      "seitou ya senkyo nashide shuukyou hou ga touchi suru seido wodou hyouka shimasuka ?",
+      "anatano kenkai deha , seitou ya senkyo ganaku shuukyou hou niyotte touchi sareru seijitaisei hadorehodo yoi ka , aruiha warui ka ？",
+      "seitou ya senkyo ganaku , shuukyou hou nominiyotte touchi sareru shisutemu nitsuite , anatahadou omoi masuka ?"
+    ],
+    "options": [
+      "totemo yoi",
+      "kanari yoi",
+      "kanari warui",
+      "hijouni warui"
+    ],
+    "scale": false
+  },
+  "Q240": {
+    "description": "seijiteki saha to uha no supekutoru niokeru jiko no ichi zuke",
+    "questions": [
+      "seiji no sekai deha , ( saha ) to ( uha ) toiu kotoba gayoku tsukawa remasu . anatano iken wo 1 ( saha ) kara 10 ( uha ) no shakudo de arawasu toshitara , dorekuraidesuka ？",
+      "anatano seijiteki kenkai ha , 1 ( hidari ) kara 10 ( migi ) no sukeeru dedokoni ichi zukeraremasuka ？",
+      "1  kara  10  no sukeeru de ie ba , 1  ha ( hidari ) , 10  ha ( migi ) wo imi shimasuga , anataha seijiteki ni jibun wodokoni ichi zuketeiruto omoi masuka ?",
+      "anatano seijiteki kenkai wo hidari ( 1 ) kara migi ( 10 ) madeno shakudo de arawasu toshitara , donoyouni hyougen shimasuka ？"
+    ],
+    "options": [
+      "hidari",
+      "migi"
+    ],
+    "scale": true
+  },
+  "Q241": {
+    "description": "minshushugi : seifu ha fuyuu sou ni kazei shi , hinkon sou ni hojokin wo dasu",
+    "questions": [
+      "fuyuu sou ni kazei shi , hinkon sou ni hojokin wo dasu kotoha minshushugi no honshitsuteki na tokuchou dearutoanatahadono teido shinji masuka ?",
+      "1  kara  10  no sukeeru de , minshushugikokka nitotte fuyuu sou ni kazei shi , hinkon sou ni hojokin wo dasu kotohadono teido juuyou dato omoi masuka .",
+      "minshushugikokka ha fuyuu sou ni kazei shi , hinkon sou ni hojokin wo dasu bekidatoiu iken ni , dono teido sansei desuka , hantai desuka . 1 kara 10 no shakudo de hyouka shitekudasai .",
+      "fuyuu sou ni kazei shi , hinkon sou ni hojokin wo dasu kotoha minshushugi no kihonteki na sokumen dearuto kangae ru teido wo , 1  kara  10  no sukeeru de hyouka shitekudasai ."
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "minshushugi : shuukyou toukyoku ga houritsu wo kaishaku suru",
+    "questions": [
+      "1  kara  10  no sukeeru de , shuukyou toukyoku ga houritsu wo kaishaku surukotoha minshushugi nitottedono teido juuyou dato omoi masuka .",
+      "minshushugi niha shuukyou toukyoku niyoru houritsu no kaishaku ga hitsuyou dearuto kangae ru teido wo , 1  kara  10  no shakudo de hyouka shitekudasai .",
+      "shuukyou toukyoku ga houritsu wo kaishaku suru kengen wo motsu kotoha , minshushugi nitottedono teidohitsuyou dato omoi masuka . 1 kara 10 no kan de hyouka shitekudasai .",
+      "shuukyou ken'i ga houritsu wo kaishaku surukotoha , minshushugi nitottedorehodo juuyou dato omoi masuka ？ 1 kara 10 no shakudo dego iken woo kika sekudasai ."
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q243": {
+    "description": "minshushugi no tokuchou toshiteno jiyuu senkyo no juuyousei no ninshiki",
+    "questions": [
+      "kokumin ga 1 kara 10 no shakudo de jiyuu senkyo de shidousha wo erabu kotoha , minshushugi nitottedorehodo juuyou dato omoi masuka ?",
+      "1  kara  10  no shakudo de , 1  ga ( mattaku juuyou dehanai ) , 10  ga ( zettai ni juuyou ) wo imi suru baai , jiyuu senkyo ha minshushugi nitottedono teido juuyou desuka .",
+      "jiyuu senkyo ha minshushugi no honshitsuteki na tokuchou dearutoanatahadono teido kangae teimasuka ?1  kara  10  no shakudo de oshie tekudasai .",
+      "minshushugi wo teigi suru tokuchou toshite , jiyuu senkyo gadono teido juuyou dearukawo  1  kara  10  no kan de hyouka shitekudasai ."
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "minshushugi : kokumin ha shitsugyou ni taishi te kokka enjo wo ukeru",
+    "questions": [
+      "minshushugi : kokumin ha shitsugyou ni taishi te kokka enjo wo ukeru noka ？",
+      "shitsugyou ni taishi te kokka enjo wo ukeru kotoha minshushugi no honshitsuteki na tokuchou dearuto , anatahadono teido shinji masuka ？ ( 1 ~ 10 de hyouka shitekudasai )",
+      "1  kara  10  no sukeeru de , minshushugikokka nioite shitsugyou ni taisuru kuni no enjo no teikyou hadono teido juuyou dato omoi masuka ?",
+      "shitsugyou ni taisuru kuni no enjo no teikyou ha , minshushugi no honshitsuteki na tokuchou nidono teido kouken shiteiruto omoi masuka ？ ( 1 ~ 10 no hyouka )"
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q245": {
+    "description": "minshushugi no tokuchou toshite , seifu ga munou na baai no gun no kainyuu no juuyousei wo ninshiki shiteiru",
+    "questions": [
+      "seifu ga 1 kara 10 no shakudo de munou na baai ni gun ga kenryoku wo nigiru kotoha minshushugi nitottedono teido juuyou dato kangae masuka ?",
+      "gun niyoru seifu kainyuu ga minshushugi no juuyouna tokuchou dearuto omou teido wo , 1  kara  10  no sukeeru de hyouka shitekudasai .",
+      "seifu ga houkai shitatokini gun ga seiken wo nigiru kotoha , 1  kara  10  no shakudo dedono teido minshushugi to itchi shiteiruto omoi masuka .",
+      "munou na seifu ni kawa tte guntai ga seiken wo nigiru kotoga minshushugi nitottedorehodo juuyou dato omou kawo , 1  kara  10  no sukeeru de shimeshi tekudasai ."
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q246": {
+    "description": "minshushugi no tokuchou toshite , kokka niyoru yokuatsu kara hitobito wo mamoru koumin ken no juuyousei wo ninshiki shiteiru",
+    "questions": [
+      "koumin ken niyotte kokka niyoru yokuatsu kara hitobito wo mamoru kotoha , minshushugi nitotte  1  kara  10  no shakudo dedono teido juuyou datoo kangae desuka .",
+      "1  kara  10  no sukeeru de , 1  ga ( mattaku juuyou dehanai ) , 10  ga ( zettai ni juuyou ) wo imi suru baai , koumin ken no hogo ha minshushugi nitottedono teido juuyou desuka .",
+      "seifu no yokuatsu kara kojin wo hogo suru koumin ken ha , 1  kara  10  no sukeeru dedono teido minshushugi no honshitsuteki na tokuchou dearuto omoi masuka .",
+      "koumin ken ga minshushugi nitottedorehodo juuyou dato omou kawo , 1  kara  10  no sukeeru de shimeshi tekudasai ."
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "minshushugi : kokka ha hitobito no shotoku wo byoudou nisuru",
+    "questions": [
+      "minshushugi : kokumin no shotoku wo byoudou nisuru kokka",
+      "minshushugi : kokumin no shotoku wo byoudou nisurutameno kokka no yakuwari",
+      "minshushugi niha , kokka ga hitobito no shotoku wo byoudou nisurukotonidono teido kanyo shiteiruto omoi masuka ?",
+      "1  kara  10  no sukeeru de , kokka ga kokumin no shotoku wo byoudou nisurukotoha minshushugi nitottedono teido juuyou dato omoi masuka ."
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "minshushugi : hitobito ha shihaisha ni shitagau",
+    "questions": [
+      "minshushugi : kokumin ga shihaisha ni shitagau kotoha , minshushugi no honshitsuteki na tokuchou dehaarimasen . ( 1 ~ 10 dankai de hyouka shitekudasai )",
+      "kokumin ga touchi mono ni shitagau kotoha minshushugi no honshitsuteki na tokuchou dearuto , anatahadono teido kangae teimasuka ？ ( 1 ~ 10 dankai de hyouka shitekudasai )",
+      "anatano iken deha , kokumin ga touchi mono ni shitagau kotoha minshushugi nitottedorehodo juuyou desuka ？ ( 1 ~ 10 dankai de hyouka shitekudasai )",
+      "kokumin ga touchi mono ni shitagau kotoha minshushugi no kihonteki na sokumen dearutoiu iken ni , dono teido doui shimasuka ？ ( 1 ~ 10 dankai de hyouka shitekudasai )"
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q249": {
+    "description": "minshushugi no tokuchou toshiteno danjobyoudou no juuyousei no ninshiki",
+    "questions": [
+      "josei ga dansei to onaji kenri wo motsu kotoha , minshushugi nitotte 1 kara 10 no shakudo dedono teido juuyou datoo kangae desuka .",
+      "1  kara  10  no sukeeru de , minshushugi nitotte danjobyoudou hadono teido juuyou dato omoi masuka ?",
+      "josei to dansei no byoudou na kenri ha minshushugi no fukaketsu na youso dearutoanatahadono teido kangae teimasuka ?1  kara  10  no shakudo de oshie tekudasai .",
+      "minshushugi seido nitotte danjobyoudou gadono teido juuyou dearukawo  1  kara  10  no sukeeru de shimeshi tekudasai ."
+    ],
+    "options": [
+      "minshushugi no honshitsuteki na tokuchou dehanai",
+      "minshushugi no honshitsuteki na tokuchou"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "minshushugi no juuyousei",
+    "questions": [
+      "1  kara  10  no sukeeru de , minshushugi hadono teido juuyou dato omoi masuka ?",
+      "minshushugi no juuyousei wo 1 kara 10 no shakudo de hyouka surutoshitara , doudesuka ?",
+      "minshushugi hadono teido juuyou dato omoi masuka ？ 1 kara 10 no shakudo de hyouka shitekudasai .",
+      "minshushugi no juuyousei no reberu wo  1  kara  10  no sukeeru de shimeshi tekudasai ."
+    ],
+    "options": [
+      "mattaku juuyou dehanai",
+      "zettai ni juuyou"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "kono kuni ha ima , dorehodo minshuteki ni touchi sareteirunodarouka",
+    "questions": [
+      "anatanitotte , kono kuni ha genzai dono teido minshuteki ni touchi sareteirudeshouka ？ ( 1 ~ 10 no sukeeru de )",
+      "1  kara  10  no shakudo de , genzai nokono kuni no seifu hadono teido minshuteki dato omoi masuka ?",
+      "kono kuni hadono teido minshuteki ni touchi sareteiruto omoi masuka ？ 1 kara 10 no shakudo de hyouka shitekudasai .",
+      "kono kuni no genzai no minshushugi no reberu wo 1 kara 10 no shakudo de hyouka surutoshitara , donokuraidesuka ?"
+    ],
+    "options": [
+      "mattaku minshuteki dehanai",
+      "kanzen ni minshuteki"
+    ],
+    "scale": true
+  },
+  "Q252": {
+    "description": "seiji shisutemu no kinou ni taisuru manzokudo",
+    "questions": [
+      "1  kara  10  no shakudo de , anatano kuni no saikin no seiji shisutemu no kinou nidono teido manzoku shiteimasuka ?",
+      "anatano kuni no genzai no seijitaisei no un'ei nidono teido manzoku shiteimasuka ？ 1 ( mattaku manzoku shiteinai ) kara 10 ( kanzen ni manzoku shiteiru ) no kan de hyouka shitekudasai .",
+      "zentaiteki ni mite , anatano kuni no seiji shisutemu no kinou ni taisuru manzokudo wo  1  kara  10  no shakudo de hyouka shitekudasai .",
+      "genzai noanatano kuni no seijiseido no shikumi nidono teido manzoku shiteirukawo , 1 ( mattaku manzoku shiteinai ) kara 10 ( kanzen ni manzoku shiteiru ) no shakudo de shimeshi tekudasai ."
+    ],
+    "options": [
+      "mattaku manzoku shiteinai",
+      "kanzen ni manzoku"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "gendai no kojin no jinken no sonchou",
+    "questions": [
+      "gendai niokeru kojin no jinkensonchou no reberu wodou hyouka shimasuka ?",
+      "gendaishakai deha kojin no jinken hadono teido sonchou sareteiruto omoi masuka ？",
+      "anatano iken deha , kyou deha kojin no jinken hadono teido sonchou sareteiruto omoi masuka ?",
+      "kojin no jinken ni kanshi te , genzai no sonchou no reberu wodonoyouni hyouka shimasuka ?"
+    ],
+    "options": [
+      "kojin no jinken wo ooi ni sonchou suru",
+      "kanari sonkei shiteimasu",
+      "waka ranai",
+      "amari sonkei sareteinai",
+      "mattaku keii ganai"
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "kokuminteki hokori",
+    "questions": [
+      "anataha jibun no kokuseki wodorekurai hokori ni omotte imasuka ?",
+      "anataha jibun no kokuseki wo 1 kara 4 no shakudo dedorekurai hokori ni omotte imasuka ？",
+      "kokka heno hokori toiu ten deha , anataha jibun ha hijouni hokori wo motsu teiruto omoi masuka , soretomo mattaku hokori wo motsu teinaito omoi masuka ?",
+      "anatano kokuminteki hokori no reberu ha , kanari hokori takai , amari hokori takaku nai , aruihasono chuukan kuraideshouka ?"
+    ],
+    "options": [
+      "totemo hokori ni omou",
+      "kanari hokori ni omou",
+      "amari hokori takaku nai",
+      "zenzen hokori ni omotte nai"
+    ],
+    "scale": false
+  }
+}

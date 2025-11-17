@@ -1,0 +1,3163 @@
+{
+  "Q1": {
+    "description": "jIvanAta mahatvAche: kuTuMba",
+    "questions": [
+      "tumachyA AyuShyAta kuTuMbAche mahattva tumhI kase mUlyAMkana karAla?",
+      "tumachyA AyuShyAta kuTuMba kitI mahattvAche Ahe ase tumhI mAnatA?",
+      "tumachyA AyuShyAta kuTuMbAlA khUpa mahattva Ahe ase tumhI mhaNAla kA?",
+      "tumachyA AyuShyAta kuTuMbAlA tumhI mahattvAche mAnatA kA?"
+    ],
+    "options": [
+      "khUpa mahatvAche",
+      "khUpacha mahatvAche",
+      "mAhita nAhI",
+      "phAra mahatvAche nAhI.",
+      "ajibAta mahatvAche nAhI."
+    ]
+  },
+  "Q2": {
+    "description": "AyuShyAta mahatvAche: mitra",
+    "questions": [
+      "AyuShyAta mitra kitI mahattvAche asatAta?",
+      "tumachyA mate, AyuShyAta mitra kitI mahattvAche Aheta?",
+      "AyuShyAta mitrAMnA tumhI kitI mahattvAche mAnatA?",
+      "AyuShyAta mitrAMnA khUpa mahattva asate ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "khUpa mahatvAche",
+      "khUpacha mahatvAche",
+      "mAhita nAhI",
+      "phAra mahatvAche nAhI.",
+      "ajibAta mahattvAche nAhI."
+    ]
+  },
+  "Q3": {
+    "description": "jIvanAta mahatvAche: phurasatIchA veLa",
+    "questions": [
+      "tumachyA AyuShyAta phurasatIchA veLa kitI mahattvAchA Ahe?",
+      "tumachyAsAThI phurasatIchA veLa kitI mahattvAchA Ahe?",
+      "tumachyA AyuShyAta phurasatIchA veLa mahattvAchA vATela kA?",
+      "mahattvAchyA pramANAta, tumhI tumachyA AyuShyAta phurasatIchA veLa kuThe ThevAla?"
+    ],
+    "options": [
+      "khUpa mahatvAche",
+      "khUpacha mahatvAche",
+      "mAhita nAhI",
+      "phAra mahatvAche nAhI.",
+      "ajibAta mahatvAche nAhI."
+    ]
+  },
+  "Q4": {
+    "description": "jIvanAta mahattvAche: rAjakAraNa",
+    "questions": [
+      "jIvanAta rAjakAraNAche mahattva tumhI kase mUlyAMkana karAla?",
+      "AyuShyAta rAjakAraNa kitI mahattvAche Ahe ase tumhAlA vATate?",
+      "tumachyA mate, jIvanAta rAjakAraNa kitI mahattvAche Ahe?",
+      "AyuShyAta rAjakAraNa kitI mahattvAche Ahe ase tumhAlA vATate?"
+    ],
+    "options": [
+      "khUpa mahatvAche",
+      "khUpacha mahatvAche",
+      "mAhita nAhI",
+      "phAra mahatvAche nAhI.",
+      "ajibAta mahatvAche nAhI."
+    ]
+  },
+  "Q5": {
+    "description": "jIvanAta mahattvAche: kAma",
+    "questions": [
+      "tumachyA AyuShyAta kAma kitI mahattvAche Ahe?",
+      "tumachyA AyuShyAta kAma mahattvAche Ahe ase tumhI mhaNAla kA?",
+      "AyuShyAta kAma kitI mahattvAche Ahe ase tumhAlA vATate?",
+      "tumhI kAmAlA jIvanAchA eka mahattvAchA pailU mAnatA kA?"
+    ],
+    "options": [
+      "khUpa mahatvAche",
+      "khUpacha mahatvAche",
+      "mAhita nAhI",
+      "phAra mahatvAche nAhI.",
+      "ajibAta mahattvAche nAhI."
+    ]
+  },
+  "Q6": {
+    "description": "jIvanAta mahattvAche: dharma",
+    "questions": [
+      "tumachyA jIvanAta dharmAche kitI mahattva Ahe?",
+      "tumachyA jIvanAta dharmAlA tumhI kitI mahattvAche mAnatA?",
+      "tumachyA AyuShyAta dharma mahattvAchA Ahe ase tumhI mhaNAla kA?",
+      "tumachyA jIvanAta tumhI dharmAlA kitI mahattva detA?"
+    ],
+    "options": [
+      "khUpa mahatvAche",
+      "khUpacha mahatvAche",
+      "mAhita nAhI",
+      "phAra mahatvAche nAhI.",
+      "ajibAta mahatvAche nAhI."
+    ]
+  },
+  "Q7": {
+    "description": "mulAMche mahattvAche guNa: chAMgale shiShTAchAra",
+    "questions": [
+      "mulAMmadhye chAMgalyA shiShTAchArAche mahattva yAbaddala tumache kAya mata Ahe?",
+      "mulAMsAThI chAMgale shiShTAchAra hA eka mahattvAchA guNa Ahe kA?",
+      "mulAMmadhye chAMgalyA shiShTAchArAvara bhara dilA pAhije ase tumhAlA vATate kA?",
+      "mulAMmadhye chAMgale shiShTAchAra hA eka mahattvAchA guNa Ahe ase tumhI mAnAla kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q8": {
+    "description": "mulAMche mahattvAche guNa: svAtaMtrya",
+    "questions": [
+      "mulAmadhye svAtaMtrya kitI mahattvAche Ahe?",
+      "mulAMmadhye svAtaMtrya hA eka mahattvAchA guNa mhaNUna ullekha kelA jAto kA?",
+      "tumhAlA vATate kA kI mulAMmadhye svAtaMtrya hA eka mahattvAchA guNa Ahe?",
+      "tumhAlA mAhitI Ahe kA mulAMmadhye svAtaMtrya hA eka mahattvAchA guNa mAnalA jAto kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q9": {
+    "description": "mulAMche mahattvAche guNa: kaThora parishrama",
+    "questions": [
+      "mulAmadhye kaThora parishrama hA eka mahattvAchA guNa Ahe ase tumhAlA vATate kA?",
+      "mulAsAThI kaThora parishrama hA eka mahattvAchA guNa Ahe ase tumhAlA vATate kA?",
+      "kaThora parishrama he mulAsAThI eka mahattvAche guNa Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, kaThora parishrama hA mulAMchA mahattvAchA guNa Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q10": {
+    "description": "mulAMche mahattvAche guNa: jabAbadArIchI bhAvanA",
+    "questions": [
+      "jabAbadArIchI bhAvanA hA mulAMchA eka mahattvAchA guNa Ahe ase tumhAlA vATate kA?",
+      "jabAbadArIchI bhAvanA hA mulAMchA eka mahattvAchA guNa Ahe kA?",
+      "mulAMchyA guNavatteta jabAbadArIchI bhAvanA asaNe hA eka mahattvAchA guNa Ahe yAchI tumhAlA jANIva Ahe kA?",
+      "mulAMsAThI jabAbadArIchI bhAvanA mahattvAchI mAnalI jAte kA he tumhAlA mAhitI Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q11": {
+    "description": "mulAMche mahattvAche guNa: kalpanAshaktI",
+    "questions": [
+      "mulAmadhye kalpanAshaktIche mahattva kAya Ahe yAbaddala tumhAlA kAya vATate?",
+      "kalpanAshaktI hI mulAsAThI eka mahattvAchI guNavattA Ahe kA?",
+      "tumhAlA vATate kA kI kalpanAshaktI hI mulAsAThI eka mahattvAchI kShamatA Ahe?",
+      "mulAchyA vikAsAta kalpanAshaktI mahattvAchI bhUmikA bajAvate ase tumache mata Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q12": {
+    "description": "mulAMche mahattvAche guNa: sahiShNutA ANi itara lokAMbaddala Adara",
+    "questions": [
+      "mulAMmadhye itara lokAMbaddala sahiShNutA ANi Adara asaNe mahattvAche Ahe ase tumhAlA vATate kA?",
+      "sahiShNutA ANi itarAMbaddala Adara he mulAMsAThI Avashyaka guNa Aheta ase tumhAlA vATate kA?",
+      "mulAMmadhye sahiShNutA ANi itarAMbaddala Adara he mahattvAche guNa asale pAhijeta kA?",
+      "mulAMchyA bAbatIta sahiShNutA ANi itara lokAMbaddala Adara asaNe tumhAlA mahattvAche vATate kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q13": {
+    "description": "mulAMche mahattvAche guNa: kATakasarIne paise ANi goShTI vAchavaNe",
+    "questions": [
+      "mulAmadhye kATakasara ANi paise ANi goShTIMchI bachata karaNe he tumhI kitI mahattvAche mAnatA?",
+      "kATakasara ANi paise ANi goShTI vAchavaNe he mulAmadhye mahattvAche guNa Aheta ase tumhAlA vATate kA?",
+      "kATakasara, paise vAchavaNe ANi tumachyA mate guNa he mulAsAThI mahattvAche Aheta kA?",
+      "lahAnapaNI kATakasara ANi paise ANi itara goShTIMchI bachata karaNe he mahattvAche guNa Aheta ase tumhI mhaNAla kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q14": {
+    "description": "mulAMche mahattvAche guNa: dRRiDhanishchaya, chikATI",
+    "questions": [
+      "mulAmadhye dRRiDhanishchaya ANi chikATI kitI mahattvAchI Ahe?",
+      "mulAmadhye dRRiDhanishchaya ANi chikATI he guNa namUda karAyalA haveta kA?",
+      "mulAmadhye dRRiDhanishchaya ANi chikATI he mahattvAche guNa Aheta ase tumhAlA vATate kA?",
+      "tumhI mhaNAla kA kI dRRiDhanishchaya ANi chikATI he guNa mulAMmadhye j~nAta nasatAta?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q15": {
+    "description": "mulAMche mahattvAche guNa: dhArmika shraddhA",
+    "questions": [
+      "mulAmadhye dhArmika shraddhA kitI mahattvAchI Ahe?",
+      "dhArmika shraddhA hI mulAsAThI mahattvAchI guNavattA Ahe kA?",
+      "mulAchyA vikAsAta dhArmika shraddhA mahattvAchI bhUmikA bajAvate kA?",
+      "mulAMmadhye dhArmika shraddhA hA eka mahattvAchA guNa Ahe ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q16": {
+    "description": "mulAMche mahattvAche guNa: nisvArthIpaNA",
+    "questions": [
+      "mulAmadhye niHsvArthateche mahattva kAya Ahe yAbaddala tumhAlA kAya vATate?",
+      "tumachyA mate, niHsvArthatA hA mulAsAThI eka mahattvAchA guNa Ahe kA?",
+      "mulAMmadhye niHsvArthatelA mahattva dile pAhije kA?",
+      "mulAMchyA guNAMchA vichAra karatAnA, niHsvArthatA mahattvAchI Ahe ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q17": {
+    "description": "mulAMche mahattvAche guNa: Aj~nAdhArakatA",
+    "questions": [
+      "mulAmadhye Aj~nAdhArakateche mahattva yAbaddala tumache kAya mata Ahe?",
+      "mulAmadhye Aj~nAdhArakatA hA eka mahattvAchA guNa Ahe ase tumhAlA vATate kA?",
+      "mulAMmadhye Aj~nAdhArakatA hA eka guNa Ahe kA jyAvara bhara dilA pAhije?",
+      "tumachyA dRRiShTikonAtUna, mulAMchyA vikAsAchyA bAbatIta Aj~nAdhArakatA kitI mahattvAchI Ahe?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q18": {
+    "description": "shejArI: Dragja vyasanI",
+    "questions": [
+      "tumache shejArI Dragja vyasanI Aheta yAbaddala tumhAlA kAya vATate?",
+      "tumache shejArI Dragja vyasanI Aheta he tumhAlA kitI mahattvAche vATate?",
+      "tumachyA shejArI Dragja vyasanI asalyAchA ullekha tumachyAsAThI chiMtechA viShaya Ahe kA?",
+      "tumache shejArI Dragja vyasanI Aheta kA he tumhAlA mAhitI Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q19": {
+    "description": "shejArI: vegaLyA vaMshAche loka",
+    "questions": [
+      "tumhAlA ase vATate kA kI shejArI vegaLyA vaMshAche asaNe mahattvAche Ahe?",
+      "tumachyA parisarAta vegaLyA vaMshAchyA shejARyAMchI upasthitI namUda kelelI nAhI kA?",
+      "tumache shejArI vegaLyA vaMshAche Aheta kI nAhI yAbaddala tumhAlA khAtrI nAhI kA?",
+      "tumache shejArI vegaLyA vaMshAche Aheta paNa tumhAlA mAhitI nAhI kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q20": {
+    "description": "shejArI: eDsa asalele loka",
+    "questions": [
+      "eDsa asalelyA shejARyAMsAThI madata sevA upalabdha asaNe kitI mahattvAche Ahe ase tumhAlA vATate?",
+      "eDsa jhAlelyA shejARyAMchyA viShayAvara samAjAta ughaDapaNe charchA vhAvI ase tumhAlA kitI vATate?",
+      "eDsa asalelyA shejARyAMsAThI upalabdha saMsAdhane ANi madata yAbaddala tumhAlA mAhitI Ahe kA?",
+      "eDsa jhAlelyA shejARyAMnA yeNARyA vishiShTa AvhAnAMbaddala ANi garajAMbaddala tumhAlA kitI mAhitI Ahe?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q21": {
+    "description": "shejArI: sthalAMtarita/paradeshI kAmagAra",
+    "questions": [
+      "sthalAMtarita/paradeshI kAmagAra asalele shejArI asaNe kitI mahattvAche Ahe ase tumhAlA vATate?",
+      "tumachyA mate, tumache shejArI sthalAMtarita/paradeshI kAmagAra Aheta kI nAhI he namUda kele Ahe kA?",
+      "tumache shejArI sthalAMtarita/paradeshI kAmagAra Aheta kA he tumhAlA mAhitI Ahe kA?",
+      "tumachyA shejARyAMchyA sthalAMtarita/paradeshI kAmagArAMchyA sthitIbaddala tumhAlA sAMgitale jAta nAhI kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q22": {
+    "description": "shejArI: samalaiMgika",
+    "questions": [
+      "samalaiMgika asalelyA shejARyAMbaddala tumache kAya mata Ahe?",
+      "samalaiMgika shejArI asaNyAbaddala tumhAlA kase vATela?",
+      "tumachyA shejARyAMchyA laiMgika pravRRittIchA ullekha karaNe mahattvAche Ahe ase tumhAlA vATate kA?",
+      "tumhAlA tumachyA shejARyAMche laiMgika AkarShaNa mAhita Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q23": {
+    "description": "shejArI: vegaLyA dharmAche loka",
+    "questions": [
+      "vegaLyA dharmAche shejArI asaNyAbaddala tumache kAya mata Ahe?",
+      "tumachyA mate, tumachyA shejARyAMchA dhArmika saMbaMdha mahattvAchI bhUmikA bajAvato kA?",
+      "shejARyAMnI tyAMchyA dhArmika shraddhA ughaDa karaNe mahattvAche Ahe ase tumhAlA vATate kA?",
+      "tumachyA shejARyAMchyA dhArmika pArshvabhUmIbaddala tumhAlA mAhitI Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q24": {
+    "description": "shejArI: jAsta madyapAna karaNAre",
+    "questions": [
+      "tumache shejArI jAsta madyapAna karatAta kA?",
+      "tumhI tumachyA shejARyAMnA jAsta madyapAna karaNAre mAnatA kA?",
+      "tumache shejArI jAsta madyapAna karatAta ase tumhI mhaNAla kA?",
+      "shejARyAMchyA jAsta madyapAnAchyA savayI tumachyAsAThI mahattvAchyA Aheta kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q25": {
+    "description": "shejArI: ekatra rAhaNAre avivAhita joDape",
+    "questions": [
+      "avivAhita joDape ekatra rAhaNARyA shejARyAMbaddala tumache kAya mata Ahe?",
+      "avivAhita joDapyAMnA shejArI mhaNUna ghetalyAbaddala tumhAlA kase vATela?",
+      "tumachyA shejARyAMchyA nAtesaMbaMdhAchyA sthitIchA ullekha karaNe mahattvAche Ahe ase tumhAlA vATate kA?",
+      "tumachyA shejARyAMchyA nAtesaMbaMdhAchI sthitI tumhAlA mAhitI Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q26": {
+    "description": "shejArI: vegaLI bhAShA bolaNAre loka",
+    "questions": [
+      "shejArI vegaLI bhAShA bolatAta he tumachyAsAThI kitI mahattvAche Ahe?",
+      "shejARyAMnI vegaLI bhAShA bolalI pAhije ase tumhAlA sAMgitale Ahe kA?",
+      "vegaLI bhAShA bolaNAre shejArI asaNe mahattvAche Ahe kA he tumhAlA mAhitI Ahe kA?",
+      "vegaLI bhAShA bolaNARyA shejARyAMchA ullekha kelA tara tumhAlA mAhitI Ahe kA?"
+    ],
+    "options": [
+      "mahatvAche",
+      "mAhita nAhI",
+      "mahatvAche nAhI"
+    ]
+  },
+  "Q27": {
+    "description": "AyuShyAtIla mukhya dhyeyAMpaikI eka mhaNaje mAjhyA pAlakAMnA abhimAna vATaNe.",
+    "questions": [
+      "mAjhyA pAlakAMnA abhimAna vATaNe he mAjhyA AyuShyAtIla mukhya dhyeyAMpaikI kitI pramANAta Ahe?",
+      "AyuShyAta mAjhyA pAlakAMnA abhimAna vATAvA yAsAThI mI kitI prayatna karato?",
+      "AyuShyAta mAjhyA pAlakAMnA abhimAna vATAvA ase mI kitI pramANAta dhyeya ThevU shakato?",
+      "mAjhyA pAlakAMnA abhimAna vATAvA he mI mAjhyA jIvanAtIla prAthamika dhyeyAMpaikI eka mAnato kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q28": {
+    "description": "nokarI karaNARyA AImuLe prIskUla mulAlA trAsa hoto",
+    "questions": [
+      "AI kAma karate tevhA prIskUla mulAMnA trAsa hoto ase tumhAlA vATate kA?",
+      "nokarI karaNARyA AIchA tichyA shALepUrvIchyA mulAMvara nakArAtmaka pariNAma hoto ase tumache mata Ahe kA?",
+      "AIchyA nokarImuLe prI-skUla mulAMnA aDachaNI yetAta yAvara tumhI sahamata AhAta kA?",
+      "nokarI karaNARyA AIchA tichyA shALepUrvIchyA mulAMvara hAnikAraka pariNAma hoto ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q29": {
+    "description": "mahilAMpekShA puruSha chAMgale rAjakIya nete banatAta",
+    "questions": [
+      "tumhI pUrNapaNe sahamata AhAta kA, sahamata AhAta kA, asahamata AhAta kA, kiMvA tumhAlA mAhita nAhI kI puruSha mahilAMpekShA chAMgale rAjakIya nete banatAta kA?",
+      "tumhI mhaNAla kI tumhI pUrNapaNe sahamata AhAta, sahamata AhAta, asahamata AhAta, joradAra asahamata AhAta, kiMvA puruSha mahilAMpekShA chAMgale rAjakIya nete banatAta yA vidhAnAshI tumhAlA mAhitI nAhI?",
+      "tumachyA mate, tumhI ThAmapaNe sahamata AhAta kA, sahamata AhAta kA, asahamata AhAta kA, joradAra asahamata AhAta kA, kiMvA tumhAlA mAhita nAhI kI puruSha mahilAMpekShA chAMgale rAjakIya nete banatAta?",
+      "tumachA dRRiShTikona mhaNaje purUSha mahilAMpekShA chAMgale rAjakIya nete banatAta tevhA tyAMnA ThAmapaNe sahamata asaNe, sahamata nasaNe, asahamata asaNe, tIvra asahamata asaNe kiMvA mAhita nasaNe asA Ahe kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q30": {
+    "description": "mulIpekShA mulAsAThI vidyApITha jAsta mahatvAche Ahe.",
+    "questions": [
+      "mulIpekShA mulAsAThI vidyApITha jAsta mahattvAche Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, mulIpekShA mulAsAThI vidyApITha jAsta mahattvAche Ahe kA?",
+      "mulIpekShA mulAsAThI vidyApIThAche mahattva jAsta Ahe yAvara tumhI sahamata AhAta kA?",
+      "mulIpekShA mulAsAThI vidyApITha jAsta mahattvAche Ahe ase tumache mata Ahe kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q31": {
+    "description": "mahilAMpekShA puruSha chAMgale vyavasAyika adhikArI banatAta",
+    "questions": [
+      "tumhAlA ase vATate kA kI puruSha he mahilAMpekShA chAMgale vyavasAya adhikArI banatAta?",
+      "tumachyA mate, mahilAMchyA tulaneta purUSha vyavasAyika adhikArI mhaNUna adhika kAmagirI karatAta kA?",
+      "puruSha he mahilAMpekShA chAMgale vyavasAya adhikArI asatAta yA vidhAnAshI tumhI sahamata AhAta kA?",
+      "tumhAlA vATate kA kI mahilA vyAvasAyika adhikArI mhaNUna puruShAMchyA tulaneta kamI prabhAvI Aheta?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q32": {
+    "description": "gRRihiNI asaNe titakecha samAdhAnakAraka Ahe",
+    "questions": [
+      "gRRihiNI asaNe he kariara karaNyAitakecha samAdhAnakAraka Ahe kA?",
+      "gRRihiNI asaNe he kariara karaNyAitakecha samAdhAnakAraka Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, gRRihiNI asaNe he kariara karaNyAitakecha samAdhAnakAraka Ahe kA?",
+      "gRRihiNI asaNe he kariara karaNyAitakecha samAdhAnakAraka asU shakate yAvara tumhI sahamata AhAta kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q33": {
+    "description": "nokaRyAMchI kamataratA: mahilAMpekShA puruShAMnA nokarIchA jAsta adhikAra asAyalA havA",
+    "questions": [
+      "puruSha ANi mahilA doghAMsAThIhI nokaRyA durmiLa asAvyAta yAvara tumhI ThAmapaNe sahamata AhAta kI ThAmapaNe asahamata?",
+      "mahilAMpekShA puruShAMnA nokarIchA jAsta adhikAra asalA pAhije yAvara tumhI sahamata AhAta kI asahamata?",
+      "tumachyA mate, puruSha ANi mahilAMsAThI nokaRyA durmiLa asAvyAta yAvara tumhI sahamata kiMvA asahamata nAhI kA?",
+      "tumhI pUrNapaNe asahamata AhAta kA kiMvA tumhAlA mAhita nAhI kI puruShAMnA mahilAMpekShA nokarIchA jAsta adhikAra asAvA kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q34": {
+    "description": "nokaRyAMchI kamataratA: niyoktyAMnI sthalAMtaritAMpekShA (rAShTrIya) lokAMnA prAdhAnya dyAve",
+    "questions": [
+      "nokarIchyA kamataratemuLe mAlakAMnI sthalAMtaritAMpekShA (rAShTrIya) lokAMnA prAdhAnya dyAve kA?",
+      "jevhA nokaRyA kamI asatAta tevhA mAlakAMnI sthalAMtaritAMpekShA (rAShTrIya) lokAMnA prAdhAnya dyAve yAvara tumhI sahamata AhAta kA?",
+      "nokaRyAMchyA kamataratechyA kALAta mAlakAMnI sthalAMtaritAMaivajI (rAShTrIya) lokAMnA prAdhAnya deNe yogya Ahe kA?",
+      "nokarIchyA kamataratechyA kALAta mAlakAMnI sthalAMtaritAMpekShA (rAShTrIya) vyaktIMnA prAdhAnya dyAve ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ]
+  },
+  "Q35": {
+    "description": "jara mahilAMche utpanna patIpekShA jAsta asela tara samasyA",
+    "questions": [
+      "jara mahilAMche utpanna tyAMchyA patIpekShA jAsta asela tara tyA samasyevara tumache kAya mata Ahe?",
+      "ekA mahilelA tichyA patIpekShA jAsta paise miLatAta ashA paristhitIbaddala tumhAlA kase vATate?",
+      "jevhA patnIche utpanna tichyA patIpekShA jAsta asate tevhA kAhI samasyA asate ase tumhAlA vATate kA?",
+      "patIpekShA jAsta utpanna miLavaNARyA mahilAMchyA muddyAvara tumachI bhUmikA kAya Ahe?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata."
+    ]
+  },
+  "Q37": {
+    "description": "mule janmAlA ghAlaNyAche samAjApratI kartavya",
+    "questions": [
+      "mule asaNe he samAjApratI kAhI kartavya Ahe kA?",
+      "mule asaNe he samAjApratI kartavya Ahe ase tumhAlA vATate kA?",
+      "tumhAlA vATate kA kI vyaktIMche samAjApratI mule janmAlA ghAlaNyAche kartavya Ahe?",
+      "lokAMnA mule janmAlA ghAlaNyAche samAjApratI kartavya vATale pAhije kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata."
+    ]
+  },
+  "Q38": {
+    "description": "AjArI pAlakAMchI kALajI gheNe he mulAMche kartavya Ahe.",
+    "questions": [
+      "AjArI pAlakAMchI kALajI gheNe he mulAMche kartavya Ahe ase tumhAlA vATate kA?",
+      "AjArI pAlakAMchI kALajI gheNyAchI jabAbadArI mulAMnI ghyAvI kA?",
+      "AjArI pAlakAMchI kALajI gheNe he mulAMche kartavya Ahe he tumhI mAnya karatA kA?",
+      "AjArI pAlakAMchI kALajI gheNe hI mulAMchI jabAbadArI Ahe kA?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata."
+    ]
+  },
+  "Q39": {
+    "description": "je loka kAma karata nAhIta te ALashI hotAta.",
+    "questions": [
+      "je loka kAma karata nAhIta te ALashI hotAta ase tumhAlA vATate kA?",
+      "tumachyA mate, je loka kAma karata nAhIta te ALashI hotAta ase tumhAlA vATate kA?",
+      "je loka kAma karata nAhIta te sahasA ALashI hotAta ase tumhAlA vATate kA?",
+      "je loka kAma karata nAhIta te ALashI hotAta yA vidhAnAshI tumhI sahamata AhAta kI asahamata?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata."
+    ]
+  },
+  "Q40": {
+    "description": "kAma he samAjApratI eka kartavya Ahe.",
+    "questions": [
+      "kAma he samAjApratI kartavya Ahe ase tumhAlA vATate kA?",
+      "kAma he samAjApratI kartavya mAnale jAte kA?",
+      "kAma he samAjApratI kartavya Ahe yAvara tumhI kitI pramANAta sahamata AhAta?",
+      "tumhAlA vATate kA kAma he samAjApratI kartavya mhaNUna pAhile pAhije?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata."
+    ]
+  },
+  "Q41": {
+    "description": "kAmAlA nehamIcha prAdhAnya dile pAhije, jarI tyAsAThI kamI mokaLA veLa asalA tarIhI",
+    "questions": [
+      "kamI mokaLA veLa asalA tarI kAma nehamIcha prathama Ale pAhije kA?",
+      "tumhAlA ase vATate kA kI kAmAlA nehamIcha mokaLyA veLepekShA prAdhAnya dile pAhije?",
+      "mokaLyA veLepekShA kAmAlA prAdhAnya deNe yogya Ahe kA?",
+      "tumhAlA vATate kA kI sarva paristhitIta kAmAsAThI mokaLA veLa deNe Avashyaka Ahe?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "sahamata nAhI ANi asahamatahI nAhI.",
+      "mAhita nAhI",
+      "asahamata",
+      "pUrNapaNe asahamata."
+    ]
+  },
+  "Q42": {
+    "description": "samAjAviShayI mUlabhUta prakArache dRRiShTikona",
+    "questions": [
+      "ApalyA samAjAchyA ekUNa saMghaTita paddhatIbaddala tumache kAya mata Ahe?",
+      "ApalA samAja kasA sudhArU shakato ase tumhAlA vATate?",
+      "ApalyA sadhyAchyA samAjAche vidhvaMsaka shaktIMpAsUna rakShaNa karaNyAbAbata tumachI bhUmikA kAya Ahe?",
+      "ApalyA samAjAne koNatyA prakArachyA dRRiShTikonAchA avalaMba karAvA yAbaddala tumache spaShTa mata Ahe kA?"
+    ],
+    "options": [
+      "ApalyA samAjAchI saMpUrNa vyavasthA krAMtikArI kRRitIne AmUlAgra badalalI pAhije.",
+      "sudhAraNAMdvAre ApalA samAja haLUhaLU sudhAralA pAhije.",
+      "ApalyA sadhyAchyA samAjAche sarva vidhvaMsaka shaktIMpAsUna shauryAne rakShaNa kele pAhije.",
+      "mAhita nAhI"
+    ]
+  },
+  "Q43": {
+    "description": "bhaviShyAtIla badala: kAmAlA kamI mahattva",
+    "questions": [
+      "bhaviShyAtIla badalAMbaddala tumache kAya mata Ahe: kAmAlA kamI mahattva?",
+      "kAmAlA kamI mahattva deNyAbAbata bhaviShyAta hoNARyA badalAMkaDe tumhI kase pAhatA?",
+      "kAmAlA kamI mahattva deNyAchyA bhaviShyAtIla TreMDabaddala tumache kAya mata Ahe?",
+      "bhaviShyAta kAmAvarIla kamI hota jANARyA bharAbaddala tumachA dRRiShTikona kAya Ahe?"
+    ],
+    "options": [
+      "chAMgalI goShTa",
+      "harakata nAhI.",
+      "mAhita nAhI",
+      "vAITa goShTa"
+    ]
+  },
+  "Q44": {
+    "description": "bhaviShyAtIla badala: taMtraj~nAnAvara adhika bhara",
+    "questions": [
+      "taMtraj~nAnAvara adhika bhara deUna bhaviShyAta hoNARyA badalAMbaddala tumache kAya vichAra Aheta?",
+      "bhaviShyAta taMtraj~nAnAvara adhika bhara deNyAchyA shakyatebaddala tumhAlA kase vATate?",
+      "yeNARyA badalAMmadhye taMtraj~nAnAvara vADhatyA lakSha keMdrita karaNyAbaddala tumache kAya mata Ahe?",
+      "taMtraj~nAnAvara adhika bhara deNARyA AgAmI badalAMbaddala tumachA dRRiShTikona kAya Ahe?"
+    ],
+    "options": [
+      "chAMgalI goShTa",
+      "harakata nAhI.",
+      "mAhita nAhI",
+      "vAITa goShTa"
+    ]
+  },
+  "Q45": {
+    "description": "bhaviShyAtIla badala: adhikArAbaddala adhika Adara",
+    "questions": [
+      "adhikArAchA Adara karaNyAbAbata bhaviShyAta hoNARyA badalAMbaddala tumache kAya mata Ahe?",
+      "bhaviShyAta adhikArAbaddalachyA AdarAta vADha hoNyAchI shakyatA Ahe yAbaddala tumhAlA kase vATate?",
+      "yetyA kALAta adhikArAchyA bAbatIta apekShita vADha hoNyAbaddala tumache kAya mata Ahe?",
+      "bhaviShyAta adhikArAbaddala adhika Adara nirmANa hoNyAbAbata tumachyA kAya bhAvanA Aheta?"
+    ],
+    "options": [
+      "chAMgalI goShTa",
+      "harakata nAhI.",
+      "mAhita nAhI",
+      "vAITa goShTa"
+    ]
+  },
+  "Q46": {
+    "description": "AnaMdAchI bhAvanA",
+    "questions": [
+      "tumachyA AnaMdAchyA bhAvanelA tumhI kase reTa karAla?",
+      "1 te 5 chyA pramANAta, 1 ajibAta AnaMdI nAhI ANi 5 khUpa AnaMdI Ahe, tara tumhI tumachyA AnaMdAchyA pAtaLIlA kase reTa karAla?",
+      "tumhI svataHlA AnaMdI vyaktI mAnatA kA?",
+      "tumhAlA dararoja kitI pramANAta AnaMda vATato?"
+    ],
+    "options": [
+      "khUpa AnaMdI",
+      "khUpa AnaMdI",
+      "mAhita nAhI",
+      "khUpa AnaMdI nAhI.",
+      "ajibAta AnaMdI nAhI."
+    ]
+  },
+  "Q47": {
+    "description": "ArogyAchI sthitI (vyaktiniShTha)",
+    "questions": [
+      "tumachyA sadhyAchyA Arogya sthitIche varNana tumhI kase karAla?",
+      "kRRipayA tumachyA vyaktiniShTha Arogya sthitIche mUlyAMkana karA.",
+      "khUpa chAMgale te khUpa vAITa yA pramANAta, tumhI tumachyA ArogyAche mUlyAMkana kase karAla?",
+      "tumachyA ekUNa ArogyAchyA bAbatIta, tumhI tumachyA ArogyAche mUlyAMkana kase karAla?"
+    ],
+    "options": [
+      "khUpa chAMgale",
+      "chAMgale",
+      "gorA",
+      "garIba",
+      "khUpa garIba"
+    ]
+  },
+  "Q51": {
+    "description": "tumhI/kuTuMbAchI vAraMvAratA (gelyA 12 mahinyAMta): purese anna nasaNe",
+    "questions": [
+      "gelyA 12 mahinyAMta tumhI kiMvA tumache kuTuMba kitI veLA purese anna na khAllyAne gele Ahe?",
+      "gelyA varShAta, tumhAlA kiMvA tumachyA kuTuMbAlA kitI veLA purese anna na miLAlyAchA anubhava AlA Ahe?",
+      "gelyA 12 mahinyAMta tumhAlA kiMvA tumachyA kuTuMbAlA kadhI kadhI purese anna miLAle nAhI kA?",
+      "gelyA 12 mahinyAMta, tumhAlA kiMvA tumachyA kuTuMbAlA kitI veLA purese anna na miLAlyAchyA paristhitIchA sAmanA karAvA lAgalA Ahe?"
+    ],
+    "options": [
+      "anekadA",
+      "kadhIkadhI",
+      "mAhita nAhI",
+      "kvachitacha",
+      "kadhIhI nAhI"
+    ]
+  },
+  "Q52": {
+    "description": "tumhI/kuTuMbAchI vAraMvAratA (gelyA 12 mahinyAMta): tumachyA svataHchyA gharAta gunhyAMpAsUna asurakShita vATale.",
+    "questions": [
+      "tumachyA svataHchyA gharAta gunhyAMmuLe tumhAlA kitI veLA asurakShita vATale?",
+      "tumachyA gharAta gunhegArImuLe tumhAlA kitI veLA asurakShita vATale?",
+      "gelyA 12 mahinyAMta, tumachyA svataHchyA gharAta gunhyAMmuLe tumhAlA kitI veLA asurakShita vATale Ahe?",
+      "gelyA varShI tumachyA gharAta anekadA, kadhIkadhI, kvachitacha kiMvA kadhIcha gunhyAMmuLe tumhAlA asurakShita vATale kA?"
+    ],
+    "options": [
+      "anekadA",
+      "kadhIkadhI",
+      "mAhita nAhI",
+      "kvachitacha",
+      "kadhIhI nAhI"
+    ]
+  },
+  "Q53": {
+    "description": "tumhI/kuTuMbAchI vAraMvAratA (gelyA 12 mahinyAMta): Avashyaka asalele auShadha kiMvA upachAra na ghetA nighUna jANe.",
+    "questions": [
+      "gelyA 12 mahinyAMta tumhI kiMvA tumache kuTuMba kitI veLA Avashyaka asalelyA auShadhAMshivAya kiMvA upachArAMshivAya gele Ahe?",
+      "gelyA 12 mahinyAMta tumhAlA kiMvA tumachyA kuTuMbAlA Avashyaka asalelyA auShadhAMshivAya kiMvA upachArAMshivAya rAhAve lAgaNyAchI vAraMvAratA kitI Ahe?",
+      "gelyA 12 mahinyAMta, tumhI kiMvA tumache kuTuMba kitI veLA Avashyaka asalelyA auShadha kiMvA upachArAMshivAya gele Ahe?",
+      "gelyA 12 mahinyAMta tumhI kiMvA tumache kuTuMba kvachitacha, kadhIkadhI kiMvA anekadA Avashyaka asalelyA auShadhAMshivAya kiMvA upachArAMshivAya gele Ahe kA?"
+    ],
+    "options": [
+      "anekadA",
+      "kadhIkadhI",
+      "mAhita nAhI",
+      "kvachitacha",
+      "kadhIhI nAhI"
+    ]
+  },
+  "Q54": {
+    "description": "tumhI/kuTuMbAchI vAraMvAratA (gelyA 12 mahinyAMta): rokha utpannAshivAya gele",
+    "questions": [
+      "tumhI/kuTuMbAchI vAraMvAratA (gelyA 12 mahinyAMta): rokha utpannAshivAya gelA AhAta kA?",
+      "gelyA 12 mahinyAMta tumhI kiMvA tumache kuTuMba kitI veLA rokha utpannAshivAya gele Ahe?",
+      "gelyA varShAta, tumhAlA kiMvA tumachyA kuTuMbAlA kitI veLA mAsika pALI AlI ANi koNatehI rokha utpanna miLAle nAhI?",
+      "gelyA 12 mahinyAMta tumhAlA kiMvA tumachyA kuTuMbAlA rokha utpannAchA tuTavaDA jANavalA Ahe kA? jara asela tara kitI veLA?"
+    ],
+    "options": [
+      "anekadA",
+      "kadhIkadhI",
+      "mAhita nAhI",
+      "kvachitacha",
+      "kadhIhI nAhI"
+    ]
+  },
+  "Q55": {
+    "description": "gelyA 12 mahinyAMta, tumhI kiMvA tumache kuTuMba kitI veLA ase kele Ahe: tumachyA DokyAvara surakShita nivArA nasalelA",
+    "questions": [
+      "gelyA 12 mahinyAMta, tumhI kiMvA tumache kuTuMba kitI veLA surakShita nivArA nasatAnA gele AhAta?",
+      "gelyA varShabharAta, tumhAlA kiMvA tumachyA kuTuMbAlA kitI veLA surakShita gharAMchA abhAva jANavalA?",
+      "gelyA 12 mahinyAMta, tumhAlA kiMvA tumachyA kuTuMbAlA kitI veLA surakShita nivArA miLAlA nAhI?",
+      "gelyA varShI tumhAlA kiMvA tumachyA kuTuMbAlA surakShita nivArA nasatAnA mAsika pALI AlI Ahe kA? jara ho, tara kitI veLA?"
+    ],
+    "options": [
+      "anekadA",
+      "kadhIkadhI",
+      "mAhita nAhI",
+      "kvachitacha",
+      "kadhIhI nAhI"
+    ]
+  },
+  "Q57": {
+    "description": "bahuteka lokAMvara vishvAsa ThevatA yeto.",
+    "questions": [
+      "bahuteka lokAMvara vishvAsa ThevatA yeto ase tumhAlA vATate kA?",
+      "tumachyA mate, bahuteka lokAMvara vishvAsa ThevatA yeto kA?",
+      "bahuteka lokAMvara vishvAsa ThevatA yeto asA tumachA vishvAsa Ahe kA?",
+      "bahuteka lokAMvara vishvAsa ThevatA yeto ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "bahuteka lokAMvara vishvAsa ThevatA yeto.",
+      "khUpa kALajI ghyAvI lAgela."
+    ],
+    "scale": false
+  },
+  "Q58": {
+    "description": "vishvAsa: tumache kuTuMba",
+    "questions": [
+      "tumhI tumachyA kuTuMbAvara kitI vishvAsa ThevatA?",
+      "tumachyA kuTuMbAta vishvAsAchI lakShaNIya pAtaLI Ahe kA?",
+      "tumhI tumachyA kuTuMbAvara kitI vishvAsa ThevatA?",
+      "sarvasAdhAraNapaNe, tumachyA kuTuMbAvara tumachA kitI vishvAsa Ahe?"
+    ],
+    "options": [
+      "pUrNapaNe vishvAsa ThevA",
+      "thoDAsA vishvAsa ThevA.",
+      "mAhita nAhI",
+      "jAsta vishvAsa ThevU nakA.",
+      "ajibAta vishvAsa ThevU nakA."
+    ]
+  },
+  "Q59": {
+    "description": "vishvAsa: tumachA parisara",
+    "questions": [
+      "tumachA tumachyA parisarAvara kitI vishvAsa Ahe?",
+      "tumachyA parisarAta tumachA kitI vishvAsa Ahe?",
+      "tumachyA parisarAbaddala asalelyA vishvAsAchyA pAtaLIlA tumhI kase reTa karAla?",
+      "tumachyA parisarAta tumachA vishvAsa jAsta Ahe kA?"
+    ],
+    "options": [
+      "pUrNapaNe vishvAsa ThevA",
+      "thoDAsA vishvAsa ThevA.",
+      "mAhita nAhI",
+      "jAsta vishvAsa ThevU nakA.",
+      "ajibAta vishvAsa ThevU nakA."
+    ]
+  },
+  "Q60": {
+    "description": "vishvAsa: tumhI vaiyaktikarityA oLakhatA te loka",
+    "questions": [
+      "tumhI vaiyaktikarityA oLakhata asalelyA lokAMvara kitI vishvAsa ThevatA?",
+      "tumhI vaiyaktikarityA oLakhata asalelyA lokAMvara kitI vishvAsa ThevatA?",
+      "tumhI vaiyaktikarityA oLakhata asalelyA lokAMvara vishvAsa ThevatA kA?",
+      "tumhI vaiyaktikarityA oLakhata asalelyA lokAMvarIla tumachA vishvAsa jAsta Ahe kI kamI Ahe ase tumhI mhaNAla?"
+    ],
+    "options": [
+      "pUrNapaNe vishvAsa ThevA",
+      "thoDAsA vishvAsa ThevA.",
+      "mAhita nAhI",
+      "jAsta vishvAsa ThevU nakA.",
+      "ajibAta vishvAsa ThevU nakA."
+    ]
+  },
+  "Q61": {
+    "description": "vishvAsa: pahilyAMdAcha bheTaNAre loka",
+    "questions": [
+      "pahilyAMdA bheTaNARyA lokAMvara tumhI kitI vishvAsa ThevatA?",
+      "pahilyAMdA bheTaNARyA vyaktIMvara tumhI kitI vishvAsa ThevatA?",
+      "pahilyAMdA bheTaNARyA lokAMbaddala tumachA kitI vishvAsa Ahe?",
+      "jevhA tumhI pahilyAMdA ekhAdyA vyaktIlA bheTatA tevhA tyAMchyAvarIla tumachyA vishvAsAche mUlyAMkana kase karAla?"
+    ],
+    "options": [
+      "pUrNapaNe vishvAsa ThevA",
+      "thoDAsA vishvAsa ThevA.",
+      "mAhita nAhI",
+      "jAsta vishvAsa ThevU nakA.",
+      "ajibAta vishvAsa ThevU nakA."
+    ]
+  },
+  "Q62": {
+    "description": "vishvAsa: dusaRyA dharmAche loka",
+    "questions": [
+      "tumhI dusaRyA dharmAchyA lokAMvara kitI vishvAsa ThevatA?",
+      "tumhI vegaLyA dharmAchyA lokAMvara kitI vishvAsa ThevatA?",
+      "tumhI dusaRyA dharmAchyA vyaktIMvara vishvAsa ThevatA ase mhaNAla kA?",
+      "tumhAlA dusaRyA dharmAchyA vyaktIMvara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "pUrNapaNe vishvAsa ThevA",
+      "thoDAsA vishvAsa ThevA.",
+      "mAhita nAhI",
+      "jAsta vishvAsa ThevU nakA.",
+      "ajibAta vishvAsa ThevU nakA."
+    ]
+  },
+  "Q63": {
+    "description": "TrasTa: dusaRyA rAShTrIyatvAche loka",
+    "questions": [
+      "dusaRyA rAShTrIyatvAchyA lokAMvara tumhI kitI vishvAsa ThevatA?",
+      "tumhI vegaLyA rAShTrIyatvAchyA vyaktIMvara kitI pramANAta vishvAsa ThevatA?",
+      "dusaRyA rAShTrIyatvAchyA lokAMvara tumachA kitI vishvAsa Ahe?",
+      "tumhAlA dusaRyA rAShTrIyatvAchyA vyaktIMvara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "pUrNapaNe vishvAsa ThevA",
+      "thoDAsA vishvAsa ThevA.",
+      "mAhita nAhI",
+      "jAsta vishvAsa ThevU nakA.",
+      "ajibAta vishvAsa ThevU nakA."
+    ]
+  },
+  "Q64": {
+    "description": "AtmavishvAsa: charcha",
+    "questions": [
+      "tumhAlA charchavara kitI vishvAsa Ahe?",
+      "tumhI charchavara kitI vishvAsa ThevatA?",
+      "charchavarIla tumachyA AtmavishvAsAchyA pAtaLIlA tumhI kase reTa karAla?",
+      "tumhAlA charchavara jAsta vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q65": {
+    "description": "AtmavishvAsa: sashastra senA",
+    "questions": [
+      "tumhAlA sashastra dalAMvara kitI vishvAsa Ahe?",
+      "tumhAlA sashastra dalAMvara kitI vishvAsa Ahe?",
+      "sashastra dalAMvarIla tumachA AtmavishvAsa kasA Ahe yAche mUlyAMkana tumhI kase karAla?",
+      "tumhAlA sashastra dalAMvara khUpa vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q66": {
+    "description": "AtmavishvAsa: presa",
+    "questions": [
+      "tumhAlA presavara kitI vishvAsa Ahe?",
+      "tumhAlA presavara khUpa vishvAsa Ahe kA?",
+      "tumhAlA presavara kitI vishvAsa Ahe?",
+      "tumhAlA presavara khUpa vishvAsa Ahe ase tumhI mhaNAla kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q67": {
+    "description": "AtmavishvAsa: dUradarshana",
+    "questions": [
+      "tumhAlA Telivhijanavara kitI vishvAsa Ahe?",
+      "tumhAlA Telivhijanavara kitI vishvAsa Ahe?",
+      "tumhI Telivhijanavara kitI ArAmAta avalaMbUna AhAta?",
+      "Telivhijanamadhye tumachA nishchitatechA stara kitI Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q68": {
+    "description": "AtmavishvAsa: kAmagAra saMghaTanA",
+    "questions": [
+      "kAmagAra saMghaTanAMvara tumachA kitI vishvAsa Ahe?",
+      "kAmagAra saMghaTanAMvara tumachA kitI vishvAsa Ahe?",
+      "kAmagAra saMghaTanAMvara tumachA kitI vishvAsa Ahe?",
+      "tumachA kAmagAra saMghaTanAMvara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q69": {
+    "description": "AtmavishvAsa: polisa",
+    "questions": [
+      "tumachA polisAMvara kitI vishvAsa Ahe?",
+      "tumachA polisAMvara kitI vishvAsa Ahe?",
+      "polisAMvarIla tumachA vishvAsa kasA Ahe yAche mUlyAMkana tumhI kase karAla?",
+      "tumachA polisAMvara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q70": {
+    "description": "vishvAsa: nyAyAlaye",
+    "questions": [
+      "tumachA nyAyAlayAMvara kitI vishvAsa Ahe?",
+      "tumachA nyAyAlayAMvara kitI vishvAsa Ahe?",
+      "nyAyAlayAMvarIla tumachA vishvAsa kasA Ahe yAche mUlyAMkana tumhI kase karAla?",
+      "tumachA nyAyAlayAMvara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q71": {
+    "description": "AtmavishvAsa: sarakAra",
+    "questions": [
+      "tumachA sarakAravara kitI vishvAsa Ahe?",
+      "tumachA sarakAravara kitI vishvAsa Ahe?",
+      "sarakAravarIla tumachA vishvAsa kasA Ahe yAche mUlyAMkana tumhI kase karAla?",
+      "tumhAlA sarakAravara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q72": {
+    "description": "AtmavishvAsa: rAjakIya pakSha",
+    "questions": [
+      "rAjakIya pakShAMvara tumachA kitI vishvAsa Ahe?",
+      "rAjakIya pakShAMvara tumachA kitI vishvAsa Ahe?",
+      "rAjakIya pakShAMvarIla tumachA vishvAsa kasA Ahe yAche mUlyAMkana tumhI kase karAla?",
+      "tumachA rAjakIya pakShAMvara vishvAsa jAsta Ahe kI kamI?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q73": {
+    "description": "vishvAsa: saMsada",
+    "questions": [
+      "saMsadeta tumachA kitI vishvAsa Ahe?",
+      "saMsadevara tumachA kitI vishvAsa Ahe?",
+      "saMsadevara tumachA kitI vishvAsa Ahe?",
+      "vishvAsAchyA bAbatIta, tumhI saMsadelA kase reTa karAla?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q74": {
+    "description": "AtmavishvAsa: nAgarI sevA",
+    "questions": [
+      "tumhAlA nAgarI sevAMvara kitI vishvAsa Ahe?",
+      "nAgarI sevAMvara tumachA kitI vishvAsa Ahe?",
+      "nAgarI sevAMvarIla tumachyA vishvAsAche tumhI kase mUlyAMkana karAla?",
+      "tumhAlA nAgarI sevAMvara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q75": {
+    "description": "AtmavishvAsa: vidyApIThe (khAjagI)",
+    "questions": [
+      "vidyApIThAMvarIla tumachA vishvAsa (khAjagI) reTa karA:",
+      "1-5 chyA pramANAta, tumhAlA vidyApIThAMmadhye (khAjagI) kitI AtmavishvAsa Ahe?",
+      "tumhAlA vidyApIThAMvara (khAjagI) kitI vishvAsa Ahe?",
+      "vidyApIThAMchyA (khAjagI) bAbatIta, tumhAlA kitI AtmavishvAsa Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q77": {
+    "description": "AtmavishvAsa: pramukha kaMpanyA",
+    "questions": [
+      "moThyA kaMpanyAMvara tumachA kitI vishvAsa Ahe?",
+      "1 te 5 chyA pramANAta, tumhAlA moThyA kaMpanyAMmadhye kitI vishvAsa Ahe?",
+      "moThyA kaMpanyA tumachyA vishvAsAlA pAtra Aheta ase tumhAlA vATate kA?",
+      "sarvasAdhAraNapaNe, moThyA kaMpanyAMvarIla tumachA vishvAsa tumhI kasA reTa karAla?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q78": {
+    "description": "AtmavishvAsa: khAjagI ba.NkA",
+    "questions": [
+      "khAjagI ba.NkAMvarIla tumachA vishvAsa kitI Ahe te kRRipayA reTa karA.",
+      "1 te 5 chyA pramANAta, khAjagI ba.NkAMvara tumachA kitI vishvAsa Ahe?",
+      "khAjagI ba.NkAMvarIla tumachA vishvAsa kasA Ahe yAche varNana tumhI kase karAla?",
+      "khAjagI ba.NkAMvara tumachA kitI vishvAsa Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q79": {
+    "description": "AtmavishvAsa: paryAvaraNa saMrakShaNa chaLavaLa",
+    "questions": [
+      "paryAvaraNa saMrakShaNa chaLavaLIvara tumachA kitI vishvAsa Ahe?",
+      "paryAvaraNa saMrakShaNa chaLavaLIvara tumachA kitI vishvAsa Ahe?",
+      "paryAvaraNa saMrakShaNa chaLavaLIvara tumachA kitI vishvAsa Ahe?",
+      "paryAvaraNa saMrakShaNa chaLavaLIbaddala tumhAlA kitI vishvAsa Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q80": {
+    "description": "AtmavishvAsa: mahilA chaLavaLa",
+    "questions": [
+      "'kaॉnphiDansa: da vumensa mUvhameMTa' madhye tumhAlA kitI vishvAsa Ahe?",
+      "1 te 5 chyA pramANAta, 'AtmavishvAsa: mahilA chaLavaLa' madhye tumachA kitI vishvAsa Ahe?",
+      "'kaॉnphiDansa: da vumensa mUvhameMTa' vara tumachA kitI vishvAsa Ahe?",
+      "'AtmavishvAsa: mahilA chaLavaLa' madhIla tumachA AtmavishvAsa tumhI kasA reTa karAla?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q81": {
+    "description": "AtmavishvAsa: dharmAdAya kiMvA mAnavatAvAdI saMsthA",
+    "questions": [
+      "tumhAlA dharmAdAya kiMvA mAnavatAvAdI saMsthAMvara kitI vishvAsa Ahe?",
+      "tumhAlA dharmAdAya kiMvA mAnavatAvAdI saMsthAMvara kitI vishvAsa Ahe?",
+      "dharmAdAya kiMvA mAnavatAvAdI saMsthAMvarIla tumachyA vishvAsAche tumhI kase mUlyAMkana karAla?",
+      "tumhAlA dharmAdAya kiMvA mAnavatAvAdI saMsthAMvara vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q82": {
+    "description": "AtmavishvAsa: pramukha prAdeshika saMghaTanA (desha-vishiShTa pAsUna ekatrita)",
+    "questions": [
+      "pramukha prAdeshika saMghaTanevara (desha-vishiShTa saMghaTanepAsUna ekatrita) tumachA kitI vishvAsa Ahe?",
+      "tumhAlA pramukha prAdeshika saMghaTanevara (desha-vishiShTa saMghaTanepAsUna ekatrita) kitI pramANAta vishvAsa Ahe?",
+      "pramukha prAdeshika saMghaTanevarIla tumachyA vishvAsAche mUlyAMkana tumhI kase karAla (desha-vishiShTa pAsUna ekatrita)?",
+      "pramukha prAdeshika saMghaTanevara (desha-vishiShTa saMghaTanevarUna ekatrita) avalaMbUna rAhaNyAta tumhAlA kitI ArAmadAyI vATate?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q83": {
+    "description": "AtmavishvAsa: saMyukta rAShTra (UN)",
+    "questions": [
+      "saMyukta rAShTrAMvara (UN) tumachA kitI vishvAsa Ahe?",
+      "saMyukta rAShTrAMvara (UN) tumachA kitI vishvAsa Ahe?",
+      "tumachyA mate, saMyukta rAShTrAMvara (UN) tumachA kitI vishvAsa Ahe?",
+      "saMyukta rAShTrAMvarIla tumachyA vishvAsAche mUlyAMkana tumhI kase karAla?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q84": {
+    "description": "AtmavishvAsa: AMtararAShTrIya nANenidhI (IMF)",
+    "questions": [
+      "AMtararAShTrIya nANenidhI (IMF) vara tumachA kitI vishvAsa Ahe?",
+      "iMTarana.cshanala maॉneTarI phAuMDa (IMF) vara tumachA kitI vishvAsa Ahe?",
+      "AMtararAShTrIya nANenidhI (IMF) varIla tumachyA vishvAsAche mUlyAMkana tumhI kase karAla?",
+      "iMTarana.cshanala maॉneTarI phAuMDa (IMF) baddala tumache kAhI sakArAtmaka mata Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q85": {
+    "description": "AtmavishvAsa: AMtararAShTrIya gunhegArI nyAyAlaya (ICC)",
+    "questions": [
+      "AMtararAShTrIya gunhegArI nyAyAlaya (ICC) vara tumachA kitI vishvAsa Ahe?",
+      "AMtararAShTrIya gunhegArI nyAyAlaya (ICC) vara tumachA kitI vishvAsa Ahe?",
+      "AMtararAShTrIya gunhegArI nyAyAlayAvara (ICC) tumachA kitI vishvAsa Ahe?",
+      "AMtararAShTrIya gunhegArI nyAyAlayAchyA (ICC) prabhAvItevara tumachA kitI vishvAsa Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q86": {
+    "description": "AtmavishvAsa: uttara aTalAMTika karAra saMghaTanA (NATO)",
+    "questions": [
+      "uttara aTalAMTika karAra saMghaTanevara (NATO) tumachA kitI vishvAsa Ahe?",
+      "tumhAlA uttara aTalAMTika karAra saMghaTanevara (NATO) kitI vishvAsa Ahe?",
+      "uttara aTalAMTika karAra saMghaTanA (NATO) vara tumachA kitI vishvAsa Ahe?",
+      "tumachyA mate, uttara aTalAMTika karAra saMghaTanevara (NATO) tumachA kitI vishvAsa Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q87": {
+    "description": "AtmavishvAsa: jAgatika ba.Nka (WB)",
+    "questions": [
+      "jAgatika ba.Nkevara (WB) tumachA kitI vishvAsa Ahe?",
+      "jAgatika ba.Nkevara (WB) tumachA kitI vishvAsa Ahe?",
+      "jAgatika ba.NkevarIla tumachyA vishvAsAche mUlyAMkana tumhI kase karAla?",
+      "tumachA jAgatika ba.Nkevara (WB) uchcha pAtaLIchA vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q88": {
+    "description": "AtmavishvAsa: jAgatika Arogya saMghaTanA (WHO)",
+    "questions": [
+      "jAgatika Arogya saMghaTanevara (WHO) tumachA kitI vishvAsa Ahe?",
+      "jAgatika Arogya saMghaTanevara (WHO) tumachA kitI vishvAsa Ahe?",
+      "sarvasAdhAraNapaNe, jAgatika Arogya saMghaTanevara (WHO) tumachA kitI vishvAsa Ahe?",
+      "jAgatika Arogya saMghaTanechyA (WHO) vishvAsArhatevara tumachA kitI vishvAsa Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q89": {
+    "description": "AtmavishvAsa: jAgatika vyApAra saMghaTanA (WTO)",
+    "questions": [
+      "jAgatika vyApAra saMghaTanevara (WTO) tumachA kitI vishvAsa Ahe?",
+      "jAgatika vyApAra saMghaTanevara (WTO) tumachA kitI vishvAsa Ahe?",
+      "jAgatika vyApAra saMghaTanevara (WTO) tumachA kitI vishvAsa Ahe?",
+      "jAgatika vyApAra saMghaTanevara (WTO) tumachA kitI vishvAsa Ahe?"
+    ],
+    "options": [
+      "khUpa khUpa",
+      "khUpa jAsta",
+      "mAhita nAhI",
+      "phArase nAhI.",
+      "ajibAta nAhI"
+    ]
+  },
+  "Q90": {
+    "description": "AMtararAShTrIya saMghaTanA: prabhAvI asaNe viruddha lokashAhI asaNe",
+    "questions": [
+      "1 te 10 chyA pramANAta, AMtararAShTrIya saMghaTanA prabhAvI asaNyApekShA lokashAhI asaNyAche mahattva tumhI kase reTa karAla?",
+      "kRRipayA tumache mata 1 te 10 chyA pramANAta noMdavA, jyAmadhye 1 AMtararAShTrIya saMghaTanAMchyA prabhAvI asaNyAche mahattva darshavela ANi 10 lokashAhI asaNyAche mahattva darshavela.",
+      "AMtararAShTrIya saMghaTanAMchyA bAbatIta, lokashAhIpekShA (10) prabhAvIpaNAlA (1) prAdhAnya deNyAchyA spekTramamadhye tumache sthAna kuThe Ahe?",
+      "AMtararAShTrIya saMsthAMmadhye prabhAvIpaNA ANi lokashAhI yAMchyAtIla saMtulanAlA tumhI 1 te 10 chyA pramANAta kase reTa karAla?"
+    ],
+    "options": [
+      "prabhAvI asaNe",
+      "lokashAhIvAdI asaNe"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "vaiyaktika prayatnAMnA adhika protsAhana deNyAchyA tulaneta utpanna adhika samAna asale pAhije.",
+    "questions": [
+      "1 te 10 chyA pramANAta, 'utpanna adhika samAna kele pAhije' yA vidhAnAshI tumhI kitI sahamata AhAta?",
+      "'vaiyaktika prayatnAMnA adhika protsAhane asalI pAhijeta' yA kalpanelA tumachA pAThiMbA kitI Ahe te 1 te 10 chyA pramANAta reTa karA.",
+      "'utpanna adhika samAna asale pAhije' ase tumhAlA kitI pramANAta vATate? tumache mata 1 te 10 chyA pramANAta reTa karA.",
+      "'vaiyaktika prayatnAMnA adhika protsAhane asalI pAhijeta' yA kalpaneshI tumhI kitI sahamata AhAta? kRRipayA 1 te 10 chyA pramANAta reTa karA."
+    ],
+    "options": [
+      "utpanna adhika samAna kele pAhije",
+      "vaiyaktika prayatnAMnA adhika protsAhana dile pAhije."
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "vyavasAyAchI khAjagI viruddha rAjya mAlakI",
+    "questions": [
+      "1 te 10 chyA pramANAta, jithe “1” mhaNaje “vyavasAya ANi udyogAchI khAjagI mAlakI vADhavalI pAhije” ANi “10” mhaNaje “vyavasAya ANi udyogAchI sarakArI mAlakI vADhavalI pAhije”, kRRipayA tumachI pasaMtI darshavA.",
+      "vyavasAya ANi udyogAMchyA khAjagI viruddha rAjya mAlakIbaddalachyA tumachyA bhUmikeche mUlyAMkana 1 te 10 chyA pramANAta karA, jithe “1” hA vADhIva khAjagI mAlakIchI pasaMtI darshavito ANi “10” hA vADhIva sarakArI mAlakIchI pasaMtI darshavito.",
+      "1 te 10 chyA skelachA vApara karUna, jithe “1” vyavasAya ANi udyogAMchyA khAjagI mAlakIchI vADha karaNyAchI ichChA darshavate ANi “10” sarakArI mAlakIchI vADha karaNyAchI ichChA darshavate, kRRipayA tumache mata vyakta karA.",
+      "vyavasAya ANi udyogAchyA khAjagI viruddha rAjya mAlakIbAbata tumachI pasaMtI 1 te 10 chyA pramANAta darshavA. “1” mhaNaje vADhatyA khAjagI mAlakIsAThI prAdhAnya, tara “10” mhaNaje vADhatyA sarakArI mAlakIsAThI prAdhAnya."
+    ],
+    "options": [
+      "vyavasAya ANi udyogAMchI khAjagI mAlakI vADhavalI pAhije.",
+      "vyavasAya ANi udyogAMvara sarakArI mAlakI vADhavAvI."
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "sarakAra viruddha vyaktIchI jabAbadArI",
+    "questions": [
+      "sarvAMnA garajUMnA madata karaNyAsAThI sarakArane adhika jabAbadArI ghyAvI ase tumhAlA kitI pramANAta vATate?",
+      "sarvAMnA Avashyaka tI suvidhA miLAvI yAsAThI sarakArachI kitI jabAbadArI asAyalA havI ase tumhAlA vATate?",
+      "1 te 10 chyA pramANAta, jithe 1 mhaNaje sarakArane adhika jabAbadArI ghyAvI ANi 10 mhaNaje lokAMnI adhika jabAbadArI ghyAvI, tumache kAya mata Ahe?",
+      "jabAbadArIchyA bAbatIta, tumhI sarakAra ANi vyaktIMnA 1 te 10 chyA pramANAta kuThe sthAna dyAla?"
+    ],
+    "options": [
+      "sarvAMnA Avashyaka suvidhA miLatIla yAchI khAtrI karaNyAsAThI sarakArane adhika jabAbadArI ghetalI pAhije",
+      "lokAMnI svataHchI kALajI gheNyAchI adhika jabAbadArI ghetalI pAhije."
+    ],
+    "scale": true
+  },
+  "Q109": {
+    "description": "spardhA chAMgalI Ahe viruddha spardhA hAnikAraka Ahe",
+    "questions": [
+      "spardhA samAjAsAThI kitI phAyadeshIra Ahe ase tumhAlA vATate?",
+      "spardhA navonmeSha ANi pragatIlA kitI chAlanA dete ase tumhAlA vATate?",
+      "1 te 10 chyA pramANAta, jithe 1 mhaNaje spardhA bahuteka hAnikAraka Ahe ANi 10 mhaNaje tI bahuteka phAyadeshIra Ahe, tumache kAya mata Ahe?",
+      "spardhechyA bAbatIta, 1 te 10 chyA pramANAta tumhI samAjAvara hoNARyA pariNAmAMnA kuThe kramavArI lAvAla?"
+    ],
+    "options": [
+      "spardhA hI samAjAsAThI bahuteka phAyadeshIra asate.",
+      "spardhA hI samAjAsAThI bahuteka hAnikAraka asate."
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "yasha: kaThora parishrama viruddha nashIba",
+    "questions": [
+      "1-10 chyA pramANAta, 1 chA artha 'dIrghakALAta, kaThora parishrama sahasA chAMgale jIvana ANatAta' ANi 10 chA artha 'kaThora parishrama sahasA yasha miLavUna deta nAhI - te nashIba ANi saMbaMdhAMchI bAba Ahe', yasha miLaviNyAta nashibAchyA bhUmikebaddala tumache kAya mata Ahe?",
+      "1-10 chyA pramANAta yasha miLaviNyAsAThI kaThora parishrama kitI yogadAna detAta ase tumhAlA vATate, 1 chA artha 'dIrghakALAta, kaThora parishrama sahasA chAMgale jIvana ANate' ANi 10 chA artha 'kaThora parishrama sahasA yasha ANata nAhI - te nashIba ANi saMbaMdhAMchI bAba Ahe'?",
+      "nashIba ANi saMbaMdhAMchyA tulaneta yasha kitI pramANAta kaThora parishramAlA kAraNIbhUta Ahe ase tumhAlA vATate? kRRipayA 1-10 chyA pramANAta reTa karA, 1 mhaNaje 'dIrghakALAta, kaThora parishrama sahasA chAMgale jIvana ANate' ANi 10 mhaNaje 'kaThora parishrama sahasA yasha deta nAhI - te nashIba ANi saMbaMdhAMchA prashna Ahe'.",
+      "yashAvara nashIba ANi kaThora parishramAchyA prabhAvAvarIla tumachyA vishvAsAche mUlyAMkana 1-10 chyA pramANAta karA, 1 he 'dIrghakALAta, kaThora parishrama sahasA chAMgale jIvana ANate' ANi 10 he 'kaThora parishrama sahasA yasha ANata nAhI - te nashIba ANi saMbaMdhAMchI bAba Ahe' ase darshavitAta."
+    ],
+    "options": [
+      "dIrghakALAta, kaThora parishrama sahasA chAMgale jIvana ANatAta",
+      "kaThora parishramAne sahasA yasha miLata nAhI - te nashIba ANi saMbaMdhAMchI bAba asate."
+    ],
+    "scale": true
+  },
+  "Q111": {
+    "description": "paryAvaraNAche rakShaNa karaNyAlA prAdhAnya dile pAhije, jarI tyAmuLe Arthika vikAsa maMdAvalA ANi kAhI pramANAta nokaRyA gelyA tarI Arthika vikAsa ANi nokaRyA nirmANa karaNe he sarvochcha prAdhAnya asale pAhije, jarI paryAvaraNAche kAhI pramANAta nukasAna jhAle tarIhI.",
+    "questions": [
+      "paryAvaraNa saMrakShaNa ANi Arthika vikAsa yAMchyAtIla saMtulanAbaddala tumache kAya mata Ahe?",
+      "Arthika vikAsa kamI hota asalA ANi nokaRyA gelyA tarIhI, paryAvaraNAche rakShaNa karaNe he Arthika vikAsApekShA mahattvAche asale pAhije ase tumhAlA vATate kA?",
+      "tumachyA mate, paryAvaraNa saMrakShaNApekShA Arthika vADha ANi rojagAra nirmitIlA prAdhAnya dile pAhije kA, jarI tyAmuLe kAhI pramANAta paryAvaraNAchA RhAsa jhAlA tarI?",
+      "Arthika vADha ANi rojagAra nirmitIchyA tulaneta paryAvaraNa saMrakShaNAche mahattva tumhI kase mojatA?"
+    ],
+    "options": [
+      "paryAvaraNAche rakShaNa karaNyAlA prAdhAnya dile pAhije, jarI tyAmuLe Arthika vADha maMdAvalI ANi kAhI pramANAta nokaRyA gelyA tarIhI.",
+      "paryAvaraNAchA kAhI pramANAta trAsa hota asalA tarIhI, Arthika vADha ANi rojagAra nirmitI hI sarvochcha prAthamikatA asalI pAhije.",
+      "mAhita nAhI"
+    ]
+  },
+  "Q112": {
+    "description": "deshAtIla bhraShTAchArAbaddalachyA dhAraNA",
+    "questions": [
+      "1 te 10 chyA pramANAta, tumachyA deshAtIla bhraShTAchArAche pramANa tumhI kase mojAla?",
+      "kRRipayA 1 te 10 chyA pramANAta tumachyA deshAtIla bhraShTAchArAbaddalachI tumachI dhAraNA darshavA.",
+      "tumachyA deshAta bhraShTAchAra kitI pramANAta Ahe ase tumhAlA vATate? kRRipayA 1 te 10 chyA pramANAta reTa karA.",
+      "tumachyA deshAta bhraShTAchAra kitI pramANAta Ahe ase tumhAlA vATate? 1 te 10 paryaMtachA dara."
+    ],
+    "options": [
+      "mAjhyA deshAta bhraShTAchAra nAhI.",
+      "mAjhyA deshAta moThyA pramANAta bhraShTAchAra Ahe."
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "lAcha dilyAbaddala kiMvA ghetalyAbaddala jabAbadAra dharale jANyAchA dhokA",
+    "questions": [
+      "1 te 10 chyA pramANAta, lAcha dilyAbaddala kiMvA ghetalyAbaddala jabAbadAra dharaNyAta kitI dhokA Ahe ase tumhAlA vATate?",
+      "lAcha dilyAbaddala kiMvA ghetalyAbaddala jabAbadAra dharalyA jANARyA jokhamIchI pAtaLI kRRipayA 1 te 10 paryaMta reTa karA.",
+      "1 te 10 paryaMta, lAcha dilyAbaddala kiMvA ghetalyAbaddala jabAbadAra dharale jANyAchI shakyatA tumhAlA kitI vATate?",
+      "1 te 10 chyA pramANAta, lAcha dilyAbaddala kiMvA ghetalyAbaddala jabAbadAra dharale jANyAchA dhokA kitI jAsta Ahe ase tumhAlA vATate?"
+    ],
+    "options": [
+      "ajibAta dhokA nAhI.",
+      "khUpa jAsta dhokA"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "tumachyA deshAta sthalAMtara: kAryabalAta upayukta nokaRyA bharate",
+    "questions": [
+      "tumachyA deshAtIla sthalAMtarAbaddala tumache kAya mata Ahe? te karmachARyAMmadhye upayukta nokaRyA bharate kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe karmachARyAMmadhye upayukta nokaRyA bharaNyAsa hAtabhAra lAgato ase tumhAlA vATate kA?",
+      "tumachyA mate, tumachyA deshAtIla kAmagAra dalAta upayukta nokaRyA bharaNyAta imigreshanachI bhUmikA Ahe kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe karmachARyAMmadhye upayukta nokaRyA miLatAta ase tumhI mhaNAla kA?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "tumachyA deshAta sthalAMtara: sAMskRRitika vividhatA majabUta karate",
+    "questions": [
+      "tumachyA deshAtIla sthalAMtarAmuLe sAMskRRitika vividhatA vADhate ase tumhAlA vATate kA?",
+      "tumachyA mate, tumachyA deshAtIla sthalAMtarAmuLe sAMskRRitika vividhatA vADhate kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe sAMskRRitika vividhatA vADhate ase tumache mata Ahe kA?",
+      "tumachyA deshAta sthalAMtaritAMchyA upasthitImuLe sAMskRRitika vividhatA adhika majabUta hote ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "tumachyA deshAta sthalAMtara: gunhegArIche pramANa vADhate",
+    "questions": [
+      "tumachyA deshAtIla sthalAMtarAmuLe gunhegArIche pramANa vADhate kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe gunhegArIche pramANa vADhate kI nAhI he TharavaNe kaThINa Ahe kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe gunhegArIche pramANa vADhate yAvara tumhI asahamata AhAta kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe gunhegArIche pramANa vADhate kI nAhI yAbaddala tumhAlA khAtrI nAhI kA?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "tumachyA deshAta sthalAMtara: rAjakIya nirvAsitAMnA Ashraya dete",
+    "questions": [
+      "tumachyA deshAtIla sthalAMtarAbaddala tumache kAya mata Ahe? te rAjakIya nirvAsitAMnA Ashraya dete kA?",
+      "tumachyA deshAta, imigreshana dhoraNa rAjakIya nirvAsitAMnA Ashraya dete kA? kRRipayA tumachA dRRiShTikona sAMgA.",
+      "tumachyA deshAta rAjakIya nirvAsitAMnA tyAMchyA imigreshana praNAlIdvAre Ashraya dilA jAto kA? kRRipayA tumachA pratisAda nivaDA.",
+      "tumachyA deshAtIla sthalAMtarAmuLe rAjakIya nirvAsitAMnA Ashraya miLato yA vidhAnAshI tumhI sahamata AhAta kI asahamata?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "tumachyA deshAta sthalAMtara: dahashatavAdAchA dhokA vADhato",
+    "questions": [
+      "tumachyA deshAta sthalAMtarAmuLe dahashatavAdAchA dhokA vADhato yAvara tumhI sahamata AhAta kA?",
+      "tumachyA mate, tumachyA deshAta sthalAMtarAmuLe dahashatavAdAchA dhokA vADhato kA he sAMgaNe kaThINa Ahe kA?",
+      "tumachyA deshAta sthalAMtarAmuLe dahashatavAdAchA dhokA vADhato yAvara tumhI asahamata AhAta kA?",
+      "tumachyA deshAta sthalAMtarAmuLe dahashatavAdAchA dhokA vADhato kI nAhI he TharavaNe tumachyAsAThI kaThINa Ahe kA?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "tumachyA deshAta sthalAMtara: garIba lokAMnA navIna jIvana sthApita karaNyAsa madata karate",
+    "questions": [
+      "tumachyA deshAtIla sthalAMtarAmuLe garIba lokAMnA navIna jIvana jagaNyAsa madata hote ase tumhAlA vATate kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe garIba vyaktIMnA navIna jIvana jagaNyAsa madata hote ase tumhAlA vATate kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe garIba lokAMnA navIna jIvana jagaNyAsa madata hote ase tumache mata Ahe kA?",
+      "tumachyA deshAtIla sthalAMtarAmuLe garIba vyaktIMnA navIna suruvAta karaNyAsa madata hote yAvara tumhI sahamata AhAta kA?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "tumachyA deshAta sthalAMtara: berojagArI vADhate",
+    "questions": [
+      "tumachyA deshAtIla sthalAMtarAmuLe berojagArI vADhate: yA vidhAnAbaddala tumache kAya mata Ahe?",
+      "tumachyA deshAta sthalAMtarAmuLe berojagArI vADhate: yA vidhAnAshI tumhI sahamata AhAta kI asahamata?",
+      "tumachyA deshAta sthalAMtarAmuLe berojagArI vADhate kA he sAMgaNe kaThINa Ahe kA?",
+      "tumachyA deshAta sthalAMtarAmuLe berojagArI vADhate yAvara tumhI asahamata kiMvA sahamata AhAta kA?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "tumachyA deshAta sthalAMtara: sAmAjika saMgharShAlA kAraNIbhUta Tharate",
+    "questions": [
+      "tumachyA deshAta sthalAMtarAmuLe sAmAjika saMgharSha nirmANa hoto ase tumhAlA vATate kA?",
+      "tumachyA mate, tumachyA deshAtIla sthalAMtarAmuLe sAmAjika saMgharSha hoto kA?",
+      "tumachyA deshAta sthalAMtarAmuLe sAmAjika saMgharSha nirmANa hoto ase tumache mata Ahe kA?",
+      "tumachyA deshAta sthalAMtarAmuLe sAmAjika saMgharSha nirmANa hoto yAvara tumhI sahamata AhAta kA?"
+    ],
+    "options": [
+      "sahamata",
+      "sAMgaNe kaThINa",
+      "asahamata"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "chiMtA: nokarI jANe kiMvA nokarI na miLaNe",
+    "questions": [
+      "tumachI nokarI gelyAbaddala kiMvA nokarI na miLAlyAbaddala tumhAlA kitI kALajI vATate? (khUpa jAsta, chAMgalA saudA, jAsta nAhI, ajibAta nAhI)",
+      "nokarI gamAvaNyAchI kiMvA nokarI na miLaNyAchI bhItI tumhAlA kitI pramANAta satAvate? (khUpa jAsta, chAMgalA vyavahAra, jAsta nAhI, ajibAta nAhI)",
+      "tumhAlA tumachI nokarI jANyAchI kiMvA nokarI na miLaNyAchI khUpa kALajI vATate kA? (khUpa jAsta, chAMgalA saudA, jAsta nAhI, ajibAta nAhI)",
+      "khUpa jAsta te ajibAta nAhI yA pramANAta, tumhAlA tumachI nokarI gamAvaNyAchI kiMvA nokarI na miLaNyAchI kitI chiMtA vATate?"
+    ],
+    "options": [
+      "khUpa jAsta",
+      "chAMgalA saudA",
+      "jAsta nAhI",
+      "ajibAta nAhI"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "chiMtA: mulAMnA chAMgale shikShaNa deU na shakaNe",
+    "questions": [
+      "tumachyA mulAMnA chAMgale shikShaNa deU na shakalyAne tumhAlA kitI kALajI vATate?",
+      "tumachyA mulAMnA chAMgale shikShaNa deU shakata nasalyAbaddala tumhAlA kitI kALajI vATate?",
+      "tumachyA mulAMnA chAMgale shikShaNa deNyAchyA kShamatebaddala tumhAlA kitI kALajI vATate?",
+      "tumachyA mulAMnA chAMgale shikShaNa deU shakata nasalyAbaddala tumhAlA kitI kALajI vATate?"
+    ],
+    "options": [
+      "khUpa jAsta",
+      "chAMgalA saudA",
+      "jAsta nAhI",
+      "ajibAta nAhI"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "prativAdI gelyA varShabharAta gunhyAchA baLI hotA.",
+    "questions": [
+      "gelyA varShI tumhI ekhAdyA gunhyAchA baLI paDalA AhAta kA?",
+      "gelyA varShAta tumhAlA kAhI gunhegArI ghaTanA ghaDalyA kA?",
+      "gelyA varShabharAta, tumhI koNatyAhI gunhyAche baLI paDalA AhAta kA?",
+      "gelyA varShAta, tumhAlA koNatyAhI gunhegArI kAravAyAMchA sAmanA karAvA lAgalA kA?"
+    ],
+    "options": [
+      "hoya",
+      "nAhI"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "gelyA varShI prativAdIche kuTuMba ekA gunhyAchA baLI Tharale hote.",
+    "questions": [
+      "gelyA varShI tumache kuTuMba ekhAdyA gunhyAche baLI Tharale hote kA?",
+      "gelyA varShabharAta tumachyA kuTuMbAlA koNatyAhI gunhegArIchyA ghaTanA ghaDalyA kA?",
+      "gelyA varShabharAta, tumachyA kuTuMbAlA koNatyAhI gunhegArI kRRityAche lakShya kele gele hote kA?",
+      "gelyA varShAta, tumachyA kuTuMbAvara koNatyAhI gunhegArI gunhyAMchA pariNAma jhAlA kA?"
+    ],
+    "options": [
+      "hoya",
+      "nAhI"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "svAtaMtrya ANi samAnatA - koNate jAsta mahattvAche Ahe?",
+    "questions": [
+      "tumachyA mate, svAtaMtrya jAsta mahattvAche kI samAnatA?",
+      "tumhAlA kAya jAsta mahattvAche vATate: svAtaMtrya kI samAnatA?",
+      "mahattvAche mUlyAMkana karatAnA, koNate jAsta mUlyavAna Ahe: svAtaMtrya kI samAnatA?",
+      "svAtaMtrya ANi samAnatA yA doghAMpaikI koNate adhika mahattvAche Ahe ase tumhAlA vATate?"
+    ],
+    "options": [
+      "svAtaMtrya",
+      "samAnatA"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "svAtaMtrya ANi surakShA - koNate jAsta mahattvAche Ahe?",
+    "questions": [
+      "koNate jAsta mahatvAche Ahe - svAtaMtrya kI surakShA?",
+      "jevhA mahattvAchA vichAra kelA jAto tevhA tumachyAsAThI koNate sthAna jAsta Ahe - svAtaMtrya kI surakShitatA?",
+      "svAtaMtrya ANi surakShitatA yAMchyAta, tumachyAsAThI koNate adhika mahattvAche Ahe?",
+      "tumhAlA koNate jAsta mahattvAche vATate: svAtaMtrya kI surakShitatA?"
+    ],
+    "options": [
+      "svAtaMtrya",
+      "surakShA"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "deshAsAThI laDhaNyAchI tayArI",
+    "questions": [
+      "tumhI tumachyA deshAsAThI laDhaNyAsa tayAra AhAta kA?",
+      "tumhI tumachyA deshAsAThI laDhaNyAsa tayAra AhAta kA?",
+      "tumachyA deshAsAThI laDhaNyAchI tayArI Ahe kA?",
+      "saMgharSha jhAlyAsa, tumhI tumachyA deshAsAThI laDhAla kA?"
+    ],
+    "options": [
+      "hoya",
+      "nAhI"
+    ],
+    "scale": false
+  },
+  "Q152": {
+    "description": "tumhI svataH yApaikI koNatA sarvAta mahatvAchA mAnatA te sAMgAla kA?",
+    "questions": [
+      "yApaikI koNate dhyeya tumhAlA sarvAta mahatvAche vATate te sAMgAla kA?",
+      "khAlIla paryAyAMpaikI, tumhAlA vaiyaktikarityA koNatA sarvAta mahatvAchA vATato?",
+      "khAlIla yAdItUna, tumachyAsAThI koNate dhyeya sarvAta mahatvAche Ahe ase tumhAlA vATate?",
+      "dilelyA paryAyAMmadhUna tumhAlA sarvAta mahatvAche vATaNAre dhyeya nivaDA."
+    ],
+    "options": [
+      "uchcha pAtaLIchI Arthika vADha",
+      "yA deshAkaDe majabUta saMrakShaNa dala asalyAchI khAtrI karaNe",
+      "lokAMnA tyAMchyA kAmAchyA ThikANI ANi tyAMchyA samudAyAMmadhye goShTI kashA kelyA jAtAta yAbaddala adhika bolaNyAchI kShamatA Ahe he pAhaNe",
+      "ApalI shahare ANi grAmINa bhAga adhika suMdara banavaNyAchA prayatna karata Ahota",
+      "mAhita nAhI"
+    ]
+  },
+  "Q153": {
+    "description": "ANi puDhache sarvAta mahatvAche koNate asela?",
+    "questions": [
+      "yApaikI koNate dhyeya tumhAlA dusare sarvAta mahattvAche vATate te sAMgAla kA?",
+      "khAlIla paryAyAMpaikI, tumhAlA vaiyaktikarityA koNatA dusarA sarvAta mahatvAchA vATato?",
+      "khAlIla yAdItUna, koNate dhyeya tumachyAsAThI vaiyaktikarityA dusare sarvAta mahatvAche Ahe ase tumhAlA vATate?",
+      "dilelyA paryAyAMmadhUna tumhAlA dusare sarvAta mahatvAche vATaNAre dhyeya nivaDA."
+    ],
+    "options": [
+      "uchcha pAtaLIchI Arthika vADha",
+      "yA deshAkaDe majabUta saMrakShaNa dala asalyAchI khAtrI karaNe",
+      "lokAMnA tyAMchyA kAmAchyA ThikANI ANi tyAMchyA samudAyAMmadhye goShTI kashA kelyA jAtAta yAbaddala adhika bolaNyAchI kShamatA Ahe he pAhaNe",
+      "ApalI shahare ANi grAmINa bhAga adhika suMdara banavaNyAchA prayatna karata Ahota",
+      "mAhita nAhI"
+    ]
+  },
+  "Q154": {
+    "description": "tumhI svataH yApaikI koNatA sarvAta mahatvAchA mAnatA te sAMgAla kA?",
+    "questions": [
+      "yApaikI koNate dhyeya tumhAlA sarvAta mahatvAche vATate te sAMgAla kA?",
+      "khAlIla paryAyAMpaikI, tumhAlA vaiyaktikarityA koNatA sarvAta mahatvAchA vATato?",
+      "khAlIla yAdItUna, tumachyAsAThI koNate dhyeya sarvAta mahatvAche Ahe ase tumhAlA vATate?",
+      "dilelyA paryAyAMmadhUna tumhAlA sarvAta mahatvAche vATaNAre dhyeya nivaDA."
+    ],
+    "options": [
+      "deshAta suvyavasthA rAkhaNe",
+      "mahattvAchyA sarakArI nirNayAMmadhye lokAMnA adhika mata deNe",
+      "vADhatyA kimatIMviruddha laDhA",
+      "bhAShaNa svAtaMtryAche rakShaNa karaNe"
+    ]
+  },
+  "Q155": {
+    "description": "ANi puDhache sarvAta mahatvAche koNate asela?",
+    "questions": [
+      "yApaikI koNate dhyeya tumhAlA dusare sarvAta mahattvAche vATate te sAMgAla kA?",
+      "khAlIla paryAyAMpaikI, tumhAlA vaiyaktikarityA koNatA dusarA sarvAta mahatvAchA vATato?",
+      "khAlIla yAdItUna, tumachyAsAThI koNate dhyeya vaiyaktikarityA dusare sarvAta mahatvAche Ahe ase tumhAlA vATate?",
+      "dilelyA paryAyAMmadhUna tumhAlA dusare sarvAta mahatvAche vATaNAre dhyeya nivaDA."
+    ],
+    "options": [
+      "deshAta suvyavasthA rAkhaNe",
+      "mahattvAchyA sarakArI nirNayAMmadhye lokAMnA adhika mata deNe",
+      "vADhatyA kimatIMviruddha laDhA",
+      "bhAShaNa svAtaMtryAche rakShaNa karaNe"
+    ]
+  },
+  "Q156": {
+    "description": "tumhI svataH yApaikI koNatA sarvAta mahatvAchA mAnatA te sAMgAla kA?",
+    "questions": [
+      "yApaikI koNate dhyeya tumhAlA sarvAta mahatvAche vATate te sAMgAla kA?",
+      "khAlIla paryAyAMpaikI, tumhAlA vaiyaktikarityA koNatA sarvAta mahatvAchA vATato?",
+      "khAlIla yAdItUna, tumachyAsAThI koNate dhyeya sarvAta mahatvAche Ahe ase tumhAlA vATate?",
+      "dilelyA paryAyAMmadhUna tumhAlA sarvAta mahatvAche vATaNAre dhyeya nivaDA."
+    ],
+    "options": [
+      "sthira arthavyavasthA",
+      "kamI avaiyaktika ANi adhika mAnavIya samAjAkaDe pragatI",
+      "jyA samAjAta paishApekShA vichArAMnA jAsta mahattva asate, tyAkaDe vATachAla",
+      "gunhyAMviruddhachA laDhA",
+      "mAhita nAhI"
+    ]
+  },
+  "Q157": {
+    "description": "ANi puDhache sarvAta mahatvAche koNate asela?",
+    "questions": [
+      "yApaikI koNate dhyeya tumhAlA dusare sarvAta mahattvAche vATate te sAMgAla kA?",
+      "khAlIla paryAyAMpaikI, tumhAlA vaiyaktikarityA koNatA dusarA sarvAta mahatvAchA vATato?",
+      "khAlIla yAdItUna, tumachyAsAThI koNate dhyeya vaiyaktikarityA dusare sarvAta mahatvAche Ahe ase tumhAlA vATate?",
+      "dilelyA paryAyAMmadhUna tumhAlA dusare sarvAta mahatvAche vATaNAre dhyeya nivaDA."
+    ],
+    "options": [
+      "sthira arthavyavasthA",
+      "kamI avaiyaktika ANi adhika mAnavIya samAjAkaDe pragatI",
+      "jyA samAjAta paishApekShA vichArAMnA jAsta mahattva asate, tyAkaDe vATachAla",
+      "gunhyAMviruddhachI laDhAI"
+    ]
+  },
+  "Q158": {
+    "description": "vij~nAna ANi taMtraj~nAna Apale jIvana adhika nirogI, sope ANi ArAmadAyI banavata Ahe.",
+    "questions": [
+      "1 te 10 chyA pramANAta, vij~nAna ANi taMtraj~nAna Apale jIvana nirogI, sope ANi adhika ArAmadAyI banavata Ahe yAvara tumhI kitI sahamata AhAta?",
+      "vij~nAna ANi taMtraj~nAna Apale jIvana nirogI, sope ANi adhika ArAmadAyI banavUna sudhArata Ahe: yA vidhAnAvara tumache mata 1 te 10 paryaMta dyA.",
+      "vij~nAna ANi taMtraj~nAna nirogI, sope ANi adhika ArAmadAyI jIvana jagaNyAsa madata karate yAvara tumhI kitI sahamata AhAta? kRRipayA 1 te 10 paryaMta reTiMga dyA.",
+      "1 te 10 chyA pramANAta, vij~nAna ANi taMtraj~nAna Apale jIvana nirogI, sope ANi adhika ArAmadAyI banavata Aheta yA kalpaneshI tumachA kitI sahamatI Ahe te kRRipayA darshavA."
+    ],
+    "options": [
+      "pUrNapaNe asahamata",
+      "pUrNapaNe sahamata."
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "vij~nAna ANi taMtraj~nAnAmuLe, puDhachyA piDhIsAThI adhika saMdhI upalabdha hotIla.",
+    "questions": [
+      "1-10 chyA pramANAta, vij~nAna ANi taMtraj~nAnAmuLe puDhachyA piDhIsAThI adhika saMdhI upalabdha hotIla yAvara tumhI kitI pramANAta sahamata AhAta?",
+      "vij~nAna ANi taMtraj~nAna puDhIla piDhIsAThI adhika saMdhI nirmANa karela yAbaddala tumachyA sahamatIchI pAtaLI kRRipayA 1-10 chyA pramANAta reTa karA.",
+      "vij~nAna ANi taMtraj~nAnAmuLe puDhachyA piDhIsAThI saMdhI vADhatIla ase tumhAlA kitI pramANAta vATate? kRRipayA 1-10 chyA pramANAta reTa karA.",
+      "vij~nAna ANi taMtraj~nAna puDhIla piDhIsAThI adhika saMdhI pradAna karela yAvara tumhI kitI sahamata kiMvA asahamata AhAta? kRRipayA 1 te 10 paryaMta reTiMga dyA."
+    ],
+    "options": [
+      "pUrNapaNe asahamata",
+      "pUrNapaNe sahamata."
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "ApaNa vij~nAnAvara khUpa avalaMbUna Ahota ANi shraddhevara purese nAhI.",
+    "questions": [
+      "1-10 chyA pramANAta, 'ApaNa vij~nAnAvara khUpa avalaMbUna Ahota ANi shraddhevara purese nAhI' yA vidhAnAshI tumhI kitI sahamata AhAta?",
+      "'ApaNa vij~nAnAvara jAsta avalaMbUna Ahota ANi shraddhelA purese mahattva deta nAhI' yA vidhAnAshI tumachI sahamatI kitI Ahe te 1 te 10 chyA pramANAta mojA.",
+      "'ApaNa vij~nAnAvara jAsta vishvAsa Thevato ANi shraddhekaDe durlakSha karato' yA vidhAnAshI tumhI kitI pramANAta sahamata kiMvA asahamata AhAta? tumachyA pratisAdAlA 1 te 10 chyA pramANAta reTa karA.",
+      "1-10 chyA pramANAta, 'ApaNa vij~nAnAvara jAsta avalaMbUna rAhato ANi shraddhekaDe durlakSha karato' yA vidhAnAshI tumachA kitI sahamatI Ahe te darshavA."
+    ],
+    "options": [
+      "pUrNapaNe asahamata",
+      "pUrNapaNe sahamata."
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "vij~nAnAchA eka vAITa pariNAma mhaNaje te lokAMchyA barobara ANi chUka yA kalpanAMnA toDUna TAkate.",
+    "questions": [
+      "vij~nAnAchA eka vAITa pariNAma mhaNaje te lokAMchyA barobara ANi chUka yA kalpanAMnA toDUna TAkate. tumhI yA vidhAnAshI kitI pramANAta asahamata kiMvA sahamata AhAta? (1 = pUrNapaNe asahamata, 10 = pUrNapaNe sahamata)",
+      "1 te 10 chyA pramANAta, vij~nAna lokAMchyA yogya ANi ayogya kalpanAMche vighaTana karate yA kalpaneshI tumhI kitI sahamata kiMvA asahamata AhAta?",
+      "vij~nAnAchA lokAMchyA barobara ANi chUka yA kalpanAMvara nakArAtmaka prabhAva paDato: yA vidhAnAshI tumachI sahamatI kiMvA asahamatIchI pAtaLI kRRipayA reTa karA. (1 = pUrNapaNe asahamata, 10 = pUrNapaNe sahamata)",
+      "vij~nAna lokAMchyA barobara ANi chUka yA saMkalpanAMnA kitI pramANAta kamakuvata karate ase tumhAlA vATate? kRRipayA 1 te 10 paryaMta reTiMga dyA, 1 'pUrNapaNe asahamata' ANi 10 'pUrNapaNe sahamata' ase darshavA."
+    ],
+    "options": [
+      "pUrNapaNe asahamata",
+      "pUrNapaNe sahamata."
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "mAjhyA dainaMdina jIvanAta vij~nAnAbaddala jANUna gheNe mAjhyAsAThI mahattvAche nAhI.",
+    "questions": [
+      "1 te 10 chyA pramANAta, 'mAjhyA dainaMdina jIvanAta vij~nAnAbaddala jANUna gheNe mAjhyAsAThI mahattvAche nAhI' yA vidhAnAshI tumhI kitI sahamata kiMvA asahamata AhAta?",
+      "'mAjhyA dainaMdina jIvanAta vij~nAnAbaddala jANUna gheNe mAjhyAsAThI mahattvAche nAhI' yA vidhAnAshI tumachI sahamatI kiMvA asahamatIchI pAtaLI kRRipayA 1 te 10 chyA pramANAta reTa karA.",
+      "'mAjhyA dainaMdina jIvanAta vij~nAnAbaddala jANUna gheNe mAjhyAsAThI mahattvAche nAhI' yA vidhAnAshI tumhI kitI sahamata kiMvA asahamata AhAta? 1 te 10 chA skela vAparA.",
+      "'mAjhyA dainaMdina jIvanAta vij~nAnAbaddala jANUna gheNe mAjhyAsAThI mahattvAche nAhI' yA vidhAnAvara tumache mata 1 te 10 chyA pramANAta reTiMga deUna vyakta karA."
+    ],
+    "options": [
+      "pUrNapaNe asahamata",
+      "pUrNapaNe sahamata."
+    ],
+    "scale": true
+  },
+  "Q163": {
+    "description": "vij~nAna ANi taMtraj~nAnAmuLe jagAchI sthitI chAMgalI Ahe kI vAITa Ahe ase tumhI mhaNAla?",
+    "questions": [
+      "1 te 10 chyA pramANAta, vij~nAna ANi taMtraj~nAnAne jagAta kitI sudhAraNA kelyA Aheta ase tumhAlA vATate?",
+      "vij~nAna ANi taMtraj~nAnAchA samAjAvara kitI sakArAtmaka pariNAma jhAlA Ahe ase tumhAlA vATate?",
+      "vij~nAna ANi taMtraj~nAnAchA jagAvara hoNArA ekUNa pariNAma tumhI kasA reTa karAla?",
+      "tumachyA mate, vij~nAna ANi taMtraj~nAnAmuLe jaga chAMgale Ahe kA?"
+    ],
+    "options": [
+      "khUpacha vAITa paristhitI",
+      "khUpa chAMgale"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "devAche mahattva",
+    "questions": [
+      "1 te 10 chyA pramANAta, deva tumachyAsAThI kitI mahattvAchA Ahe?",
+      "tumachyA jIvanAta tumhI devAlA kitI mahattva detA? kRRipayA 1 te 10 chyA pramANAta vAparA.",
+      "tumachyA dainaMdina kAmAMmadhye devAlA tumhI kitI mahattvAche mAnatA? kRRipayA 1 te 10 chyA pramANAta reTiMga dyA.",
+      "tumachyA shraddhA praNAlImadhye tumhI devAlA kitI mahattva detA te kRRipayA sAMgA. 1 te 10 chyA pramANAta reTa karA."
+    ],
+    "options": [
+      "ajibAta mahatvAche nAhI.",
+      "khUpa mahatvAche"
+    ],
+    "scale": true
+  },
+  "Q165": {
+    "description": "devAvara vishvAsa",
+    "questions": [
+      "tumhI devAvara vishvAsa ThevatA kA?",
+      "tumhI devAchyA astitvAvara vishvAsa ThevatA ase mhaNAla kA?",
+      "deva astitvAta Ahe ase tumhAlA vaiyaktikarityA vATate kA?",
+      "tumhI devAvara vishvAsa ThevatA kI nAhI te kRRipayA sAMgA."
+    ],
+    "options": [
+      "hoya",
+      "nAhI"
+    ],
+    "scale": false
+  },
+  "Q166": {
+    "description": "mRRityUnaMtarachyA jIvanAvara vishvAsa ThevA",
+    "questions": [
+      "tumachA mRRityUnaMtarachyA jIvanAvara vishvAsa Ahe kA?",
+      "mRRityUnaMtara jIvana Ahe kA?",
+      "tumhAlA vATate kA mRRityUnaMtara astitva Ahe?",
+      "mRRityUnaMtara jIvana Ahe asA tumachA vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "hoya",
+      "nAhI"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "narakAvara vishvAsa ThevA",
+    "questions": [
+      "tumachA narakAvara vishvAsa Ahe kA?",
+      "tumachA narakAvarachA vishvAsa dRRiDha Ahe kA?",
+      "tumachA narakAvara vishvAsa Ahe ase tumhI mhaNAla kA?",
+      "narakAchI saMkalpanA tumhAlA vATate kA?"
+    ],
+    "options": [
+      "hoya",
+      "nAhI"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "svargAvara vishvAsa ThevA",
+    "questions": [
+      "tumhI svargAvara vishvAsa ThevatA kA?",
+      "tumhI svargAvara vishvAsa ThevaNAre AhAta kA?",
+      "tumhAlA vATataM svarga astitvAta Ahe kA?",
+      "svargAchI saMkalpanA tumhAlA vATate kA?"
+    ],
+    "options": [
+      "hoya",
+      "nAhI"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "jevhA jevhA vij~nAna ANi dharma saMgharSha karatAta tevhA dharma nehamIcha barobara asato.",
+    "questions": [
+      "jevhA jevhA vij~nAna ANi dharma saMgharSha karatAta tevhA dharma nehamIcha barobara asato ase tumhAlA vATate kA?",
+      "tumachyA mate, vij~nAna ANi dharma yAMchyAta saMgharSha asatAnA dharma nehamIcha barobara asato kA?",
+      "jevhA dharma vij~nAnAchyA virodhAta asato tevhA to nehamIcha barobara asato yAvara tumhI sahamata AhAta kA?",
+      "tumhAlA ase vATate kA kI dharma sarva paristhitIta barobara Ahe jithe to vij~nAnAchyA virodhAta Ahe?"
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ],
+    "scale": false
+  },
+  "Q170": {
+    "description": "dhArmika ananyatebaddalachA dRRiShTikona",
+    "questions": [
+      "'mAjhA dharma hAcha ekameva svIkArya dharma Ahe' yA vidhAnAshI tumhI sahamata AhAta kI asahamata?",
+      "phakta tumachA dharmacha svIkArya Ahe yAvara tumhI pUrNapaNe sahamata AhAta, sahamata AhAta, asahamata AhAta kiMvA pUrNapaNe asahamata AhAta ase tumhI mhaNAla kA?",
+      "tumachA dharma hAcha ekameva svIkArArha dharma Ahe yA shraddheshI tumhI kitI pramANAta sahamata kiMvA asahamata AhAta?",
+      "phakta tumachA dharmacha svIkArya Ahe yA vidhAnAshI tumhI kitI sahamata AhAta te kRRipayA sAMgA."
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "sahamata",
+      "asahamata",
+      "pUrNapaNe asahamata"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "tumhI kitI veLA dhArmika kAryakramAMnA upasthita rAhatA?",
+    "questions": [
+      "tumhI dhArmika kAryakramAMnA kitI veLA upasthita rAhatA?",
+      "tumhI dhArmika kAryakramAMnA kitI veLA jAtA?",
+      "tumhI dhArmika kAryakramAMmadhye kitI veLA sahabhAgI hotA?",
+      "tumhI dhArmika kAryakramAMnA kitI veLA bheTa detA?"
+    ],
+    "options": [
+      "AThavaDyAtUna ekApekShA jAsta veLA",
+      "AThavaDyAtUna ekadA",
+      "mahinyAtUna ekadA",
+      "phakta khAsa pavitra divashI",
+      "varShAtUna ekadA",
+      "kamI veLA",
+      "kadhIcha nAhI, javaLajavaLa kadhIcha nAhI"
+    ],
+    "scale": false
+  },
+  "Q172": {
+    "description": "prArthanechI vAraMvAratA",
+    "questions": [
+      "lagna ANi aMtyasaMskArAMvyatirikta, tumhI kitI veLA prArthanA karatA?",
+      "tumhI kitI veLA prArthanA kiMvA dhArmika bhaktI karatA?",
+      "tumhI tumachyA dainaMdina jIvanAta kitI veLA prArthanA karatA te kRRipayA sAMgA.",
+      "dhArmika sevA ANi samAraMbha vagaLatA tumhI kitI veLA vaiyaktikarityA prArthanA karatA?"
+    ],
+    "options": [
+      "divasAtUna aneka veLA",
+      "divasAtUna ekadA",
+      "AThavaDyAtUna aneka veLA",
+      "phakta dhArmika kAryakramAMnA upasthita rAhilyAvara",
+      "phakta khAsa pavitra divashI",
+      "varShAtUna ekadA",
+      "kamI veLA",
+      "kadhIcha nAhI, javaLajavaLa kadhIcha nAhI"
+    ],
+    "scale": false
+  },
+  "Q173": {
+    "description": "dhArmikatechI svataHchI oLakha",
+    "questions": [
+      "tumhI dhArmika kAryakramAMnA upasthita rAhatA kI nAhI yAchI parvA na karatA, tumhI dhArmika vyaktI AhAta, dhArmika vyaktI nAhI kiMvA nAstika AhAta ase mhaNAla kA?",
+      "vaiyaktika dhArmikatechyA bAbatIta tumhI svataHche varNana kase karAla?",
+      "tumhI svataHlA dhArmika, adhArmika kiMvA nAstika mAnatA kA?",
+      "tumachyA dhArmikateche stara tumhI kase vargIkRRita karAla?"
+    ],
+    "options": [
+      "dhArmika vyaktI.",
+      "dhArmika vyaktI nAhI.",
+      "nAstika"
+    ],
+    "scale": false
+  },
+  "Q174": {
+    "description": "dharmAchA artha: naitika viruddha aupachArika lakSha",
+    "questions": [
+      "khAlIlapaikI koNatyA vidhAnAshI tumhI sarvAta jAsta sahamata AhAta? dharmAchA mULa artha asA Ahe:",
+      "tumachyAsAThI dharmAche kAya mahattva Ahe he khAlIlapaikI koNate sarvAta chAMgale darshavate?",
+      "tumachyA mate, dharmAchA mukhya uddesha kiMvA sAra kAya Ahe?",
+      "dharmAbaddala tumachA dRRiShTikona koNatA vidhAna sarvAta chAMgalA Ahe te kRRipayA sUchita karA."
+    ],
+    "options": [
+      "dhArmika niyama ANi vidhIMche pAlana karaNe",
+      "itara lokAMche bhale karaNe"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "dharmAchA artha: mRRityUnaMtarachyA jIvanAchA artha lAvaNe viruddha yA jagAtalyA jIvanAchA artha lAvaNe",
+    "questions": [
+      "dharmAchA uddesha kAya Ahe? (eka nivaDA)",
+      "dharmAbaddalachyA tumachyA dRRiShTikonAshI koNate vidhAna adhika juLate? (eka nivaDA)",
+      "tumachyA mate, dharmAche prAthamika kArya mRRityunaMtarache jIvana samajUna gheNe Ahe kI yA jagAtIla jIvana samajUna gheNe Ahe? (eka nivaDA)",
+      "dharmAchA vichAra karatAnA, jIvanAtIla koNatyA pailUche spaShTIkaraNa te prAmukhyAne deNyAchA prayatna karate ase tumhAlA vATate? (eka nivaDA)"
+    ],
+    "options": [
+      "mRRityUnaMtarachyA jIvanAchA artha lAvaNyAsAThI",
+      "yA jagAta jIvanAchA artha lAvaNyAsAThI"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "sahamatIchI DigrI: AjakAla koNate naitika niyama pALAyache he TharavaNyAta anekadA aDachaNa yete.",
+    "questions": [
+      "1 te 10 chyA pramANAta, tumhI yA vidhAnAshI kitI sahamata AhAta: AjakAla koNate naitika niyama pALaNe yogya Ahe he TharavaNyAta anekadA aDachaNa yete? (1 = pUrNapaNe sahamata, 10 = pUrNapaNe asahamata)",
+      "kRRipayA yA vidhAnAshI tumachA sahamatI Ahe kA te reTa karA: AjakAla 1 te 10 chyA pramANAta koNate naitika niyama pALaNe yogya Ahe he TharavaNyAta anekadA aDachaNa yete. (1 = pUrNapaNe sahamata, 10 = pUrNapaNe asahamata)",
+      "yA vidhAnAshI tumachA kitI sahamatI Ahe te darshavA: AjakAla 1 te 10 chyA pramANAta koNate naitika niyama pALaNe yogya Ahe he TharavaNyAta anekadA aDachaNa yete. (1 = pUrNapaNe sahamata, 10 = pUrNapaNe asahamata)",
+      "khAlIla vidhAnAshI tumhI kitI sahamata AhAta? AjakAla koNate naitika niyama pALaNe yogya Ahe he TharavaNyAta anekadA aDachaNa yete. kRRipayA 1 te 10 chyA pramANAta reTa karA, jithe 1 mhaNaje tumhI pUrNapaNe sahamata AhAta ANi 10 mhaNaje tumhI pUrNapaNe asahamata AhAta."
+    ],
+    "options": [
+      "pUrNapaNe sahamata.",
+      "pUrNapaNe asahamata"
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "nyAyya: jyA sarakArI phAyadyAMsAThI tumhI pAtra nAhI AhAta tyAMchA dAvA karaNe",
+    "questions": [
+      "koNatyA paristhitIta, jara kAhI asela tara, tumhAlA ase vATate kI jyA sarakArI phAyadyAMchA tumhI hakkadAra nAhI, tyAMchA dAvA karaNe nyAyya Ahe?",
+      "koNatyA paristhitIta, jara kAhI asela tara, tumhAlA ase vATate kI jyA sarakArI phAyadyAMchA tumhI hakkadAra nAhI, tyAMchA dAvA karaNe nyAyya Ahe?",
+      "kAhI vishiShTa paristhitIta tumhAlA jyA sarakArI phAyadyAMchA adhikAra nAhI ashA phAyadyAMchA dAvA karaNe tumhAlA nyAyya vATate kA? jara asela tara kevhA?",
+      "tumachyA mate, ase kAhI paristhitI Aheta kA jithe tumhI jyA sarakArI phAyadyAMsAThI pAtra nAhI AhAta tyAMchA dAvA karaNe nyAyya Ahe?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q178": {
+    "description": "nyAyya: sArvajanika vAhatukIta bhADe TALaNe",
+    "questions": [
+      "sArvajanika vAhatukIta bhADe TALaNe yogya Ahe ase tumhAlA kitI veLA vATate?",
+      "sArvajanika vAhatukIta bhADe deNe TALaNe tumhAlA kitapata mAnya Ahe ase vATate?",
+      "tumachyA mate, sArvajanika vAhatukIche bhADe kadhI TALaNe yogya Ahe?",
+      "sArvajanika vAhatukItIla bhADe TALaNyAche kRRitya tumhAlA kitapata nyAyya vATate?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q179": {
+    "description": "nyAyya: mAlamattA chorI karaNe",
+    "questions": [
+      "mAlamattA chorI karaNe kadhIhI samarthanIya nasate ase tumhAlA vATate kA?",
+      "tumhAlA vATate kA kI mAlamattA chorI karaNe nehamIcha nyAyya asate?",
+      "tumachyA mate, mAlamattA chorI karaNe kadhIcha samarthanIya nasate kA?",
+      "mAlamattA chorI karaNe nehamIcha nyAyya asate asA tumachA vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q180": {
+    "description": "nyAyya: karAMchI phasavaNUka",
+    "questions": [
+      "karAMchI phasavaNUka karaNe kadhItarI samarthanIya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, karAMmadhye phasavaNUka karaNe nehamIcha chukIche asate kA?",
+      "karAMmadhye phasavaNUka karaNe yogya TharU shakate ase kAhI paristhitI Ahe ase tumhAlA vATate kA?",
+      "karAMmadhye phasavaNUka karaNe kadhIhI svIkArya mAnale jAU naye asA tumachA vishvAsa Ahe kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q181": {
+    "description": "nyAyya: kartavya bajAvatAnA lAcha gheNArI vyaktI.",
+    "questions": [
+      "ekhAdyA vyaktIne tyAMchyA kartavyAchyA veLI lAcha svIkAraNyAche samarthana karaNyAbaddala tumache kAya mata Ahe?",
+      "ekhAdyA vyaktIne tyAMchyA kartavyAchyA veLI lAcha gheNe kitI pramANAta nyAyya Ahe ase tumhAlA vATate?",
+      "tumachyA mate, kartavya bajAvatAnA ekhAdyAne lAcha gheNe kadhI svIkArya Ahe kA?",
+      "tumhAlA ase vATate kA kI ekhAdyA vyaktIne tyAMchyA kartavyAdaramyAna lAcha gheNe nehamIcha nyAyya asate, kadhIhI nyAyya nasate, kiMvA tyA daramyAna kuThetarI asate?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": false
+  },
+  "Q182": {
+    "description": "samalaiMgikatebaddalachA dRRiShTikona",
+    "questions": [
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta samalaiMgikatA kadhIhI nyAyya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, samalaiMgikatA koNatyAhI paristhitIta, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya Ahe kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta samalaiMgikatA nyAyya TharavatA yeIla ase tumhAlA vATate kA?",
+      "tumachyA mate, ashI koNatIhI paristhitI Ahe kA jithe samalaiMgikatA 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya TharavatA yeIla?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q183": {
+    "description": "veshyAvyavasAyAkaDe pAhaNyAchA dRRiShTikona",
+    "questions": [
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta veshyAvyavasAya kadhIhI nyAyya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta koNatyAhI paristhitIta veshyAvyavasAyAlA nyAyya TharavatA yete kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta veshyAvyavasAyAlA nyAyya TharavatA yeIla ase tumhAlA vATate kA?",
+      "tumachyA mate, ashI koNatIhI paristhitI Ahe kA jithe veshyAvyavasAyAlA 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya TharavatA yeIla?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q184": {
+    "description": "nyAyya: garbhapAta",
+    "questions": [
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta garbhapAta karaNe kadhIhI nyAyya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta koNatyAhI paristhitIta garbhapAta nyAyya Ahe kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta garbhapAtAlA nyAyya TharavatA yeIla ase tumhAlA vATate kA?",
+      "tumachyA mate garbhapAta nehamIcha anyAyya asato kA, 1 (nehamI anyAyya) te 10 (nehamI nyAyya) yA pramANAta?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q185": {
+    "description": "nyAyya: ghaTasphoTa",
+    "questions": [
+      "ghaTasphoTa kadhI nyAyya Ahe kA, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta ghaTasphoTa yogya TharU shakato ase tumhAlA vATate kA?",
+      "ghaTasphoTAlA 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya mAnale jAU shakate kA?",
+      "tumachyA mate, ashI koNatIhI paristhitI Ahe kA jithe ghaTasphoTAlA 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya TharavatA yeIla?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q186": {
+    "description": "lagnApUrvI seksabaddalachA dRRiShTikona",
+    "questions": [
+      "lagnAAdhI laiMgika saMbaMdha kadhIhI nyAyya Aheta kA, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta?",
+      "lagnAAdhI laiMgika saMbaMdha 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya Aheta ase tumhAlA vATate kA?",
+      "lagnApUrvI laiMgika saMbaMdha 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya mAnale jAU shakatAta kA?",
+      "tumachyA mate, ashI koNatIhI paristhitI Ahe kA jithe lagnApUrvI laiMgika saMbaMdha 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya TharavatA yetIla?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q187": {
+    "description": "nyAyya: AtmahatyA",
+    "questions": [
+      "AtmahatyechyA nyAyyatebaddala tumache kAya mata Ahe?",
+      "AtmahatyA karaNe kadhItarI nyAyya Ahe ase tumhAlA vATate kA?",
+      "jevhA AtmahatyechA prashna yeto tevhA tumhAlA ase vATate kA kI kAhI paristhitIMmadhye tI yogya Tharate?",
+      "koNatyAhI paristhitIta AtmahatyA naitikadRRiShTyA nyAyya Ahe ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q188": {
+    "description": "nyAyya: ichChAmaraNa",
+    "questions": [
+      "ichChAmaraNAchyA nyAyyatebaddala tumachI bhUmikA kAya Ahe?",
+      "kAhI vishiShTa paristhitIta ichChAmaraNa nyAyya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, ichChAmaraNa kadhItarI nyAyya Ahe kA?",
+      "vishiShTa prakaraNAMmadhye ichChAmaraNa hA eka nyAyya paryAya mAnalA pAhije kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q189": {
+    "description": "nyAyya: ekhAdyA purUShAne ApalyA patnIlA mArahANa karaNe",
+    "questions": [
+      "ekhAdyA purUShAne ApalyA patnIlA mArahANa karaNe yogya Ahe kA?",
+      "ekhAdyA purUShAne ApalyA patnIlA mArahANa karaNe yogya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, ekhAdyA purUShAne ApalyA patnIlA mArahANa karaNe kadhI mAnya Ahe kA?",
+      "tumhAlA ase vATate kA kI ashI paristhitI Ahe jithe purUShAne ApalyA patnIlA mArahANa karaNe yogya Ahe?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q190": {
+    "description": "samarthanIya: pAlaka mulAMnA mArahANa karatAta",
+    "questions": [
+      "pAlakAMnI mulAMnA mArahANa karaNe tumhAlA yogya vATate kA?",
+      "pAlakAMnI mulAMvara shArIrika baLAchA vApara karaNe kadhI nyAyya Ahe kA?",
+      "pAlakAMnA tyAMchyA mulAMnA shArIrika shista lAvaNyAchA adhikAra Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, pAlakAMnI tyAMchyA mulAMnA shArIrika shikShA deNe yogya Ahe kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q191": {
+    "description": "nyAyya: itara lokAMviruddha hiMsAchAra",
+    "questions": [
+      "itara lokAMviruddha hiMsAchAra kadhItarI nyAyya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, ashI koNatIhI paristhitI Ahe kA jithe itara lokAMviruddha hiMsAchArAlA samarthanIya mAnale jAU shakate?",
+      "tumhAlA ase vATate kA kI ashA kAhI paristhitI Aheta jyAmadhye itara lokAMviruddha hiMsAchArAche samarthana kele jAU shakate?",
+      "koNatyAhI paristhitIta itara lokAMviruddha hiMsAchArAche samarthana karaNe shakya Ahe kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q192": {
+    "description": "nyAyya: rAjakIya, vaichArika kiMvA dhArmika mAdhyama mhaNUna dahashatavAda",
+    "questions": [
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta rAjakIya mArgAne dahashatavAdAlA kadhIhI samarthanIya mAnale jAU shakate ase tumhAlA vATate kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta dahashatavAdAlA vaichArika mAdhyama mhaNUna samarthana deNe shakya Ahe kA?",
+      "tumhAlA vATate kA kI dahashatavAda hA dhArmika mArga mhaNUna 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta nyAyya mAnalA jAU shakato?",
+      "tumachyA mate, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta, rAjakIya uddiShTe sAdhya karaNyAsAThI dahashatavAda hA kadhItarI nyAyya mArga Ahe kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q193": {
+    "description": "ka.cjyuala seksabaddalachA dRRiShTikona",
+    "questions": [
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta ka.cjyuala seksa kadhI nyAyya Ahe kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta ka.cjyuala seksa yogya TharU shakato ase tumhAlA vATate kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta ka.cjyuala seksalA nyAyya mAnale jAU shakate kA?",
+      "tumachyA mate, ashI koNatIhI paristhitI Ahe kA jithe 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta ka.cjyuala seksalA samarthana dile jAU shakate?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q194": {
+    "description": "nyAyya: rAjakIya hiMsAchAra",
+    "questions": [
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta rAjakIya hiMsAchAra kadhIhI nyAyya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, ashI koNatIhI paristhitI Ahe kA jithe rAjakIya hiMsAchArAche samarthana kele jAU shakate, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta, kAhI vishiShTa paristhitIta rAjakIya hiMsAchAra naitikadRRiShTyA nyAyya TharU shakato ase tumhAlA vATate kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta rAjakIya hiMsAchArAche samarthana karaNe shakya Ahe kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q195": {
+    "description": "nyAyya: mRRityudaMDa",
+    "questions": [
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta mRRityudaMDAchI shikShA nyAyya Ahe ase tumhAlA vATate kA?",
+      "tumachyA mate, 1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta mRRityudaMDAchI shikShA kadhI nyAyya Ahe kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta, kAhI vishiShTa paristhitIMmadhye mRRityudaMDAchI shikShA tumhAlA nyAyya vATela kA?",
+      "1 (kadhIhI nAhI) te 10 (nehamI) yA pramANAta mRRityudaMDAchI shikShA yogya TharU shakate ase tumhAlA vATate kA?"
+    ],
+    "options": [
+      "kadhIhI samarthanIya nAhI",
+      "nehamIcha nyAyya"
+    ],
+    "scale": true
+  },
+  "Q196": {
+    "description": "sArvajanika ThikANI vhiDio pALata ThevaNyAchA sarakAralA adhikAra",
+    "questions": [
+      "sArvajanika ThikANI lokAMnA vhiDio dekharekhIkhAlI ThevaNyAchA adhikAra sarakAralA asAvA kI nasAvA ase tumhAlA vATate kA?",
+      "sArvajanika vhiDio dekharekhIdvAre nAgarikAMvara lakSha ThevaNyAchA adhikAra sarakAralA asAvA kA?",
+      "sArvajanika ThikANI lokAMvara lakSha ThevaNyAsAThI adhikARyAMnI vhiDio ka.cmere vAparaNe svIkArya Ahe ase tumhAlA vATate kA?",
+      "sArvajanika ThikANI lokAMnA vhiDio dekharekhIkhAlI ThevaNyAchA adhikAra sarakAralA asAvA kA ase tumhAlA vATate te kRRipayA sAMgA."
+    ],
+    "options": [
+      "nishchitacha hakka asalA pAhije",
+      "kadAchita adhikAra asAvA",
+      "kadAchita adhikAra nasAvA",
+      "nishchitacha adhikAra nasAvA"
+    ],
+    "scale": false
+  },
+  "Q197": {
+    "description": "ऑnalAina saMpreShaNAvara lakSha ThevaNyAchA sarakAralA adhikAra",
+    "questions": [
+      "tumhAlA ase vATate kA kI sarakAralA iMTaraneTavara devANaghevANa hoNARyA sarva I-mela ANi itara koNatyAhI mAhitIvara lakSha ThevaNyAchA adhikAra asAvA kI nasAvA?",
+      "sarakAralA nAgarikAMchyA ऑnalAina saMpreShaNAMvara lakSha ThevaNyAchA adhikAra asAvA kA?",
+      "surakShechyA uddeshAne adhikARyAMnA iMTaraneTa saMpreShaNAMvara lakSha ThevatA Ale pAhije yAvara tumhI sahamata AhAta kA?",
+      "sarakAralA I-mela ANi ऑnalAina mAhitIvara lakSha ThevaNyAchA adhikAra asAvA kA ase tumhAlA vATate te kRRipayA sAMgA."
+    ],
+    "options": [
+      "nishchitacha hakka asalA pAhije",
+      "kadAchita adhikAra asAvA",
+      "kadAchita adhikAra nasAvA",
+      "nishchitacha adhikAra nasAvA"
+    ],
+    "scale": false
+  },
+  "Q198": {
+    "description": "sarakAralA guptapaNe vaiyaktika mAhitI goLA karaNyAchA adhikAra",
+    "questions": [
+      "yA deshAta rAhaNARyA koNatyAhI vyaktIchI mAhitI tyAMchyA nakaLata goLA karaNyAchA adhikAra sarakAralA asAvA kI nasAvA ase tumhAlA vATate kA?",
+      "adhikARyAMnA nAgarikAMchI vaiyaktika mAhitI guptapaNe goLA karaNyAchA adhikAra asAvA kA?",
+      "lokAMnA na kaLavatA sarakAralA tyAMchI mAhitI goLA karaNyAchI paravAnagI dilI pAhije ase tumhAlA vATate kA?",
+      "nAgarikAMchyA jANIveshivAya sarakAralA vaiyaktika DeTA goLA karaNyAchA adhikAra asAvA kA ase tumhAlA vATate te kRRipayA sAMgA."
+    ],
+    "options": [
+      "nishchitacha hakka asalA pAhije",
+      "kadAchita adhikAra asAvA",
+      "kadAchita adhikAra nasAvA",
+      "nishchitacha adhikAra nasAvA"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "rAjakAraNAta rasa",
+    "questions": [
+      "tumhAlA rAjakAraNAta kitI rasa Ahe?",
+      "tumhAlA rAjakAraNAta kitI rasa Ahe?",
+      "rAjakAraNAta tumachI AvaDa kitI Ahe?",
+      "tumhI svataHlA rAjakAraNAta rasa Ahe ase varNana karAla kA?"
+    ],
+    "options": [
+      "khUpa rasa Ahe",
+      "kAhI pramANAta rasa Ahe",
+      "phArasA rasa nAhI.",
+      "ajibAta rasa nAhI."
+    ],
+    "scale": false
+  },
+  "Q200": {
+    "description": "mitrAMsobata rAjakIya bAbIMvara charchA karaNyAchI vAraMvAratA",
+    "questions": [
+      "jevhA tumhI tumachyA mitrAMsobata ekatra jamatA tevhA tumhI mhaNAla kI tumhI rAjakIya viShayAMvara vAraMvAra, adhUnamadhUna kiMvA kadhIcha charchA karata nAhI?",
+      "tumhI tumachyA mitrAMsobata bheTatA tevhA kitI veLA rAjakIya muddyAMvara charchA karatA?",
+      "mitrAMsobata bolatAnA rAjakIya viShaya vAraMvAra yetAta, kadhIkadhI yetAta kiMvA kadhIcha yeta nAhIta ase tumhAlA vATate kA?",
+      "tumhI ANi tumache mitra rAjakIya muddyAMvara kitI veLA charchA karatA te kRRipayA sAMgA - vAraMvAra, kadhIkadhI kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "vAraMvAra",
+      "kadhIkadhI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q201": {
+    "description": "dainika vartamAnapatrAMmadhUna mAhitI miLaviNyAchI vAraMvAratA",
+    "questions": [
+      "yA deshAta ANi jagAta kAya chAlale Ahe yAchI mAhitI miLaviNyAsAThI tumhI kitI veLA dainika vartamAnapatrAMchA vApara karatA?",
+      "tumhI dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI veLA vartamAnapatra vAchatA kI kadhIcha vAchata nAhI?",
+      "rAShTrIya kiMvA AMtararAShTrIya ghaDAmoDIMbaddala mAhitI miLavaNyAsAThI tumhI kitI veLA vartamAnapatre vAchatA?",
+      "kRRipayA tumhAlA dainika vartamAnapatrAMmadhUna kitI veLA bAtamyA miLatAta te sAMgA - dararoja, sAptAhika, mAsika, mAsikApekShA kamI, kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q202": {
+    "description": "TIvhI bAtamyAMmadhUna mAhitI miLaviNyAchI vAraMvAratA",
+    "questions": [
+      "tumachyA deshAta ANi jagAta kAya ghaData Ahe he jANUna gheNyAsAThI tumhI kitI veLA TIvhI bAtamyA pAhatA?",
+      "tumhI Telivhijana bAtamyA dararoja, AThavaDyAlA, mAsika, mAsikApekShA kamI vAparatA kI kadhIcha vAparata nAhI?",
+      "mAhitI miLavaNyAsAThI tumhI Telivhijanavara bAtamyAMche kAryakrama kitI veLA pAhatA?",
+      "tumhI TIvhI bAtamyA kitI veLA pAhatA te kRRipayA sAMgA - dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI, kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q203": {
+    "description": "reDio bAtamyAMmadhUna mAhitI miLaviNyAchI vAraMvAratA",
+    "questions": [
+      "rAShTrIya ANi jAgatika ghaDAmoDIMbaddala mAhitIsAThI tumhI kitI veLA reDio bAtamyA aikatA?",
+      "tumhI reDio bAtamyA dararoja, sAptAhika, mAsika, mAsikApekShA kamI vAparatA kI kadhIcha vAparata nAhI?",
+      "chAlU ghaDAmoDIMbaddala jANUna gheNyAsAThI tumhI reDio prasAraNe kitI veLA aikatA?",
+      "kRRipayA reDiovarUna tumhAlA kitI veLA bAtamyA miLatAta te sAMgA - dararoja, AThavaDyAlA, mAsika, mAsikApekShA kamI, kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q204": {
+    "description": "bAtamyA ANi mAhitIsAThI mobAIla phona vAparaNyAchI vAraMvAratA",
+    "questions": [
+      "yA deshAta ANi jagAta kAya chAlale Ahe yAbaddala bAtamyA kiMvA mAhitI miLaviNyAsAThI tumhI kitI veLA tumachA mobAIla phona vAparatA?",
+      "tumhI mAhitI miLaviNyAsAThI dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI veLA kiMvA kadhIhI mobAIla phona vAparatA kA?",
+      "bAtamyAMche apaDeTsa kiMvA chAlU ghaDAmoDI tapAsaNyAsAThI tumhI tumachA mobAIla phona kitI veLA vAparatA?",
+      "tumhI bAtamyAMsAThI tumachA mobAIla phona kitI veLA vAparatA te kRRipayA sAMgA - dararoja, AThavaDyAlA, mAsika, mAsikApekShA kamI kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q205": {
+    "description": "bAtamyA ANi mAhitIsAThI Imela vAparaNyAchI vAraMvAratA",
+    "questions": [
+      "yA deshAta ANi jagAta kAya chAlale Ahe yAbaddala mAhitI miLaviNyAsAThI tumhI kitI veLA Imela vAparatA?",
+      "tumhI bAtamyA kiMvA apaDeTsasAThI dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI, kiMvA kadhIcha Imela vAparatA kA?",
+      "tumhI ImeladvAre bAtamyA kiMvA apaDeTsa kitI veLA tapAsatA kiMvA prApta karatA?",
+      "mAhitI rAhaNyAsAThI tumhI kitI veLA Imela vAparatA te kRRipayA sUchita karA - dararoja, AThavaDyAlA, mAsika, mAsika pekShA kamI, kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q206": {
+    "description": "bAtamyA ANi mAhitIsAThI iMTaraneTa vAparaNyAchI vAraMvAratA",
+    "questions": [
+      "yA deshAta ANi jagAta kAya chAlale Ahe yAchI mAhitI miLaviNyAsAThI tumhI kitI veLA iMTaraneTa vAparatA?",
+      "tumhI dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI veLA, kiMvA kadhIcha ऑnalAina bAtamyA kiMvA mAhitI miLavatA kA?",
+      "bAtamyA pAhaNyAsAThI kiMvA chAlU ghaDAmoDIMbaddala vAchaNyAsAThI tumhI kitI veLA ऑnalAina jAtA?",
+      "bAtamyA ANi mAhitIsAThI tumhI iMTaraneTachA vApara kitI veLA karatA te kRRipayA sAMgA - dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI veLA kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q207": {
+    "description": "bAtamyA ANi mAhitIsAThI soshala mIDiyAchA vApara karaNyAchI vAraMvAratA",
+    "questions": [
+      "yA deshAta ANi jagAta kAya chAlale Ahe yAchI mAhitI miLaviNyAsAThI tumhI kitI veLA soshala mIDiyA (jase kI phesabuka, TviTara i.) vAparatA?",
+      "tumhAlA soshala mIDiyAdvAre bAtamyA kiMvA apaDeTsa dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI veLA miLatAta kI kadhIcha miLata nAhIta?",
+      "bAtamyA kiMvA rAjakIya ghaDAmoDIMvara lakSha ThevaNyAsAThI tumhI kitI veLA soshala mIDiyAchA vApara karatA?",
+      "bAtamyAMsAThI tumhI soshala mIDiyAvara kitI veLA avalaMbUna rAhatA te kRRipayA sAMgA - dararoja, AThavaDyAlA, mAsika, mAsikApekShA kamI kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q208": {
+    "description": "mitra kiMvA sahakARyAMsobata bAtamyAMvara charchA karaNyAchI vAraMvAratA",
+    "questions": [
+      "yA deshAta ANi jagAta kAya chAlale Ahe yAbaddala mAhitI miLaviNyAsAThI tumhI kitI veLA mitrAMshI kiMvA sahakARyAMshI bolatA?",
+      "tumhI mitrAMsobata kiMvA sahakARyAMsobata bAtamyA kiMvA chAlU ghaDAmoDIMvara dararoja, AThavaDyAlA, mAsika, mahinyApekShA kamI veLA, kiMvA kadhIcha charchA karatA kA?",
+      "tumhI tumachyA mitrAMsobata kiMvA sahakARyAMsobata chAlU ghaDAmoDIMbaddala kitI veLA mAhitIchI devANaghevANa karatA?",
+      "tumhI mitrAMsobata kiMvA sahakARyAMsobata bAtamyAMbaddala kitI veLA bolatA te kRRipayA sAMgA - dararoja, AThavaDyAlA, mAsika, mAsikApekShA kamI, kiMvA kadhIcha nAhI."
+    ],
+    "options": [
+      "dainaMdina",
+      "sAptAhika",
+      "mAsika",
+      "mAsika pekShA kamI",
+      "kadhIhI nAhI"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "rAjakIya kRRitI: yAchikevara svAkSharI karaNe",
+    "questions": [
+      "tumhI kadhI rAjakIya kRRitI yAchikevara sahI kelI Ahe kA?",
+      "bhaviShyAta tumhI rAjakIya kRRitI yAchikevara svAkSharI karaNyAchA vichAra karata AhAta kA?",
+      "tumhI rAjakIya kRRitI yAchikevara sahI karAyalA tayAra AhAta kA?",
+      "rAjakIya kRRitI yAchikevara svAkSharI karaNyAchA tumachA kAhI hetU Ahe kA?"
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "rAjakIya kRRitI: bahiShkArAMmadhye sAmIla hoNe",
+    "questions": [
+      "tumhI kadhI rAjakIya bahiShkArAta bhAga ghetalA Ahe kA?",
+      "tumhI rAjakIya bahiShkArAta sahabhAgI hoNyAchA vichAra karata AhAta kA?",
+      "tumhI rAjakIya bahiShkArAta sahabhAgI hoNyAsa tayAra AhAta kA?",
+      "rAjakIya bahiShkArAta sAmIla hoNe hI ashI goShTa Ahe kA jyAchA tumhI kadhIhI vichAra karaNAra nAhI?"
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "rAjakIya kRRitI: kAyadeshIra/shAMtatApUrNa nidarshanAMnA upasthita rAhaNe",
+    "questions": [
+      "tumhI kadhI rAjakIya kRRitIsAThI kAyadeshIra/shAMtatApUrNa nidarshanAMnA upasthita rAhilA AhAta kA?",
+      "bhaviShyAta rAjakIya kRRitIMsAThI kAyadeshIra/shAMtatApUrNa nidarshanAMnA upasthita rAhaNyAsa tumhI tayAra AhAta kA?",
+      "rAjakIya kRRitIsAThI kAyadeshIra/shAMtatApUrNa nidarshanAlA upasthita rAhaNyAchA tumhI vichAra karAla kA?",
+      "rAjakIya kRRitIMsAThI kAyadeshIra/shAMtatApUrNa nidarshanAMnA upasthita rAhaNe he tumhI kadhIhI karaNAra nAhI kA?"
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "rAjakIya kRRitI: anadhikRRita saMpAta sAmIla hoNe",
+    "questions": [
+      "tumhI kadhI rAjakIya kRRitIMsAThI anadhikRRita saMpAMmadhye bhAga ghetalA Ahe kA?",
+      "rAjakIya kRRitIsAThI anadhikRRita saMpAta sAmIla hoNyAchI shakyatA tumhI svIkAratA kA?",
+      "rAjakIya kRRitIMsAThI tumhI anadhikRRita saMpa karaNyAchA vichAra karAla kA?",
+      "rAjakIya kRRitIMsAThI tumhI kadhIhI anadhikRRita saMpAta bhAga gheNAra nAhI ase tumhAlA ThAmapaNe vATate kA?"
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q213": {
+    "description": "ekhAdyA gaTAlA kiMvA mohimelA deNagI deNyAta sahabhAga",
+    "questions": [
+      "tumhI kadhI ekhAdyA rAjakIya gaTAlA kiMvA mohimelA deNagI dilI Ahe kA, tumhI te karU shakatA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI ekhAdyA gaTAlA kiMvA mohimelA deNagI dilI Ahe, bhaviShyAta te karU shakatA, kiMvA kadhIhI karaNAra nAhI ase mhaNAla kA?",
+      "tumhI kadhI ekhAdyA rAjakIya gaTAlA kiMvA mohimelA Arthika yogadAna dile Ahe kA, tumhI te karU shakatA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI rAjakIya saMghaTanelA kiMvA mohimelA deNagI dilI Ahe, deU shakatA kiMvA kadhIhI deNAra nAhI he kRRipayA sUchita karA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q214": {
+    "description": "sarakArI adhikARyAshI saMparka sAdhaNyAta sahabhAga",
+    "questions": [
+      "tumhI kadhI ekhAdyA rAjakIya muddyAbaddala sarakArI adhikARyAshI saMparka sAdhalA Ahe kA, tumhI te karU shakAla kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI mhaNAla kI tumhI ekhAdyA sarakArI adhikARyAshI saMparka sAdhalA Ahe, kadAchita to karU shakAla kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI kadhI rAjakIya kiMvA sArvajanika bAbIMbaddala sarakArI pratinidhIshI saMparka sAdhalA Ahe kA, tumhI te karU shakatA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumache vichAra kiMvA chiMtA vyakta karaNyAsAThI tumhI sarakArI adhikARyAshI saMparka sAdhalA Ahe, saMparka sAdhU shakAla kiMvA kadhIhI saMparka sAdhaNAra nAhI he kRRipayA sUchita karA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q215": {
+    "description": "rAjakIya muddyAMvara kRRitI karaNyAsa itarAMnA protsAhita karaNe",
+    "questions": [
+      "tumhI kadhI itarAMnA rAjakIya muddyAMvara kRRitI karaNyAsa protsAhita kele Ahe kA, tumhI te karU shakatA kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI mhaNAla kA kI tumhI itarAMnA rAjakIya muddyAMvara kRRitI karaNyAsa protsAhita kele Ahe, kadAchita te karU shakAla kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI kadhI itarAMnA rAjakIya muddyAMmadhye sahabhAgI hoNyAsAThI rAjI karaNyAchA prayatna kelA Ahe kA, tumhI te karU shakAla kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI itarAMnA rAjakIya kRRitI karaNyAsa protsAhana dile Ahe, deU shakAla kiMvA kadhIhI deNAra nAhI he kRRipayA sUchita karA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q216": {
+    "description": "itarAMnA matadAna karaNyAsa protsAhita karaNe",
+    "questions": [
+      "tumhI kadhI itarAMnA matadAna karaNyAsa protsAhita kele Ahe kA, tumhI te karU shakAla kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI lokAMnA matadAna karaNyAsa protsAhita kele Ahe, kadAchita karU shakAla kiMvA kadhIhI karaNAra nAhI ase mhaNAla kA?",
+      "tumhI kadhI itarAMnA nivaDaNukIta matadAna karaNyAchA Agraha kelA Ahe kA, tumhI te karU shakatA kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI itarAMnA matadAnAta sahabhAgI hoNyAsAThI kadhI protsAhana dile Ahe, kadhI deU shakAla kiMvA kadhIcha deNAra nAhI he kRRipayA sAMgA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q217": {
+    "description": "rAjakAraNa ANi rAjakIya ghaTanAMbaddala mAhitIsAThI ऑnalAina shodha",
+    "questions": [
+      "tumhI iMTaraneTa kiMvA phesabuka kiMvA TviTara sArakhyA soshala mIDiyA sAdhanAMchA vApara karUna rAjakAraNa ANi rAjakIya ghaTanAMbaddala mAhitI shodhalI Ahe kA?",
+      "tumhI ase mhaNAla kI tumhI he kele Ahe, kadAchita karU shakAla, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI kadhI rAjakIya samasyA kiMvA ghaTanAMbaddala mAhitI shodhaNyAsAThI iMTaraneTa kiMvA soshala mIDiyAchA vApara kelA Ahe kA, tumhI te karU shakAla kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI ऑnalAina kiMvA soshala mIDiyAvara rAjakIya mAhitI shodhalI Ahe, shodhU shakAla kiMvA kadhIhI shodhaNAra nAhI he kRRipayA sUchita karA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q218": {
+    "description": "ilekTraॉnika yAchikevara svAkSharI karaNyAta sahabhAga",
+    "questions": [
+      "tumhI kadhI ilekTraॉnika yAchikevara svAkSharI kelI Ahe kA, tumhI tI karU shakAla kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI mhaNAla kI tumhI ऑnalAina yAchikevara svAkSharI kelI Ahe, kadAchita tI karU shakAla kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI kadhI iMTaraneTavara yAchikevara svAkSharI karaNyAta bhAga ghetalA Ahe kA, tumhI te karU shakAla kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI ilekTraॉnika yAchikevara svAkSharI kelI Ahe, svAkSharI karU shakatA kiMvA kadhIhI karaNAra nAhI he kRRipayA sUchita karA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q219": {
+    "description": "soshala mIDiyAdvAre itarAMnA rAjakIya kRRitI karaNyAsa protsAhita karaNe",
+    "questions": [
+      "tumhI iMTaraneTa kiMvA soshala mIDiyAchA vApara karUna itara lokAMnA koNatyAhI prakArachI rAjakIya kRRitI karaNyAsa protsAhita kele Ahe kA?",
+      "tumhI ase mhaNAla kI tumhI he kele Ahe, kadAchita karU shakAla, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI kadhI soshala mIDiyAchA vApara itarAMnA rAjakIya kRRitIta sahabhAgI hoNyAsAThI protsAhita karaNyAsAThI kelA Ahe kA, tumhI te karU shakatA kA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI itarAMnA ऑnalAina rAjakIya kRRitI karaNyAsa protsAhita kele Ahe, protsAhita karU shakAla kiMvA kadhIhI protsAhita karaNAra nAhI he kRRipayA sUchita karA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q220": {
+    "description": "ऑnalAina rAjakIya upakrama kiMvA niShedha Ayojita karaNe",
+    "questions": [
+      "tumhI kadhI iMTaraneTa kiMvA phesabuka kiMvA TviTara sArakhyA soshala mIDiyA sAdhanAMchA vApara karUna rAjakIya upakrama, kAryakrama kiMvA niShedha Ayojita kele Aheta kA?",
+      "tumhI ase upakrama Ayojita kele Aheta, kadAchita karAla, kiMvA kadhIhI karaNAra nAhI ase mhaNAla kA?",
+      "tumhI kadhI rAjakIya kAryakrama, mohIma kiMvA niShedha Ayojita karaNyAsAThI ऑnalAina pla.cTaphaॉrmachA vApara kelA Ahe kA, tumhI te karU shakatA, kiMvA kadhIhI karaNAra nAhI?",
+      "tumhI iMTaraneTa kiMvA soshala mIDiyAdvAre rAjakIya upakrama Ayojita kele Aheta, Ayojita karU shakAla kiMvA kadhIhI Ayojita karaNAra nAhI he kRRipayA sUchita karA."
+    ],
+    "options": [
+      "kele Ahe",
+      "kadAchita karU shakela",
+      "kadhIcha karaNAra nAhI."
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "sthAnika pAtaLIvarIla nivaDaNukAMmadhye matadAna karA",
+    "questions": [
+      "sthAnika pAtaLIvarIla nivaDaNukIta tumhI kitI veLA matadAna karatA?",
+      "sthAnika pAtaLIvarIla nivaDaNukIta matadAna karaNyAchI tumachI nehamIchI paddhata kAya Ahe?",
+      "tumhI sAmAnyataH sthAnika pAtaLIvarIla nivaDaNukIta matadAna karatA kI nAhI?",
+      "sthAnika pAtaLIvarIla nivaDaNukIta tumhAlA matadAna karaNyAchI paravAnagI Ahe kA?"
+    ],
+    "options": [
+      "nehamI",
+      "sahasA",
+      "kadhIhI nAhI",
+      "matadAna karaNyAchI paravAnagI nAhI."
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "nivaDaNukIta matadAna karA: rAShTrIya pAtaLI",
+    "questions": [
+      "rAShTrIya starAvarIla nivaDaNukIta tumhI kitI veLA matadAna karatA?",
+      "rAShTrIya starAvarIla nivaDaNukIta tumachA nehamIchA matadAnAchA namunA kasA asato?",
+      "tumhI kadhI rAShTrIya pAtaLIvarIla nivaDaNukAMmadhye bhAga ghetalA Ahe kA?",
+      "tumhI rAShTrIya starAvarIla nivaDaNukIta matadAna karU shakatA kA?"
+    ],
+    "options": [
+      "nehamI",
+      "sahasA",
+      "kadhIhI nAhI",
+      "matadAna karaNyAchI paravAnagI nAhI."
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "deshAtIla nivaDaNukA kitI veLA hotAta: matAMchI mojaNI niShpakShapaNe hote",
+    "questions": [
+      "deshAtIla nivaDaNukAMmadhye kitI veLA niShpakShapaNe matamojaNI kelI jAte?",
+      "deshAtIla nivaDaNukAMmadhye, kitI veLA matAMchI mojaNI niShpakShapaNe kelI jAte?",
+      "deshAtIla nivaDaNukAMmadhye mate bahutekadA niShpakShapaNe mojalI jAtAta kI kamI-adhika pramANAta?",
+      "deshAtIla nivaDaNukAMmadhye kitI pramANAta mate yogyarityA mojalI jAtAta?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: virodhI umedavArAMnA nivaDaNUka laDhavaNyApAsUna rokhale jAte?",
+    "questions": [
+      "deshAtIla nivaDaNukIta virodhI pakShAchyA umedavArAMnA kitI veLA ubhe rAhaNyApAsUna rokhale jAte?",
+      "deshAtIla nivaDaNukIta virodhI umedavArAMnA kitI pramANAta ubhe rAhaNyApAsUna rokhale jAte?",
+      "niyamitapaNe, kitI veLA virodhI umedavArAMnA deshAtIla nivaDaNukIta ubhe rAhaNyApAsUna rokhale jAte?",
+      "deshAtIla nivaDaNukIta virodhI pakShAchyA umedavArAMnA kitI veLA ubhe rAhaNyApAsUna rokhale jAte?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: matadArAMnA lAcha dilI jAte",
+    "questions": [
+      "deshAtIla nivaDaNukIta matadArAMnA kitI veLA lAcha dilI jAte?",
+      "deshAtIla nivaDaNukIta matadArAMnA kitI veLA lAcha dilI jAte?",
+      "deshAtIla nivaDaNukIta niyamitapaNe kitI veLA matadArAMnA lAcha dilI jAte?",
+      "deshAtIla nivaDaNukIta matadArAMnA kitI veLA lAchakhorIchA sAmanA karAvA lAgato?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: patrakAra nivaDaNukAMche niShpakSha kavhareja detAta",
+    "questions": [
+      "tumachyA deshAta patrakAra kitI veLA nivaDaNukAMche niShpakSha kavhareja detAta?",
+      "tumachyA deshAtIla nivaDaNukAMmadhye, patrakAra kitI veLA niShpakSha kavhareja detAta?",
+      "tumachyA deshAtIla nivaDaNukAMche patrakAra niShpakSha kavhareja detAta ase tumhI kitI veLA mhaNAla?",
+      "tumachyA deshAtIla patrakAra anekadA nivaDaNukAMche niShpakSha kavhareja detAta kA?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: nivaDaNUka adhikArI niShpakSha asatAta",
+    "questions": [
+      "deshAtIla nivaDaNukAMmadhye nivaDaNUka adhikArI kitI veLA niShpakSha asatAta?",
+      "deshAtIla nivaDaNukAMmadhye nivaDaNUka adhikArI kitI veLA niShpakShatA dAkhavatAta?",
+      "deshAtIla nivaDaNukAMmadhye nivaDaNUka adhikArI kitI pramANAta niShpakShatA dAkhavatAta?",
+      "deshAtIla nivaDaNukAMmadhye nivaDaNUka adhikArI niShpakSha asatAta ase tumhAlA kitI veLA vATate?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: shrImaMta loka nivaDaNukA kharedI karatAta",
+    "questions": [
+      "tumachyA deshAta shrImaMta loka kitI veLA nivaDaNukA kharedI karatAta ase tumhAlA vATate?",
+      "tumachyA mate, tumachyA deshAta shrImaMta loka kitI veLA nivaDaNukA kharedI karatAta?",
+      "tumachyA deshAta shrImaMta loka nivaDaNukA kharedI karatAta ase tumhAlA kitapata vATate?",
+      "tumachyA deshAta shrImaMta loka nivaDaNukA kharedI karatAnA kitI veLA disatAta?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: matadAna keMdrAMvara matadArAMnA hiMsAchArAchI dhamakI dilI jAte",
+    "questions": [
+      "deshAtIla nivaDaNukAMmadhye matadAna keMdrAMvara matadArAMnA kitI veLA hiMsAchArAchI dhamakI dilI jAte?",
+      "deshAtIla nivaDaNukIta, matadAna keMdrAMvara matadArAMnA kitI veLA hiMsAchArAchI dhamakI dilI jAte?",
+      "deshAtIla nivaDaNukAMmadhye matadArAMnA matadAna keMdrAMvara anekadA hiMsAchArAchyA dhokyAMchA sAmanA karAvA lAgato kA?",
+      "deshAtIla nivaDaNukAMmadhye matadAna keMdrAMvara matadArAMnA hiMsAchArAchI kitI pramANAta dhamakI dilI jAte?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: nivaDaNukIta matadArAMnA khaRyA arthAne nivaDa karaNyAchI saMdhI dilI jAte",
+    "questions": [
+      "deshAtIla nivaDaNukIta matadArAMnA kitI veLA kharA paryAya dilA jAto?",
+      "deshAtIla nivaDaNukIta matadArAMnA kitI veLA khaRyA arthAne nivaDa karaNyAchI saMdhI dilI jAte?",
+      "deshAtIla nivaDaNukIta matadArAMnA kitI veLA kharA paryAya asato?",
+      "deshAtIla nivaDaNukIta matadArAMnA kitapata kharA paryAya dilA jAto?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "deshAtIla nivaDaNukAMmadhye kitI veLA: mahilAMnA kAryAlaya chAlavaNyAchyA samAna saMdhI Aheta",
+    "questions": [
+      "tumachyA deshAtIla nivaDaNukIta mahilAMnA kitI veLA samAna saMdhI miLatAta?",
+      "tumachyA deshAtIla nivaDaNukIta, kitI veLA mahilAMnA padAsAThI ubhe rAhaNyAchI samAna saMdhI asate?",
+      "tumachyA deshAtIla nivaDaNukIta mahilAMnA kitI pramANAta samAna saMdhI Aheta?",
+      "tumachyA deshAtIla nivaDaNukIta mahilAMnA anekadA samAna saMdhI miLate kA?"
+    ],
+    "options": [
+      "khUpa veLA",
+      "baRyAchadA",
+      "kvachitacha",
+      "ajibAta nAhI."
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "tumachyA deshAtIla rAjakIya vyavasthA tumachyAsArakhyA lokAMnA sarakArachyA kAmAta sahabhAgI hoNyAchI kitI paravAnagI dete ase tumhI mhaNAla?",
+    "questions": [
+      "tumachyA deshAtIla rAjakIya vyavasthA tumachyAsArakhyA lokAMnA sarakArachyA kAmAta sahabhAgI hoNyAchI paravAnagI dete ase tumhAlA kitI pramANAta vATate?",
+      "tumachyA deshAtIla rAjakIya vyavasthechyA tumachyAsArakhyA lokAMnA sarakArI nirNayAMvara prabhAva pADaNyAchI kShamatA tumhI kitI mahattvAchI mAnatA?",
+      "tumachyA mate, tumachyAsArakhyA lokAMnA rAjakIya vyavasthedvAre sarakAra je kAhI karate tyAta sahabhAgI hoNyAchI saMdhI miLaNe kitI mahattvAche Ahe?",
+      "tumachyA deshAtIla rAjakIya vyavasthA tumachyAsArakhyA vyaktIMnA sarakArI kRRitIMmadhye sahabhAgI hoNyAsa kitI pramANAta sakShama karate ase tumhAlA vATate?"
+    ],
+    "options": [
+      "khUpa mahatvAche",
+      "khUpacha mahatvAche",
+      "phAra mahatvAche nAhI.",
+      "ajibAta mahattvAche nAhI."
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "rAjakIya vyavasthA: saMsada ANi nivaDaNukAMchA trAsa na gheNArA eka majabUta netA asaNe",
+    "questions": [
+      "jyA rAjakIya vyavastheta eka majabUta netA asela ANi jyAlA saMsada ANi nivaDaNukAMchA trAsa karAvA lAgata nAhI, tyAbaddala tumache kAya mata Ahe?",
+      "jithe ekA majabUta netyAlA saMsada ANi nivaDaNukA hAtALaNyAsa bAMdhIla nasate ashA rAjakIya vyavasthekaDe tumhI kase pAhatA?",
+      "saMsada ANi nivaDaNukAMmadhye koNatAhI sahabhAga nasalelyA ekA majabUta netyAchA samAvesha asalelyA rAjakIya vyavasthebaddala tumache kAya mata Ahe?",
+      "tumachyA mate, jyA rAjakIya vyavasthelA eka majabUta netA Ahe ANi jyAlA saMsada ANi nivaDaNukAMchI kALajI karaNyAchI garaja nAhI, tyAlA tumhI kase mUlyAMkana karAla?"
+    ],
+    "options": [
+      "khUpa chAMgale",
+      "baRyApaikI chAMgale",
+      "khUpacha vAITa",
+      "khUpa vAITa"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "rAjakIya vyavasthA: sarakAra nasUna taj~na asaNe, tyAMnA deshAsAThI kAya sarvottama vATate tyAnusAra nirNaya gheNe.",
+    "questions": [
+      "deshAsAThI kAya sarvottama Ahe yAvara AdhArita nirNaya gheNAre taj~na asalelyA rAjakIya vyavasthebaddala tumache kAya mata Ahe?",
+      "deshAsAThI kAya sarvottama Ahe yAchyA tyAMchyA samajutInusAra taj~na nirNaya ghetAta ashA rAjakIya vyavasthebaddala tumache kAya mata Ahe?",
+      "deshAchyA hitAsAThI nirNaya gheNyAsAThI taj~nAMvara avalaMbUna asalelyA rAjakIya vyavasthebaddala tumache kAya mata Ahe?",
+      "deshAsAThI kAya sarvottama Ahe he TharavaNAre taj~na nirNaya ghetAta ashA rAjakIya vyavasthebaddala tumhAlA kase vATate?"
+    ],
+    "options": [
+      "khUpa chAMgale",
+      "baRyApaikI chAMgale",
+      "khUpacha vAITa",
+      "khUpa vAITa"
+    ],
+    "scale": false
+  },
+  "Q237": {
+    "description": "deshAche rAjya karaNyAchA eka mArga mhaNUna laShkarI rAjavaTIche mUlyAMkana",
+    "questions": [
+      "tumhI mhaNAla kA kI laShkarAche rAjya asaNe hA yA deshAvara rAjya karaNyAchA eka khUpa chAMgalA, barAcha chAMgalA, barAcha vAITa kiMvA khUpa vAITa mArga Ahe?",
+      "tumachyA deshAsAThI laShkarI rAjavaTIlA tumhI kase mUlyAMkana karAla?",
+      "deshAchA kArabhAra laShkarAkaDe sopavaNe hA desha chAlavaNyAchA chAMgalA kI vAITa mArga Ahe ase tumhAlA vATate kA?",
+      "kRRipayA sAMgA kI tumhI laShkarI rAjavaTIlA desha chAlavaNyAchI khUpa chAMgalI, barIcha chAMgalI, barIcha vAITa kiMvA khUpa vAITa paddhata mAnatA."
+    ],
+    "options": [
+      "khUpa chAMgale",
+      "baRyApaikI chAMgale",
+      "khUpacha vAITa",
+      "khUpa vAITa"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "rAjakIya vyavasthA: lokashAhI rAjakIya vyavasthA asaNe",
+    "questions": [
+      "lokashAhI rAjakIya vyavasthA asaNyAchyA rAjakIya vyavasthebaddala tumache kAya mata Ahe?",
+      "lokashAhI rAjakIya vyavasthA asaNyAchyA rAjakIya vyavastheche tumhI kase mUlyAMkana karAla?",
+      "tumachyA mate, lokashAhI rAjakIya vyavasthA asaNe hI rAjakIya vyavasthA chAMgalI Ahe kI vAITa?",
+      "lokashAhI rAjakIya vyavasthA asaNyAchyA rAjakIya vyavasthebaddala tumache kAya mUlyAMkana Ahe?"
+    ],
+    "options": [
+      "khUpa chAMgale",
+      "baRyApaikI chAMgale",
+      "khUpacha vAITa",
+      "khUpa vAITa"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "rAjakIya vyavasthA: dhArmika kAyadyAnusAra shAsita asalelI vyavasthA jyAmadhye koNatehI rAjakIya pakSha kiMvA nivaDaNukA nasatAta.",
+    "questions": [
+      "rAjakIya pakSha kiMvA nivaDaNukA nasalelyA dhArmika kAyadyAne shAsita asalelyA rAjakIya vyavasthebaddala tumache kAya mata Ahe?",
+      "jithe dhArmika kAyadA koNatyAhI rAjakIya pakShAMshivAya kiMvA nivaDaNukAMshivAya rAjya karato ashA vyavasthelA tumhI kase mUlyAMkana karAla?",
+      "tumachyA mate, koNatyAhI rAjakIya pakShAMshivAya kiMvA nivaDaNukAMshivAya dhArmika kAyadyAne shAsita asalelI rAjakIya vyavasthA kitI chAMgalI kiMvA vAITa Ahe?",
+      "rAjakIya pakSha kiMvA nivaDaNukA nasalelyA, kevaLa dhArmika kAyadyAne shAsita asalelyA vyavasthebaddala tumachA kAya dRRiShTikona Ahe?"
+    ],
+    "options": [
+      "khUpa chAMgale",
+      "baRyApaikI chAMgale",
+      "khUpacha vAITa",
+      "khUpa vAITa"
+    ],
+    "scale": false
+  },
+  "Q240": {
+    "description": "rAjakIya DAvyA-ujavyA vichArasaraNIta svataHche sthAna",
+    "questions": [
+      "rAjakIya bAbIMmadhye loka 'DAve' ANi 'ujave' yAbaddala bolatAta. tumhI tumache vichAra 1 (DAvIkaDe) te 10 (ujavIkaDe) yA pramANAta kase mAMDAla?",
+      "1 (DAvIkaDe) te 10 (ujavIkaDe) yA pramANAta tumhI tumache rAjakIya vichAra kuThe ThevAla?",
+      "1 te 10 chyA pramANAta, jithe 1 chA artha 'DAvIkaDe' ANi 10 chA artha 'ujavIkaDe' asA hoto, tithe tumhI svataHlA rAjakIyadRRiShTyA kuThe pAhatA?",
+      "DAvIkaDUna (1) te ujavIkaDe (10) ashA pramANAta tumhI tumachyA rAjakIya vichArAMche varNana kase karAla?"
+    ],
+    "options": [
+      "DAvIkaDe",
+      "barobara"
+    ],
+    "scale": true
+  },
+  "Q241": {
+    "description": "lokashAhI: sarakAra shrImaMtAMvara kara lAvatAta ANi garibAMnA anudAna detAta",
+    "questions": [
+      "shrImaMtAMvara kara lAvaNe ANi garibAMnA anudAna deNe he lokashAhIche eka Avashyaka vaishiShTya Ahe ase tumhAlA kitapata vATate?",
+      "1 te 10 chyA pramANAta, lokashAhIne shrImaMtAMvara kara lAvaNe ANi garibAMnA anudAna deNe kitI mahattvAche Ahe ase tumhAlA vATate?",
+      "lokashAhIne shrImaMtAMvara kara lAvAvA ANi garibAMnA anudAna dyAve yAchyAshI tumhI kitI sahamata kiMvA asahamata AhAta? kRRipayA tumachyA pratisAdAlA 1 te 10 chyA pramANAta reTa karA.",
+      "1 te 10 chyA skelachA vApara karUna shrImaMtAMvara kara lAvaNe ANi garibAMnA anudAna deNe he lokashAhIche mUlabhUta pailU Ahe ase tumhAlA kitI pramANAta vATate te reTa karA."
+    ],
+    "options": [
+      "lokashAhIche Avashyaka vaishiShTya nAhI",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "lokashAhI: dhArmika adhikArI kAyadyAMche spaShTIkaraNa detAta",
+    "questions": [
+      "1 te 10 chyA pramANAta, dhArmika adhikARyAMnI kAyadyAMchA artha lAvaNe lokashAhIsAThI kitI Avashyaka Ahe ase tumhAlA vATate?",
+      "lokashAhIsAThI dhArmika adhikARyAMnI kAyadyAMchA artha lAvaNe Avashyaka Ahe ase tumhAlA kitI pramANAta vATate, kRRipayA 1 te 10 chyA pramANAta reTa karA.",
+      "lokashAhIsAThI dhArmika adhikARyAMnA kAyadyAMchA artha lAvaNyAchA adhikAra asaNe kitI pramANAta Avashyaka Ahe ase tumhAlA vATate? kRRipayA 1 te 10 paryaMta reTiMga dyA.",
+      "lokashAhIsAThI dhArmika adhikARyAMnI kAyadyAMche spaShTIkaraNa deNe kitI mahattvAche Ahe ase tumhAlA vATate? kRRipayA 1 te 10 chyA pramANAta tumache mata noMdavA."
+    ],
+    "options": [
+      "lokashAhIche Avashyaka vaishiShTya nAhI",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q243": {
+    "description": "lokashAhIche vaishiShTya mhaNUna mukta nivaDaNukAMche mahattva jANavale",
+    "questions": [
+      "lokashAhIsAThI loka 1 te 10 chyA pramANAta mukta nivaDaNukAMmadhye tyAMche nete nivaDatAta he tumhAlA kitI Avashyaka vATate?",
+      "1 te 10 chyA pramANAta, jithe 1 chA artha 'ajibAta Avashyaka nAhI' ANi 10 chA artha 'nishchitapaNe Avashyaka' asA hoto, tithe lokashAhIsAThI mukta nivaDaNukA kitI mahattvAchyA Aheta?",
+      "1 te 10 chyA pramANAta tumhI kitI pramANAta mukta nivaDaNukAMnA lokashAhIche eka Avashyaka vaishiShTya mAnatA?",
+      "lokashAhIche eka nishchita vaishiShTya mhaNUna mukta nivaDaNukA kitI mahattvAchyA Aheta te kRRipayA 1 te 10 paryaMta reTa karA."
+    ],
+    "options": [
+      "lokashAhIche muLIcha Avashyaka vaishiShTya nAhI.",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "lokashAhI: lokAMnA berojagArIsAThI rAjya madata miLate",
+    "questions": [
+      "lokashAhI: lokAMnA berojagArIsAThI rAjya madata miLate kA?",
+      "berojagArIsAThI rAjya madata miLavaNAre loka he lokashAhIche eka Avashyaka vaishiShTya Ahe ase tumhAlA kitI pramANAta vATate? (1 te 10 paryaMtache reTiMga)",
+      "1 te 10 chyA pramANAta, lokashAhImadhye berojagArIsAThI rAjya madatIchI taratUda karaNe tumhAlA kitI Avashyaka vATate?",
+      "berojagArIsAThI rAjya madatIchI taratUda lokashAhIchyA Avashyaka vaishiShTyAMmadhye kitI yogadAna dete ase tumhAlA vATate? (1 te 10 paryaMtache dara)"
+    ],
+    "options": [
+      "lokashAhIche Avashyaka vaishiShTya nAhI",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q245": {
+    "description": "sarakAra akShama asatAnA laShkarAchyA hastakShepAche mahattva lokashAhIche vaishiShTya mhaNUna oLakhale gele.",
+    "questions": [
+      "1 te 10 chyA pramANAta sarakAra akShama asatAnA laShkarAne sattA hAtI gheNe lokashAhIsAThI kitI Avashyaka Ahe ase tumhAlA vATate?",
+      "1 te 10 chyA pramANAta, sarakAramadhye laShkarAchA hastakShepa hA lokashAhIchA eka Avashyaka guNadharma Ahe ase tumhAlA kitI vATate te reTa karA.",
+      "sarakAra apayashI TharalyAvara laShkarAne sattA hAtI gheNe he 1 te 10 chyA pramANAta lokashAhIshI kitI susaMgata Ahe ase tumhAlA vATate?",
+      "1 te 10 chyA pramANAta, akShama sarakArachI jAgA laShkarAne gheNe he lokashAhIsAThI kitI mahattvAche Ahe ase tumhAlA vATate te kRRipayA sAMgA."
+    ],
+    "options": [
+      "lokashAhIche muLIcha Avashyaka vaishiShTya nAhI.",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q246": {
+    "description": "lokashAhIche vaishiShTya mhaNUna rAjyAchyA daDapashAhIpAsUna lokAMnA saMrakShaNa deNARyA nAgarI hakkAMche mahattva lakShAta Ale.",
+    "questions": [
+      "1 te 10 chyA pramANAta rAjyAchyA daDapashAhIpAsUna nAgarI hakkAMche saMrakShaNa karaNe lokashAhIsAThI kitI Avashyaka Ahe ase tumhAlA vATate?",
+      "1 te 10 chyA pramANAta, jithe 1 chA artha 'ajibAta Avashyaka nAhI' ANi 10 chA artha 'nishchitapaNe Avashyaka' asA hoto, tithe lokashAhIsAThI nAgarI hakkAMche saMrakShaNa kitI mahattvAche Ahe?",
+      "1 te 10 chyA pramANAta, sarakArI daDapashAhIpAsUna vyaktIMche saMrakShaNa karaNAre nAgarI hakka lokashAhIche eka Avashyaka vaishiShTya Aheta ase tumhAlA kitI pramANAta vATate?",
+      "lokashAhIsAThI nAgarI hakka kitI Avashyaka Aheta ase tumhAlA vATate te kRRipayA 1-10 chyA pramANAta sAMgA."
+    ],
+    "options": [
+      "lokashAhIche muLIcha Avashyaka vaishiShTya nAhI.",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "lokashAhI: rAjya lokAMche utpanna samAna karate.",
+    "questions": [
+      "lokashAhI: lokAMche utpanna samAna karaNAre rAjya",
+      "lokashAhI: lokAMche utpanna samAna karaNyAta rAjyAchI bhUmikA Ahe kA?",
+      "lokashAhImadhye rAjyAne lokAMche utpanna samAna karaNe kitI pramANAta samAviShTa Ahe ase tumhAlA vATate?",
+      "1 te 10 chyA pramANAta, lokAMche utpanna samAna karaNAre rAjya lokashAhImadhye samAviShTa karaNe kitI Avashyaka Ahe ase tumhAlA vATate?"
+    ],
+    "options": [
+      "lokashAhIche Avashyaka vaishiShTya nAhI",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "lokashAhI: loka tyAMchyA rAjyakartyAMche pAlana karatAta",
+    "questions": [
+      "lokashAhI: loka tyAMchyA rAjyakartyAMche pAlana karaNe he lokashAhIche Avashyaka vaishiShTya nAhI. (1-10 chyA pramANAta dara)",
+      "loka tyAMchyA rAjyakartyAMche pAlana karatAta he lokashAhIche eka Avashyaka vaishiShTya Ahe ase tumhI kitI pramANAta mAnatA? (1-10 chyA pramANAta reTiMga)",
+      "tumachyA mate, lokashAhIsAThI lokAMnI tyAMchyA rAjyakartyAMche pAlana karaNe kitI mahattvAche Ahe? (1-10 chyA pramANAta reTiMga)",
+      "loka tyAMchyA rAjyakartyAMche pAlana karaNe hA lokashAhIchA mUlabhUta pailU Ahe yAvara tumhI kitI sahamata AhAta? (1-10 chyA pramANAta reTiMga)"
+    ],
+    "options": [
+      "lokashAhIche Avashyaka vaishiShTya nAhI",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q249": {
+    "description": "lokashAhIche vaishiShTya mhaNUna liMga samAnateche mahattva jANavale",
+    "questions": [
+      "1 te 10 chyA pramANAta mahilAMnA puruShAMsArakhecha adhikAra asaNe lokashAhIsAThI kitI Avashyaka Ahe ase tumhAlA vATate?",
+      "1 te 10 chyA pramANAta, lokashAhIsAThI laiMgika samAnatA tumhAlA kitI mahattvAchI vATate?",
+      "1 te 10 chyA pramANAta lokashAhIche eka Avashyaka vaishiShTya mhaNUna mahilA ANi puruShAMsAThI samAna adhikAra tumhAlA kitI pramANAta disatAta?",
+      "lokashAhI vyavasthesAThI liMga samAnatA kitI Avashyaka Ahe te kRRipayA 1-10 chyA pramANAta sAMgA."
+    ],
+    "options": [
+      "lokashAhIche muLIcha Avashyaka vaishiShTya nAhI.",
+      "lokashAhIche eka mahattvAche vaishiShTya"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "lokashAhIche mahattva",
+    "questions": [
+      "1 te 10 chyA pramANAta, tumhAlA lokashAhI kitI mahattvAchI vATate?",
+      "1 te 10 chyA pramANAta tumhI lokashAhIche mahattva kase reTa karAla?",
+      "lokashAhI kitI mahattvAchI Ahe ase tumhAlA vATate? kRRipayA 1 te 10 chyA pramANAta reTa karA.",
+      "kRRipayA 1 te 10 chyA pramANAta lokashAhIlA tumhI kitI mahattva detA te darshavA."
+    ],
+    "options": [
+      "ajibAta mahattvAche nAhI.",
+      "atyaMta mahatvAche"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "Aja yA deshAche shAsana kitI lokashAhI paddhatIne chAlate Ahe?",
+    "questions": [
+      "tumachyA mate, Aja yA deshAta lokashAhI paddhatIne kitI kArabhAra chAlatoya? (1-10 chyA pramANAta)",
+      "1 te 10 chyA pramANAta, Aja yA deshAtIla sarakAra kitI lokashAhIvAdI Ahe ase tumhAlA vATate?",
+      "yA deshAta lokashAhI paddhatIne shAsana kitI pramANAta chAlate ase tumhAlA vATate? kRRipayA 1 te 10 chyA pramANAta reTa karA.",
+      "1 te 10 chyA pramANAta tumhI yA deshAtIla lokashAhIchyA sadhyAchyA pAtaLIlA kase reTa karAla?"
+    ],
+    "options": [
+      "ajibAta lokashAhIvAdI nAhI.",
+      "pUrNapaNe lokashAhIvAdI"
+    ],
+    "scale": true
+  },
+  "Q252": {
+    "description": "rAjakIya vyavasthechyA kAmakAjAbaddala samAdhAna",
+    "questions": [
+      "1 te 10 chyA pramANAta, AjakAla tumachyA deshAtIla rAjakIya vyavasthA kashI kAryarata Ahe yAbaddala tumhI kitI samAdhAnI AhAta?",
+      "tumachyA deshAtIla sadhyAchyA rAjakIya vyavasthebaddala tumhI kitI samAdhAnI AhAta? kRRipayA 1 (ajibAta samAdhAnI nAhI) te 10 (pUrNapaNe samAdhAnI) ase reTiMga dyA.",
+      "ekaMdarIta, tumachyA deshAtIla rAjakIya vyavasthechyA kAmakAjAbaddala tumhI 1 te 10 chyA pramANAta samAdhAna kase reTa karAla?",
+      "tumachyA deshAtIla AjachyA rAjakIya vyavasthebaddala tumhI kitI samAdhAnI AhAta te 1 (ajibAta samAdhAnI nAhI) te 10 (pUrNapaNe samAdhAnI) yA pramANAta kRRipayA darshavA."
+    ],
+    "options": [
+      "ajibAta samAdhAnI nAhI.",
+      "pUrNapaNe samAdhAnI"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "AjakAla vaiyaktika mAnavI hakkAMchA Adara",
+    "questions": [
+      "AjakAla vaiyaktika mAnavI hakkAMchyA AdarAchyA pAtaLIche tumhI kase varNana karAla?",
+      "AjachyA samAjAta vaiyaktika mAnavI hakkAMchA kitI pramANAta Adara kelA jAto ase tumhAlA vATate?",
+      "tumachyA mate, AjakAla vaiyaktika mAnavI hakkAMnA kitI Adara dilA jAto?",
+      "jevhA vaiyaktika mAnavI hakkAMchA vichAra kelA jAto tevhA sadhyAchyA AdarAchyA pAtaLIche tumhI kase mUlyAMkana karAla?"
+    ],
+    "options": [
+      "vaiyaktika mAnavI hakkAMchA khUpa Adara",
+      "khUpa Adara.",
+      "mAhita nAhI",
+      "jAsta Adara nAhI.",
+      "ajibAta Adara nAhI."
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "rAShTrIya abhimAna",
+    "questions": [
+      "tumhAlA tumachyA rAShTrIyatvAchA kitI abhimAna Ahe?",
+      "1 te 4 chyA pramANAta, tumhAlA tumachyA rAShTrIyatvAchA kitI abhimAna Ahe?",
+      "rAShTrIya abhimAnAchyA bAbatIta, tumhI svataHlA khUpa abhimAnI asaNyAchyA javaLa samajAla kI ajibAta abhimAnI nAhI?",
+      "tumachyA rAShTrIya abhimAnAchyA pAtaLIche varNana tumhI khUpa abhimAnI, khUpa abhimAnI nAhI kiMvA tyA daramyAna kuThetarI karAla kA?"
+    ],
+    "options": [
+      "khUpa abhimAna Ahe",
+      "khUpa abhimAnAspada",
+      "phAra abhimAna nAhI.",
+      "ajibAta abhimAna nAhI."
+    ],
+    "scale": false
+  }
+}
