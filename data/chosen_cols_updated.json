@@ -67,7 +67,18 @@
                 "year": "V262: Year survey",
                 "country": "B_COUNTRY_ALPHA: Country code ISO 3166 alpha",
                 "region": "V256: Region where the interview was conducted",
-                "urban_rural": "G_TOWNSIZE: Settlement size_5 groups",
+                "urban_rural": "G_TOWNSIZE2: Settlement size_5 groups",
+                "sex": "V240: Sex",
+                "age": "V242: Age",
+                "language": "V247: Language at home",
+                "marital_status": "V57: Marital status",
+                "education": "V248R: Highest educational level: Respondent (recoded into 3 groups)",
+                "social_class": "V238: Social class (subjective)"
+            },
+            "egypt": {
+                "year": "V262: Year survey",
+                "country": "B_COUNTRY_ALPHA: Country code ISO 3166 alpha",
+                "region": "V256: Region where the interview was conducted",
                 "sex": "V240: Sex",
                 "age": "V242: Age",
                 "language": "V247: Language at home",
@@ -124,6 +135,17 @@
                 "marital_status": "V55: Marital status",
                 "education": "V238R: Highest educational level: Respondent (recoded into 3 groups)",
                 "social_class": "V252: Social class (subjective)"
+            },
+            "colombia": {
+                "year": "V260: Year survey",
+                "country": "B_COUNTRY_ALPHA: Country code ISO 3166 alpha",
+                "region": "N_REGION_ISO: Region ISO",
+                "sex": "V235: Sex",
+                "age": "V237R: Age recoded (6 intervals)",
+                "language": "LNG_NUM: Language in which interview was conducted",
+                "marital_status": "V55: Marital status",
+                "education": "V238R: Highest educational level: Respondent (recoded into 3 groups)",
+                "social_class": "V252B: Social class (subjective) with 6 categories"
             }
         }
     },
