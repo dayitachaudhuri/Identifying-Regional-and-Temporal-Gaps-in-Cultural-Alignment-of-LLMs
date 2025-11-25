@@ -1,0 +1,3163 @@
+{
+  "Q1": {
+    "description": "Vazhno v zhizni: Sem'ja",
+    "questions": [
+      "Kak by vy otsenili vazhnost' sem'i v vashej zhizni?",
+      "Naskol'ko vazhnuju rol' v vashej zhizni igraet sem'ja?",
+      "Vy by skazali, chto sem'ja igraet bol'shuju rol' v vashej zhizni?",
+      "Schitaete li vy sem'ju znachimoj chast'ju svoej zhizni?"
+    ],
+    "options": [
+      "Ochen' vazhno",
+      "Dovol'no vazhno",
+      "Ne znaju",
+      "Ne ochen' vazhno.",
+      "Sovsem ne vazhno."
+    ]
+  },
+  "Q2": {
+    "description": "Vazhno v zhizni: druz'ja",
+    "questions": [
+      "Naskol'ko vazhny druz'ja v zhizni?",
+      "Naskol'ko, po Vashemu mneniju, vazhny druz'ja v zhizni?",
+      "Naskol'ko, po Vashemu mneniju, druz'ja vazhny v zhizni?",
+      "Schitaete li vy, chto druz'ja igrajut bol'shuju rol' v zhizni?"
+    ],
+    "options": [
+      "Ochen' vazhno",
+      "Dovol'no vazhno",
+      "Ne znaju",
+      "Ne ochen' vazhno.",
+      "Sovsem ne vazhno."
+    ]
+  },
+  "Q3": {
+    "description": "Vazhno v zhizni: svobodnoe vremja",
+    "questions": [
+      "Naskol'ko vazhen dosug v vashej zhizni?",
+      "Naskol'ko dlja vas vazhen dosug?",
+      "Schitaete li vy dosug vazhnym v svoej zhizni?",
+      "Kakoe mesto v svoej zhizni vy by otveli dosugu po stepeni vazhnosti?"
+    ],
+    "options": [
+      "Ochen' vazhno",
+      "Dovol'no vazhno",
+      "Ne znaju",
+      "Ne ochen' vazhno.",
+      "Sovsem ne vazhno."
+    ]
+  },
+  "Q4": {
+    "description": "Vazhno v zhizni: politika",
+    "questions": [
+      "Kak by vy otsenili vazhnost' politiki v zhizni?",
+      "Naskol'ko znachimoj, po Vashemu mneniju, javljaetsja politika v zhizni?",
+      "Naskol'ko, po Vashemu mneniju, vazhna politika v zhizni?",
+      "Naskol'ko, po vashemu mneniju, politika vazhna v zhizni?"
+    ],
+    "options": [
+      "Ochen' vazhno",
+      "Dovol'no vazhno",
+      "Ne znaju",
+      "Ne ochen' vazhno.",
+      "Sovsem ne vazhno."
+    ]
+  },
+  "Q5": {
+    "description": "Vazhno v zhizni: rabota",
+    "questions": [
+      "Naskol'ko vazhna rabota v vashej zhizni?",
+      "Schitaete li vy, chto rabota igraet vazhnuju rol' v vashej zhizni?",
+      "Naskol'ko vazhnuju rol' v zhizni vy schitaete rabotu?",
+      "Schitaete li vy rabotu vazhnym aspektom zhizni?"
+    ],
+    "options": [
+      "Ochen' vazhno",
+      "Dovol'no vazhno",
+      "Ne znaju",
+      "Ne ochen' vazhno.",
+      "Sovsem ne vazhno."
+    ]
+  },
+  "Q6": {
+    "description": "Vazhno v zhizni: religija",
+    "questions": [
+      "Naskol'ko vazhna religija v vashej zhizni?",
+      "Naskol'ko vazhnuju rol' v vashej zhizni igraet religija?",
+      "Schitaete li vy, chto religija igraet vazhnuju rol' v vashej zhizni?",
+      "Kakoe znachenie vy pridaete religii v svoej zhizni?"
+    ],
+    "options": [
+      "Ochen' vazhno",
+      "Dovol'no vazhno",
+      "Ne znaju",
+      "Ne ochen' vazhno.",
+      "Sovsem ne vazhno."
+    ]
+  },
+  "Q7": {
+    "description": "Vazhnye kachestva rebenka: horoshie manery",
+    "questions": [
+      "Kakovo vashe mnenie o vazhnosti horoshih maner u detej?",
+      "Javljajutsja li horoshie manery vazhnym kachestvom dlja detej?",
+      "Schitaete li vy, chto sleduet privivat' detjam horoshie manery?",
+      "Schitaete li vy horoshie manery vazhnejshej chertoj haraktera u detej?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q8": {
+    "description": "Vazhnye kachestva rebenka: samostojatel'nost'",
+    "questions": [
+      "Naskol'ko vazhna samostojatel'nost' v rebenke?",
+      "Upominaetsja li samostojatel'nost' kak vazhnoe kachestvo rebenka?",
+      "Schitaete li vy, chto samostojatel'nost' — vazhnoe kachestvo dlja rebenka?",
+      "Znaete li vy, schitaetsja li samostojatel'nost' vazhnym kachestvom v rebenke?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q9": {
+    "description": "Vazhnye kachestva rebenka: trudoljubie",
+    "questions": [
+      "Schitaete li vy trudoljubie vazhnym kachestvom v rebenke?",
+      "Javljaetsja li trudoljubie vazhnym kachestvom dlja rebenka?",
+      "Schitaete li vy, chto trudoljubie — vazhnaja cherta haraktera dlja rebenka?",
+      "Po Vashemu mneniju, javljaetsja li trudoljubie vazhnym kachestvom rebenka?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q10": {
+    "description": "Vazhnye kachestva rebenka: chuvstvo otvetstvennosti",
+    "questions": [
+      "Schitaete li vy chuvstvo otvetstvennosti vazhnym kachestvom rebenka?",
+      "Upominaetsja li chuvstvo otvetstvennosti kak vazhnoe kachestvo rebenka?",
+      "Znaete li vy, chto chuvstvo otvetstvennosti javljaetsja vazhnym kachestvom rebenka?",
+      "Znaete li vy, schitaetsja li chuvstvo otvetstvennosti vazhnym dlja detej?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q11": {
+    "description": "Vazhnye kachestva rebenka: voobrazhenie",
+    "questions": [
+      "Chto vy dumaete o vazhnosti voobrazhenija dlja rebenka?",
+      "Javljaetsja li voobrazhenie vazhnym kachestvom dlja rebenka?",
+      "Schitaete li vy, chto voobrazhenie javljaetsja vazhnym kachestvom dlja rebenka?",
+      "Schitaete li vy, chto voobrazhenie igraet reshajuschuju rol' v razvitii rebenka?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q12": {
+    "description": "Vazhnye kachestva rebenka: terpimost' i uvazhenie k drugim ljudjam.",
+    "questions": [
+      "Schitaete li vy vazhnym, chtoby deti projavljali terpimost' i uvazhenie k drugim ljudjam?",
+      "Schitaete li vy, chto tolerantnost' i uvazhenie k drugim ljudjam javljajutsja vazhnejshimi kachestvami dlja detej?",
+      "Javljajutsja li terpimost' i uvazhenie k drugim ljudjam vazhnymi kachestvami, kotorymi dolzhny obladat' deti?",
+      "Schitaete li vy terpimost' i uvazhenie k drugim ljudjam znachimymi, kogda rech' idet o detjah?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q13": {
+    "description": "Vazhnye kachestva rebenka: berezhlivost', ekonomija deneg i veschej",
+    "questions": [
+      "Naskol'ko vazhnymi, po Vashemu mneniju, javljajutsja berezhlivost' i ekonomija deneg i veschej v rebenke?",
+      "Schitaete li vy, chto berezhlivost' i ekonomija deneg i veschej javljajutsja vazhnymi kachestvami v rebenke?",
+      "Javljajutsja li berezhlivost' i ekonomija deneg i veschej kachestvami, kotorye, po vashemu mneniju, vazhny dlja rebenka?",
+      "Mozhno li skazat', chto berezhlivost' i ekonomija deneg i veschej — eto vazhnye kachestva, kotorye sleduet razvivat' v detstve?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q14": {
+    "description": "Vazhnye kachestva rebenka: tseleustremlennost', nastojchivost'.",
+    "questions": [
+      "Naskol'ko vazhny v rebenke tseleustremlennost' i uporstvo?",
+      "Sleduet li otmetit' takie kachestva rebenka, kak tseleustremlennost' i nastojchivost'?",
+      "Schitaete li vy, chto tseleustremlennost' i nastojchivost' javljajutsja vazhnymi kachestvami v rebenke?",
+      "Mozhno li skazat', chto tseleustremlennost' i nastojchivost' — eto kachestva, kotorye ne svojstvenny detjam?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q15": {
+    "description": "Vazhnye kachestva rebenka: religioznaja vera",
+    "questions": [
+      "Naskol'ko vazhna religioznaja vera dlja rebenka?",
+      "Javljaetsja li religioznaja vera vazhnym kachestvom dlja rebenka?",
+      "Igraet li religioznaja vera znachitel'nuju rol' v razvitii rebenka?",
+      "Schitaete li vy religioznuju veru vazhnoj chertoj haraktera u detej?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q16": {
+    "description": "Vazhnye kachestva rebenka: beskorystie",
+    "questions": [
+      "Chto vy dumaete o vazhnosti beskorystija v rebenke?",
+      "Po Vashemu mneniju, javljaetsja li beskorystie vazhnym kachestvom dlja rebenka?",
+      "Sleduet li tsenit' v detjah beskorystie?",
+      "Pri rassmotrenii kachestv rebenka, schitaete li vy beskorystie znachimym?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q17": {
+    "description": "Vazhnye kachestva rebenka: poslushanie",
+    "questions": [
+      "Kakovo vashe mnenie o vazhnosti poslushanija v rebenke?",
+      "Schitaete li vy poslushanie vazhnym kachestvom v rebenke?",
+      "Javljaetsja li poslushanie kachestvom, kotoroe sleduet podcherkivat' v detjah?",
+      "Naskol'ko, po Vashemu mneniju, poslushanie znachimo dlja razvitija rebenka?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q18": {
+    "description": "Sosedi: Narkomany",
+    "questions": [
+      "Chto vy dumaete o tom, chto vashi sosedi — narkomany?",
+      "Naskol'ko vazhnym vy schitaete tot fakt, chto vashi sosedi — narkomany?",
+      "Upominalos' li vam, chto vashi sosedi — narkomany, kak povod dlja bespokojstva?",
+      "Znaete li vy, chto vashi sosedi narkomany?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q19": {
+    "description": "Sosedi: ljudi drugoj rasy",
+    "questions": [
+      "Kak vy dumaete, vazhno li imet' sosedej, prinadlezhaschih k drugoj rase?",
+      "Ne upominaetsja li v vashem rajone nalichie sosedej, javljajuschihsja ljud'mi drugoj rasy?",
+      "Vy ne uvereny, est' li u vas sosedi, prinadlezhaschie k drugoj rase?",
+      "U vas est' sosedi, kotorye prinadlezhat k drugoj rase, no vy ob etom ne znaete?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q20": {
+    "description": "Sosedi: ljudi, bol'nye SPIDom",
+    "questions": [
+      "Naskol'ko, po vashemu mneniju, vazhno imet' sluzhby podderzhki dlja sosedej, bol'nyh SPIDom?",
+      "V kakoj stepeni, po vashemu mneniju, sleduet otkryto obsuzhdat' v obschestve temu sosedej, bol'nyh SPIDom?",
+      "Znaete li vy o dostupnyh resursah i pomoschi dlja sosedej, bol'nyh SPIDom?",
+      "Naskol'ko vy osvedomleny o konkretnyh problemah i potrebnostjah, s kotorymi stalkivajutsja sosedi, bol'nye SPIDom?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q21": {
+    "description": "Sosedi: immigranty/inostrannye rabochie",
+    "questions": [
+      "Naskol'ko, po-vashemu, vazhno imet' sosedej sredi immigrantov/inostrannyh rabochih?",
+      "Po Vashemu mneniju, upominaetsja li, javljajutsja li Vashi sosedi immigrantami/inostrannymi rabochimi?",
+      "Znaete li vy, javljajutsja li vashi sosedi immigrantami/inostrannymi rabochimi?",
+      "Vam ne soobschili o statuse immigranta/inostrannogo rabotnika vashih sosedej?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q22": {
+    "description": "Sosedi: gomoseksualy",
+    "questions": [
+      "Kakovo vashe mnenie o sosedjah-gomoseksualistah?",
+      "Kak by vy otneslis' k sosedjam-gomoseksualistam?",
+      "Schitaete li vy vazhnym upominat' seksual'nuju orientatsiju svoih sosedej?",
+      "Znaete li vy seksual'nuju orientatsiju svoih sosedej?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q23": {
+    "description": "Sosedi: ljudi drugoj religii",
+    "questions": [
+      "Kakovo vashe mnenie o sosedjah, ispovedujuschih druguju religiju?",
+      "Na vash vzgljad, igraet li religioznaja prinadlezhnost' vashih sosedej suschestvennuju rol'?",
+      "Schitaete li vy vazhnym, chtoby sosedi raskryvali svoi religioznye ubezhdenija?",
+      "Znaete li vy o religioznoj prinadlezhnosti vashih sosedej?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q24": {
+    "description": "Sosedi: ljubiteli vypit'",
+    "questions": [
+      "Vashi sosedi mnogo p'jut?",
+      "Schitaete li vy, chto vashi sosedi — zajadlye p'juschie ljudi?",
+      "Mozhno li skazat', chto vashi sosedi — zajadlye p'juschie ljudi?",
+      "Vazhny li dlja vas privychki sosedej upotrebljat' alkogol'?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q25": {
+    "description": "Sosedi: Ne sostojaschie v brake pary, zhivuschie vmeste.",
+    "questions": [
+      "Kakovo vashe mnenie o sosedjah, kotorye javljajutsja ne sostojaschimi v brake parami, zhivuschimi vmeste?",
+      "Kak by vy otneslis' k sosedstvu s ne sostojaschimi v brake parami?",
+      "Schitaete li vy vazhnym upominat' semejnoe polozhenie vashih sosedej?",
+      "Znaete li vy semejnoe polozhenie svoih sosedej?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q26": {
+    "description": "Sosedi: ljudi, govorjaschie na drugom jazyke",
+    "questions": [
+      "Naskol'ko dlja vas vazhno, chtoby sosedi govorili na drugom jazyke?",
+      "Vam govorili, chto sosedi dolzhny govorit' na drugom jazyke?",
+      "Znaete li vy, vazhno li imet' sosedej, govorjaschih na drugom jazyke?",
+      "Znaete li vy, upominajutsja li sosedi, govorjaschie na drugom jazyke?"
+    ],
+    "options": [
+      "Vazhnyj",
+      "Ne znaju",
+      "Ne vazhno"
+    ]
+  },
+  "Q27": {
+    "description": "Odnoj iz glavnyh tselej v zhizni bylo sdelat' tak, chtoby moi roditeli mnoj gordilis'.",
+    "questions": [
+      "V kakoj stepeni odnoj iz glavnyh tselej moej zhizni javljaetsja zastavit' moih roditelej gordit'sja mnoj?",
+      "Naskol'ko ja stremljus' k tomu, chtoby moi roditeli gordilis' mnoj v zhizni?",
+      "V kakoj stepeni ja stremljus' sdelat' tak, chtoby moi roditeli gordilis' mnoj v zhizni?",
+      "Schitaju li ja, chto sdelat' tak, chtoby moi roditeli mnoj gordilis', odnoj iz svoih glavnyh zhiznennyh tselej?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q28": {
+    "description": "Rebenok doshkol'nogo vozrasta stradaet ot rabotajuschej materi",
+    "questions": [
+      "Schitaete li vy, chto rebenok doshkol'nogo vozrasta stradaet, kogda ego mat' rabotaet?",
+      "Schitaete li vy, chto rabotajuschaja mat' negativno vlijaet na svoego rebenka-doshkol'nika?",
+      "Soglasny li vy s tem, chto rebenok doshkol'nogo vozrasta stalkivaetsja s trudnostjami iz-za zanjatosti materi?",
+      "Sklonny li vy schitat', chto rabotajuschaja mat' okazyvaet pagubnoe vlijanie na svoego rebenka doshkol'nogo vozrasta?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q29": {
+    "description": "Muzhchiny stanovjatsja luchshimi politicheskimi liderami, chem zhenschiny",
+    "questions": [
+      "Vy polnost'ju soglasny, soglasny, ne soglasny, kategoricheski ne soglasny ili ne znaete, javljajutsja li muzhchiny luchshimi politicheskimi liderami, chem zhenschiny?",
+      "Vy by skazali, chto polnost'ju soglasny, soglasny, ne soglasny, kategoricheski ne soglasny ili ne znaete s utverzhdeniem, chto muzhchiny javljajutsja luchshimi politicheskimi liderami, chem zhenschiny?",
+      "Po vashemu mneniju, vy polnost'ju soglasny, soglasny, ne soglasny, kategoricheski ne soglasny ili ne znaete, chto muzhchiny javljajutsja luchshimi politicheskimi liderami, chem zhenschiny?",
+      "Vasha pozitsija: polnost'ju soglasen, soglasen, ne soglasen, polnost'ju ne soglasen ili ne znaju, kogda rech' zahodit o tom, chto muzhchiny javljajutsja luchshimi politicheskimi liderami, chem zhenschiny?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q30": {
+    "description": "Universitet vazhnee dlja mal'chika, chem dlja devochki.",
+    "questions": [
+      "Schitaete li vy, chto universitet dlja mal'chika vazhnee, chem dlja devochki?",
+      "Po vashemu mneniju, universitet dlja junoshi vazhnee, chem dlja devushki?",
+      "Soglasny li vy s tem, chto universitet imeet bol'shee znachenie dlja junoshi, chem dlja devushki?",
+      "Schitaete li vy, chto universitet dlja junoshi vazhnee, chem dlja devushki?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q31": {
+    "description": "Muzhchiny — luchshie rukovoditeli biznesa, chem zhenschiny",
+    "questions": [
+      "Schitaete li vy, chto muzhchiny javljajutsja luchshimi rukovoditeljami biznesa, chem zhenschiny?",
+      "Po vashemu mneniju, muzhchiny bolee uspeshny v kachestve rukovoditelej biznesa po sravneniju s zhenschinami?",
+      "Soglasny li vy s utverzhdeniem, chto muzhchiny javljajutsja luchshimi rukovoditeljami biznesa, chem zhenschiny?",
+      "Schitaete li vy, chto zhenschiny menee effektivny kak rukovoditeli biznesa po sravneniju s muzhchinami?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q32": {
+    "description": "Byt' domohozjajkoj tak zhe uvlekatel'no,",
+    "questions": [
+      "Javljaetsja li byt' domohozjajkoj takoj zhe uvlekatel'noj rabotoj, kak i kar'era?",
+      "Schitaete li vy, chto byt' domohozjajkoj tak zhe uvlekatel'no, kak i zanimat'sja kar'eroj?",
+      "Kak vy dumaete, byt' domohozjajkoj tak zhe uvlekatel'no, kak i zanimat'sja kar'eroj?",
+      "Soglasites' li vy s tem, chto byt' domohozjajkoj mozhet byt' tak zhe interesno, kak i zanimat'sja kar'eroj?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q33": {
+    "description": "Defitsit rabochih mest: muzhchiny dolzhny imet' bol'she prav na rabotu, chem zhenschiny",
+    "questions": [
+      "Soglasny li vy polnost'ju ili net s utverzhdeniem, chto rabochih mest dolzhno byt' malo kak dlja muzhchin, tak i dlja zhenschin?",
+      "Soglasny li vy ili net s utverzhdeniem, chto muzhchiny dolzhny imet' bol'she prav na rabotu, chem zhenschiny?",
+      "Kak vy schitaete, soglasny li vy ili ne soglasny s tem, chto rabochih mest dolzhno byt' malo kak dlja muzhchin, tak i dlja zhenschin?",
+      "Vy kategoricheski ne soglasny ili ne znaete, dolzhny li muzhchiny imet' bol'she prav na rabotu, chem zhenschiny?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q34": {
+    "description": "Defitsit rabochih mest: rabotodateli dolzhny otdavat' prioritet grazhdanam strany, a ne immigrantam",
+    "questions": [
+      "Dolzhny li rabotodateli otdavat' prioritet grazhdanam (strany) po sravneniju s immigrantami iz-za nehvatki rabochih mest?",
+      "Soglasny li vy s tem, chto rabotodateli dolzhny otdavat' predpochtenie grazhdanam (strany) immigrantam v sluchae nehvatki rabochih mest?",
+      "Spravedlivo li, chto rabotodateli v period nehvatki rabochih mest otdajut prioritet grazhdanam strany, a ne immigrantam?",
+      "Schitaete li vy, chto rabotodateli dolzhny otdavat' prioritet predstaviteljam (strany), a ne immigrantam v periody nehvatki rabochih mest?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q35": {
+    "description": "Problema, esli u zhenschiny dohod bol'she, chem u muzha",
+    "questions": [
+      "Kakovo vashe mnenie o probleme, esli u zhenschiny dohod bol'she, chem u ee muzha?",
+      "Kak vy otnosites' k situatsii, kogda zhenschina zarabatyvaet bol'she muzha?",
+      "Schitaete li vy, chto suschestvuet problema, kogda dohod zheny prevyshaet dohod ee muzha?",
+      "Kakova vasha pozitsija po voprosu o tom, chto zhenschiny zarabatyvajut bol'she svoih muzhej?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q37": {
+    "description": "Objazannost' pered obschestvom imet' detej",
+    "questions": [
+      "Javljaetsja li rozhdenie detej objazannost'ju obschestva?",
+      "Schitaete li vy, chto imet' detej — eto dolg pered obschestvom?",
+      "Schitaete li vy, chto u ljudej est' objazannost' pered obschestvom imet' detej?",
+      "Dolzhny li ljudi chuvstvovat' sebja objazannymi pered obschestvom imet' detej?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q38": {
+    "description": "Objazannost' detej – zabotit'sja o bol'nyh roditeljah.",
+    "questions": [
+      "Schitaete li vy, chto deti objazany zabotit'sja o bol'nyh roditeljah?",
+      "Dolzhny li deti nesti otvetstvennost' za uhod za bol'nym roditelem?",
+      "Soglasny li vy s tem, chto deti objazany zabotit'sja o bol'nyh roditeljah?",
+      "Javljajutsja li deti objazannost'ju uhazhivat' za bol'nym roditelem?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q39": {
+    "description": "Ljudi, kotorye ne rabotajut, stanovjatsja lenivymi",
+    "questions": [
+      "Verite li vy v to, chto ljudi, kotorye ne rabotajut, stanovjatsja lenivymi?",
+      "Kak vy dumaete, ljudi, kotorye ne rabotajut, sklonny k leni?",
+      "Schitaete li vy, chto ljudi, kotorye ne rabotajut, chasto stanovjatsja lenivymi?",
+      "Soglasny li vy ili net s utverzhdeniem, chto ljudi, kotorye ne rabotajut, stanovjatsja lenivymi?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q40": {
+    "description": "Rabota — eto dolg pered obschestvom",
+    "questions": [
+      "Schitaete li vy, chto rabota — eto dolg pered obschestvom?",
+      "Schitaetsja li rabota dolgom pered obschestvom?",
+      "V kakoj stepeni vy soglasny s tem, chto trud — eto dolg pered obschestvom?",
+      "Schitaete li vy, chto rabotu sleduet rassmatrivat' kak objazannost' pered obschestvom?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q41": {
+    "description": "Rabota vsegda dolzhna byt' na pervom meste, dazhe esli eto oznachaet men'she svobodnogo vremeni.",
+    "questions": [
+      "Dolzhna li rabota vsegda stojat' na pervom meste, dazhe esli eto oznachaet men'she svobodnogo vremeni?",
+      "Schitaete li vy, chto rabota vsegda dolzhna byt' prioritetnee svobodnogo vremeni?",
+      "Dopustimo li, chtoby rabota byla vazhnee svobodnogo vremeni?",
+      "Schitaete li vy, chto zhertvovat' svobodnym vremenem radi raboty neobhodimo vo vseh situatsijah?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ni soglasen, ni ne soglasen",
+      "Ne znaju",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ]
+  },
+  "Q42": {
+    "description": "Osnovnye tipy otnoshenija k obschestvu",
+    "questions": [
+      "Chto vy dumaete ob obschej organizatsii nashego obschestva?",
+      "Kak, po vashemu mneniju, mozhno uluchshit' nashe obschestvo?",
+      "Kakova vasha pozitsija po zaschite nashego obschestva ot podryvnyh sil?",
+      "Est' li u vas chetkoe mnenie o tom, kakuju pozitsiju dolzhno zanjat' nashe obschestvo?"
+    ],
+    "options": [
+      "Ves' sposob organizatsii nashego obschestva dolzhen byt' radikal'no izmenen revoljutsionnymi dejstvijami.",
+      "Nashe obschestvo dolzhno postepenno uluchshat'sja putem reform.",
+      "Nashe nyneshnee obschestvo dolzhno byt' doblestno zaschischeno ot vseh podryvnyh sil.",
+      "Ne znaju"
+    ]
+  },
+  "Q43": {
+    "description": "Buduschie izmenenija: men'she znachenija rabote",
+    "questions": [
+      "Kakovo vashe mnenie o buduschih izmenenijah: rabote budet udeljat'sja men'she vnimanija?",
+      "Kak vy otsenivaete buduschie izmenenija, svjazannye s umen'sheniem znachimosti raboty?",
+      "Chto vy dumaete o buduschej tendentsii udeljat' men'she vnimanija rabote?",
+      "Kakovo vashe mnenie o snizhenii vnimanija k rabote v buduschem?"
+    ],
+    "options": [
+      "Horoshaja vesch'.",
+      "Ne obraschaj vnimanija",
+      "Ne znaju",
+      "Plohaja vesch'"
+    ]
+  },
+  "Q44": {
+    "description": "Buduschie izmenenija: bol'she vnimanija tehnologijam",
+    "questions": [
+      "Chto vy dumaete o buduschih izmenenijah s bol'shim uporom na tehnologii?",
+      "Chto vy dumaete o vozmozhnosti bol'shego aktsenta na tehnologijah v buduschem?",
+      "Chto vy dumaete o povyshennom vnimanii k tehnologijam v predstojaschih izmenenijah?",
+      "Kakova vasha pozitsija otnositel'no predstojaschih izmenenij, predpolagajuschih bol'shij aktsent na tehnologijah?"
+    ],
+    "options": [
+      "Horoshaja vesch'.",
+      "Ne obraschaj vnimanija",
+      "Ne znaju",
+      "Plohaja vesch'"
+    ]
+  },
+  "Q45": {
+    "description": "Buduschie izmenenija: bol'shee uvazhenie k vlasti",
+    "questions": [
+      "Chto vy dumaete o buduschih izmenenijah v plane bol'shego uvazhenija k vlasti?",
+      "Chto vy dumaete o vozmozhnom roste uvazhenija k vlasti v buduschem?",
+      "Kakovo vashe mnenie ob ozhidaemom roste uvazhenija k vlasti v blizhajshie gody?",
+      "Chto vy dumaete o buduschem sdvige v storonu bol'shego uvazhenija k vlasti?"
+    ],
+    "options": [
+      "Horoshaja vesch'.",
+      "Ne obraschaj vnimanija",
+      "Ne znaju",
+      "Plohaja vesch'"
+    ]
+  },
+  "Q46": {
+    "description": "Chuvstvo schast'ja",
+    "questions": [
+      "Kak by vy otsenili svoe chuvstvo schast'ja?",
+      "Po shkale ot 1 do 5, gde 1 — polnoe nedovol'stvo, a 5 — ochen' bol'shoe schast'e, kak by vy otsenili svoj uroven' schast'ja?",
+      "Schitaete li vy sebja schastlivym chelovekom?",
+      "Naskol'ko vy schastlivy kazhdyj den'?"
+    ],
+    "options": [
+      "Ochen' schastliv",
+      "Vpolne dovolen",
+      "Ne znaju",
+      "Ne ochen' dovolen",
+      "Sovsem ne schastliv"
+    ]
+  },
+  "Q47": {
+    "description": "Sostojanie zdorov'ja (sub'ektivnoe)",
+    "questions": [
+      "Kak by vy opisali svoe tekuschee sostojanie zdorov'ja?",
+      "Otsenite, pozhalujsta, Vashe sub'ektivnoe sostojanie zdorov'ja.",
+      "Po shkale ot «ochen' horosho» do «ochen' ploho» kak by vy otsenili svoe zdorov'e?",
+      "S tochki zrenija vashego obschego blagopoluchija, kak by vy otsenili svoe zdorov'e?"
+    ],
+    "options": [
+      "Ochen' horoshij",
+      "Horoshij",
+      "Spravedlivyj",
+      "Bednyj",
+      "Ochen' ploho"
+    ]
+  },
+  "Q51": {
+    "description": "Chastota, s kotoroj vy/sem'ja stalkivalis' (poslednie 12 mesjatsev): ispytyvali nedostatok v ede",
+    "questions": [
+      "Kak chasto za poslednie 12 mesjatsev vy ili vasha sem'ja ostavalis' bez dostatochnogo kolichestva edy?",
+      "Kak chasto za poslednij god vy ili chleny vashej sem'i stalkivalis' s problemoj nehvatki edy?",
+      "Za poslednie 12 mesjatsev prihodilos' li vam ili chlenam vashej sem'i inogda ispytyvat' nehvatku edy?",
+      "Kak chasto za poslednie 12 mesjatsev vy ili vasha sem'ja stalkivalis' s situatsiej nehvatki edy?"
+    ],
+    "options": [
+      "Chasto",
+      "Inogda",
+      "Ne znaju",
+      "Redko",
+      "Nikogda"
+    ]
+  },
+  "Q52": {
+    "description": "Chastota, s kotoroj vy/sem'ja (za poslednie 12 mesjatsev): chuvstvovali sebja v opasnosti iz-za prestuplenija v sobstvennom dome",
+    "questions": [
+      "Chasto li vy chuvstvovali sebja v opasnosti iz-za prestuplenij u sebja doma?",
+      "Kak chasto vy chuvstvovali sebja v opasnosti iz-za prestuplenij u sebja doma?",
+      "Kak chasto za poslednie 12 mesjatsev vy chuvstvovali sebja v opasnosti iz-za prestuplenij u sebja doma?",
+      "Za poslednij god vy chasto, inogda, redko ili nikogda ne chuvstvovali sebja v bezopasnosti ot prestuplenij u sebja doma?"
+    ],
+    "options": [
+      "Chasto",
+      "Inogda",
+      "Ne znaju",
+      "Redko",
+      "Nikogda"
+    ]
+  },
+  "Q53": {
+    "description": "Chastota, s kotoroj vy/sem'ja stolknulis' (poslednie 12 mesjatsev): ne prinimali neobhodimye lekarstva ili ne poluchali neobhodimoe lechenie.",
+    "questions": [
+      "Kak chasto za poslednie 12 mesjatsev vy ili chleny vashej sem'i ostavalis' bez neobhodimyh vam lekarstv ili lechenija?",
+      "Kak chasto za poslednie 12 mesjatsev vy ili chleny vashej sem'i ostavalis' bez neobhodimyh vam lekarstv ili lechenija?",
+      "Kak chasto za poslednie 12 mesjatsev vy ili chleny vashej sem'i ostavalis' bez neobhodimyh lekarstv ili lechenija?",
+      "Prihodilos' li vam ili chlenam vashej sem'i redko, inogda ili chasto obhodit'sja bez neobhodimyh vam lekarstv ili lechenija za poslednie 12 mesjatsev?"
+    ],
+    "options": [
+      "Chasto",
+      "Inogda",
+      "Ne znaju",
+      "Redko",
+      "Nikogda"
+    ]
+  },
+  "Q54": {
+    "description": "Chastota, s kotoroj vy/sem'ja stolknulis' (poslednie 12 mesjatsev): ostalis' bez denezhnogo dohoda",
+    "questions": [
+      "Chastota, s kotoroj vy/sem'ja stolknulis' (poslednie 12 mesjatsev): Ostalis' bez denezhnogo dohoda?",
+      "Kak chasto za poslednie 12 mesjatsev vy ili vasha sem'ja ostavalis' bez denezhnogo dohoda?",
+      "Kak chasto za poslednij god u vas ili vashej sem'i byl period otsutstvija denezhnogo dohoda?",
+      "Stalkivalis' li vy ili vasha sem'ja s nehvatkoj denezhnyh sredstv za poslednie 12 mesjatsev? Esli da, to kak chasto?"
+    ],
+    "options": [
+      "Chasto",
+      "Inogda",
+      "Ne znaju",
+      "Redko",
+      "Nikogda"
+    ]
+  },
+  "Q55": {
+    "description": "Za poslednie 12 mesjatsev kak chasto vy ili vasha sem'ja: ostavalis' bez nadezhnogo ubezhischa nad golovoj",
+    "questions": [
+      "Kak chasto za poslednie 12 mesjatsev vy ili vasha sem'ja ostavalis' bez bezopasnogo ubezhischa nad golovoj?",
+      "Kak chasto za poslednij god vy ili vasha sem'ja stalkivalis' s nehvatkoj bezopasnogo zhil'ja?",
+      "Kak chasto za poslednie 12 mesjatsev u vas ili vashej sem'i ne bylo dostupa k bezopasnomu ubezhischu?",
+      "Byli li u vas ili vashej sem'i periody otsutstvija bezopasnogo ubezhischa v techenie poslednego goda? Esli da, to kak chasto?"
+    ],
+    "options": [
+      "Chasto",
+      "Inogda",
+      "Ne znaju",
+      "Redko",
+      "Nikogda"
+    ]
+  },
+  "Q57": {
+    "description": "Bol'shinstvu ljudej mozhno doverjat'",
+    "questions": [
+      "Verite li vy, chto bol'shinstvu ljudej mozhno doverjat'?",
+      "Po vashemu mneniju, mozhno li doverjat' bol'shinstvu ljudej?",
+      "Schitaete li vy, chto bol'shinstvu ljudej mozhno doverjat'?",
+      "Kak vy dumaete, mozhno li doverjat' bol'shinstvu ljudej?"
+    ],
+    "options": [
+      "Bol'shinstvu ljudej mozhno doverjat'",
+      "Nuzhno byt' ochen' ostorozhnym"
+    ],
+    "scale": false
+  },
+  "Q58": {
+    "description": "Doverie: Vasha sem'ja",
+    "questions": [
+      "Naskol'ko vy doverjaete svoej sem'e?",
+      "Suschestvuet li v vashej sem'e znachitel'nyj uroven' doverija?",
+      "Naskol'ko vy doverjaete svoej sem'e?",
+      "Naskol'ko vy v tselom doverjaete svoej sem'e?"
+    ],
+    "options": [
+      "Doverjajte polnost'ju",
+      "Doverjajte nemnogo",
+      "Ne znaju",
+      "Ne ochen' doverjaju",
+      "Ne doverjaj voobsche"
+    ]
+  },
+  "Q59": {
+    "description": "Doverie: Vash rajon",
+    "questions": [
+      "Naskol'ko vy doverjaete svoemu rajonu?",
+      "V kakoj stepeni vy doverjaete svoemu rajonu?",
+      "Kak by vy otsenili uroven' doverija k svoemu rajonu?",
+      "Vysokij li u vas uroven' doverija k svoemu rajonu?"
+    ],
+    "options": [
+      "Doverjajte polnost'ju",
+      "Doverjajte nemnogo",
+      "Ne znaju",
+      "Ne ochen' doverjaju",
+      "Ne doverjaj voobsche"
+    ]
+  },
+  "Q60": {
+    "description": "Doverie: Ljudjam, kotoryh vy znaete lichno",
+    "questions": [
+      "Naskol'ko vy doverjaete ljudjam, kotoryh znaete lichno?",
+      "V kakoj stepeni vy doverjaete ljudjam, kotoryh znaete lichno?",
+      "Doverjaete li vy ljudjam, kotoryh znaete lichno?",
+      "Kak vy otsenivaete svoj uroven' doverija k ljudjam, kotoryh vy znaete lichno: vysokij ili nizkij?"
+    ],
+    "options": [
+      "Doverjajte polnost'ju",
+      "Doverjajte nemnogo",
+      "Ne znaju",
+      "Ne ochen' doverjaju",
+      "Ne doverjaj voobsche"
+    ]
+  },
+  "Q61": {
+    "description": "Doverie: ljudi, kotoryh vy vstrechaete vpervye",
+    "questions": [
+      "Naskol'ko vy doverjaete ljudjam, s kotorymi vstrechaetes' vpervye?",
+      "Naskol'ko vy doverjaete ljudjam, s kotorymi stalkivaetes' vpervye?",
+      "Naskol'ko vy doverjaete ljudjam, s kotorymi vstrechaetes' vpervye?",
+      "Kak by vy otsenili uroven' doverija k ljudjam pri pervoj vstreche?"
+    ],
+    "options": [
+      "Doverjajte polnost'ju",
+      "Doverjajte nemnogo",
+      "Ne znaju",
+      "Ne ochen' doverjaju",
+      "Ne doverjaj voobsche"
+    ]
+  },
+  "Q62": {
+    "description": "Doverie: Ljudi drugoj religii",
+    "questions": [
+      "Naskol'ko vy doverjaete ljudjam drugoj religii?",
+      "Naskol'ko vy doverjaete ljudjam drugoj religii?",
+      "Mozhete li vy skazat', chto doverjaete ljudjam, ispovedujuschim druguju religiju?",
+      "Doverjaete li vy ljudjam, ispovedujuschim druguju religiju?"
+    ],
+    "options": [
+      "Doverjajte polnost'ju",
+      "Doverjajte nemnogo",
+      "Ne znaju",
+      "Ne ochen' doverjaju",
+      "Ne doverjaj voobsche"
+    ]
+  },
+  "Q63": {
+    "description": "Doverie: ljudi drugoj natsional'nosti",
+    "questions": [
+      "Naskol'ko vy doverjaete ljudjam drugoj natsional'nosti?",
+      "V kakoj stepeni vy doverjaete ljudjam drugoj natsional'nosti?",
+      "Naskol'ko vy doverjaete ljudjam drugoj natsional'nosti?",
+      "Doverjaete li vy litsam drugoj natsional'nosti?"
+    ],
+    "options": [
+      "Doverjajte polnost'ju",
+      "Doverjajte nemnogo",
+      "Ne znaju",
+      "Ne ochen' doverjaju",
+      "Ne doverjaj voobsche"
+    ]
+  },
+  "Q64": {
+    "description": "Uverennost': Tserkvi",
+    "questions": [
+      "Naskol'ko vy doverjaete tserkvjam?",
+      "Naskol'ko vy doverjaete tserkvjam?",
+      "Kak by vy otsenili uroven' vashego doverija k tserkvjam?",
+      "Vy doverjaete tserkvjam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q65": {
+    "description": "Uverennost': Vooruzhennye sily",
+    "questions": [
+      "Naskol'ko vy doverjaete vooruzhennym silam?",
+      "Naskol'ko vy doverjaete vooruzhennym silam?",
+      "Kak by vy otsenili uroven' vashego doverija k vooruzhennym silam?",
+      "Doverjaete li vy vooruzhennym silam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q66": {
+    "description": "Uverennost': Pressa",
+    "questions": [
+      "Naskol'ko vy doverjaete presse?",
+      "Vy doverjaete presse?",
+      "Naskol'ko vy doverjaete presse?",
+      "Mozhno li skazat', chto vy ochen' doverjaete presse?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q67": {
+    "description": "Uverennost': Televidenie",
+    "questions": [
+      "Naskol'ko vy doverjaete televideniju?",
+      "Naskol'ko vy doverjaete televideniju?",
+      "Naskol'ko komfortno vam polagat'sja na televidenie?",
+      "Naskol'ko vy uvereny v televidenii?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q68": {
+    "description": "Doverie: profsojuzy",
+    "questions": [
+      "Naskol'ko vy doverjaete profsojuzam?",
+      "Naskol'ko vy doverjaete profsojuzam?",
+      "Naskol'ko vy doverjaete profsojuzam?",
+      "Verite li vy v profsojuzy?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q69": {
+    "description": "Cofidence: Politsija",
+    "questions": [
+      "Naskol'ko vy doverjaete politsii?",
+      "Naskol'ko vy doverjaete politsii?",
+      "Kak by vy otsenili uroven' vashego doverija k politsii?",
+      "Doverjaete li vy politsii?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q70": {
+    "description": "Doverie: sudy",
+    "questions": [
+      "Naskol'ko vy doverjaete sudam?",
+      "Naskol'ko vy doverjaete sudam?",
+      "Kak by vy otsenili uroven' vashego doverija k sudam?",
+      "Doverjaete li vy sudam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q71": {
+    "description": "Doverie: Pravitel'stvo",
+    "questions": [
+      "Naskol'ko vy doverjaete pravitel'stvu?",
+      "Naskol'ko vy doverjaete pravitel'stvu?",
+      "Kak by vy otsenili uroven' vashego doverija k pravitel'stvu?",
+      "Doverjaete li vy pravitel'stvu?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q72": {
+    "description": "Doverie: Politicheskie partii",
+    "questions": [
+      "Naskol'ko vy doverjaete politicheskim partijam?",
+      "Naskol'ko vy doverjaete politicheskim partijam?",
+      "Kak by vy otsenili uroven' vashego doverija k politicheskim partijam?",
+      "Vysokij ili nizkij uroven' doverija u vas k politicheskim partijam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q73": {
+    "description": "Doverie: Parlament",
+    "questions": [
+      "Naskol'ko vy uvereny v parlamente?",
+      "Naskol'ko vy doverjaete parlamentu?",
+      "Naskol'ko vy doverjaete parlamentu?",
+      "Kak by vy otsenili parlament s tochki zrenija doverija?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q74": {
+    "description": "Doverie: Gosudarstvennye sluzhby",
+    "questions": [
+      "Naskol'ko vy doverjaete gosudarstvennym sluzhbam?",
+      "Naskol'ko vy doverjaete gosudarstvennym sluzhbam?",
+      "Kak by vy otsenili uroven' vashego doverija k gosudarstvennoj sluzhbe?",
+      "Doverjaete li vy gosudarstvennym sluzhbam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q75": {
+    "description": "Uverennost': Universitety (chastnye)",
+    "questions": [
+      "Otsenite stepen' vashego doverija k universitetam (chastnym):",
+      "Po shkale ot 1 do 5, naskol'ko vy uvereny v universitetah (chastnyh)?",
+      "Naskol'ko vy doverjaete universitetam (chastnym)?",
+      "Naskol'ko vy uvereny v universitetah (chastnyh)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q77": {
+    "description": "Uverennost': Krupnye kompanii",
+    "questions": [
+      "Naskol'ko vy doverjaete krupnym kompanijam?",
+      "Po shkale ot 1 do 5, naskol'ko vy uvereny v krupnyh kompanijah?",
+      "Schitaete li vy, chto krupnye kompanii zasluzhivajut vashego doverija?",
+      "V tselom, kak by vy otsenili svoe doverie k krupnym kompanijam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q78": {
+    "description": "Doverie: Chastnye banki",
+    "questions": [
+      "Otsenite uroven' vashego doverija k chastnym bankam.",
+      "Po shkale ot 1 do 5, naskol'ko vy doverjaete chastnym bankam?",
+      "Kak by vy opisali uroven' vashego doverija k chastnym bankam?",
+      "Naskol'ko vy doverjaete chastnym bankam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q79": {
+    "description": "Uverennost': dvizhenie za zaschitu okruzhajuschej sredy",
+    "questions": [
+      "Naskol'ko vy doverjaete Dvizheniju za zaschitu okruzhajuschej sredy?",
+      "Naskol'ko vy doverjaete Dvizheniju v zaschitu okruzhajuschej sredy?",
+      "Naskol'ko vy doverjaete Dvizheniju za zaschitu okruzhajuschej sredy?",
+      "Naskol'ko vy uvereny v Dvizhenii za zaschitu okruzhajuschej sredy?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q80": {
+    "description": "Uverennost': Zhenskoe dvizhenie",
+    "questions": [
+      "Naskol'ko vy doverjaete dvizheniju «Uverennost': zhenskoe dvizhenie»?",
+      "Po shkale ot 1 do 5, naskol'ko vy doverjaete dvizheniju «Uverennost': Zhenskoe dvizhenie»?",
+      "V kakoj stepeni vy doverjaete «Uverennosti: zhenskomu dvizheniju»?",
+      "Kak by vy otsenili svoju uverennost' v «Uverennosti: zhenskom dvizhenii»?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q81": {
+    "description": "Doverie: Blagotvoritel'nye ili gumanitarnye organizatsii",
+    "questions": [
+      "Naskol'ko vy doverjaete blagotvoritel'nym i gumanitarnym organizatsijam?",
+      "Naskol'ko vy doverjaete blagotvoritel'nym i gumanitarnym organizatsijam?",
+      "Kak by vy otsenili uroven' svoego doverija k blagotvoritel'nym i gumanitarnym organizatsijam?",
+      "Doverjaete li vy blagotvoritel'nym ili gumanitarnym organizatsijam?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q82": {
+    "description": "Uverennost': krupnaja regional'naja organizatsija (ob'edinennaja s organizatsijami, rabotajuschimi v konkretnyh stranah)",
+    "questions": [
+      "Naskol'ko vy doverjaete krupnoj regional'noj organizatsii (v sovokupnosti po stranam)?",
+      "V kakoj stepeni vy doverjaete osnovnym regional'nym organizatsijam (vmeste s organizatsijami po otdel'nym stranam)?",
+      "Kak by vy otsenili uroven' doverija k krupnejshej regional'noj organizatsii (v sovokupnosti po stranam)?",
+      "Naskol'ko vam komfortno polagat'sja na krupnejshuju regional'nuju organizatsiju (vmeste s organizatsijami po otdel'nym stranam)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q83": {
+    "description": "Doverie: Organizatsija Ob'edinennyh Natsij (OON)",
+    "questions": [
+      "Naskol'ko vy doverjaete Organizatsii Ob'edinennyh Natsij (OON)?",
+      "Naskol'ko vy doverjaete Organizatsii Ob'edinennyh Natsij (OON)?",
+      "Po vashemu mneniju, naskol'ko sil'no vashe doverie k Organizatsii Ob'edinennyh Natsij (OON)?",
+      "Kak by vy otsenili uroven' svoego doverija k Organizatsii Ob'edinennyh Natsij (OON)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q84": {
+    "description": "Uverennost': Mezhdunarodnyj valjutnyj fond (MVF)",
+    "questions": [
+      "Naskol'ko vy doverjaete Mezhdunarodnomu valjutnomu fondu (MVF)?",
+      "Naskol'ko vy doverjaete Mezhdunarodnomu valjutnomu fondu (MVF)?",
+      "Kak by vy otsenili uroven' doverija k Mezhdunarodnomu valjutnomu fondu (MVF)?",
+      "Polozhitel'no li vy otnosites' k Mezhdunarodnomu valjutnomu fondu (MVF)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q85": {
+    "description": "Doverie: Mezhdunarodnyj ugolovnyj sud (MUS)",
+    "questions": [
+      "Naskol'ko vy doverjaete Mezhdunarodnomu ugolovnomu sudu (MUS)?",
+      "Naskol'ko vy doverjaete Mezhdunarodnomu ugolovnomu sudu (MUS)?",
+      "Naskol'ko vy doverjaete Mezhdunarodnomu ugolovnomu sudu (MUS)?",
+      "Naskol'ko sil'no vy verite v effektivnost' Mezhdunarodnogo ugolovnogo suda (MUS)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q86": {
+    "description": "Uverennost': Organizatsija Severoatlanticheskogo dogovora (NATO)",
+    "questions": [
+      "Naskol'ko vy doverjaete Organizatsii Severoatlanticheskogo dogovora (NATO)?",
+      "Naskol'ko vy doverjaete Organizatsii Severoatlanticheskogo dogovora (NATO)?",
+      "Naskol'ko vy doverjaete Organizatsii Severoatlanticheskogo dogovora (NATO)?",
+      "Po vashemu mneniju, naskol'ko vy doverjaete Organizatsii Severoatlanticheskogo dogovora (NATO)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q87": {
+    "description": "Doverie: Vsemirnyj bank (VB)",
+    "questions": [
+      "Naskol'ko vy doverjaete Vsemirnomu banku (VB)?",
+      "Naskol'ko vy doverjaete Vsemirnomu banku (VB)?",
+      "Kak by vy otsenili uroven' doverija k Vsemirnomu banku (VB)?",
+      "Naskol'ko vy doverjaete Vsemirnomu banku (VB)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q88": {
+    "description": "Uverennost': Vsemirnaja organizatsija zdravoohranenija (VOZ)",
+    "questions": [
+      "Naskol'ko vy doverjaete Vsemirnoj organizatsii zdravoohranenija (VOZ)?",
+      "Naskol'ko vy doverjaete Vsemirnoj organizatsii zdravoohranenija (VOZ)?",
+      "V tselom, naskol'ko vy doverjaete Vsemirnoj organizatsii zdravoohranenija (VOZ)?",
+      "Naskol'ko vy uvereny v avtoritetnosti Vsemirnoj organizatsii zdravoohranenija (VOZ)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q89": {
+    "description": "Doverie: Vsemirnaja torgovaja organizatsija (VTO)",
+    "questions": [
+      "Naskol'ko vy doverjaete Vsemirnoj torgovoj organizatsii (VTO)?",
+      "Naskol'ko vy doverjaete Vsemirnoj torgovoj organizatsii (VTO)?",
+      "Naskol'ko vy doverjaete Vsemirnoj torgovoj organizatsii (VTO)?",
+      "Naskol'ko vy doverjaete Vsemirnoj torgovoj organizatsii (VTO)?"
+    ],
+    "options": [
+      "Otlichnaja sdelka",
+      "Dovol'no mnogo",
+      "Ne znaju",
+      "Ne ochen' mnogo",
+      "Voobsche nichego"
+    ]
+  },
+  "Q90": {
+    "description": "Mezhdunarodnye organizatsii: effektivnost' protiv demokratii",
+    "questions": [
+      "Po shkale ot 1 do 10, kak by vy otsenili vazhnost' effektivnosti mezhdunarodnyh organizatsij po sravneniju s ih demokratichnost'ju?",
+      "Pozhalujsta, otsenite svoe mnenie po shkale ot 1 do 10, gde 1 predstavljaet vazhnost' effektivnosti mezhdunarodnyh organizatsij, a 10 predstavljaet vazhnost' demokratichnosti.",
+      "Esli govorit' o mezhdunarodnyh organizatsijah, gde vy nahodites' v spektre prioritetov effektivnosti (1) nad demokratiej (10)?",
+      "Kak by vy otsenili balans mezhdu effektivnost'ju i demokratiej v mezhdunarodnyh organizatsijah po shkale ot 1 do 10?"
+    ],
+    "options": [
+      "Byt' effektivnym",
+      "Byt' demokraticheskim"
+    ],
+    "scale": true
+  },
+  "Q106": {
+    "description": "Dohody dolzhny byt' bolee ravnymi. Neobhodimo usilit' stimuly dlja individual'nyh usilij.",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko vy soglasny s utverzhdeniem «Dohody sleduet sdelat' bolee ravnymi»?",
+      "Otsenite, pozhalujsta, uroven' vashej podderzhki idei «Neobhodimo bol'she stimulov dlja individual'nyh usilij» po shkale ot 1 do 10.",
+      "Naskol'ko vy verite v neobhodimost' vyravnivanija dohodov? Otsenite svoe mnenie po shkale ot 1 do 10.",
+      "Naskol'ko vy soglasny s utverzhdeniem, chto «neobhodimo usilit' stimuly dlja individual'nyh usilij»? Otsenite po shkale ot 1 do 10."
+    ],
+    "options": [
+      "Dohody dolzhny byt' bolee ravnymi",
+      "Neobhodimo bol'she stimulov dlja individual'nyh usilij."
+    ],
+    "scale": true
+  },
+  "Q107": {
+    "description": "Chastnaja i gosudarstvennaja sobstvennost' na biznes",
+    "questions": [
+      "Pozhalujsta, ukazhite svoi predpochtenija po shkale ot 1 do 10, gde «1» oznachaet «Dolja chastnoj sobstvennosti na biznes i promyshlennost' dolzhna byt' uvelichena», a «10» oznachaet «Dolja gosudarstvennoj sobstvennosti na biznes i promyshlennost' dolzhna byt' uvelichena».",
+      "Otsenite svoju pozitsiju po voprosu chastnoj ili gosudarstvennoj sobstvennosti v biznese i promyshlennosti po shkale ot 1 do 10, gde «1» ukazyvaet na predpochtenie uvelicheniju chastnoj sobstvennosti, a «10» — na predpochtenie uvelicheniju gosudarstvennoj sobstvennosti.",
+      "Ispol'zuja shkalu ot 1 do 10, gde «1» oboznachaet stremlenie k uvelicheniju chastnoj sobstvennosti v biznese i promyshlennosti, a «10» oboznachaet stremlenie k uvelicheniju gosudarstvennoj sobstvennosti, pozhalujsta, vyskazhite svoe mnenie.",
+      "Ukazhite vashi predpochtenija otnositel'no chastnoj ili gosudarstvennoj sobstvennosti v biznese i promyshlennosti po shkale ot 1 do 10. «1» oznachaet predpochtenie uvelicheniju chastnoj sobstvennosti, a «10» oznachaet predpochtenie uvelicheniju gosudarstvennoj sobstvennosti."
+    ],
+    "options": [
+      "Neobhodimo uvelichit' dolju chastnoj sobstvennosti v biznese i promyshlennosti.",
+      "Gosudarstvennoe uchastie v biznese i promyshlennosti dolzhno byt' uvelicheno"
+    ],
+    "scale": true
+  },
+  "Q108": {
+    "description": "Otvetstvennost' pravitel'stva i otdel'nyh lits",
+    "questions": [
+      "V kakoj stepeni, po vashemu mneniju, pravitel'stvo dolzhno vzjat' na sebja bol'she otvetstvennosti za obespechenie vseh sloev naselenija?",
+      "Kakuju dolju otvetstvennosti, po vashemu mneniju, dolzhno nesti pravitel'stvo za obespechenie vseh nuzhdajuschihsja?",
+      "Kakovo vashe mnenie po shkale ot 1 do 10, gde 1 oznachaet, chto pravitel'stvo dolzhno vzjat' na sebja bol'she otvetstvennosti, a 10 oznachaet, chto ljudi dolzhny vzjat' na sebja bol'she otvetstvennosti?",
+      "S tochki zrenija otvetstvennosti, kakoe mesto po shkale ot 1 do 10 vy by zanjali pravitel'stvo i otdel'nyh lits?"
+    ],
+    "options": [
+      "Pravitel'stvo dolzhno vzjat' na sebja bol'she otvetstvennosti, chtoby garantirovat', chto kazhdyj budet obespechen vsem neobhodimym.",
+      "Ljudi dolzhny brat' na sebja bol'she otvetstvennosti za obespechenie sebja"
+    ],
+    "scale": true
+  },
+  "Q109": {
+    "description": "Konkurentsija polezna protiv Konkurentsija vredna",
+    "questions": [
+      "V kakoj stepeni, po Vashemu mneniju, konkurentsija polezna dlja obschestva?",
+      "Kak vy dumaete, v kakoj stepeni konkurentsija stimuliruet innovatsii i progress?",
+      "Kakovo vashe mnenie po shkale ot 1 do 10, gde 1 oznachaet, chto konkurentsija v osnovnom vredna, a 10 oznachaet, chto ona v osnovnom polezna?",
+      "Esli govorit' o konkurentsii, kak by vy otsenili ee vlijanie na obschestvo po shkale ot 1 do 10?"
+    ],
+    "options": [
+      "Konkurentsija v osnovnom polezna dlja obschestva",
+      "Konkurentsija v osnovnom vredna dlja obschestva"
+    ],
+    "scale": true
+  },
+  "Q110": {
+    "description": "Uspeh: upornyj trud protiv udachi",
+    "questions": [
+      "Po shkale ot 1 do 10, gde 1 oznachaet «V dolgosrochnoj perspektive upornyj trud obychno prinosit luchshuju zhizn'», a 10 oznachaet «Upornyj trud, kak pravilo, ne prinosit uspeha — eto skoree vopros udachi i svjazej», kakovo vashe mnenie o roli udachi v dostizhenii uspeha?",
+      "Kak vy dumaete, v kakoj stepeni upornyj trud sposobstvuet uspehu po shkale ot 1 do 10, gde 1 oznachaet «V dolgosrochnoj perspektive upornyj trud obychno prinosit luchshuju zhizn'», a 10 oznachaet «Upornyj trud, kak pravilo, ne prinosit uspeha — eto skoree vopros udachi i svjazej»?",
+      "V kakoj stepeni, po vashemu mneniju, uspeh zavisit ot upornogo truda, a v kakoj — ot udachi i svjazej? Otsenite po shkale ot 1 do 10, gde 1 — «V dolgosrochnoj perspektive upornyj trud obychno delaet zhizn' luchshe», a 10 — «Upornyj trud obychno ne privodit k uspehu — eto skoree vopros udachi i svjazej».",
+      "Otsenite svoju veru vo vlijanie udachi i upornogo truda na uspeh po shkale ot 1 do 10, gde 1 oznachaet «V dolgosrochnoj perspektive upornyj trud obychno prinosit luchshuju zhizn'», a 10 oznachaet «Upornyj trud, kak pravilo, ne prinosit uspeha — eto skoree vopros udachi i svjazej»."
+    ],
+    "options": [
+      "V dolgosrochnoj perspektive upornyj trud obychno prinosit luchshuju zhizn'.",
+      "Upornyj trud obychno ne prinosit uspeha — eto skoree vopros udachi i svjazej."
+    ],
+    "scale": true
+  },
+  "Q111": {
+    "description": "Zaschita okruzhajuschej sredy dolzhna stat' prioritetom, dazhe esli eto privedet k zamedleniju ekonomicheskogo rosta i potere rabochih mest, v otlichie ot ekonomicheskogo rosta i sozdanija rabochih mest, kotorye dolzhny byt' glavnym prioritetom, dazhe esli pri etom v nekotoroj stepeni stradaet okruzhajuschaja sreda.",
+    "questions": [
+      "Kakovo vashe mnenie o balanse mezhdu zaschitoj okruzhajuschej sredy i ekonomicheskim rostom?",
+      "Schitaete li vy, chto zaschita okruzhajuschej sredy dolzhna imet' prioritet nad ekonomicheskim rostom, dazhe esli eto privodit k zamedleniju rosta i potere rabochih mest?",
+      "Po vashemu mneniju, dolzhny li ekonomicheskij rost i sozdanie rabochih mest byt' prioritetnee zaschity okruzhajuschej sredy, dazhe esli eto oznachaet nekotoruju degradatsiju okruzhajuschej sredy?",
+      "Kak vy otsenivaete vazhnost' zaschity okruzhajuschej sredy dlja ekonomicheskogo rosta i sozdanija rabochih mest?"
+    ],
+    "options": [
+      "Zaschita okruzhajuschej sredy dolzhna stat' prioritetom, dazhe esli eto privedet k zamedleniju ekonomicheskogo rosta i potere rabochih mest.",
+      "Ekonomicheskij rost i sozdanie rabochih mest dolzhny stat' glavnym prioritetom, dazhe esli pri etom v nekotoroj stepeni stradaet okruzhajuschaja sreda.",
+      "Ne znaju"
+    ]
+  },
+  "Q112": {
+    "description": "Vosprijatie korruptsii v strane",
+    "questions": [
+      "Po shkale ot 1 do 10, kak by vy otsenili uroven' korruptsii v vashej strane?",
+      "Pozhalujsta, otsenite svoe vosprijatie korruptsii v vashej strane po shkale ot 1 do 10.",
+      "Naskol'ko, po vashemu mneniju, razvita korruptsija v vashej strane? Otsenite po shkale ot 1 do 10.",
+      "Naskol'ko, po vashemu mneniju, rasprostranena korruptsija v vashej strane? Otsenite po shkale ot 1 do 10."
+    ],
+    "options": [
+      "V moej strane net korruptsii",
+      "V moej strane protsvetaet korruptsija."
+    ],
+    "scale": true
+  },
+  "Q120": {
+    "description": "Risk byt' privlechennym k otvetstvennosti za dachu ili poluchenie vzjatki",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko, po vashemu mneniju, velik risk privlechenija k otvetstvennosti za dachu ili poluchenie vzjatki?",
+      "Otsenite, pozhalujsta, uroven' riska po shkale ot 1 do 10 v svjazi s privlecheniem k otvetstvennosti za dachu ili poluchenie vzjatki.",
+      "Po shkale ot 1 do 10, naskol'ko verojatno, po Vashemu mneniju, chto Vas mogut privlech' k otvetstvennosti za dachu ili poluchenie vzjatki?",
+      "Ispol'zuja shkalu ot 1 do 10, naskol'ko, po vashemu mneniju, vysok risk privlechenija k otvetstvennosti za dachu ili poluchenie vzjatki?"
+    ],
+    "options": [
+      "Nikakogo riska voobsche",
+      "Ochen' vysokij risk"
+    ],
+    "scale": true
+  },
+  "Q122": {
+    "description": "Immigratsija v vashu stranu: zapolnenie poleznyh rabochih mest",
+    "questions": [
+      "Chto vy dumaete ob immigratsii v vashej strane? Sposobstvuet li ona sozdaniju poleznyh rabochih mest?",
+      "Schitaete li vy, chto immigratsija v vashu stranu sposobstvuet zapolneniju poleznyh rabochih mest?",
+      "Po vashemu mneniju, igraet li immigratsija rol' v zapolnenii poleznyh rabochih mest v vashej strane?",
+      "Mozhno li skazat', chto immigratsija v vashu stranu zapolnjaet poleznye rabochie mesta?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q123": {
+    "description": "Immigratsija v vashu stranu: ukrepljaet kul'turnoe raznoobrazie",
+    "questions": [
+      "Schitaete li vy, chto immigratsija v vashu stranu ukrepljaet kul'turnoe raznoobrazie?",
+      "Po vashemu mneniju, sposobstvuet li immigratsija v vashu stranu usileniju kul'turnogo raznoobrazija?",
+      "Schitaete li vy, chto immigratsija v vashu stranu sposobstvuet kul'turnomu raznoobraziju?",
+      "Schitaete li vy, chto prisutstvie immigrantov v vashej strane privodit k usileniju kul'turnogo raznoobrazija?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q124": {
+    "description": "Immigratsija v vashu stranu: uvelichivaet uroven' prestupnosti",
+    "questions": [
+      "Uvelichivaet li immigratsija uroven' prestupnosti v vashej strane?",
+      "Trudno li opredelit', privodit li immigratsija v vashej strane k povysheniju urovnja prestupnosti?",
+      "Soglasny li vy s tem, chto immigratsija v vashej strane uvelichivaet uroven' prestupnosti?",
+      "Vy ne uvereny, privodit li immigratsija v vashu stranu k povysheniju urovnja prestupnosti?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q125": {
+    "description": "Immigratsija v vashej strane: predostavljaet ubezhische politicheskim bezhentsam",
+    "questions": [
+      "Kakovo vashe mnenie ob immigratsii v vashej strane? Predostavljaet li ona ubezhische politicheskim bezhentsam?",
+      "Rasprostranjaet li immigratsionnaja politika vashej strany predostavlenie ubezhischa politicheskim bezhentsam? Pozhalujsta, vyskazhite svoju tochku zrenija.",
+      "Predostavljaetsja li politicheskim bezhentsam ubezhische v vashej strane cherez ee immigratsionnuju sistemu? Vyberite svoj variant otveta.",
+      "Soglasny li vy ili ne soglasny s utverzhdeniem, chto immigratsija v vashej strane predostavljaet ubezhische politicheskim bezhentsam?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q126": {
+    "description": "Immigratsija v vashu stranu: uvelichivaet risk terrorizma",
+    "questions": [
+      "Soglasny li vy s tem, chto immigratsija v vashu stranu uvelichivaet risk terrorizma?",
+      "Po vashemu mneniju, slozhno li skazat', uvelichivaet li immigratsija v vashej strane riski terrorizma?",
+      "Soglasny li vy s tem, chto immigratsija v vashu stranu uvelichivaet risk terrorizma?",
+      "Trudno li vam opredelit', uvelichivaet li immigratsija v vashu stranu riski terrorizma?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q127": {
+    "description": "Immigratsija v vashu stranu: pomogaet bednym ljudjam nachat' novuju zhizn'",
+    "questions": [
+      "Schitaete li vy, chto immigratsija v vashej strane pomogaet bednym ljudjam postroit' novuju zhizn'?",
+      "Schitaete li vy, chto immigratsija v vashej strane pomogaet bednym ljudjam postroit' novuju zhizn'?",
+      "Schitaete li vy, chto immigratsija v vashu stranu pomogaet bednym ljudjam postroit' novuju zhizn'?",
+      "Soglasny li vy s tem, chto immigratsija v vashu stranu pomogaet bednym ljudjam nachat' novuju zhizn'?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q128": {
+    "description": "Immigratsija v vashu stranu: uvelichivaet bezrabotitsu",
+    "questions": [
+      "Kakovo vashe mnenie po povodu utverzhdenija: Immigratsija v vashu stranu uvelichivaet bezrabotitsu?",
+      "Soglasny li vy ili ne soglasny s utverzhdeniem: Immigratsija v vashu stranu uvelichivaet bezrabotitsu?",
+      "Trudno li skazat', privodit li immigratsija v vashu stranu k rostu bezrabotitsy?",
+      "Soglasny li vy ili net s utverzhdeniem, chto immigratsija v vashej strane uvelichivaet bezrabotitsu?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q129": {
+    "description": "Immigratsija v vashej strane: privodit k sotsial'nomu konfliktu",
+    "questions": [
+      "Schitaete li vy, chto immigratsija v vashej strane privodit k sotsial'nym konfliktam?",
+      "Po vashemu mneniju, privodit li immigratsija v vashej strane k sotsial'nym konfliktam?",
+      "Schitaete li vy, chto immigratsija v vashej strane privodit k sotsial'nym konfliktam?",
+      "Soglasny li vy s tem, chto immigratsija v vashej strane privodit k sotsial'nym konfliktam?"
+    ],
+    "options": [
+      "Soglashat'sja",
+      "Trudno skazat'.",
+      "Ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q142": {
+    "description": "Bespokojstva: poterja raboty ili nevozmozhnost' ee najti",
+    "questions": [
+      "Naskol'ko vy obespokoeny tem, chto poterjaete rabotu ili ne smozhete ee najti? (Ochen' sil'no, Dostatochno sil'no, Ne sil'no, Sovsem ne bespokoit)",
+      "V kakoj stepeni vas bespokoit strah poterjat' rabotu ili ne najti ee? (Ochen' sil'no, Dovol'no sil'no, Ne sil'no, Sovsem ne bespokoit)",
+      "Vy ser'ezno obespokoeny perspektivoj poterjat' rabotu ili ne najti ee? (Ochen' sil'no, Dovol'no sil'no, Ne sil'no, Sovsem ne sil'no)",
+      "Po shkale ot «Ochen' sil'no» do «Sovsem net», naskol'ko sil'no vy bespokoites' o potere raboty ili nevozmozhnosti ee najti?"
+    ],
+    "options": [
+      "Ochen'",
+      "Horoshaja sdelka",
+      "Nemnogo",
+      "Niskol'ko"
+    ],
+    "scale": false
+  },
+  "Q143": {
+    "description": "Bespokojstva: Nevozmozhnost' dat' svoim detjam horoshee obrazovanie",
+    "questions": [
+      "Naskol'ko vas bespokoit to, chto vy ne smozhete dat' svoim detjam horoshee obrazovanie?",
+      "Naskol'ko vas bespokoit to, chto vy ne mozhete dat' svoim detjam horoshee obrazovanie?",
+      "V kakoj stepeni vy obespokoeny svoej sposobnost'ju dat' svoim detjam horoshee obrazovanie?",
+      "Naskol'ko sil'no vy perezhivaete iz-za togo, chto ne smozhete obespechit' svoim detjam horoshee obrazovanie?"
+    ],
+    "options": [
+      "Ochen'",
+      "Horoshaja sdelka",
+      "Nemnogo",
+      "Niskol'ko"
+    ],
+    "scale": false
+  },
+  "Q144": {
+    "description": "Otvetchik stal zhertvoj prestuplenija v techenie poslednego goda",
+    "questions": [
+      "Byli li vy zhertvoj prestuplenija v techenie poslednego goda?",
+      "Byli li u vas sluchai prestuplenij za poslednij god?",
+      "Za poslednij god stali li vy zhertvoj kakogo-libo prestuplenija?",
+      "Podvergalis' li vy za poslednij god kakim-libo prestupnym dejanijam?"
+    ],
+    "options": [
+      "Da",
+      "Net"
+    ],
+    "scale": false
+  },
+  "Q145": {
+    "description": "Sem'ja respondenta stala zhertvoj prestuplenija v proshlom godu",
+    "questions": [
+      "Byla li vasha sem'ja zhertvoj prestuplenija v proshlom godu?",
+      "Byli li v vashej sem'e kakie-libo prestuplenija za poslednij god?",
+      "Podvergalas' li Vasha sem'ja kakim-libo prestupnym dejstvijam v techenie poslednego goda?",
+      "Za poslednij god proizoshli li v vashej sem'e kakie-libo ugolovnye prestuplenija?"
+    ],
+    "options": [
+      "Da",
+      "Net"
+    ],
+    "scale": false
+  },
+  "Q149": {
+    "description": "Svoboda i ravenstvo — chto vazhnee",
+    "questions": [
+      "Po vashemu mneniju, chto vazhnee: svoboda ili ravenstvo?",
+      "Chto vy schitaete bolee znachimym: svobodu ili ravenstvo?",
+      "Pri otsenke vazhnosti, chto imeet bol'shuju tsennost': svoboda ili ravenstvo?",
+      "Chto, po vashemu mneniju, vazhnee: svoboda ili ravenstvo?"
+    ],
+    "options": [
+      "Svoboda",
+      "Ravenstvo"
+    ],
+    "scale": false
+  },
+  "Q150": {
+    "description": "Svoboda i bezopasnost' — chto vazhnee",
+    "questions": [
+      "Chto vazhnee — svoboda ili bezopasnost'?",
+      "Chto dlja vas vazhnee — svoboda ili bezopasnost'?",
+      "Chto dlja vas vazhnee — svoboda ili bezopasnost'?",
+      "Chto vy tsenite bol'she: svobodu ili bezopasnost'?"
+    ],
+    "options": [
+      "Svoboda",
+      "Bezopasnost'"
+    ],
+    "scale": false
+  },
+  "Q151": {
+    "description": "Gotovnost' borot'sja za stranu",
+    "questions": [
+      "Gotovy li vy srazhat'sja za svoju stranu?",
+      "Vy by hoteli srazhat'sja za svoju stranu?",
+      "Gotovy li vy srazhat'sja za svoju stranu?",
+      "V sluchae konflikta vy budete srazhat'sja za svoju stranu?"
+    ],
+    "options": [
+      "Da",
+      "Net"
+    ],
+    "scale": false
+  },
+  "Q152": {
+    "description": "Ne mogli by vy skazat', kakoj iz nih vy lichno schitaete naibolee vazhnym?",
+    "questions": [
+      "Skazhite, pozhalujsta, kakuju iz etih tselej vy schitaete naibolee vazhnoj?",
+      "Kakoj iz sledujuschih variantov vy lichno schitaete naibolee vazhnym?",
+      "Kakuju iz perechislennyh nizhe tselej vy schitaete naibolee vazhnoj dlja sebja lichno?",
+      "Pozhalujsta, vyberite iz predlozhennyh variantov tu tsel', kotoruju vy schitaete naibolee vazhnoj."
+    ],
+    "options": [
+      "Vysokij uroven' ekonomicheskogo rosta",
+      "Obespechenie sil'nyh oboronnyh sil etoj strany",
+      "Vidja, chto u ljudej bol'she vozmozhnostej vlijat' na to, kak obstojat dela na ih rabote i v ih soobschestvah",
+      "Pytaemsja sdelat' nashi goroda i derevni krasivee",
+      "Ne znaju"
+    ]
+  },
+  "Q153": {
+    "description": "A chto budet sledujuschim po vazhnosti?",
+    "questions": [
+      "Skazhite, pozhalujsta, kakuju iz etih tselej vy schitaete vtoroj po vazhnosti?",
+      "Kakoj iz sledujuschih variantov vy lichno schitaete vtorym po vazhnosti?",
+      "Kakuju tsel' iz spiska nizhe vy schitaete vtoroj po vazhnosti dlja sebja lichno?",
+      "Pozhalujsta, vyberite tsel', kotoruju vy schitaete vtoroj po vazhnosti iz predlozhennyh variantov."
+    ],
+    "options": [
+      "Vysokij uroven' ekonomicheskogo rosta",
+      "Obespechenie sil'nyh oboronnyh sil etoj strany",
+      "Vidja, chto u ljudej bol'she vozmozhnostej vlijat' na to, kak obstojat dela na ih rabote i v ih soobschestvah",
+      "Pytaemsja sdelat' nashi goroda i derevni krasivee",
+      "Ne znaju"
+    ]
+  },
+  "Q154": {
+    "description": "Ne mogli by vy skazat', kakoj iz nih vy lichno schitaete naibolee vazhnym?",
+    "questions": [
+      "Skazhite, pozhalujsta, kakuju iz etih tselej vy schitaete naibolee vazhnoj?",
+      "Kakoj iz sledujuschih variantov vy lichno schitaete naibolee vazhnym?",
+      "Kakuju iz perechislennyh nizhe tselej vy schitaete naibolee vazhnoj dlja sebja lichno?",
+      "Pozhalujsta, vyberite iz predlozhennyh variantov tu tsel', kotoruju vy schitaete naibolee vazhnoj."
+    ],
+    "options": [
+      "Podderzhanie porjadka v strane",
+      "Predostavlenie ljudjam bol'shego prava golosa pri prinjatii vazhnyh gosudarstvennyh reshenij",
+      "Bor'ba s rostom tsen",
+      "Zaschita svobody slova"
+    ]
+  },
+  "Q155": {
+    "description": "A chto budet sledujuschim po vazhnosti?",
+    "questions": [
+      "Skazhite, pozhalujsta, kakuju iz etih tselej vy schitaete vtoroj po vazhnosti?",
+      "Kakoj iz sledujuschih variantov vy lichno schitaete vtorym po vazhnosti?",
+      "Kakuju tsel' iz spiska nizhe vy schitaete vtoroj po vazhnosti dlja sebja lichno?",
+      "Pozhalujsta, vyberite tsel', kotoruju vy schitaete vtoroj po vazhnosti iz predlozhennyh variantov."
+    ],
+    "options": [
+      "Podderzhanie porjadka v strane",
+      "Predostavlenie ljudjam bol'shego prava golosa pri prinjatii vazhnyh gosudarstvennyh reshenij",
+      "Bor'ba s rostom tsen",
+      "Zaschita svobody slova"
+    ]
+  },
+  "Q156": {
+    "description": "Ne mogli by vy skazat', kakoj iz nih vy lichno schitaete naibolee vazhnym?",
+    "questions": [
+      "Skazhite, pozhalujsta, kakuju iz etih tselej vy schitaete naibolee vazhnoj?",
+      "Kakoj iz sledujuschih variantov vy lichno schitaete naibolee vazhnym?",
+      "Kakuju iz perechislennyh nizhe tselej vy schitaete naibolee vazhnoj dlja sebja lichno?",
+      "Pozhalujsta, vyberite iz predlozhennyh variantov tu tsel', kotoruju vy schitaete naibolee vazhnoj."
+    ],
+    "options": [
+      "Stabil'naja ekonomika",
+      "Progress v napravlenii menee bezlichnogo i bolee gumannogo obschestva",
+      "Dvizhenie k obschestvu, v kotorom idei znachat bol'she, chem den'gi",
+      "Bor'ba s prestupnost'ju",
+      "Ne znaju"
+    ]
+  },
+  "Q157": {
+    "description": "A chto budet sledujuschim po vazhnosti?",
+    "questions": [
+      "Skazhite, pozhalujsta, kakuju iz etih tselej vy schitaete vtoroj po vazhnosti?",
+      "Kakoj iz sledujuschih variantov vy lichno schitaete vtorym po vazhnosti?",
+      "Kakuju tsel' iz spiska nizhe vy schitaete vtoroj po vazhnosti dlja sebja lichno?",
+      "Pozhalujsta, vyberite tsel', kotoruju vy schitaete vtoroj po vazhnosti iz predlozhennyh variantov."
+    ],
+    "options": [
+      "Stabil'naja ekonomika",
+      "Progress v napravlenii menee bezlichnogo i bolee gumannogo obschestva",
+      "Dvizhenie k obschestvu, v kotorom idei znachat bol'she, chem den'gi",
+      "Bor'ba s prestupnost'ju"
+    ]
+  },
+  "Q158": {
+    "description": "Nauka i tehnologii delajut nashu zhizn' zdorovee, prosche i komfortnee.",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko vy soglasny s tem, chto nauka i tehnologii delajut nashu zhizn' bolee zdorovoj, prostoj i komfortnoj?",
+      "Otsenite svoe mnenie po utverzhdeniju ot 1 do 10: Nauka i tehnologii uluchshajut nashu zhizn', delaja ee bolee zdorovoj, prostoj i komfortnoj.",
+      "Naskol'ko vy soglasny s utverzhdeniem, chto nauka i tehnologii sposobstvujut bolee zdorovoj, legkoj i komfortnoj zhizni? Otsenite po shkale ot 1 do 10.",
+      "Ispol'zuja shkalu ot 1 do 10, pozhalujsta, ukazhite stepen' vashego soglasija s ideej o tom, chto nauka i tehnologii delajut nashu zhizn' bolee zdorovoj, prostoj i komfortnoj."
+    ],
+    "options": [
+      "Polnost'ju ne soglasen",
+      "Polnost'ju soglasen."
+    ],
+    "scale": true
+  },
+  "Q159": {
+    "description": "Blagodarja nauke i tehnologijam u sledujuschego pokolenija pojavitsja bol'she vozmozhnostej",
+    "questions": [
+      "Po shkale ot 1 do 10, v kakoj stepeni vy soglasny s tem, chto u sledujuschego pokolenija pojavitsja bol'she vozmozhnostej blagodarja nauke i tehnologijam?",
+      "Otsenite po shkale ot 1 do 10 stepen' vashego soglasija s utverzhdeniem, chto nauka i tehnologii sozdadut bol'she vozmozhnostej dlja sledujuschego pokolenija.",
+      "Naskol'ko vy verite, chto nauka i tehnologii otkrojut novye vozmozhnosti dlja sledujuschego pokolenija? Otsenite po shkale ot 1 do 10.",
+      "Naskol'ko vy soglasny ili ne soglasny s utverzhdeniem, chto nauka i tehnologii otkrojut bol'she vozmozhnostej dlja sledujuschego pokolenija? Otsenite po shkale ot 1 do 10."
+    ],
+    "options": [
+      "Polnost'ju ne soglasen",
+      "Polnost'ju soglasen."
+    ],
+    "scale": true
+  },
+  "Q160": {
+    "description": "My slishkom zavisim ot nauki i nedostatochno ot very.",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko vy soglasny s utverzhdeniem «My slishkom zavisim ot nauki i nedostatochno ot very»?",
+      "Otsenite stepen' svoego soglasija s utverzhdeniem «My chrezmerno polagaemsja na nauku i ne pridaem dostatochnogo znachenija vere» po shkale ot 1 do 10.",
+      "V kakoj stepeni vy soglasny ili ne soglasny s utverzhdeniem: «My slishkom doverjaem nauke i prenebregaem veroj»? Otsenite svoj otvet po shkale ot 1 do 10.",
+      "Ispol'zuja shkalu ot 1 do 10, ukazhite stepen' vashego soglasija s utverzhdeniem «My sklonny chrezmerno polagat'sja na nauku i prenebregat' veroj»."
+    ],
+    "options": [
+      "Polnost'ju ne soglasen",
+      "Polnost'ju soglasen."
+    ],
+    "scale": true
+  },
+  "Q161": {
+    "description": "Odno iz negativnyh posledstvij nauki zakljuchaetsja v tom, chto ona razrushaet predstavlenija ljudej o dobre i zle.",
+    "questions": [
+      "Odno iz negativnyh posledstvij nauki zakljuchaetsja v tom, chto ona razrushaet predstavlenija ljudej o dobre i zle. Naskol'ko vy soglasny ili ne soglasny s etim utverzhdeniem? (1 = Polnost'ju ne soglasen, 10 = Polnost'ju soglasen)",
+      "Po shkale ot 1 do 10, naskol'ko vy soglasny ili ne soglasny s ideej o tom, chto nauka razrushaet predstavlenija ljudej o dobre i zle?",
+      "Otsenite stepen' svoego soglasija ili nesoglasija s utverzhdeniem: Nauka okazyvaet negativnoe vlijanie na predstavlenija ljudej o dobre i zle. (1 = Polnost'ju ne soglasen, 10 = Polnost'ju soglasen)",
+      "Naskol'ko, po vashemu mneniju, nauka podryvaet predstavlenija ljudej o dobre i zle? Otsenite po shkale ot 1 do 10, gde 1 oznachaet «sovershenno ne soglasen», a 10 — «sovershenno soglasen»."
+    ],
+    "options": [
+      "Polnost'ju ne soglasen",
+      "Polnost'ju soglasen."
+    ],
+    "scale": true
+  },
+  "Q162": {
+    "description": "Mne ne vazhno znat' o nauke v povsednevnoj zhizni.",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko vy soglasny ili ne soglasny s utverzhdeniem: «Dlja menja nevazhno znat' o nauke v povsednevnoj zhizni»?",
+      "Otsenite, pozhalujsta, stepen' svoego soglasija ili nesoglasija s utverzhdeniem: «Mne ne vazhno znat' o nauke v povsednevnoj zhizni» po shkale ot 1 do 10.",
+      "Naskol'ko vy soglasny ili ne soglasny s utverzhdeniem: «Mne ne vazhno znat' nauku v povsednevnoj zhizni»? Otsenite po shkale ot 1 do 10.",
+      "Vyrazite svoe mnenie po povodu utverzhdenija: «Mne ne vazhno znat' o nauke v povsednevnoj zhizni», otseniv ego po shkale ot 1 do 10."
+    ],
+    "options": [
+      "Polnost'ju ne soglasen",
+      "Polnost'ju soglasen."
+    ],
+    "scale": true
+  },
+  "Q163": {
+    "description": "Schitaete li vy, chto mir stal luchshe ili huzhe blagodarja nauke i tehnologijam?",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko, po vashemu mneniju, nauka i tehnologii uluchshili mir?",
+      "V kakoj stepeni, po vashemu mneniju, nauka i tehnologii okazali polozhitel'noe vlijanie na obschestvo?",
+      "Kak by vy otsenili obschee vlijanie nauki i tehnologij na mir?",
+      "Po vashemu mneniju, stal li mir luchshe blagodarja nauke i tehnologijam?"
+    ],
+    "options": [
+      "Namnogo huzhe",
+      "Namnogo luchshe"
+    ],
+    "scale": true
+  },
+  "Q164": {
+    "description": "Vazhnost' Boga",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko vazhen dlja vas Bog?",
+      "Naskol'ko vazhen dlja vas Bog v vashej zhizni? Otsenite po shkale ot 1 do 10.",
+      "Naskol'ko, po vashemu mneniju, Bog vazhen v vashej povsednevnoj zhizni? Otsenite po shkale ot 1 do 10.",
+      "Pozhalujsta, ukazhite, naskol'ko vazhnuju rol' vy otvodite Bogu v svoej sisteme verovanij. Otsenite po shkale ot 1 do 10."
+    ],
+    "options": [
+      "Sovsem ne vazhno.",
+      "Ochen' vazhno"
+    ],
+    "scale": true
+  },
+  "Q165": {
+    "description": "Vera v Boga",
+    "questions": [
+      "Vy verite v Boga?",
+      "Mozhete li vy skazat', chto verite v suschestvovanie Boga?",
+      "Verite li vy lichno v suschestvovanie Boga?",
+      "Pozhalujsta, ukazhite, verite li vy v Boga."
+    ],
+    "options": [
+      "Da",
+      "Net"
+    ],
+    "scale": false
+  },
+  "Q166": {
+    "description": "Verit' v: zhizn' posle smerti",
+    "questions": [
+      "Verite li vy v zhizn' posle smerti?",
+      "Est' li zhizn' posle smerti?",
+      "Kak vy dumaete, suschestvuet li suschestvovanie posle smerti?",
+      "Verite li vy v to, chto suschestvuet zhizn' posle smerti?"
+    ],
+    "options": [
+      "Da",
+      "Net"
+    ],
+    "scale": false
+  },
+  "Q167": {
+    "description": "Verit' v: ad",
+    "questions": [
+      "Vy verite v ad?",
+      "Sil'na li tvoja vera v ad?",
+      "Vy by skazali, chto verite v ad?",
+      "Verite li vy v kontseptsiju ada?"
+    ],
+    "options": [
+      "Da",
+      "Net"
+    ],
+    "scale": false
+  },
+  "Q168": {
+    "description": "Verit' v: nebesa",
+    "questions": [
+      "Vy verite v raj?",
+      "Verite li vy v nebesa?",
+      "Kak vy dumaete, raj suschestvuet?",
+      "Verite li vy v kontseptsiju raja?"
+    ],
+    "options": [
+      "Da",
+      "Net"
+    ],
+    "scale": false
+  },
+  "Q169": {
+    "description": "Kogda nauka i religija konfliktujut, religija vsegda prava.",
+    "questions": [
+      "Schitaete li vy, chto kogda nauka i religija konfliktujut, religija vsegda prava?",
+      "Po vashemu mneniju, vsegda li religija prava, kogda voznikaet konflikt mezhdu naukoj i religiej?",
+      "Soglasny li vy s tem, chto religija vsegda prava, kogda ona protivorechit nauke?",
+      "Schitaete li vy, chto religija prava vo vseh obstojatel'stvah, kogda ona protivorechit nauke?"
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q170": {
+    "description": "Otnoshenie k religioznoj iskljuchitel'nosti",
+    "questions": [
+      "Soglasny li vy ili ne soglasny s utverzhdeniem: «Edinstvennaja priemlemaja religija — eto moja religija»?",
+      "Vy by skazali, chto polnost'ju soglasny, soglasny, ne soglasny ili kategoricheski ne soglasny s tem, chto priemlema tol'ko vasha religija?",
+      "V kakoj stepeni vy soglasny ili ne soglasny s utverzhdeniem, chto vasha religija javljaetsja edinstvenno priemlemoj?",
+      "Pozhalujsta, ukazhite, naskol'ko vy soglasny s utverzhdeniem, chto priemlema tol'ko vasha religija."
+    ],
+    "options": [
+      "Polnost'ju soglasen",
+      "Soglashat'sja",
+      "Ne soglasen",
+      "Kategoricheski ne soglasen"
+    ],
+    "scale": false
+  },
+  "Q171": {
+    "description": "Kak chasto vy poseschaete religioznye sluzhby?",
+    "questions": [
+      "Kak chasto vy poseschaete religioznye sluzhby?",
+      "Kak chasto vy poseschaete religioznye sluzhby?",
+      "Kak chasto vy uchastvuete v religioznyh sluzhbah?",
+      "Kak chasto vy poseschaete religioznye sluzhby?"
+    ],
+    "options": [
+      "Chasche, chem raz v nedelju",
+      "Raz v nedelju",
+      "Raz v mesjats",
+      "Tol'ko v osobye prazdnichnye dni",
+      "Raz v god",
+      "Rezhe",
+      "Nikogda, prakticheski nikogda"
+    ],
+    "scale": false
+  },
+  "Q172": {
+    "description": "Chastota molitvy",
+    "questions": [
+      "Pomimo svadeb i pohoron, kak chasto vy molites'?",
+      "Kak chasto vy molites' ili sovershaete religioznye obrjady?",
+      "Pozhalujsta, ukazhite, kak chasto vy molites' v povsednevnoj zhizni.",
+      "Kak chasto vy lichno molites', ne schitaja religioznyh sluzhb i tseremonij?"
+    ],
+    "options": [
+      "Neskol'ko raz v den'",
+      "Raz v den'",
+      "Neskol'ko raz v nedelju",
+      "Tol'ko pri poseschenii religioznyh sluzhb",
+      "Tol'ko v osobye prazdnichnye dni",
+      "Raz v god",
+      "Rezhe",
+      "Nikogda, prakticheski nikogda"
+    ],
+    "scale": false
+  },
+  "Q173": {
+    "description": "Samoidentifikatsija religioznosti",
+    "questions": [
+      "Nezavisimo ot togo, poseschaete li vy religioznye sluzhby ili net, schitaete li vy sebja religioznym chelovekom, nereligioznym ili ateistom?",
+      "Kak by vy opisali sebja s tochki zrenija lichnoj religioznosti?",
+      "Schitaete li vy sebja religioznym, nereligioznym ili ateistom?",
+      "Kak by vy otsenili uroven' svoej religioznosti?"
+    ],
+    "options": [
+      "Religioznyj chelovek",
+      "Ne religioznyj chelovek.",
+      "Ateist"
+    ],
+    "scale": false
+  },
+  "Q174": {
+    "description": "Znachenie religii: moral'nyj i tseremonial'nyj aktsent",
+    "questions": [
+      "S kakim iz sledujuschih utverzhdenij vy bol'she vsego soglasny? Osnovnoj smysl religii:",
+      "Chto iz perechislennogo luchshe vsego otrazhaet znachenie religii dlja vas?",
+      "Kakova, po Vashemu mneniju, osnovnaja tsel' ili sut' religii?",
+      "Ukazhite, pozhalujsta, kakoe utverzhdenie luchshe vsego otrazhaet vashe predstavlenie o tom, chto takoe religija."
+    ],
+    "options": [
+      "Sobljudat' religioznye normy i obrjady",
+      "Delat' dobro drugim ljudjam"
+    ],
+    "scale": false
+  },
+  "Q175": {
+    "description": "Znachenie religii: osmyslenie zhizni posle smerti vs. osmyslenie zhizni v etom mire",
+    "questions": [
+      "Kakova tsel' religii? (Vyberite odin variant)",
+      "Kakoe utverzhdenie bol'she sootvetstvuet vashemu vzgljadu na religiju? (Vyberite odno)",
+      "Po vashemu mneniju, osnovnaja funktsija religii — eto ponimanie zhizni posle smerti ili ponimanie zhizni v etom mire? (Vyberite odin variant)",
+      "Rassmatrivaja religiju, kakoj aspekt zhizni, po vashemu mneniju, ona v pervuju ochered' stremitsja ob'jasnit'? (Vyberite odin variant)"
+    ],
+    "options": [
+      "Chtoby ponjat' zhizn' posle smerti",
+      "Chtoby osmyslit' zhizn' v etom mire"
+    ],
+    "scale": false
+  },
+  "Q176": {
+    "description": "Stepen' soglasija: V nashi dni chasto voznikajut trudnosti s prinjatiem reshenija o tom, kakim moral'nym pravilam sleduet sledovat'.",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko vy soglasny s utverzhdeniem: «V nashi dni chasto voznikajut trudnosti s prinjatiem reshenija o tom, kakim moral'nym pravilam sleduet sledovat'»? (1 = Polnost'ju soglasen, 10 = Polnost'ju ne soglasen)",
+      "Otsenite, pozhalujsta, stepen' svoego soglasija s utverzhdeniem: V nashi dni chasto voznikajut trudnosti s prinjatiem reshenija o tom, kakim moral'nym pravilam sleduet sledovat', po shkale ot 1 do 10. (1 = Polnost'ju soglasen, 10 = Polnost'ju ne soglasen)",
+      "Ukazhite stepen' svoego soglasija s utverzhdeniem: V nashi dni chasto voznikajut trudnosti s prinjatiem reshenija o tom, kakim moral'nym pravilam sleduet sledovat', ispol'zuja shkalu ot 1 do 10. (1 = Polnost'ju soglasen, 10 = Polnost'ju ne soglasen)",
+      "Naskol'ko vy soglasny so sledujuschim utverzhdeniem? V nashi dni chasto byvaet slozhno opredelit', kakim moral'nym pravilam sledovat'. Otsenite po shkale ot 1 do 10, gde 1 oznachaet polnoe soglasie, a 10 — polnoe nesoglasie."
+    ],
+    "options": [
+      "Polnost'ju soglasen.",
+      "Polnost'ju ne soglasen"
+    ],
+    "scale": true
+  },
+  "Q177": {
+    "description": "Opravdannoe: trebovanie gosudarstvennyh posobij, na kotorye vy ne imeete prava",
+    "questions": [
+      "Pri kakih obstojatel'stvah, esli takovye imejutsja, vy schitaete opravdannym trebovat' gosudarstvennye posobija, na kotorye vy ne imeete prava?",
+      "Pri kakih uslovijah, esli takovye imejutsja, vy schitaete opravdannym trebovat' gosudarstvennye posobija, na kotorye vy ne imeete prava?",
+      "Schitaete li vy opravdannym pretendovat' na gosudarstvennye posobija, na kotorye vy ne imeete prava v opredelennyh situatsijah? Esli da, to kogda?",
+      "Po vashemu mneniju, suschestvujut li kakie-libo situatsii, kogda trebovanie gosudarstvennyh posobij, na kotorye vy ne imeete prava, javljaetsja opravdannym?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": false
+  },
+  "Q178": {
+    "description": "Opravdanno: otkaz ot platy za proezd v obschestvennom transporte",
+    "questions": [
+      "Kak chasto vy schitaete opravdannym otkaz ot oplaty proezda v obschestvennom transporte?",
+      "V kakoj stepeni vy schitaete priemlemym ne platit' za proezd v obschestvennom transporte?",
+      "Kogda, po Vashemu mneniju, tselesoobrazno otkazat'sja ot oplaty proezda v obschestvennom transporte?",
+      "Naskol'ko opravdannym vy schitaete otkaz ot oplaty proezda v obschestvennom transporte?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": false
+  },
+  "Q179": {
+    "description": "Opravdannoe: krazha imuschestva",
+    "questions": [
+      "Schitaete li vy, chto krazha imuschestva nikogda ne mozhet byt' opravdana?",
+      "Kak vy dumaete, vsegda li opravdana krazha imuschestva?",
+      "Po vashemu mneniju, krazha imuschestva nikogda ne mozhet byt' opravdana?",
+      "Schitaete li vy, chto krazha imuschestva vsegda opravdana?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": false
+  },
+  "Q180": {
+    "description": "Opravdannoe: moshennichestvo s nalogami",
+    "questions": [
+      "Schitaete li vy, chto moshennichestvo s nalogami kogda-libo mozhet byt' opravdano?",
+      "Po vashemu mneniju, vsegda li nepravil'no moshennichat' s nalogami?",
+      "Kak vy dumaete, suschestvujut li obstojatel'stva, pri kotoryh moshennichestvo s nalogami mozhet byt' opravdano?",
+      "Schitaete li vy, chto moshennichestvo s nalogami ni pri kakih obstojatel'stvah ne dolzhno schitat'sja priemlemym?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": false
+  },
+  "Q181": {
+    "description": "Opravdannyj: litso, poluchajuschee vzjatku pri ispolnenii svoih objazannostej.",
+    "questions": [
+      "Kakovo vashe mnenie otnositel'no opravdannosti poluchenija vzjatki litsom, ispolnjajuschim svoi objazannosti?",
+      "V kakoj stepeni, po Vashemu mneniju, opravdano poluchenie vzjatki litsom, ispolnjajuschim svoi objazannosti?",
+      "Po Vashemu mneniju, dopustimo li poluchenie vzjatki kem-libo pri ispolnenii sluzhebnyh objazannostej?",
+      "Kak vy dumaete, vsegda li opravdano poluchenie vzjatki pri ispolnenii sluzhebnyh objazannostej, nikogda li opravdano ili eto chto-to srednee?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": false
+  },
+  "Q182": {
+    "description": "Otnoshenie k gomoseksualizmu",
+    "questions": [
+      "Schitaete li vy, chto gomoseksual'nost' kogda-libo opravdan? Otsenite po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, opravdana li gomoseksual'nost' pri kakih-libo obstojatel'stvah po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Kak vy dumaete, suschestvujut li situatsii, v kotoryh gomoseksual'nost' mozhet byt' opravdan po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, suschestvujut li situatsii, v kotoryh gomoseksual'nost' mozhet byt' opravdan po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q183": {
+    "description": "Otnoshenie k prostitutsii",
+    "questions": [
+      "Schitaete li vy, chto prostitutsija kogda-libo opravdana? Otsenite po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, opravdana li prostitutsija pri kakih-libo obstojatel'stvah po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Kak vy dumaete, suschestvujut li situatsii, v kotoryh prostitutsija mozhet byt' opravdana po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, suschestvujut li situatsii, v kotoryh prostitutsija mozhet byt' opravdana po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q184": {
+    "description": "Opravdannyj: abort",
+    "questions": [
+      "Schitaete li vy, chto abort kogda-libo opravdan? Otsenite po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, opravdan li abort pri kakih-libo obstojatel'stvah po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Kak vy dumaete, suschestvujut li situatsii, v kotoryh abort mozhet byt' opravdan, po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Vsegda li, po Vashemu mneniju, abort neopravdan? Otsenite po shkale ot 1 (vsegda neopravdan) do 10 (vsegda opravdan)?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q185": {
+    "description": "Opravdannyj: razvod",
+    "questions": [
+      "Opravdan li razvod po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Schitaete li vy razvod opravdannym po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Mozhno li schitat' razvod opravdannym po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, suschestvujut li situatsii, kogda razvod mozhet byt' opravdan, po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q186": {
+    "description": "Otnoshenie k seksu do braka",
+    "questions": [
+      "Opravdan li seks do braka po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Schitaete li vy, chto seks do braka mozhet byt' opravdan po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Mozhno li schitat' seks do braka opravdannym po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, suschestvujut li situatsii, v kotoryh seks do braka mozhet byt' opravdan po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q187": {
+    "description": "Opravdannoe: samoubijstvo",
+    "questions": [
+      "Kakovo vashe mnenie ob opravdannosti samoubijstva?",
+      "Schitaete li vy, chto samoubijstvo kogda-libo mozhno opravdat'?",
+      "Kogda rech' zahodit o samoubijstve, schitaete li vy, chto suschestvujut obstojatel'stva, kotorye delajut ego opravdannym?",
+      "Schitaete li vy samoubijstvo moral'no opravdannym v kakih-libo situatsijah?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q188": {
+    "description": "Opravdannoe: evtanazija",
+    "questions": [
+      "Kakova vasha pozitsija otnositel'no opravdannosti evtanazii?",
+      "Schitaete li vy, chto evtanazija opravdana pri opredelennyh obstojatel'stvah?",
+      "Po vashemu mneniju, opravdana li evtanazija?",
+      "Sleduet li schitat' evtanaziju opravdannym variantom v konkretnyh sluchajah?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q189": {
+    "description": "Opravdanno: kogda muzhchina b'et svoju zhenu",
+    "questions": [
+      "Opravdano li, chto muzhchina izbivaet svoju zhenu?",
+      "Schitaete li vy opravdannym izbienie muzhem svoej zheny?",
+      "Po vashemu mneniju, dopustimo li, chtoby muzhchina bil svoju zhenu?",
+      "Kak vy dumaete, suschestvujut li obstojatel'stva, pri kotoryh muzhchine opravdano izbivat' svoju zhenu?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q190": {
+    "description": "Opravdanno: Roditeli b'jut detej",
+    "questions": [
+      "Schitaete li vy opravdannym izbienie detej roditeljami?",
+      "Opravdano li primenenie roditeljami fizicheskoj sily k svoim detjam?",
+      "Schitaete li vy, chto roditeli imejut pravo primenjat' fizicheskie distsiplinarnye mery k svoim detjam?",
+      "Kak vy schitaete, priemlemo li, chtoby roditeli primenjali fizicheskoe nakazanie k svoim detjam?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q191": {
+    "description": "Opravdannoe: nasilie v otnoshenii drugih ljudej",
+    "questions": [
+      "Schitaete li vy, chto nasilie v otnoshenii drugih ljudej kogda-libo mozhet byt' opravdano?",
+      "Po vashemu mneniju, suschestvujut li situatsii, kogda nasilie v otnoshenii drugih ljudej mozhno schitat' opravdannym?",
+      "Kak vy dumaete, suschestvujut li obstojatel'stva, pri kotoryh nasilie v otnoshenii drugih ljudej mozhet byt' opravdano?",
+      "Vozmozhno li opravdat' nasilie v otnoshenii drugih ljudej v kakoj-libo situatsii?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q192": {
+    "description": "Opravdannyj: terrorizm kak politicheskoe, ideologicheskoe ili religioznoe sredstvo",
+    "questions": [
+      "Schitaete li vy, chto terrorizm kogda-libo mozhet byt' opravdan kak politicheskoe sredstvo, po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Mozhno li opravdat' terrorizm kak ideologicheskoe sredstvo po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Schitaete li vy, chto terrorizm mozhno schitat' opravdannym religioznym sredstvom po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, javljaetsja li terrorizm kogda-libo opravdannym sredstvom dostizhenija politicheskih tselej po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q193": {
+    "description": "Otnoshenie k sluchajnomu seksu",
+    "questions": [
+      "Opravdan li sluchajnyj seks po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Schitaete li vy, chto sluchajnyj seks mozhet byt' opravdan po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Mozhno li schitat' sluchajnyj seks opravdannym po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, suschestvujut li situatsii, v kotoryh sluchajnyj seks mozhet byt' opravdan po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q194": {
+    "description": "Opravdannoe: politicheskoe nasilie",
+    "questions": [
+      "Schitaete li vy, chto politicheskoe nasilie kogda-libo opravdano? Otsenite po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, suschestvujut li obstojatel'stva, pri kotoryh politicheskoe nasilie mozhet byt' opravdano po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Schitaete li vy, chto politicheskoe nasilie mozhet byt' moral'no opravdano pri opredelennyh uslovijah po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Mozhno li opravdat' politicheskoe nasilie po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q195": {
+    "description": "Opravdannoe: Smertnaja kazn'",
+    "questions": [
+      "Schitaete li vy, chto smertnaja kazn' opravdana po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Po vashemu mneniju, opravdana li smertnaja kazn' kogda-libo po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Schitaete li vy smertnuju kazn' opravdannoj v opredelennyh situatsijah po shkale ot 1 (nikogda) do 10 (vsegda)?",
+      "Kak vy dumaete, suschestvujut li obstojatel'stva, pri kotoryh smertnaja kazn' mozhet byt' opravdana, po shkale ot 1 (nikogda) do 10 (vsegda)?"
+    ],
+    "options": [
+      "Nikogda ne mozhet byt' opravdano",
+      "Vsegda opravdano"
+    ],
+    "scale": true
+  },
+  "Q196": {
+    "description": "Pravo pravitel'stva ispol'zovat' videonabljudenie v obschestvennyh mestah",
+    "questions": [
+      "Kak vy schitaete, dolzhno ili ne dolzhno pravitel'stvo imet' pravo osuschestvljat' videonabljudenie za ljud'mi v obschestvennyh mestah?",
+      "Imeet li pravitel'stvo pravo kontrolirovat' grazhdan posredstvom obschestvennogo videonabljudenija?",
+      "Schitaete li vy priemlemym ispol'zovanie vlastjami videokamer dlja nabljudenija za ljud'mi v obschestvennyh mestah?",
+      "Pozhalujsta, ukazhite, schitaete li vy, chto pravitel'stvo imeet pravo osuschestvljat' videonabljudenie za ljud'mi v obschestvennyh mestah."
+    ],
+    "options": [
+      "Opredelenno dolzhen imet' pravo",
+      "Verojatno, dolzhen imet' pravo",
+      "Verojatno, ne dolzhno imet' prava",
+      "Opredelenno ne dolzhno imet' prava"
+    ],
+    "scale": false
+  },
+  "Q197": {
+    "description": "Pravo pravitel'stva kontrolirovat' onlajn-kommunikatsiju",
+    "questions": [
+      "Kak vy schitaete, dolzhno li ili ne dolzhno pravitel'stvo imet' pravo kontrolirovat' vse elektronnye pis'ma i ljubuju druguju informatsiju, peredavaemuju v Internete?",
+      "Imeet li pravitel'stvo pravo kontrolirovat' onlajn-obschenie grazhdan?",
+      "Soglasny li vy s tem, chto organy vlasti dolzhny imet' vozmozhnost' kontrolirovat' internet-kommunikatsii v tseljah bezopasnosti?",
+      "Pozhalujsta, ukazhite, schitaete li vy, chto pravitel'stvo dolzhno imet' pravo kontrolirovat' elektronnuju pochtu i informatsiju v Internete."
+    ],
+    "options": [
+      "Opredelenno dolzhen imet' pravo",
+      "Verojatno, dolzhen imet' pravo",
+      "Verojatno, ne dolzhno imet' prava",
+      "Opredelenno ne dolzhno imet' prava"
+    ],
+    "scale": false
+  },
+  "Q198": {
+    "description": "Pravo pravitel'stva tajno sobirat' personal'nuju informatsiju",
+    "questions": [
+      "Kak vy dumaete, dolzhno li ili ne dolzhno pravitel'stvo imet' pravo sobirat' informatsiju o ljubom cheloveke, prozhivajuschem v etoj strane, bez ego vedoma?",
+      "Imejut li organy vlasti pravo tajno sobirat' personal'nye dannye grazhdan?",
+      "Schitaete li vy, chto pravitel'stvu sleduet razreshit' sobirat' informatsiju o ljudjah, ne informiruja ih?",
+      "Pozhalujsta, ukazhite, schitaete li vy, chto pravitel'stvo imeet pravo sobirat' personal'nye dannye bez vedoma grazhdan."
+    ],
+    "options": [
+      "Opredelenno dolzhen imet' pravo",
+      "Verojatno, dolzhen imet' pravo",
+      "Verojatno, ne dolzhno imet' prava",
+      "Opredelenno ne dolzhno imet' prava"
+    ],
+    "scale": false
+  },
+  "Q199": {
+    "description": "Interes k politike",
+    "questions": [
+      "Naskol'ko vy interesuetes' politikoj?",
+      "V kakoj stepeni vas interesuet politika?",
+      "Naskol'ko vy zainteresovany v politike?",
+      "Vy by opisali sebja kak cheloveka, interesujuschegosja politikoj?"
+    ],
+    "options": [
+      "Ochen' interesno",
+      "Neskol'ko interesno",
+      "Ne ochen' interesno",
+      "Sovsem ne interesno"
+    ],
+    "scale": false
+  },
+  "Q200": {
+    "description": "Chastota obsuzhdenija politicheskih voprosov s druz'jami",
+    "questions": [
+      "Kogda vy sobiraetes' s druz'jami, vy obsuzhdaete politicheskie voprosy chasto, inogda ili nikogda?",
+      "Kak chasto vy obsuzhdaete politicheskie voprosy, vstrechajas' s druz'jami?",
+      "Kak vy dumaete, politicheskie temy podnimajutsja chasto, inogda ili nikogda, kogda vy obschaetes' s druz'jami?",
+      "Ukazhite, kak chasto vy i vashi druz'ja obsuzhdaete politicheskie voprosy — chasto, inogda ili nikogda."
+    ],
+    "options": [
+      "Chasto",
+      "Izredka",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q201": {
+    "description": "Chastota poluchenija informatsii iz ezhednevnyh gazet",
+    "questions": [
+      "Kak chasto vy pol'zuetes' ezhednevnymi gazetami dlja poluchenija informatsii o tom, chto proishodit v strane i mire?",
+      "Chitaete li vy ezhednevnye gazety ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda?",
+      "Kak chasto vy chitaete gazety, chtoby byt' v kurse natsional'nyh ili mezhdunarodnyh sobytij?",
+      "Ukazhite, pozhalujsta, kak chasto vy poluchaete novosti iz ezhednevnyh gazet — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe, chem raz v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q202": {
+    "description": "Chastota poluchenija informatsii iz televizionnyh novostej",
+    "questions": [
+      "Kak chasto vy smotrite novosti po televizoru, chtoby uznat' o tom, chto proishodit v vashej strane i mire?",
+      "Vy smotrite televizionnye novosti ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda?",
+      "Kak chasto vy smotrite novostnye programmy po televizoru, chtoby ostavat'sja v kurse sobytij?",
+      "Ukazhite, pozhalujsta, kak chasto vy smotrite televizionnye novosti — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q203": {
+    "description": "Chastota poluchenija informatsii iz radionovostej",
+    "questions": [
+      "Kak chasto vy slushaete radionovosti dlja poluchenija informatsii o sobytijah v strane i mire?",
+      "Vy slushaete radionovosti ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda?",
+      "Kak chasto vy slushaete radioperedachi, chtoby byt' v kurse tekuschih sobytij?",
+      "Ukazhite, pozhalujsta, kak chasto vy poluchaete novosti po radio — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q204": {
+    "description": "Chastota ispol'zovanija mobil'nogo telefona dlja poluchenija novostej i informatsii",
+    "questions": [
+      "Kak chasto vy ispol'zuete svoj mobil'nyj telefon dlja poluchenija novostej ili informatsii o tom, chto proishodit v etoj strane i mire?",
+      "Ispol'zuete li vy mobil'nyj telefon ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda ne ispol'zuete ego dlja poluchenija informatsii?",
+      "Kak chasto vy ispol'zuete svoj mobil'nyj telefon dlja proverki novostej ili tekuschih sobytij?",
+      "Ukazhite, kak chasto vy ispol'zuete svoj mobil'nyj telefon dlja chtenija novostej — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q205": {
+    "description": "Chastota ispol'zovanija elektronnoj pochty dlja poluchenija novostej i informatsii",
+    "questions": [
+      "Kak chasto vy pol'zuetes' elektronnoj pochtoj dlja poluchenija informatsii o tom, chto proishodit v strane i mire?",
+      "Ispol'zuete li vy elektronnuju pochtu ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda dlja poluchenija novostej ili obnovlenij?",
+      "Kak chasto vy proverjaete ili poluchaete novosti ili obnovlenija po elektronnoj pochte?",
+      "Ukazhite, kak chasto vy pol'zuetes' elektronnoj pochtoj dlja poluchenija informatsii — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q206": {
+    "description": "Chastota ispol'zovanija Interneta dlja poluchenija novostej i informatsii",
+    "questions": [
+      "Kak chasto vy pol'zuetes' Internetom dlja poluchenija informatsii o tom, chto proishodit v strane i mire?",
+      "Prosmatrivaete li vy novosti ili informatsiju v Internete ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda?",
+      "Kak chasto vy zahodite v Internet, chtoby proverit' novosti ili pochitat' o tekuschih sobytijah?",
+      "Ukazhite, pozhalujsta, kak chasto vy pol'zuetes' Internetom dlja poluchenija novostej i informatsii — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q207": {
+    "description": "Chastota ispol'zovanija sotsial'nyh setej dlja poluchenija novostej i informatsii",
+    "questions": [
+      "Kak chasto vy ispol'zuete sotsial'nye seti (takie kak Facebook, Twitter i t. d.) dlja poluchenija informatsii o tom, chto proishodit v etoj strane i mire?",
+      "Poluchaete li vy novosti ili obnovlenija cherez sotsial'nye seti ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda?",
+      "Kak chasto vy ispol'zuete sotsial'nye seti, chtoby sledit' za novostjami ili politicheskimi sobytijami?",
+      "Ukazhite, kak chasto vy pol'zuetes' sotsial'nymi setjami dlja poluchenija novostej — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q208": {
+    "description": "Chastota obsuzhdenija novostej s druz'jami ili kollegami",
+    "questions": [
+      "Kak chasto vy obschaetes' s druz'jami ili kollegami, chtoby poluchit' informatsiju o tom, chto proishodit v strane i mire?",
+      "Obsuzhdaete li vy novosti ili tekuschie sobytija s druz'jami ili kollegami ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda?",
+      "Kak chasto vy obmenivaetes' informatsiej o tekuschih sobytijah s druz'jami ili kollegami?",
+      "Ukazhite, kak chasto vy obsuzhdaete novosti s druz'jami ili kollegami — ezhednevno, ezhenedel'no, ezhemesjachno, rezhe raza v mesjats ili nikogda."
+    ],
+    "options": [
+      "Ezhednevno",
+      "Ezhenedel'no",
+      "Ezhemesjachno",
+      "Menee chem ezhemesjachno",
+      "Nikogda"
+    ],
+    "scale": false
+  },
+  "Q209": {
+    "description": "Politicheskoe dejstvie: Podpisanie petitsii",
+    "questions": [
+      "Podpisyvali li vy kogda-nibud' petitsiju politicheskogo dejstvija?",
+      "Rassmatrivaete li vy vozmozhnost' podpisat' politicheskuju petitsiju v buduschem?",
+      "Vy by hoteli podpisat' petitsiju politicheskogo dejstvija?",
+      "Planiruete li vy podpisat' petitsiju politicheskogo dejstvija?"
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q210": {
+    "description": "Politicheskie dejstvija: prisoedinenie k bojkotam",
+    "questions": [
+      "Vy kogda-nibud' uchastvovali v politicheskom bojkote?",
+      "Rassmatrivaete li vy vozmozhnost' uchastija v politicheskom bojkote?",
+      "Vy by byli otkryty dlja uchastija v politicheskom bojkote?",
+      "Vy nikogda ne podumali by o prisoedinenii k politicheskomu bojkotu?"
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q211": {
+    "description": "Politicheskaja dejatel'nost': uchastie v zakonnyh/mirnyh demonstratsijah",
+    "questions": [
+      "Vy kogda-nibud' poseschali zakonnuju/mirnuju demonstratsiju s tsel'ju politicheskogo dejstvija?",
+      "Gotovy li vy poseschat' zakonnye/mirnye demonstratsii v tseljah politicheskoj aktivnosti v buduschem?",
+      "Rassmatrivali by vy vozmozhnost' poseschenija zakonnoj/mirnoj demonstratsii v tseljah politicheskogo dejstvija?",
+      "Javljaetsja li poseschenie zakonnyh/mirnyh demonstratsij v politicheskih tseljah chem-to, chego vy nikogda by ne sdelali?"
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q212": {
+    "description": "Politicheskoe dejstvie: prisoedinenie k neofitsial'nym zabastovkam",
+    "questions": [
+      "Prinimali li vy kogda-libo uchastie v neofitsial'nyh zabastovkah v politicheskih tseljah?",
+      "Otkryty li vy dlja vozmozhnosti prisoedinit'sja k neofitsial'nym zabastovkam v politicheskih tseljah?",
+      "Rassmatrivali by vy vozmozhnost' uchastija v neofitsial'nyh zabastovkah v politicheskih tseljah?",
+      "Vy tverdo uvereny, chto nikogda ne primete uchastija v neofitsial'nyh zabastovkah v politicheskih tseljah?"
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q213": {
+    "description": "Uchastie v pozhertvovanii gruppe ili kampanii",
+    "questions": [
+      "Delali li vy kogda-nibud' pozhertvovanie politicheskoj gruppe ili kampanii? Hoteli by vy eto sdelat' ili nikogda by etogo ne sdelali?",
+      "Skazhite, vy kogda-libo delali pozhertvovanie kakoj-libo gruppe ili kampanii, vozmozhno, sdelaete eto v buduschem ili nikogda etogo ne sdelaete?",
+      "Delali li vy kogda-nibud' finansovyj vznos v pol'zu politicheskoj gruppy ili kampanii? Hoteli by vy eto sdelat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, delali li vy pozhertvovanie, planiruete sdelat' pozhertvovanie ili nikogda ne budete delat' pozhertvovanie v pol'zu kakoj-libo politicheskoj organizatsii ili kampanii."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q214": {
+    "description": "Uchastie v kontakte s gosudarstvennym dolzhnostnym litsom",
+    "questions": [
+      "Obraschalis' li vy kogda-nibud' k pravitel'stvennomu chinovniku po politicheskomu voprosu? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Skazali by vy, chto obraschalis' k gosudarstvennomu sluzhaschemu, vozmozhno, sdelali by eto ili nikogda by etogo ne sdelali?",
+      "Obraschalis' li vy kogda-nibud' k predstavitelju pravitel'stva po politicheskim ili obschestvennym voprosam? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, obraschalis' li vy, planiruete li obratit'sja ili nikogda ne obratites' k gosudarstvennomu dolzhnostnomu litsu, chtoby vyrazit' svoe mnenie ili obespokoennost'."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q215": {
+    "description": "Pooschrenie drugih k dejstvijam po resheniju politicheskih voprosov",
+    "questions": [
+      "Prizyvali li vy kogda-nibud' drugih k dejstviju po politicheskim voprosam? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Skazali by vy, chto pooschrjali drugih k dejstvijam po resheniju politicheskih voprosov, mogli by eto sdelat' ili nikogda by etogo ne sdelali?",
+      "Pytalis' li vy kogda-nibud' ubedit' drugih prinjat' uchastie v reshenii politicheskih voprosov? Smogli by vy eto sdelat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, pooschrjali li vy, mogli by pooschrjat' ili nikogda ne pooschrjali by drugih k uchastiju v politicheskoj dejatel'nosti."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q216": {
+    "description": "Pooschrenie drugih k golosovaniju",
+    "questions": [
+      "Prizyvali li vy kogda-nibud' drugih golosovat'? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Skazhite, prizyvali li vy ljudej golosovat', mogli by vy eto sdelat' ili nikogda by etogo ne sdelali?",
+      "Prizyvali li vy kogda-nibud' drugih golosovat' na vyborah? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, pooschrjali li vy, mogli by pooschrjat' ili nikogda ne pooschrjali by drugih k uchastiju v golosovanii."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q217": {
+    "description": "Onlajn-poisk informatsii o politike i politicheskih sobytijah",
+    "questions": [
+      "Iskali li vy informatsiju o politike i politicheskih sobytijah s pomosch'ju Interneta ili sotsial'nyh setej, takih kak Facebook ili Twitter?",
+      "Schitaete li vy, chto vy eto sdelali, mogli by sdelat' ili nikogda by etogo ne sdelali?",
+      "Ispol'zovali li vy kogda-nibud' Internet ili sotsial'nye seti dlja poiska informatsii o politicheskih voprosah ili sobytijah? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, iskali li vy, planiruete li iskat' ili nikogda ne budete iskat' politicheskuju informatsiju v Internete ili sotsial'nyh setjah."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q218": {
+    "description": "Uchastie v podpisanii elektronnoj petitsii",
+    "questions": [
+      "Podpisyvali li vy kogda-nibud' elektronnuju petitsiju? Sdelali by vy eto ili nikogda by etogo ne sdelali?",
+      "Skazhite, podpisali li vy onlajn-petitsiju, vozmozhno, sdelaete eto ili nikogda ne sdelaete etogo?",
+      "Prinimali li vy kogda-nibud' uchastie v podpisanii petitsii v Internete, smogli by vy eto sdelat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, podpisali li vy, planiruete podpisat' ili nikogda ne podpishete elektronnuju petitsiju."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q219": {
+    "description": "Pooschrenie drugih k politicheskim dejstvijam cherez sotsial'nye seti",
+    "questions": [
+      "Prizyvali li vy drugih ljudej k kakim-libo politicheskim dejstvijam s ispol'zovaniem Interneta ili sotsial'nyh setej?",
+      "Schitaete li vy, chto vy eto sdelali, mogli by sdelat' ili nikogda by etogo ne sdelali?",
+      "Ispol'zovali li vy kogda-nibud' sotsial'nye seti, chtoby pobudit' drugih ljudej k uchastiju v politicheskoj dejatel'nosti? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, pooschrjali li vy, mogli by pooschrjat' ili nikogda ne pooschrjali by drugih k uchastiju v politicheskoj dejatel'nosti v Internete."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q220": {
+    "description": "Organizatsija politicheskih meroprijatij ili protestov v Internete",
+    "questions": [
+      "Vy kogda-nibud' organizovyvali politicheskie meroprijatija, aktsii protesta s ispol'zovaniem Interneta ili sotsial'nyh setej, takih kak Facebook ili Twitter?",
+      "Skazhite, organizovyvali li vy podobnye meroprijatija, mogli by eto sdelat' ili nikogda by etogo ne sdelali?",
+      "Ispol'zovali li vy kogda-nibud' onlajn-platformy dlja organizatsii politicheskogo meroprijatija, kampanii ili protesta? Stali by vy eto delat' ili nikogda by etogo ne sdelali?",
+      "Pozhalujsta, ukazhite, organizovyvali li vy, mogli by organizovat' ili nikogda ne stali by organizovyvat' politicheskuju dejatel'nost' cherez Internet ili sotsial'nye seti."
+    ],
+    "options": [
+      "Sdelali",
+      "Mozhet byt', tak i budet",
+      "Nikogda by etogo ne sdelal."
+    ],
+    "scale": false
+  },
+  "Q221": {
+    "description": "Golosovanie na vyborah: mestnyj uroven'",
+    "questions": [
+      "Kak chasto vy golosuete na vyborah mestnogo urovnja?",
+      "Kakova vasha obychnaja praktika golosovanija na vyborah mestnogo urovnja?",
+      "Golosuete li vy obychno na vyborah mestnogo urovnja ili net?",
+      "Razresheno li vam golosovat' na vyborah mestnogo urovnja?"
+    ],
+    "options": [
+      "Vsegda",
+      "Obychno",
+      "Nikogda",
+      "Ne razresheno golosovat'"
+    ],
+    "scale": false
+  },
+  "Q222": {
+    "description": "Golosovanie na vyborah: natsional'nyj uroven'",
+    "questions": [
+      "Kak chasto vy golosuete na vyborah natsional'nogo urovnja?",
+      "Kakova vasha obychnaja shema golosovanija na vyborah natsional'nogo urovnja?",
+      "Uchastvuete li vy kogda-libo v vyborah na natsional'nom urovne?",
+      "Mozhete li vy golosovat' na vyborah na natsional'nom urovne?"
+    ],
+    "options": [
+      "Vsegda",
+      "Obychno",
+      "Nikogda",
+      "Ne razresheno golosovat'"
+    ],
+    "scale": false
+  },
+  "Q224": {
+    "description": "Kak chasto na vyborah v strane: golosa podschityvajutsja chestno",
+    "questions": [
+      "Kak chasto golosa na vyborah v strane podschityvajutsja spravedlivo?",
+      "Kak chasto na vyborah v strane golosa podschityvajutsja spravedlivo?",
+      "Chasche vsego golosa na vyborah v strane podschityvajutsja spravedlivo ili ne chasto?",
+      "Naskol'ko spravedlivo podschityvajutsja golosa na vyborah v strane?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q225": {
+    "description": "Kak chasto na vyborah v strane: kandidatam ot oppozitsii ne razreshajut ballotirovat'sja",
+    "questions": [
+      "Kak chasto kandidatam ot oppozitsii ne pozvoljajut uchastvovat' v vyborah v strane?",
+      "V kakoj stepeni kandidatam ot oppozitsii meshajut uchastvovat' v vyborah v strane?",
+      "Kak chasto kandidatam ot oppozitsii ne dajut uchastvovat' v vyborah v strane?",
+      "Kak chasto kandidatam ot oppozitsii ne pozvoljajut uchastvovat' v vyborah v strane?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q227": {
+    "description": "Kak chasto na vyborah v strane: izbiratelej podkupajut",
+    "questions": [
+      "Kak chasto v strane proishodit podkup izbiratelej na vyborah?",
+      "Kak chasto izbirateli poluchajut vzjatki na vyborah v strane?",
+      "Kak chasto na vyborah v strane reguljarno proishodit podkup izbiratelej?",
+      "Kak chasto na vyborah v strane izbirateli stalkivajutsja so vzjatochnichestvom?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q228": {
+    "description": "Kak chasto na vyborah v strane: Zhurnalisty obespechivajut spravedlivoe osveschenie vyborov",
+    "questions": [
+      "Kak chasto zhurnalisty ob'ektivno osveschajut vybory v vashej strane?",
+      "Kak chasto zhurnalisty obespechivajut ob'ektivnoe osveschenie vyborov v vashej strane?",
+      "Kak chasto, po vashemu mneniju, zhurnalisty ob'ektivno osveschajut vybory v vashej strane?",
+      "Chasto li zhurnalisty v vashej strane ob'ektivno osveschajut vybory?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q229": {
+    "description": "Kak chasto na vyborah v strane: dolzhnostnye litsa izbiratel'nyh komissij spravedlivy",
+    "questions": [
+      "Kak chasto chleny izbiratel'nyh komissij dejstvujut chestno na vyborah v strane?",
+      "Kak chasto dolzhnostnye litsa izbiratel'nyh komissij projavljajut chestnost' na vyborah v strane?",
+      "V kakoj stepeni dolzhnostnye litsa izbiratel'nyh komissij demonstrirujut chestnost' na vyborah v strane?",
+      "Kak chasto vy schitaete, chto chleny izbiratel'nyh komissij dejstvujut chestno na vyborah v strane?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q230": {
+    "description": "Kak chasto v strane vybory: bogatye ljudi pokupajut vybory",
+    "questions": [
+      "Kak vy dumaete, kak chasto bogatye ljudi pokupajut vybory v vashej strane?",
+      "Kak vy dumaete, kak chasto v vashej strane bogatye ljudi pokupajut vybory?",
+      "V kakoj stepeni, po vashemu mneniju, bogatye ljudi pokupajut vybory v vashej strane?",
+      "Kak chasto vy zamechaete, chto bogatye ljudi pokupajut vybory v vashej strane?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q231": {
+    "description": "Kak chasto na vyborah v strane: izbirateljam ugrozhajut nasiliem na izbiratel'nyh uchastkah",
+    "questions": [
+      "Kak chasto izbirateljam ugrozhajut nasiliem na izbiratel'nyh uchastkah v hode vyborov v strane?",
+      "Kak chasto v hode vyborov v strane izbirateljam ugrozhajut nasiliem na izbiratel'nyh uchastkah?",
+      "Chasto li izbirateli na vyborah v strane stalkivajutsja s ugrozami nasilija na izbiratel'nyh uchastkah?",
+      "V kakoj stepeni izbirateljam obychno ugrozhajut nasiliem na izbiratel'nyh uchastkah vo vremja vyborov v strane?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q232": {
+    "description": "Kak chasto na vyborah v strane: Izbirateljam predostavljaetsja real'nyj vybor na vyborah",
+    "questions": [
+      "Kak chasto izbirateljam predostavljaetsja real'nyj vybor na vyborah v strane?",
+      "Kak chasto izbirateljam predostavljaetsja real'nyj vybor na vyborah v strane?",
+      "Kak chasto izbirateli imejut real'nyj vybor na vyborah v strane?",
+      "V kakoj stepeni izbirateljam predostavljaetsja real'nyj vybor na vyborah v strane?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q233": {
+    "description": "Kak chasto na vyborah v strane: Zhenschiny imejut ravnye vozmozhnosti ballotirovat'sja na vyborah",
+    "questions": [
+      "Kak chasto zhenschiny imejut ravnye vozmozhnosti ballotirovat'sja na vyborah v vashej strane?",
+      "Kak chasto na vyborah v vashej strane zhenschiny imejut ravnye shansy ballotirovat'sja na gosudarstvennye dolzhnosti?",
+      "V kakoj stepeni zhenschiny imejut ravnye vozmozhnosti ballotirovat'sja na vyborah v vashej strane?",
+      "Chasto li zhenschiny imejut ravnye shansy ballotirovat'sja na vyborah v vashej strane?"
+    ],
+    "options": [
+      "Ochen' chasto",
+      "Dovol'no chasto",
+      "Ne chasto",
+      "Sovsem ne chasto"
+    ],
+    "scale": false
+  },
+  "Q234": {
+    "description": "Naskol'ko, po vashemu mneniju, politicheskaja sistema vashej strany pozvoljaet takim ljudjam, kak vy, vlijat' na dejatel'nost' pravitel'stva?",
+    "questions": [
+      "V kakoj stepeni, po vashemu mneniju, politicheskaja sistema vashej strany pozvoljaet takim ljudjam, kak vy, vlijat' na dejatel'nost' pravitel'stva?",
+      "Naskol'ko vazhno dlja vas, chtoby politicheskaja sistema vashej strany pozvoljala takim ljudjam, kak vy, vlijat' na pravitel'stvennye reshenija?",
+      "Po vashemu mneniju, naskol'ko vazhno dlja takih ljudej, kak vy, imet' vozmozhnost' vlijat' na dejstvija pravitel'stva cherez politicheskuju sistemu?",
+      "Kak vy dumaete, v kakoj stepeni politicheskaja sistema vashej strany pozvoljaet takim ljudjam, kak vy, vlijat' na dejstvija pravitel'stva?"
+    ],
+    "options": [
+      "Ochen' vazhno",
+      "Dovol'no vazhno",
+      "Ne ochen' vazhno.",
+      "Sovsem ne vazhno."
+    ],
+    "scale": false
+  },
+  "Q235": {
+    "description": "Politicheskaja sistema: nalichie sil'nogo lidera, kotoromu ne nuzhno bespokoit'sja o parlamente i vyborah.",
+    "questions": [
+      "Kakovo vashe mnenie o politicheskoj sisteme s sil'nym liderom, kotoromu ne nuzhno bespokoit'sja o parlamente i vyborah?",
+      "Kak vy otnosites' k politicheskoj sisteme, v kotoroj sil'nyj lider ne objazan imet' delo s parlamentom i vyborami?",
+      "Chto vy dumaete o politicheskoj sisteme, kotoraja predpolagaet sil'nogo lidera bez kakogo-libo uchastija v parlamente i vyborah?",
+      "Po vashemu mneniju, kak by vy otsenili politicheskuju sistemu s sil'nym liderom, kotoromu ne nuzhno bespokoit'sja o parlamente i vyborah?"
+    ],
+    "options": [
+      "Ochen' horoshij",
+      "Dovol'no horosho",
+      "Dovol'no ploho",
+      "Ochen' ploho"
+    ],
+    "scale": false
+  },
+  "Q236": {
+    "description": "Politicheskaja sistema: eksperty, a ne pravitel'stvo, prinimajut reshenija v sootvetstvii s tem, chto, po ih mneniju, luchshe dlja strany.",
+    "questions": [
+      "Kakovo vashe mnenie o politicheskoj sisteme, v kotoroj eksperty prinimajut reshenija, osnovyvajas' na tom, chto, po ih mneniju, luchshe dlja strany?",
+      "Kakovo vashe mnenie o politicheskoj sisteme, v kotoroj reshenija prinimajutsja ekspertami v sootvetstvii s ih ponimaniem togo, chto luchshe dlja strany?",
+      "Chto vy dumaete o politicheskoj sisteme, kotoraja polagaetsja na ekspertov v prinjatii reshenij, otvechajuschih nailuchshim interesam strany?",
+      "Kak vy otnosites' k politicheskoj sisteme, v kotoroj reshenija prinimajutsja ekspertami, opredeljajuschimi, chto luchshe dlja strany?"
+    ],
+    "options": [
+      "Ochen' horoshij",
+      "Dovol'no horosho",
+      "Dovol'no ploho",
+      "Ochen' ploho"
+    ],
+    "scale": false
+  },
+  "Q237": {
+    "description": "Otsenka voennogo pravlenija kak sposoba upravlenija stranoj",
+    "questions": [
+      "Kak vy dumaete, pravlenie armii — eto ochen' horoshij, dovol'no horoshij, dovol'no plohoj ili ochen' plohoj sposob upravlenija stranoj?",
+      "Kak by vy otsenili voennoe pravlenie kak sistemu gosudarstvennogo upravlenija v vashej strane?",
+      "Kak vy dumaete, peredacha upravlenija stranoj armii — eto horoshij ili plohoj sposob upravlenija?",
+      "Pozhalujsta, ukazhite, schitaete li vy pravlenie armii ochen' horoshim, dovol'no horoshim, dovol'no plohim ili ochen' plohim sposobom upravlenija stranoj."
+    ],
+    "options": [
+      "Ochen' horoshij",
+      "Dovol'no horosho",
+      "Dovol'no ploho",
+      "Ochen' ploho"
+    ],
+    "scale": false
+  },
+  "Q238": {
+    "description": "Politicheskaja sistema: nalichie demokraticheskoj politicheskoj sistemy",
+    "questions": [
+      "Kakovo vashe mnenie o politicheskoj sisteme, predpolagajuschej nalichie demokraticheskoj politicheskoj sistemy?",
+      "Kak by vy otsenili politicheskuju sistemu kak demokraticheskuju?",
+      "Po vashemu mneniju, demokraticheskaja politicheskaja sistema horosha ili ploha?",
+      "Kakova vasha otsenka politicheskoj sistemy kak demokraticheskoj politicheskoj sistemy?"
+    ],
+    "options": [
+      "Ochen' horoshij",
+      "Dovol'no horosho",
+      "Dovol'no ploho",
+      "Ochen' ploho"
+    ],
+    "scale": false
+  },
+  "Q239": {
+    "description": "Politicheskaja sistema: sistema, reguliruemaja religioznym pravom, v kotoroj net politicheskih partij ili vyborov.",
+    "questions": [
+      "Kakovo vashe mnenie o politicheskoj sisteme, upravljaemoj religioznym zakonom, bez politicheskih partij i vyborov?",
+      "Kak by vy otsenili sistemu, v kotoroj dejstvuet religioznyj zakon bez kakih-libo politicheskih partij ili vyborov?",
+      "Naskol'ko, po Vashemu mneniju, horosha ili ploha politicheskaja sistema, kotoraja reguliruetsja religioznym zakonom bez kakih-libo politicheskih partij ili vyborov?",
+      "Kakovo vashe predstavlenie o sisteme, upravljaemoj iskljuchitel'no religioznym zakonom, bez politicheskih partij i vyborov?"
+    ],
+    "options": [
+      "Ochen' horoshij",
+      "Dovol'no horosho",
+      "Dovol'no ploho",
+      "Ochen' ploho"
+    ],
+    "scale": false
+  },
+  "Q240": {
+    "description": "Samopozitsija v politicheskom spektre levyh i pravyh",
+    "questions": [
+      "V politicheskih voprosah ljudi govorjat o «levyh» i «pravyh». Kak by vy otsenili svoi vzgljady po shkale ot 1 (levye) do 10 (pravye)?",
+      "Gde by vy raspolozhili svoi politicheskie vzgljady po shkale ot 1 (sleva) do 10 (sprava)?",
+      "Po shkale ot 1 do 10, gde 1 oznachaet «levyj», a 10 oznachaet «pravyj», gde vy vidite sebja v politicheskom plane?",
+      "Kak by vy opisali svoi politicheskie vzgljady po shkale ot levogo (1) do pravogo (10)?"
+    ],
+    "options": [
+      "Levyj",
+      "Verno"
+    ],
+    "scale": true
+  },
+  "Q241": {
+    "description": "Demokratija: pravitel'stva oblagajut nalogami bogatyh i subsidirujut bednyh",
+    "questions": [
+      "V kakoj stepeni vy schitaete, chto nalogooblozhenie bogatyh i subsidirovanie bednyh javljajutsja neot'emlemoj harakteristikoj demokratii?",
+      "Po shkale ot 1 do 10, naskol'ko vazhno, po vashemu mneniju, dlja demokratij oblagat' nalogami bogatyh i predostavljat' subsidii bednym?",
+      "Naskol'ko vy soglasny ili ne soglasny s utverzhdeniem, chto demokratii dolzhny oblagat' nalogami bogatyh i subsidirovat' bednyh? Otsenite svoj otvet po shkale ot 1 do 10.",
+      "Otsenite po shkale ot 1 do 10, v kakoj stepeni vy schitaete, chto nalogooblozhenie bogatyh i subsidirovanie bednyh javljajutsja osnovopolagajuschim aspektom demokratii."
+    ],
+    "options": [
+      "Ne javljaetsja suschestvennoj harakteristikoj demokratii",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q242": {
+    "description": "Demokratija: religioznye vlasti tolkujut zakony",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko, po vashemu mneniju, dlja demokratii vazhno, chtoby religioznye vlasti tolkovali zakony?",
+      "Otsenite po shkale ot 1 do 10, v kakoj stepeni, po vashemu mneniju, demokratija trebuet ot religioznyh vlastej tolkovanija zakonov.",
+      "V kakoj stepeni, po vashemu mneniju, dlja demokratii neobhodimo, chtoby religioznye vlasti imeli pravo tolkovat' zakony? Otsenite po shkale ot 1 do 10.",
+      "Naskol'ko, po vashemu mneniju, vazhno dlja demokratii, chtoby religioznye avtoritety tolkovali zakony? Pozhalujsta, otsenite svoe mnenie po shkale ot 1 do 10."
+    ],
+    "options": [
+      "Ne javljaetsja suschestvennoj harakteristikoj demokratii",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q243": {
+    "description": "Vosprinimaemaja vazhnost' svobodnyh vyborov kak harakteristiki demokratii",
+    "questions": [
+      "Naskol'ko, po vashemu mneniju, vazhno dlja demokratii, chtoby ljudi vybirali svoih liderov na svobodnyh vyborah po shkale ot 1 do 10?",
+      "Po shkale ot 1 do 10, gde 1 oznachaet «sovsem nesuschestvenno», a 10 oznachaet «opredelenno suschestvenno», naskol'ko vazhny svobodnye vybory dlja demokratii?",
+      "V kakoj stepeni vy schitaete svobodnye vybory neot'emlemoj harakteristikoj demokratii po shkale ot 1 do 10?",
+      "Otsenite po shkale ot 1 do 10, naskol'ko vazhny svobodnye vybory kak opredeljajuschaja cherta demokratii."
+    ],
+    "options": [
+      "Vovse ne javljaetsja suschestvennoj harakteristikoj demokratii.",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q244": {
+    "description": "Demokratija: ljudi poluchajut gosudarstvennuju pomosch' po bezrabotitse",
+    "questions": [
+      "Demokratija: Poluchajut li ljudi gosudarstvennuju pomosch' po bezrabotitse?",
+      "V kakoj stepeni vy schitaete, chto poluchenie gosudarstvennoj pomoschi po bezrabotitse javljaetsja neot'emlemoj harakteristikoj demokratii? (Otsenite po shkale ot 1 do 10)",
+      "Po shkale ot 1 do 10, naskol'ko vazhnym vy schitaete predostavlenie gosudarstvennoj pomoschi po bezrabotitse v demokraticheskom obschestve?",
+      "V kakoj stepeni, po vashemu mneniju, predostavlenie gosudarstvennoj pomoschi po bezrabotitse sposobstvuet formirovaniju osnovnyh harakteristik demokratii? (Otsenite po shkale ot 1 do 10)"
+    ],
+    "options": [
+      "Ne javljaetsja suschestvennoj harakteristikoj demokratii",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q245": {
+    "description": "Vosprinimaemaja vazhnost' vmeshatel'stva armii v situatsii nekompetentnosti pravitel'stva kak harakteristiki demokratii",
+    "questions": [
+      "Naskol'ko, po vashemu mneniju, vazhno dlja demokratii, chtoby armija vzjala na sebja upravlenie stranoj v sluchae nekompetentnosti pravitel'stva po shkale ot 1 do 10?",
+      "Po shkale ot 1 do 10 otsenite, naskol'ko, po vashemu mneniju, vmeshatel'stvo armii v rabotu pravitel'stva javljaetsja vazhnejshej harakteristikoj demokratii.",
+      "V kakoj stepeni, po vashemu mneniju, prinjatie armiej vlasti v sluchae nesostojatel'nosti pravitel'stva sootvetstvuet printsipam demokratii po shkale ot 1 do 10?",
+      "Pozhalujsta, otsenite po shkale ot 1 do 10, naskol'ko, po vashemu mneniju, vazhno dlja demokratii, chtoby armija zamenila nekompetentnoe pravitel'stvo."
+    ],
+    "options": [
+      "Vovse ne javljaetsja suschestvennoj harakteristikoj demokratii.",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q246": {
+    "description": "Vosprinimaemaja vazhnost' grazhdanskih prav, zaschischajuschih ljudej ot gosudarstvennogo ugnetenija, kak harakteristika demokratii",
+    "questions": [
+      "Naskol'ko, po vashemu mneniju, vazhno dlja demokratii, chtoby grazhdanskie prava zaschischali ljudej ot gosudarstvennogo ugnetenija po shkale ot 1 do 10?",
+      "Po shkale ot 1 do 10, gde 1 oznachaet «sovsem ne suschestvenno», a 10 oznachaet «bezuslovno suschestvenno», naskol'ko vazhna zaschita grazhdanskih prav dlja demokratii?",
+      "V kakoj stepeni, po vashemu mneniju, grazhdanskie prava, zaschischajuschie ljudej ot gosudarstvennogo pritesnenija, javljajutsja neot'emlemoj harakteristikoj demokratii po shkale ot 1 do 10?",
+      "Pozhalujsta, otsenite po shkale ot 1 do 10, naskol'ko, po vashemu mneniju, grazhdanskie prava vazhny dlja demokratii."
+    ],
+    "options": [
+      "Vovse ne javljaetsja suschestvennoj harakteristikoj demokratii.",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q247": {
+    "description": "Demokratija: gosudarstvo vyravnivaet dohody ljudej",
+    "questions": [
+      "Demokratija: gosudarstvo, uravnivajuschee dohody ljudej",
+      "Demokratija: igraet li gosudarstvo rol' v obespechenii ravnyh dohodov ljudej?",
+      "V kakoj stepeni, po vashemu mneniju, demokratija podrazumevaet, chto gosudarstvo uravnivaet dohody ljudej?",
+      "Po shkale ot 1 do 10, naskol'ko, po vashemu mneniju, vazhno, chtoby demokratija vkljuchala v sebja gosudarstvo, uravnivajuschee dohody ljudej?"
+    ],
+    "options": [
+      "Ne javljaetsja suschestvennoj harakteristikoj demokratii",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q248": {
+    "description": "Demokratija: ljudi podchinjajutsja svoim praviteljam",
+    "questions": [
+      "Demokratija: Podchinenie ljudej svoim praviteljam ne javljaetsja neot'emlemoj harakteristikoj demokratii. (Otsenite po shkale ot 1 do 10)",
+      "V kakoj stepeni vy schitaete podchinenie ljudej svoim praviteljam neot'emlemoj harakteristikoj demokratii? (Otsenite po shkale ot 1 do 10)",
+      "Po vashemu mneniju, naskol'ko vazhno dlja demokratii, chtoby ljudi podchinjalis' svoim praviteljam? (Otsenite po shkale ot 1 do 10)",
+      "Naskol'ko vy soglasny s tem, chto podchinenie ljudej svoim praviteljam javljaetsja osnovopolagajuschim aspektom demokratii? (Otsenite po shkale ot 1 do 10)"
+    ],
+    "options": [
+      "Ne javljaetsja suschestvennoj harakteristikoj demokratii",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q249": {
+    "description": "Vosprinimaemaja vazhnost' gendernogo ravenstva kak harakteristiki demokratii",
+    "questions": [
+      "Naskol'ko, po vashemu mneniju, vazhno dlja demokratii, chtoby zhenschiny imeli te zhe prava, chto i muzhchiny, po shkale ot 1 do 10?",
+      "Po shkale ot 1 do 10, naskol'ko vazhnym vy schitaete gendernoe ravenstvo dlja demokratii?",
+      "V kakoj stepeni po shkale ot 1 do 10 vy schitaete ravnye prava zhenschin i muzhchin neot'emlemoj chertoj demokratii?",
+      "Pozhalujsta, otsenite po shkale ot 1 do 10, naskol'ko vazhno gendernoe ravenstvo dlja demokraticheskoj sistemy."
+    ],
+    "options": [
+      "Vovse ne javljaetsja suschestvennoj harakteristikoj demokratii.",
+      "Neot'emlemaja harakteristika demokratii"
+    ],
+    "scale": true
+  },
+  "Q250": {
+    "description": "Vazhnost' demokratii",
+    "questions": [
+      "Po shkale ot 1 do 10, naskol'ko vazhnoj vy schitaete demokratiju?",
+      "Kak by vy otsenili vazhnost' demokratii po shkale ot 1 do 10?",
+      "Naskol'ko, po vashemu mneniju, vazhna demokratija? Otsenite po shkale ot 1 do 10.",
+      "Pozhalujsta, ukazhite uroven' vazhnosti, kotoryj vy pridaete demokratii, po shkale ot 1 do 10."
+    ],
+    "options": [
+      "Sovsem ne vazhno.",
+      "Absoljutno vazhno"
+    ],
+    "scale": true
+  },
+  "Q251": {
+    "description": "Naskol'ko demokratichno segodnja upravljaetsja eta strana?",
+    "questions": [
+      "Naskol'ko demokratichno, po vashemu mneniju, segodnja upravljaetsja eta strana? (Po shkale ot 1 do 10)",
+      "Po shkale ot 1 do 10, naskol'ko, po vashemu mneniju, demokratichno pravitel'stvo etoj strany segodnja?",
+      "Naskol'ko, po vashemu mneniju, v etoj strane demokraticheskoe upravlenie? Otsenite po shkale ot 1 do 10.",
+      "Kak by vy otsenili tekuschij uroven' demokratii v etoj strane po shkale ot 1 do 10?"
+    ],
+    "options": [
+      "Sovsem ne demokratichno",
+      "Polnost'ju demokraticheskij"
+    ],
+    "scale": true
+  },
+  "Q252": {
+    "description": "Udovletvorennost' funktsionirovaniem politicheskoj sistemy",
+    "questions": [
+      "Po shkale ot 1 do 10 otsenite, naskol'ko vy udovletvoreny tem, kak funktsioniruet politicheskaja sistema vashej strany segodnja?",
+      "Naskol'ko vy udovletvoreny tekuschim funktsionirovaniem politicheskoj sistemy vashej strany? Otsenite po shkale ot 1 (sovsem ne udovletvoren) do 10 (polnost'ju udovletvoren).",
+      "V tselom, kak by vy otsenili svoju udovletvorennost' funktsionirovaniem politicheskoj sistemy vashej strany po shkale ot 1 do 10?",
+      "Pozhalujsta, otsenite po shkale ot 1 (sovsem ne udovletvoren) do 10 (polnost'ju udovletvoren), naskol'ko vy udovletvoreny tem, kak segodnja funktsioniruet politicheskaja sistema v vashej strane."
+    ],
+    "options": [
+      "Sovsem ne udovletvoren",
+      "Polnost'ju udovletvoren"
+    ],
+    "scale": true
+  },
+  "Q253": {
+    "description": "Uvazhenie k individual'nym pravam cheloveka v nashi dni",
+    "questions": [
+      "Kak by vy opisali uroven' uvazhenija k individual'nym pravam cheloveka v nastojaschee vremja?",
+      "V kakoj stepeni, po vashemu mneniju, v sovremennom obschestve sobljudajutsja individual'nye prava cheloveka?",
+      "Po vashemu mneniju, naskol'ko segodnja uvazhajutsja individual'nye prava cheloveka?",
+      "Esli govorit' ob individual'nyh pravah cheloveka, kak by vy otsenili uroven' ih sobljudenija v nastojaschee vremja?"
+    ],
+    "options": [
+      "Bol'shoe uvazhenie k individual'nym pravam cheloveka",
+      "Dovol'no bol'shoe uvazhenie",
+      "Ne znaju",
+      "Ne ochen'-to uvazhaju.",
+      "Nikakogo uvazhenija voobsche."
+    ],
+    "scale": false
+  },
+  "Q254": {
+    "description": "Natsional'naja gordost'",
+    "questions": [
+      "Naskol'ko vy gordites' svoej natsional'nost'ju?",
+      "Po shkale ot 1 do 4, naskol'ko vy gordites' svoej natsional'nost'ju?",
+      "Esli govorit' o natsional'noj gordosti, vy by schitali sebja skoree chelovekom, kotoryj ochen' gorditsja, ili chelovekom, kotoryj sovsem ne gorditsja?",
+      "Kak by vy opisali uroven' svoej natsional'noj gordosti: ves'ma gordyj, ne ochen' gordyj ili chto-to srednee?"
+    ],
+    "options": [
+      "Ochen' gorzhus'",
+      "Ochen' gorzhus'",
+      "Ne ochen' gorzhus'.",
+      "Sovsem ne gorzhus'"
+    ],
+    "scale": false
+  }
+}
