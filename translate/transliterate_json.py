@@ -3,13 +3,12 @@ import json
 from tqdm import tqdm
 from indic_transliteration import sanscript
 from indic_transliteration.sanscript import transliterate
-from transliterate import translit
-# from camel_tools.transliteration import Transliterator
+from arabic2latin import arabic_to_latin
 import pykakasi
 
 INPUT_DIRECTORY = "data/translated_questions"
 OUTPUT_DIRECTORY = "data/translated_questions"
-LANGUAGES = ["hi", 'bn', "te", "pa", "mr", "ja", "sp", "ar"]
+LANGUAGES = ["ar"]
 
 MAPPING = {
     "en": sanscript.ITRANS,
@@ -21,7 +20,6 @@ MAPPING = {
 }
 
 kks = pykakasi.kakasi()
-# tr = Transliterator('ar2en')
 
 def count_strings(obj):
     """Count total number of strings in JSON-like object"""
@@ -45,8 +43,8 @@ def translate_json(obj, target_lang, pbar=None):
             pbar.update(1)
         if target_lang in MAPPING.keys():
             response = transliterate(obj, MAPPING.get(target_lang), sanscript.ITRANS)
-        # elif target_lang == "ar":
-        #     response = tr.transliterate(obj)
+        elif target_lang == "ar":
+            response = arabic_to_latin(obj)
         elif target_lang == "ja":
             result = kks.convert(obj)
             response = " ".join([item['hepburn'] for item in result])
