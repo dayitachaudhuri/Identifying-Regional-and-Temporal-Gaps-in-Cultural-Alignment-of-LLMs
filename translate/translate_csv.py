@@ -4,22 +4,29 @@ import pandas as pd
 from tqdm import tqdm
 
 # === CONFIG ===
-INPUT_DIRECTORY = "data/colombia/2012"
-INPUT_FILE_NAME = "2012_colombia_majority_answers_by_persona_en"
+country = "russia"
+year = "2006"
+INPUT_DIRECTORY = f"data/{country}/{year}"
+INPUT_FILE_NAME = f"{year}_{country}_majority_answers_by_persona"
 OUTPUT_DIRECTORY = "data/translated_data"
-LANG_CODES = ["es"]
+LANG_CODES = ["ru"]  # Russian
+transliterate = True
 
 # === SETUP ===
 os.makedirs(OUTPUT_DIRECTORY, exist_ok=True)
 
-with open("data/translated_questions/questions_en.json", "r", encoding="utf-8") as f:
+with open(f"data/translated_questions/questions_en.json", "r", encoding="utf-8") as f:
     questions_en = json.load(f)
     
 for LANG_CODE in LANG_CODES:
-    with open(f"data/translated_questions/questions_{LANG_CODE}.json", "r", encoding="utf-8") as f:
-        questions_bn = json.load(f)
+    if transliterate:
+        with open(f"data/translated_questions/questions_{LANG_CODE}_transliterated.json", "r", encoding="utf-8") as f:
+            questions_bn = json.load(f)
+    else:
+        with open(f"data/translated_questions/questions_{LANG_CODE}.json", "r", encoding="utf-8") as f:
+            questions_bn = json.load(f)
 
-    input_path = os.path.join(INPUT_DIRECTORY, f"{INPUT_FILE_NAME}.csv")
+    input_path = os.path.join(INPUT_DIRECTORY, f"{INPUT_FILE_NAME}_en.csv")
     df = pd.read_csv(input_path)
 
     # Identify columns that correspond to questions
@@ -56,6 +63,9 @@ for LANG_CODE in LANG_CODES:
         df[col] = df[col].apply(lambda x: translate_answer(qcode, x))
 
     # Save translated output
-    output_path = os.path.join(OUTPUT_DIRECTORY, f"{INPUT_FILE_NAME}_{LANG_CODE}.csv")
+    if transliterate:
+        output_path = os.path.join(OUTPUT_DIRECTORY, f"{INPUT_FILE_NAME}_{LANG_CODE}_transliterated.csv")
+    else:
+        output_path = os.path.join(OUTPUT_DIRECTORY, f"{INPUT_FILE_NAME}_{LANG_CODE}.csv")
     df.to_csv(output_path, index=False, encoding="utf-8-sig")
     print(f"Saved {LANG_CODE} CSV: {output_path}")
