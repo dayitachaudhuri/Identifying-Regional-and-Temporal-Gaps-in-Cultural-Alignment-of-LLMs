@@ -1,3 +1,6 @@
+# © 2025 Dayita Chaudhuri and Velagapudi Athul
+# All rights reserved. Joint work.
+
 import os
 from dotenv import load_dotenv
 import requests

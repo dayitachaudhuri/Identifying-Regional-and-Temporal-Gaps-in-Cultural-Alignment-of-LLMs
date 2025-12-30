@@ -1,3 +1,6 @@
+# © 2025 Dayita Chaudhuri and Velagapudi Athul
+# All rights reserved. Joint work.
+
 """
 Demographic mapping configurations for WVS data processing.
 

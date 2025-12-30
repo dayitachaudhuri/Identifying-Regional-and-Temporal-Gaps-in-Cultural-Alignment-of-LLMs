@@ -1,3 +1,6 @@
+# © 2025 Dayita Chaudhuri and Velagapudi Athul
+# All rights reserved. Joint work.
+
 import pandas as pd
 from scipy.spatial.distance import jensenshannon
 
