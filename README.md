@@ -1,4 +1,4 @@
-# Cultural Alignment of LLMs with World Values Survey Data
+# Identifying Regional and Temporal Gaps in Cultural Alignment of LLMs
 
 A research project investigating how well Large Language Models (LLMs) align with cultural values across different countries, languages, and demographic groups using the World Values Survey (WVS) dataset.
 
