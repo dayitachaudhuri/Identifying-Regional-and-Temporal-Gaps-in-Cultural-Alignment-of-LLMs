@@ -216,14 +216,14 @@ def find_responses(df, tokenizer, model, chosen_cols):
         debug.append(raw_results)
 
     results_df = pd.DataFrame(results)
-    results_df.to_csv(f"aya_responses/survey_answers_allstates_{country_name}_{language_code}.csv", index=False)
+    results_df.to_csv(f"responses/aya_responses/survey_answers_allstates_{country_name}_{language_code}.csv", index=False)
 
 
 # ==============================
 # AGGREGATE MAJORITY ANSWERS
 # ==============================
 def get_most_frequent_answers():
-    df = pd.read_csv(f"aya_responses/survey_answers_allstates_{country_name}_{language_code}.csv")
+    df = pd.read_csv(f"responses/aya_responses/survey_answers_allstates_{country_name}_{language_code}.csv")
     question_cols = [col for col in df.columns if ' - ' in col and col.split(' - ')[0].startswith('Q')]
     question_prefixes = sorted(set(col.split(' - ')[0] for col in question_cols))
 
@@ -232,7 +232,7 @@ def get_most_frequent_answers():
         df[q] = df[q_cols].apply(lambda row: row.mode().iloc[0] if not row.mode().empty else None, axis=1)
         df.drop(columns=q_cols, inplace=True)
         
-    df.to_csv(f"aya_responses/most_frequent_answers_allstates_{country_name}_{language_code}.csv", index=False)
+    df.to_csv(f"responses/aya_responses/most_frequent_answers_allstates_{country_name}_{language_code}.csv", index=False)
 
 
 # ==============================

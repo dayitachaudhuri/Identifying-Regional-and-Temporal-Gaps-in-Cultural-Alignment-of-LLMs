@@ -24,7 +24,7 @@ LANGUAGE_CODE = 'en'
 YEAR = '2022'
 # Files
 PERSONA_FILE = f"data/{COUNTRY_NAME}/{YEAR}/{YEAR}_{COUNTRY_NAME}_persona_groups_cleaned_{LANGUAGE_CODE}.csv"
-EXISTING_CSV = f"llama_responses/survey_answers_allstates_{COUNTRY_NAME}_{LANGUAGE_CODE}.csv"
+EXISTING_CSV = f"responses/llama_responses/survey_answers_allstates_{COUNTRY_NAME}_{LANGUAGE_CODE}.csv"
 CHOOSEN_COLS_FILE = "data/chosen_cols_updated.json"
 QUESTIONS_FILE = f"data/translated_questions/questions_{LANGUAGE_CODE}.json"
 

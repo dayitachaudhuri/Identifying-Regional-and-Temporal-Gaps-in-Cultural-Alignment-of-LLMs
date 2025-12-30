@@ -255,9 +255,9 @@ def find_responses(df, tokenizer, model, chosen_cols):
 
     results_df = pd.DataFrame(results)
     if mode == 'state':
-        results_df.to_csv(f"llama_responses/survey_answers_{state}_{language_code}.csv", index=False)
+        results_df.to_csv(f"responses/llama_responses/survey_answers_{state}_{language_code}.csv", index=False)
     else:
-        results_df.to_csv(f"llama_responses/survey_answers_allstates_{country_name}_{language_code}.csv", index=False)
+        results_df.to_csv(f"responses/llama_responses/survey_answers_allstates_{country_name}_{language_code}.csv", index=False)
 
 
 # ==============================
@@ -265,9 +265,9 @@ def find_responses(df, tokenizer, model, chosen_cols):
 # ==============================
 def get_most_frequent_answers():
     if mode == 'state':
-        df = pd.read_csv(f"llama_responses/survey_answers_{state}_{language_code}.csv")
+        df = pd.read_csv(f"responses/llama_responses/survey_answers_{state}_{language_code}.csv")
     else:
-        df = pd.read_csv(f"llama_responses/survey_answers_allstates_{country_name}_{language_code}.csv")
+        df = pd.read_csv(f"responses/llama_responses/survey_answers_allstates_{country_name}_{language_code}.csv")
     question_cols = [col for col in df.columns if ' - ' in col and col.split(' - ')[0].startswith('Q')]
     question_prefixes = sorted(set(col.split(' - ')[0] for col in question_cols))
 
@@ -277,9 +277,9 @@ def get_most_frequent_answers():
         df.drop(columns=q_cols, inplace=True)
         
     if mode == 'state':
-        df.to_csv(f"llama_responses/most_frequent_answers_{state}_{language_code}.csv", index=False)
+        df.to_csv(f"responses/llama_responses/most_frequent_answers_{state}_{language_code}.csv", index=False)
     else:
-        df.to_csv(f"llama_responses/most_frequent_answers_allstates_{country_name}_{language_code}.csv", index=False)
+        df.to_csv(f"responses/llama_responses/most_frequent_answers_allstates_{country_name}_{language_code}.csv", index=False)
 
 
 # ==============================
