@@ -3,4 +3,5 @@ env
 .DS_Store
 plots*
 temp*
+DS_307*
 __pycache__
